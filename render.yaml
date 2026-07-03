@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: bafurni-homepage
+    runtime: static
+    buildCommand: echo static
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false

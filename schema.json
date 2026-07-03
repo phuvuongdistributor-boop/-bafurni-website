@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "BA_Furniture",
+  "alternateName": "BA_Furni",
+  "url": "https://bafurni.com/",
+  "logo": "https://bafurni.com/assets/favicon.svg",
+  "image": "https://bafurni.com/assets/og-ba-furniture.svg",
+  "telephone": "+84929878666",
+  "description": "BA_Furniture cung cấp nội thất văn phòng, trường học, công trình và giải pháp sản xuất theo yêu cầu.",
+  "areaServed": ["Nam Định", "Hà Nam", "Ninh Bình", "Hưng Yên", "Thái Bình", "Việt Nam"],
+  "sameAs": ["https://portal.bafurni.com"],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+84929878666",
+    "contactType": "sales",
+    "areaServed": "VN",
+    "availableLanguage": "vi"
+  }
+}
