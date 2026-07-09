@@ -9,7 +9,6 @@
       content="BA_Furniture cung cấp nội thất văn phòng, trường học và dự án tại Nam Định, Hà Nam, Ninh Bình, Hưng Yên, Thái Bình. Xem hơn 3.300 sản phẩm, nhận tư vấn và báo giá nhanh qua hotline 0929.878.666."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
-    <meta name="theme-color" content="#0e5f56" />
     <link rel="canonical" href="https://bafurni.com/" />
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
     <link rel="preload" href="style.css" as="style" />
@@ -61,61 +60,67 @@
     </div>
 
     <header class="site-header">
-      <a class="brand" href="#home" aria-label="BA_Furniture trang chủ">
-        <span class="brand-mark">BA</span>
-        <span>
-          <strong>BA_Furniture</strong>
-          <small>Nội thất doanh nghiệp, trường học và dự án</small>
-        </span>
-      </a>
+      <div class="site-header__container">
+        <a class="site-header__logo brand" href="#home" aria-label="BA_Furniture trang chủ">
+          <span class="site-header__logo-mark brand-mark">BA</span>
+          <span class="site-header__logo-text">
+            <strong>BA_Furniture</strong>
+            <small>Nội thất doanh nghiệp, trường học và dự án</small>
+          </span>
+        </a>
 
-      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Mở menu">
-        <span></span><span></span><span></span>
-      </button>
+        <button class="site-header__toggle nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Mở menu">
+          <span></span><span></span><span></span>
+        </button>
 
-      <nav id="main-nav" class="main-nav" aria-label="Menu chính">
-        <a href="#products">Sản phẩm</a>
-        <a href="#solutions">Giải pháp</a>
-        <a href="#promise">Cam kết</a>
-        <a href="#service-area">Khu vực</a>
-        <a href="#contact">Liên hệ</a>
-        <a class="nav-portal" href="https://portal.bafurni.com" target="_blank" rel="noopener">Portal</a>
-      </nav>
+        <nav id="main-nav" class="site-header__nav main-nav" aria-label="Menu chính">
+          <a href="#products">Sản phẩm</a>
+          <a href="#solutions">Giải pháp</a>
+          <a href="#promise">Cam kết</a>
+          <a href="#service-area">Khu vực</a>
+          <a href="#contact">Liên hệ</a>
+          <a class="site-header__portal-link nav-portal" href="https://portal.bafurni.com" target="_blank" rel="noopener">Portal</a>
+        </nav>
 
-      <a class="header-cta" href="tel:0929878666">0929.878.666</a>
+        <div class="site-header__actions">
+          <a class="site-header__cta header-cta" href="tel:0929878666">0929.878.666</a>
+        </div>
+      </div>
     </header>
 
     <main id="main">
       <section id="home" class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">BA_Furniture • tư vấn nhanh • báo giá rõ</p>
-          <h1>Giải pháp nội thất cho văn phòng, trường học, nhà máy và dự án.</h1>
-          <p>
-            Ở đâu có khách hàng, ở đó có BA_Furniture. Chúng tôi cung cấp sản phẩm tiêu chuẩn,
-            sản xuất theo kích thước riêng và tư vấn phương án phù hợp với mặt bằng, ngân sách, tiến độ.
-          </p>
-          <div class="hero-actions">
-            <a class="btn btn-primary" href="https://portal.bafurni.com" target="_blank" rel="noopener">Xem hơn 3.300 sản phẩm</a>
-            <a class="btn btn-secondary" href="#contact">Nhận báo giá</a>
-            <a class="btn btn-light" href="tel:0929878666">Gọi hotline</a>
-            <a class="btn btn-zalo" href="#" aria-label="Chat Zalo BA_Furniture placeholder">Chat Zalo</a>
+        <div class="hero__container">
+          <div class="hero__content hero-copy">
+            <p class="hero__eyebrow eyebrow">BA_Furniture • tư vấn nhanh • báo giá rõ</p>
+            <h1 class="hero__title">Giải pháp nội thất cho văn phòng, trường học, nhà máy và dự án.</h1>
+            <p class="hero__description">
+              Ở đâu có khách hàng, ở đó có BA_Furniture. Chúng tôi cung cấp sản phẩm tiêu chuẩn,
+              sản xuất theo kích thước riêng và tư vấn phương án phù hợp với mặt bằng, ngân sách, tiến độ.
+            </p>
+            <div class="hero__actions hero-actions">
+              <a class="btn btn-primary" href="https://portal.bafurni.com" target="_blank" rel="noopener">Xem hơn 3.300 sản phẩm</a>
+              <a class="btn btn-secondary" href="#contact">Nhận báo giá</a>
+              <a class="btn btn-light" href="tel:0929878666">Gọi hotline</a>
+              <a class="btn btn-zalo" href="#" aria-label="Chat Zalo BA_Furniture placeholder">Chat Zalo</a>
+            </div>
+            <div class="trust-row" aria-label="Năng lực chính">
+              <span><strong>3.300+</strong> sản phẩm trên Portal</span>
+              <span><strong>10</strong> nhóm danh mục chính</span>
+              <span><strong>5</strong> tỉnh phục vụ trọng điểm</span>
+            </div>
           </div>
-          <div class="trust-row" aria-label="Năng lực chính">
-            <span><strong>3.300+</strong> sản phẩm trên Portal</span>
-            <span><strong>10</strong> nhóm danh mục chính</span>
-            <span><strong>5</strong> tỉnh phục vụ trọng điểm</span>
-          </div>
-        </div>
 
-        <div class="hero-showcase" aria-label="Sản phẩm nội thất BA_Furniture">
-          <img class="showcase-main" src="assets/products/meeting-table.jpg" alt="Bàn họp văn phòng BA_Furniture" />
-          <div class="showcase-card card-top">
-            <img src="assets/products/steel-cabinet.jpg" alt="Tủ sắt văn phòng BA_Furniture" />
-            <span>Tủ sắt & lưu trữ</span>
-          </div>
-          <div class="showcase-card card-bottom">
-            <img src="assets/products/locker.jpg" alt="Tủ locker BA_Furniture" />
-            <span>Locker dự án</span>
+          <div class="hero__media hero-showcase" aria-label="Sản phẩm nội thất BA_Furniture">
+            <img class="showcase-main" src="assets/products/meeting-table.jpg" alt="Bàn họp văn phòng BA_Furniture" />
+            <div class="showcase-card card-top">
+              <img src="assets/products/steel-cabinet.jpg" alt="Tủ sắt văn phòng BA_Furniture" />
+              <span>Tủ sắt & lưu trữ</span>
+            </div>
+            <div class="showcase-card card-bottom">
+              <img src="assets/products/locker.jpg" alt="Tủ locker BA_Furniture" />
+              <span>Locker dự án</span>
+            </div>
           </div>
         </div>
       </section>
@@ -132,7 +137,7 @@
             <span>Bàn làm việc</span>
             <small>Bàn nhân viên, bàn cụm, bàn quản lý, bàn theo mặt bằng.</small>
           </a>
-          <a class="category-card" href="https://portal.bafurni.com" target="_blank" rel="noopener"><span>Ghế văn phòng</span><small>Ghế xoay, ghế họp, ghế chờ, ghế lãnh đạo.</small></a>
+          <a class="category-card" href="category.html"><span>Ghế văn phòng</span><small>Ghế xoay, ghế họp, ghế chờ, ghế lãnh đạo.</small></a>
           <a class="category-card" href="https://portal.bafurni.com" target="_blank" rel="noopener"><span>Tủ văn phòng</span><small>Tủ hồ sơ, tủ tài liệu, hộc di động.</small></a>
           <a class="category-card category-feature" href="https://portal.bafurni.com" target="_blank" rel="noopener">
             <img src="assets/products/locker.jpg" alt="Tủ locker BA_Furniture" />
@@ -149,6 +154,248 @@
           </a>
           <a class="category-card" href="https://portal.bafurni.com" target="_blank" rel="noopener"><span>Nội thất công trình</span><small>Hạng mục theo hồ sơ, bản vẽ và tiến độ.</small></a>
           <a class="category-card" href="https://portal.bafurni.com" target="_blank" rel="noopener"><span>Bàn ghế ăn công nghiệp</span><small>Canteen, nhà máy, trường học, bếp tập thể.</small></a>
+        </div>
+      </section>
+
+      <section id="category-library" class="section category-visual-section" aria-labelledby="category-visual-title" data-category-home>
+        <div class="section-head">
+          <span class="section-label">Hệ thống danh mục</span>
+          <h2 id="category-visual-title">Danh mục sản phẩm BAFurniture</h2>
+          <p>Nhóm sản phẩm được sắp xếp theo nhu cầu mua sắm thực tế của văn phòng, trường học, nhà máy và dự án.</p>
+        </div>
+
+        <a class="category-home-hero" href="category.html" aria-label="Xem trang danh mục Ghế văn phòng">
+          <span class="category-home-hero__icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" focusable="false">
+              <path d="M8 4h8l1 9H7L8 4Z" />
+              <path d="M9 13v3h6v-3" />
+              <path d="M12 16v4" />
+              <path d="M8 20h8" />
+            </svg>
+          </span>
+          <span class="category-home-hero__copy">
+            <span class="section-label">Category Page</span>
+            <strong>Ghế văn phòng</strong>
+            <small>Trang danh mục mẫu có breadcrumb, subcategory visual, filter UI, product grid, empty state và CTA.</small>
+          </span>
+          <span class="category-home-hero__cta">Xem trang danh mục</span>
+        </a>
+
+        <div class="category-group-grid" aria-label="Nhóm sản phẩm lớn">
+          <a class="category-group-card" href="category.html" aria-label="Xem danh mục Ghế văn phòng">
+            <div class="category-group-card__media category-group-card__placeholder category-group-card__placeholder--chair" aria-label="Ảnh nhóm Ghế văn phòng đang cập nhật">
+              <span class="category-group-card__placeholder-text">Đang cập nhật ảnh</span>
+              <span class="category-group-card__icon-badge" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false">
+                  <path d="M8 4h8l1 8H7L8 4Z" />
+                  <path d="M9 12v4h6v-4" />
+                  <path d="M12 16v4" />
+                  <path d="M8 20h8" />
+                </svg>
+              </span>
+            </div>
+            <div class="category-group-card__body">
+              <h3>Ghế văn phòng</h3>
+              <p>Ghế giám đốc, ghế lưới, ghế xoay, ghế họp và ghế training cho không gian làm việc hiện đại.</p>
+            </div>
+          </a>
+
+          <article class="category-group-card">
+            <div class="category-group-card__media">
+              <img src="assets/products/office-desk.jpg" alt="Bàn văn phòng BA_Furniture" />
+              <span class="category-group-card__icon-badge" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false">
+                  <path d="M4 9h16" />
+                  <path d="M6 9v10" />
+                  <path d="M18 9v10" />
+                  <path d="M8 14h8" />
+                </svg>
+              </span>
+            </div>
+            <div class="category-group-card__body">
+              <h3>Bàn văn phòng</h3>
+              <p>Bàn nhân viên, bàn cụm, bàn quản lý và bàn theo mặt bằng cho doanh nghiệp.</p>
+            </div>
+          </article>
+
+          <article class="category-group-card">
+            <div class="category-group-card__media">
+              <img src="assets/products/steel-cabinet.jpg" alt="Tủ và hộc tài liệu BA_Furniture" />
+              <span class="category-group-card__icon-badge" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false">
+                  <path d="M6 4h12v16H6V4Z" />
+                  <path d="M6 10h12" />
+                  <path d="M6 15h12" />
+                  <path d="M11 7h2" />
+                  <path d="M11 13h2" />
+                  <path d="M11 18h2" />
+                </svg>
+              </span>
+            </div>
+            <div class="category-group-card__body">
+              <h3>Tủ &amp; Hộc tài liệu</h3>
+              <p>Tủ hồ sơ, hộc di động, tủ tài liệu và giải pháp lưu trữ cho văn phòng.</p>
+            </div>
+          </article>
+
+          <article class="category-group-card">
+            <div class="category-group-card__media category-group-card__placeholder category-group-card__placeholder--sofa" aria-label="Ảnh nhóm Sofa và Ghế lounge đang cập nhật">
+              <span class="category-group-card__placeholder-text">Đang cập nhật ảnh</span>
+              <span class="category-group-card__icon-badge" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false">
+                  <path d="M6 11V8a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3v3" />
+                  <path d="M4 11h16v6H4v-6Z" />
+                  <path d="M6 17v2" />
+                  <path d="M18 17v2" />
+                </svg>
+              </span>
+            </div>
+            <div class="category-group-card__body">
+              <h3>Sofa &amp; Ghế lounge</h3>
+              <p>Sofa tiếp khách, ghế chờ, lounge văn phòng và khu vực lễ tân cao cấp.</p>
+            </div>
+          </article>
+
+          <article class="category-group-card">
+            <div class="category-group-card__media">
+              <img src="assets/products/school-desk.jpg" alt="Nội thất trường học BA_Furniture" />
+              <span class="category-group-card__icon-badge" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false">
+                  <path d="M5 6h14v8H5V6Z" />
+                  <path d="M8 18h8" />
+                  <path d="M12 14v4" />
+                  <path d="M7 10h10" />
+                </svg>
+              </span>
+            </div>
+            <div class="category-group-card__body">
+              <h3>Nội thất trường học</h3>
+              <p>Bàn ghế học sinh, giáo viên, thư viện, phòng chức năng và không gian đào tạo.</p>
+            </div>
+          </article>
+
+          <article class="category-group-card">
+            <div class="category-group-card__media category-group-card__placeholder category-group-card__placeholder--rack" aria-label="Ảnh nhóm Kệ và Giá kho đang cập nhật">
+              <span class="category-group-card__placeholder-text">Đang cập nhật ảnh</span>
+              <span class="category-group-card__icon-badge" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false">
+                  <path d="M5 5h14" />
+                  <path d="M5 12h14" />
+                  <path d="M5 19h14" />
+                  <path d="M7 5v14" />
+                  <path d="M17 5v14" />
+                </svg>
+              </span>
+            </div>
+            <div class="category-group-card__body">
+              <h3>Kệ &amp; Giá kho</h3>
+              <p>Kệ lưu trữ, giá kho, kệ tài liệu và giải pháp sắp xếp cho kho vận hành.</p>
+            </div>
+          </article>
+        </div>
+
+        <div class="category-subgroup-panel" aria-labelledby="chair-subgroup-title">
+          <div class="category-subgroup-panel__head">
+            <span class="section-label">Nhóm nhỏ mẫu</span>
+            <h3 id="chair-subgroup-title">Ghế văn phòng</h3>
+            <p>Các nhóm nhỏ dùng để chuẩn hóa navigation, lọc sản phẩm và định hướng nội dung cho giai đoạn kết nối ProductDB sau này.</p>
+          </div>
+          <div class="category-subgroup-grid" aria-label="Nhóm nhỏ Ghế văn phòng">
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 4h8l1 9H7L8 4Z" /><path d="M9 13v3h6v-3" /><path d="M12 16v4" /><path d="M8 20h8" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế giám đốc</span>
+            </a>
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5h8l-1 7H7L8 5Z" /><path d="M8 12h8v4H8v-4Z" /><path d="M10 19h4" /><path d="M12 16v3" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế leader</span>
+            </a>
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 4h8v9H8V4Z" /><path d="M10 6h4" /><path d="M10 9h4" /><path d="M9 13v4h6v-4" /><path d="M12 17v3" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế lưới</span>
+            </a>
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5h8l-1 8H7L8 5Z" /><path d="M8 13h8" /><path d="M9 13v5" /><path d="M15 13v5" /><path d="M7 18h10" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế chân quỳ</span>
+            </a>
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 4h8l1 9H7L8 4Z" /><path d="M10 7c2 1 4 1 6 0" /><path d="M8 13h8v4H8v-4Z" /><path d="M12 17v3" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế da</span>
+            </a>
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M7 5h7l-1 7H6L7 5Z" /><path d="M6 12h8v4H6v-4Z" /><path d="M14 10h5" /><path d="M16 10v4" /><path d="M9 16v4" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế training</span>
+            </a>
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 7h8v3H8V7Z" /><path d="M12 10v8" /><path d="M8 18h8" /><path d="M9 21h6" /><path d="M6 4h12" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế bar/cafe</span>
+            </a>
+            <a class="category-subgroup-card" href="category.html#category-listing">
+              <span class="category-subgroup-card__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" focusable="false"><path d="M8 5h8l-1 8H7L8 5Z" /><path d="M9 13v3h6v-3" /><path d="M12 16v4" /><path d="M7 20h10" /><path d="M17 7c2 1 2 4 0 5" /></svg>
+              </span>
+              <span class="category-subgroup-card__label">Ghế xoay</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section product-listing-section" aria-labelledby="product-listing-title">
+        <div class="section-head">
+          <span class="section-label">Product Listing Shell</span>
+          <h2 id="product-listing-title">Khung hiển thị sản phẩm mẫu cho giai đoạn sau.</h2>
+          <p>Danh sách dưới đây là dữ liệu mẫu tĩnh để kiểm tra giao diện product card. Chưa kết nối ProductDB và chưa render dữ liệu thật.</p>
+        </div>
+        <div class="product-listing-grid">
+          <article class="product-card" aria-label="Sản phẩm mẫu Ghế xoay văn phòng">
+            <div class="product-card__image" aria-hidden="true"><span>Ảnh sản phẩm</span></div>
+            <div class="product-card__body">
+              <p class="product-card__code">Mã mẫu: DEMO-CHAIR-01</p>
+              <h3>Ghế xoay văn phòng mẫu</h3>
+              <p class="product-card__price">Liên hệ báo giá</p>
+              <a class="product-card__cta" href="#contact">Nhận báo giá</a>
+            </div>
+          </article>
+          <article class="product-card" aria-label="Sản phẩm mẫu Bàn làm việc 1m2">
+            <div class="product-card__image" aria-hidden="true"><span>Ảnh sản phẩm</span></div>
+            <div class="product-card__body">
+              <p class="product-card__code">Mã mẫu: DEMO-DESK-01</p>
+              <h3>Bàn làm việc 1m2 mẫu</h3>
+              <p class="product-card__price">Liên hệ báo giá</p>
+              <a class="product-card__cta" href="#contact">Nhận báo giá</a>
+            </div>
+          </article>
+          <article class="product-card" aria-label="Sản phẩm mẫu Tủ locker 12 ngăn">
+            <div class="product-card__image" aria-hidden="true"><span>Ảnh sản phẩm</span></div>
+            <div class="product-card__body">
+              <p class="product-card__code">Mã mẫu: DEMO-LOCKER-01</p>
+              <h3>Tủ locker 12 ngăn mẫu</h3>
+              <p class="product-card__price">Liên hệ báo giá</p>
+              <a class="product-card__cta" href="#contact">Nhận báo giá</a>
+            </div>
+          </article>
+          <article class="product-card" aria-label="Sản phẩm mẫu Bàn họp 2m4">
+            <div class="product-card__image" aria-hidden="true"><span>Ảnh sản phẩm</span></div>
+            <div class="product-card__body">
+              <p class="product-card__code">Mã mẫu: DEMO-MEETING-01</p>
+              <h3>Bàn họp 2m4 mẫu</h3>
+              <p class="product-card__price">Liên hệ báo giá</p>
+              <a class="product-card__cta" href="#contact">Nhận báo giá</a>
+            </div>
+          </article>
         </div>
       </section>
 
@@ -266,6 +513,7 @@
       <p class="copyright">© 2026 BA_Furniture. Homepage V1 polish for CTO review.</p>
     </footer>
 
+    <script src="category-data.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
