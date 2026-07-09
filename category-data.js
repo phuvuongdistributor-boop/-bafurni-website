@@ -25,7 +25,7 @@ window.BA_CATEGORY_LIBRARY = [
     id: "OFFICE_DESK",
     name: "Bàn văn phòng",
     icon: "desk",
-    image: "assets/products/office-desk.jpg",
+    image: "assets/products/office-desk.svg",
     description: "Bàn nhân viên, bàn quản lý, bàn cụm, bàn máy tính và quầy lễ tân cho doanh nghiệp.",
     subcategories: [
       ["STAFF_DESK", "Bàn nhân viên", "desk-staff"],
@@ -42,7 +42,7 @@ window.BA_CATEGORY_LIBRARY = [
     id: "MEETING_TABLE",
     name: "Bàn họp",
     icon: "meeting-table",
-    image: "assets/products/meeting-table.jpg",
+    image: "assets/products/meeting-table.svg",
     description: "Bàn họp nhỏ, lớn, oval, module và bàn hội trường cho phòng họp doanh nghiệp.",
     subcategories: [
       ["SMALL_MEETING_TABLE", "Bàn họp nhỏ", "meeting-table-small"],
@@ -56,7 +56,7 @@ window.BA_CATEGORY_LIBRARY = [
     id: "CABINET_STORAGE",
     name: "Tủ & Hộc tài liệu",
     icon: "cabinet",
-    image: "assets/products/steel-cabinet.jpg",
+    image: "assets/products/steel-cabinet.svg",
     description: "Tủ hồ sơ, tủ tài liệu, hộc di động và các giải pháp lưu trữ cho văn phòng.",
     subcategories: [
       ["WOOD_CABINET", "Tủ gỗ văn phòng", "cabinet-wood"],
@@ -72,7 +72,7 @@ window.BA_CATEGORY_LIBRARY = [
     id: "LOCKER_STEEL",
     name: "Tủ sắt & Locker",
     icon: "locker",
-    image: "assets/products/locker.jpg",
+    image: "assets/products/locker.svg",
     description: "Tủ locker, tủ sắt, tủ công cụ, tủ kho và tủ chuyên dụng cho nhà máy, trường học, dự án.",
     subcategories: [
       ["STEEL_CABINET", "Tủ sắt văn phòng", "cabinet-steel"],
@@ -103,7 +103,7 @@ window.BA_CATEGORY_LIBRARY = [
     id: "SCHOOL_FURNITURE",
     name: "Nội thất trường học",
     icon: "graduation-cap",
-    image: "assets/products/school-desk.jpg",
+    image: "assets/products/school-desk.svg",
     description: "Bàn ghế học sinh, giáo viên, thư viện, mầm non và phòng chức năng.",
     subcategories: [
       ["STUDENT_DESK", "Bàn học sinh", "student-desk"],
@@ -132,7 +132,7 @@ window.BA_CATEGORY_LIBRARY = [
     id: "PUBLIC_PROJECT",
     name: "Nội thất công cộng & công trình",
     icon: "building-project",
-    image: "assets/products/project-furniture.jpg",
+    image: "assets/products/project-furniture.svg",
     description: "Hội trường, bục phát biểu, ghế công cộng, canteen và hạng mục theo bản vẽ.",
     subcategories: [
       ["PROJECT_FURNITURE", "Nội thất công trình", "project-furniture"],
