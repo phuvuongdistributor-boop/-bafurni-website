@@ -1,5 +1,323 @@
 const navToggle = document.querySelector(".nav-toggle");
 const mainNav = document.querySelector(".main-nav");
+const navLinks = document.querySelectorAll(".main-nav a");
+const categoryLibrary = Array.isArray(window.BA_CATEGORY_LIBRARY) ? window.BA_CATEGORY_LIBRARY : [];
+
+const iconPaths = {
+  chair: '<path d="M8 4h8l1 9H7L8 4Z"/><path d="M9 13v3h6v-3"/><path d="M12 16v4"/><path d="M8 20h8"/>',
+  desk: '<path d="M4 9h16"/><path d="M6 9v10"/><path d="M18 9v10"/><path d="M8 14h8"/>',
+  table: '<path d="M4 10h16"/><path d="M7 10v8"/><path d="M17 10v8"/><path d="M8 6h8"/>',
+  cabinet: '<path d="M6 4h12v16H6V4Z"/><path d="M6 10h12"/><path d="M6 15h12"/><path d="M11 7h2"/><path d="M11 13h2"/><path d="M11 18h2"/>',
+  locker: '<path d="M5 4h14v16H5V4Z"/><path d="M12 4v16"/><path d="M8 8h1"/><path d="M15 8h1"/><path d="M8 14h1"/><path d="M15 14h1"/>',
+  sofa: '<path d="M6 11V8a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3v3"/><path d="M4 11h16v6H4v-6Z"/><path d="M6 17v2"/><path d="M18 17v2"/>',
+  school: '<path d="M5 6h14v8H5V6Z"/><path d="M8 18h8"/><path d="M12 14v4"/><path d="M7 10h10"/>',
+  shelves: '<path d="M5 5h14"/><path d="M5 12h14"/><path d="M5 19h14"/><path d="M7 5v14"/><path d="M17 5v14"/>',
+  building: '<path d="M5 20V6l7-3 7 3v14"/><path d="M9 20v-6h6v6"/><path d="M9 8h.01"/><path d="M15 8h.01"/><path d="M12 11h.01"/>',
+  medical: '<path d="M12 4v16"/><path d="M4 12h16"/><path d="M6 6h12v12H6V6Z"/>',
+  home: '<path d="M4 11 12 4l8 7"/><path d="M6 10v10h12V10"/><path d="M10 20v-6h4v6"/>',
+  panel: '<path d="M4 5h16v14H4V5Z"/><path d="M10 5v14"/><path d="M14 9h4"/><path d="M14 13h4"/>'
+};
+
+function escapeHTML(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
+}
+
+function iconType(iconId = "") {
+  const id = iconId.toLowerCase();
+  if (id.includes("chair")) return "chair";
+  if (id.includes("meeting") || id.includes("table") || id.includes("canteen")) return "table";
+  if (id.includes("desk") || id.includes("reception")) return "desk";
+  if (id.includes("locker")) return "locker";
+  if (id.includes("cabinet") || id.includes("wardrobe") || id.includes("pedestal")) return "cabinet";
+  if (id.includes("sofa") || id.includes("waiting")) return "sofa";
+  if (id.includes("school") || id.includes("student") || id.includes("teacher") || id.includes("library") || id.includes("kindergarten") || id.includes("graduation")) return "school";
+  if (id.includes("shel") || id.includes("rack") || id.includes("archive")) return "shelves";
+  if (id.includes("project") || id.includes("building") || id.includes("auditorium") || id.includes("podium") || id.includes("public") || id.includes("blueprint")) return "building";
+  if (id.includes("medical") || id.includes("exam") || id.includes("clinic")) return "medical";
+  if (id.includes("home") || id.includes("bed")) return "home";
+  if (id.includes("partition") || id.includes("accessory") || id.includes("part")) return "panel";
+  return "panel";
+}
+
+function iconSvg(iconId, label = "") {
+  return `<svg viewBox="0 0 24 24" focusable="false" aria-hidden="${label ? "false" : "true"}" ${label ? `aria-label="${escapeHTML(label)}"` : ""}>${iconPaths[iconType(iconId)]}</svg>`;
+}
+
+function subcategoryObjects(category) {
+  return category.subcategories.map(([id, name, icon]) => ({ id, name, icon }));
+}
+
+function categoryHref(category) {
+  return category.href || "https://portal.bafurni.com";
+}
+
+function categoryCard(category, index = 0) {
+  const href = categoryHref(category);
+  const isInternal = href.startsWith("category");
+  const subCount = category.subcategories.length;
+  const media = category.image
+    ? `<img src="${escapeHTML(category.image)}" alt="${escapeHTML(category.name)} BA_Furniture" />`
+    : `<span class="category-group-card__placeholder-text">${escapeHTML(category.name)}</span>`;
+
+  return `
+    <a class="category-group-card category-system-card" href="${escapeHTML(href)}" ${isInternal ? "" : 'target="_blank" rel="noopener"'} data-main-category="${escapeHTML(category.id)}">
+      <div class="category-group-card__media ${category.image ? "" : `category-group-card__placeholder category-group-card__placeholder--tone-${(index % 4) + 1}`}" aria-label="${escapeHTML(category.name)}">
+        ${media}
+        <span class="category-group-card__icon-badge" aria-hidden="true">${iconSvg(category.icon)}</span>
+      </div>
+      <div class="category-group-card__body">
+        <div class="category-group-card__meta"><span>${subCount} nhóm nhỏ</span><span>${escapeHTML(category.id)}</span></div>
+        <h3>${escapeHTML(category.name)}</h3>
+        <p>${escapeHTML(category.description)}</p>
+        <span class="category-group-card__cta">${isInternal ? "Xem trang danh mục" : "Xem trên Portal"}</span>
+      </div>
+    </a>
+  `;
+}
+
+function subcategoryCard(item, href = "category.html#category-listing") {
+  return `
+    <a class="category-subgroup-card" href="${escapeHTML(href)}" data-subcategory="${escapeHTML(item.id)}">
+      <span class="category-subgroup-card__icon" aria-hidden="true">${iconSvg(item.icon)}</span>
+      <span class="category-subgroup-card__label">${escapeHTML(item.name)}</span>
+    </a>
+  `;
+}
+
+function libraryDetails(category, index) {
+  const items = subcategoryObjects(category);
+  return `
+    <details class="category-library-details" ${index === 0 ? "open" : ""} data-main-category="${escapeHTML(category.id)}">
+      <summary class="category-library-summary">
+        <span class="category-library-summary__icon" aria-hidden="true">${iconSvg(category.icon)}</span>
+        <span>
+          <strong>${escapeHTML(category.name)}</strong>
+          <small>${items.length} nhóm nhỏ</small>
+        </span>
+      </summary>
+      <div class="category-library-chips">
+        ${items.map((item) => `<span class="category-library-chip" data-subcategory="${escapeHTML(item.id)}">${iconSvg(item.icon)}${escapeHTML(item.name)}</span>`).join("")}
+      </div>
+    </details>
+  `;
+}
+
+function renderHomepageCategory() {
+  const target = document.querySelector("[data-category-home], .category-visual-section");
+  if (!target || categoryLibrary.length === 0) return;
+
+  target.id = "category-library";
+  target.classList.add("category-experience");
+  target.setAttribute("aria-labelledby", "category-visual-title");
+  target.dataset.categoryHome = "true";
+
+  const chair = categoryLibrary.find((category) => category.id === "OFFICE_CHAIR") || categoryLibrary[0];
+  const chairSubcategories = subcategoryObjects(chair);
+
+  target.innerHTML = `
+    <div class="section-head category-experience__head">
+      <span class="section-label">Hệ thống danh mục</span>
+      <h2 id="category-visual-title">Danh mục sản phẩm BAFurniture</h2>
+      <p>Thư viện danh mục chuẩn theo Product Classification System: rõ nhóm lớn, nhóm nhỏ, icon, visual và CTA để sẵn sàng cho ProductDB ở giai đoạn sau.</p>
+    </div>
+
+    <a class="category-home-hero" href="category.html" aria-label="Xem trang danh mục Ghế văn phòng">
+      <span class="category-home-hero__icon" aria-hidden="true">${iconSvg(chair.icon)}</span>
+      <span class="category-home-hero__copy">
+        <span class="section-label">Category Hero</span>
+        <strong>${escapeHTML(chair.name)}</strong>
+        <small>${escapeHTML(chair.description)} Trang danh mục đã có breadcrumb, subcategory visual, filter shell, product grid shell, empty state, CTA và related categories.</small>
+      </span>
+      <span class="category-home-hero__actions">
+        <span class="category-home-hero__cta">Xem trang danh mục</span>
+        <span class="category-home-hero__ghost">12 nhóm nhỏ</span>
+      </span>
+    </a>
+
+    <div class="category-group-grid category-system-grid" aria-label="Toàn bộ nhóm sản phẩm lớn">
+      ${categoryLibrary.map((category, index) => categoryCard(category, index)).join("")}
+    </div>
+
+    <div class="category-subgroup-panel category-featured-subgroups" aria-labelledby="chair-subgroup-title">
+      <div class="category-subgroup-panel__head">
+        <span class="section-label">Nhóm nhỏ nổi bật</span>
+        <h3 id="chair-subgroup-title">Ghế văn phòng</h3>
+        <p>Hiển thị đầy đủ Level 2 của nhóm ghế theo PRODUCT_CATEGORY_TREE.md, không nối dữ liệu thật.</p>
+      </div>
+      <div class="category-subgroup-grid" aria-label="Nhóm nhỏ Ghế văn phòng">
+        ${chairSubcategories.map((item) => subcategoryCard(item)).join("")}
+      </div>
+    </div>
+
+    <div class="category-library-panel" aria-labelledby="category-library-title">
+      <div class="category-library-panel__head">
+        <span class="section-label">Category Library</span>
+        <h3 id="category-library-title">Cây danh mục chuẩn</h3>
+        <p>Toàn bộ MainCategory và SubCategoryNormalized để đồng bộ Website, Portal, AI Advisor, SEO, báo giá và marketing.</p>
+      </div>
+      <div class="category-library-grid">
+        ${categoryLibrary.map((category, index) => libraryDetails(category, index)).join("")}
+      </div>
+    </div>
+
+    <div class="category-section-cta">
+      <div>
+        <span class="section-label">Portal sản phẩm</span>
+        <h3>Xem dữ liệu sản phẩm thật tại Portal BA_Furniture.</h3>
+      </div>
+      <a class="btn btn-primary" href="https://portal.bafurni.com" target="_blank" rel="noopener">Xem hơn 3.300 sản phẩm</a>
+    </div>
+  `;
+}
+
+function productCard(item, index) {
+  return `
+    <article class="product-card category-template-product-card" data-subcategory="${escapeHTML(item.id)}">
+      <div class="product-card__image category-template-product-card__image" aria-hidden="true">
+        <span>${iconSvg(item.icon)} DEMO</span>
+      </div>
+      <div class="product-card__body">
+        <p class="product-card__code">Mã mẫu: CHAIR-DEMO-${String(index + 1).padStart(2, "0")}</p>
+        <h3>${escapeHTML(item.name)} BA demo</h3>
+        <p class="category-template-product-card__meta">Ghế văn phòng / ${escapeHTML(item.name)} / Dữ liệu mẫu</p>
+        <p class="product-card__price">Liên hệ báo giá</p>
+        <a class="product-card__cta" href="#category-contact">Nhận báo giá</a>
+      </div>
+    </article>
+  `;
+}
+
+function renderCategoryPage() {
+  const page = document.querySelector(".category-template-page main");
+  if (!page || categoryLibrary.length === 0) return;
+
+  const category = categoryLibrary.find((item) => item.id === "OFFICE_CHAIR") || categoryLibrary[0];
+  const subcategories = subcategoryObjects(category);
+  const related = categoryLibrary.filter((item) => item.id !== category.id).slice(0, 6);
+  const products = subcategories.slice(0, 8);
+
+  page.innerHTML = `
+    <section id="category-top" class="category-template-hero">
+      <nav class="category-template-breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html#home">Trang chủ</a>
+        <span aria-hidden="true">/</span>
+        <a href="index.html#category-library">Danh mục</a>
+        <span aria-hidden="true">/</span>
+        <span>${escapeHTML(category.name)}</span>
+      </nav>
+
+      <div class="category-template-hero__grid">
+        <div class="category-template-hero__content">
+          <span class="section-label">Category Page</span>
+          <h1>${escapeHTML(category.name)}</h1>
+          <p>${escapeHTML(category.description)} Trang tĩnh này mô phỏng đầy đủ trải nghiệm danh mục trước khi kết nối ProductDB.</p>
+          <div class="category-template-stats" aria-label="Thông tin danh mục">
+            <span><strong>${subcategories.length}</strong> nhóm nhỏ</span>
+            <span><strong>08</strong> card mẫu</span>
+            <span><strong>0</strong> dữ liệu thật</span>
+          </div>
+        </div>
+
+        <div class="category-template-hero__visual" aria-label="Visual danh mục ${escapeHTML(category.name)}">
+          <span class="category-template-hero__icon" aria-hidden="true">${iconSvg(category.icon)}</span>
+          <span>Visual danh mục đang cập nhật</span>
+        </div>
+      </div>
+
+      <div class="category-template-chips" aria-label="Nhóm nhỏ ${escapeHTML(category.name)}">
+        ${subcategories.map((item) => `<a href="#category-listing">${escapeHTML(item.name)}</a>`).join("")}
+      </div>
+
+      <div id="category-subgroups" class="category-subgroup-panel category-template-subcategory-visual" aria-labelledby="category-subgroup-visual-title">
+        <div class="category-subgroup-panel__head">
+          <span class="section-label">Subcategory Visual</span>
+          <h2 id="category-subgroup-visual-title">Các dòng ${escapeHTML(category.name.toLowerCase())}</h2>
+          <p>Nhóm nhỏ hiển thị bằng card icon nhất quán, hỗ trợ scan nhanh và chuẩn bị cho filter động sau này.</p>
+        </div>
+        <div class="category-subgroup-grid" aria-label="Nhóm nhỏ có visual của ${escapeHTML(category.name)}">
+          ${subcategories.map((item) => subcategoryCard(item, "#category-listing")).join("")}
+        </div>
+      </div>
+    </section>
+
+    <section id="category-listing" class="category-template-section">
+      <div class="category-template-section__head">
+        <span class="section-label">Product Grid Shell</span>
+        <h2>Khung sản phẩm trong danh mục</h2>
+        <p>Card mẫu tĩnh để kiểm thử UI listing, filter, empty state và CTA. Chưa render dữ liệu thật và chưa nối ProductDB.</p>
+      </div>
+
+      <div class="category-template-layout">
+        <aside class="category-template-filter" aria-label="Bộ lọc tĩnh">
+          <div>
+            <h3>Nhóm ghế</h3>
+            ${subcategories.slice(0, 6).map((item) => `<label><input type="checkbox" disabled /> ${escapeHTML(item.name)}</label>`).join("")}
+          </div>
+          <div>
+            <h3>Khoảng giá</h3>
+            <label><input type="checkbox" disabled /> Liên hệ báo giá</label>
+            <label><input type="checkbox" disabled /> Dưới 2 triệu</label>
+            <label><input type="checkbox" disabled /> 2-5 triệu</label>
+          </div>
+          <div>
+            <h3>Trạng thái</h3>
+            <label><input type="checkbox" disabled /> Hàng mẫu</label>
+            <label><input type="checkbox" disabled /> Sản xuất theo yêu cầu</label>
+          </div>
+        </aside>
+
+        <div>
+          <div class="category-template-products-toolbar">
+            <span>8 sản phẩm mẫu</span>
+            <span>Sort shell: Mặc định</span>
+          </div>
+          <div class="category-template-products" aria-label="Danh sách sản phẩm mẫu">
+            ${products.map((item, index) => productCard(item, index)).join("")}
+          </div>
+        </div>
+      </div>
+
+      <div class="category-template-empty" role="status" aria-live="polite">
+        <span class="category-template-empty__icon" aria-hidden="true">${iconSvg("empty-chair")}</span>
+        <div>
+          <h3>Không tìm thấy sản phẩm phù hợp</h3>
+          <p>Empty state mẫu cho trường hợp bộ lọc không trả về sản phẩm. BA_Furniture vẫn có thể tư vấn cấu hình, chất liệu, màu sắc và sản xuất theo yêu cầu.</p>
+        </div>
+        <a class="product-card__cta" href="#category-contact">Nhận tư vấn</a>
+      </div>
+    </section>
+
+    <section class="section category-template-related" aria-labelledby="related-category-title">
+      <div class="section-head">
+        <span class="section-label">Related Categories</span>
+        <h2 id="related-category-title">Danh mục liên quan</h2>
+        <p>Gợi ý các nhóm sản phẩm thường đi cùng ghế văn phòng khi khách hàng làm văn phòng, phòng họp, trường học hoặc dự án.</p>
+      </div>
+      <div class="category-group-grid category-related-grid">
+        ${related.map((item, index) => categoryCard(item, index)).join("")}
+      </div>
+    </section>
+
+    <section id="category-contact" class="category-template-cta">
+      <div>
+        <span class="section-label">Tư vấn danh mục</span>
+        <h2>Cần báo giá ghế văn phòng theo số lượng hoặc mặt bằng?</h2>
+        <p>Liên hệ BA_Furniture để được tư vấn cấu hình, chất liệu, màu sắc và phương án cung ứng phù hợp.</p>
+      </div>
+      <div class="category-template-cta__actions">
+        <a class="btn btn-primary" href="tel:0929878666">Gọi 0929.878.666</a>
+        <a class="btn btn-secondary" href="https://portal.bafurni.com" target="_blank" rel="noopener">Vào Portal sản phẩm</a>
+      </div>
+    </section>
+  `;
+}
+
+renderHomepageCategory();
+renderCategoryPage();
 
 if (navToggle && mainNav) {
   navToggle.addEventListener("click", () => {
@@ -19,70 +337,6 @@ if (navToggle && mainNav) {
   });
 }
 
-function injectCategoryModule() {
-  const productsSection = document.querySelector("#products");
-  if (!productsSection || document.querySelector(".category-visual-section")) return;
-
-  const chairPreviewCard = [...document.querySelectorAll(".category-card")].find((card) => card.textContent.includes("Ghế văn phòng"));
-  if (chairPreviewCard instanceof HTMLAnchorElement) {
-    chairPreviewCard.href = "category.html";
-    chairPreviewCard.removeAttribute("target");
-    chairPreviewCard.removeAttribute("rel");
-  }
-
-  if (!document.querySelector("#category-module-style")) {
-    const style = document.createElement("style");
-    style.id = "category-module-style";
-    style.textContent = `
-      .category-visual-section{overflow:hidden;background:linear-gradient(180deg,var(--color-background-muted),var(--color-surface));}
-      .category-visual-section .section-head{max-width:760px;margin-right:auto;margin-bottom:var(--space-34);margin-left:auto;text-align:center;}
-      .category-home-hero{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:var(--space-20);align-items:center;max-width:1180px;margin:var(--space-0) auto var(--space-28);padding:var(--space-24);background:linear-gradient(135deg,var(--color-surface),var(--color-background-muted));border:1px solid var(--color-border);border-radius:var(--radius-16);box-shadow:var(--shadow-none);transition:border-color var(--transition-fast) var(--ease-default),box-shadow var(--transition-fast) var(--ease-default),transform var(--transition-fast) var(--ease-default);}
-      .category-home-hero:hover,.category-home-hero:focus-visible{border-color:var(--color-primary);box-shadow:var(--shadow-sm);transform:translateY(-3px);outline:none;}
-      .category-home-hero:focus-visible{outline:2px solid var(--color-primary);outline-offset:4px;}
-      .category-home-hero__icon,.category-subgroup-card__icon,.category-group-card__icon-badge{display:grid;place-items:center;color:var(--color-primary);background:var(--color-surface);border:1px solid var(--color-border);}
-      .category-home-hero__icon{width:var(--space-72);height:var(--space-72);border-radius:var(--radius-16);}.category-home-hero svg,.category-subgroup-card svg,.category-group-card svg{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.8;}.category-home-hero svg{width:var(--space-40);height:var(--space-40);}
-      .category-home-hero__copy{display:grid;gap:var(--space-8);min-width:0;}.category-home-hero__copy strong{color:var(--color-text-primary);font-size:clamp(24px,3vw,36px);line-height:1.1;}.category-home-hero__copy small{max-width:660px;color:var(--color-text-secondary);font-size:15px;line-height:1.55;}
-      .category-home-hero__cta{display:inline-flex;min-height:42px;align-items:center;justify-content:center;padding:var(--space-10) var(--space-16);color:var(--color-text-inverse);background:var(--color-primary);border-radius:var(--radius-full);font-size:14px;font-weight:900;white-space:nowrap;}
-      .category-group-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));max-width:1180px;margin:var(--space-0) auto;gap:var(--space-20);}.category-group-card{display:flex;flex-direction:column;overflow:hidden;min-height:100%;background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-16);box-shadow:var(--shadow-none);transition:border-color var(--transition-fast) var(--ease-default),box-shadow var(--transition-fast) var(--ease-default),transform var(--transition-fast) var(--ease-default);}.category-group-card:hover,.category-group-card:focus-visible,.category-group-card:focus-within{border-color:var(--color-primary);box-shadow:var(--shadow-sm);transform:translateY(-4px);outline:none;}.category-group-card:focus-visible{outline:2px solid var(--color-primary);outline-offset:4px;}
-      .category-group-card__media{position:relative;display:grid;height:196px;overflow:hidden;background:linear-gradient(135deg,var(--color-secondary),var(--color-primary-dark));}.category-group-card__media img{width:100%;height:100%;object-fit:cover;display:block;}.category-group-card__placeholder{isolation:isolate;place-items:center;padding:var(--space-24);color:var(--color-text-inverse);text-align:center;}.category-group-card__placeholder::before{position:absolute;inset:var(--space-18);z-index:-1;content:"";border:1px solid var(--overlay-border-inverse);border-radius:var(--radius-16);}.category-group-card__placeholder::after{position:absolute;right:var(--space-24);bottom:var(--space-24);width:var(--space-84);height:var(--space-84);content:"";border:1px solid var(--overlay-border-inverse);border-radius:var(--radius-full);opacity:.55;}.category-group-card__placeholder--sofa{background:linear-gradient(135deg,var(--color-primary-dark),var(--color-secondary));}.category-group-card__placeholder--rack{background:linear-gradient(135deg,var(--color-secondary),var(--color-primary));}.category-group-card__placeholder-text{position:relative;z-index:1;padding:var(--space-10) var(--space-16);color:var(--color-text-inverse);background:var(--overlay-surface-inverse);border:1px solid var(--overlay-border-inverse);border-radius:var(--radius-full);font-size:14px;font-weight:900;}
-      .category-group-card__icon-badge{position:absolute;left:var(--space-16);bottom:var(--space-16);width:var(--space-48);height:var(--space-48);border-radius:var(--radius-12);box-shadow:var(--shadow-sm);}.category-group-card__icon-badge svg{width:var(--space-28);height:var(--space-28);}.category-group-card__body{flex:1;padding:var(--space-22);}.category-group-card__body h3{margin:0 0 var(--space-10);color:var(--color-text-primary);font-size:21px;line-height:1.2;}.category-group-card__body p{margin:0;color:var(--color-text-secondary);font-size:15px;line-height:1.6;}
-      .category-subgroup-panel{display:grid;grid-template-columns:minmax(220px,.75fr) minmax(0,1.7fr);gap:var(--space-24);align-items:center;max-width:1180px;margin:var(--space-32) auto 0;padding:var(--space-24);background:linear-gradient(135deg,var(--color-surface),var(--color-background-muted));border:1px solid var(--color-border);border-radius:var(--radius-16);}.category-subgroup-panel__head h3{margin:var(--space-8) 0 0;color:var(--color-text-primary);font-size:26px;line-height:1.15;}.category-subgroup-panel__head p{margin:var(--space-12) 0 0;color:var(--color-text-secondary);line-height:1.6;}.category-subgroup-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--space-10);align-content:start;}.category-subgroup-card{display:flex;min-height:58px;align-items:center;gap:var(--space-10);padding:var(--space-10) var(--space-12);color:var(--color-text-primary);background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-12);font-size:14px;font-weight:800;line-height:1.25;transition:border-color var(--transition-fast) var(--ease-default),background var(--transition-fast) var(--ease-default),box-shadow var(--transition-fast) var(--ease-default),transform var(--transition-fast) var(--ease-default);}.category-subgroup-card:hover,.category-subgroup-card:focus-visible{background:var(--color-surface-subtle);border-color:var(--color-primary);box-shadow:var(--shadow-sm);transform:translateY(-2px);outline:none;}.category-subgroup-card:focus-visible{outline:2px solid var(--color-primary);outline-offset:3px;}.category-subgroup-card__icon{flex:0 0 var(--space-38);width:var(--space-38);height:var(--space-38);border-radius:var(--radius-10);background:var(--color-background-muted);}.category-subgroup-card__icon svg{width:var(--space-24);height:var(--space-24);}
-      @media(max-width:900px){.category-visual-section .section-head{text-align:left;}.category-home-hero{grid-template-columns:auto minmax(0,1fr);}.category-home-hero__cta{grid-column:2;width:fit-content;}.category-group-grid{grid-template-columns:repeat(2,1fr);}.category-subgroup-panel{grid-template-columns:1fr;}.category-subgroup-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
-      @media(max-width:640px){.category-home-hero{grid-template-columns:1fr;gap:var(--space-16);padding:var(--space-18);}.category-home-hero__icon{width:var(--space-52);height:var(--space-52);}.category-home-hero__cta{grid-column:auto;width:100%;}.category-group-grid{grid-template-columns:1fr;gap:var(--space-14);}.category-group-card__media{height:154px;}.category-subgroup-panel{gap:var(--space-18);padding:var(--space-18);}.category-subgroup-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--space-8);}.category-subgroup-card{min-height:52px;gap:var(--space-8);padding:var(--space-8);font-size:13px;}.category-subgroup-card__icon{flex-basis:var(--space-32);width:var(--space-32);height:var(--space-32);}}
-    `;
-    document.head.appendChild(style);
-  }
-
-  const chairIcon = '<svg viewBox="0 0 24 24" focusable="false"><path d="M8 4h8l1 9H7L8 4Z"/><path d="M9 13v3h6v-3"/><path d="M12 16v4"/><path d="M8 20h8"/></svg>';
-  const deskIcon = '<svg viewBox="0 0 24 24" focusable="false"><path d="M4 9h16"/><path d="M6 9v10"/><path d="M18 9v10"/><path d="M8 14h8"/></svg>';
-  const cabinetIcon = '<svg viewBox="0 0 24 24" focusable="false"><path d="M6 4h12v16H6V4Z"/><path d="M6 10h12"/><path d="M6 15h12"/><path d="M11 7h2"/><path d="M11 13h2"/><path d="M11 18h2"/></svg>';
-  const sofaIcon = '<svg viewBox="0 0 24 24" focusable="false"><path d="M6 11V8a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3v3"/><path d="M4 11h16v6H4v-6Z"/><path d="M6 17v2"/><path d="M18 17v2"/></svg>';
-  const schoolIcon = '<svg viewBox="0 0 24 24" focusable="false"><path d="M5 6h14v8H5V6Z"/><path d="M8 18h8"/><path d="M12 14v4"/><path d="M7 10h10"/></svg>';
-  const rackIcon = '<svg viewBox="0 0 24 24" focusable="false"><path d="M5 5h14"/><path d="M5 12h14"/><path d="M5 19h14"/><path d="M7 5v14"/><path d="M17 5v14"/></svg>';
-  const subgroup = ["Ghế giám đốc","Ghế leader","Ghế lưới","Ghế chân quỳ","Ghế da","Ghế training","Ghế bar/cafe","Ghế xoay"];
-  const subgroupIcons = [chairIcon,'<svg viewBox="0 0 24 24" focusable="false"><path d="M8 5h8l-1 7H7L8 5Z"/><path d="M8 12h8v4H8v-4Z"/><path d="M10 19h4"/><path d="M12 16v3"/></svg>','<svg viewBox="0 0 24 24" focusable="false"><path d="M8 4h8v9H8V4Z"/><path d="M10 6h4"/><path d="M10 9h4"/><path d="M9 13v4h6v-4"/><path d="M12 17v3"/></svg>','<svg viewBox="0 0 24 24" focusable="false"><path d="M8 5h8l-1 8H7L8 5Z"/><path d="M8 13h8"/><path d="M9 13v5"/><path d="M15 13v5"/><path d="M7 18h10"/></svg>','<svg viewBox="0 0 24 24" focusable="false"><path d="M8 4h8l1 9H7L8 4Z"/><path d="M10 7c2 1 4 1 6 0"/><path d="M8 13h8v4H8v-4Z"/><path d="M12 17v3"/></svg>','<svg viewBox="0 0 24 24" focusable="false"><path d="M7 5h7l-1 7H6L7 5Z"/><path d="M6 12h8v4H6v-4Z"/><path d="M14 10h5"/><path d="M16 10v4"/><path d="M9 16v4"/></svg>','<svg viewBox="0 0 24 24" focusable="false"><path d="M8 7h8v3H8V7Z"/><path d="M12 10v8"/><path d="M8 18h8"/><path d="M9 21h6"/><path d="M6 4h12"/></svg>','<svg viewBox="0 0 24 24" focusable="false"><path d="M8 5h8l-1 8H7L8 5Z"/><path d="M9 13v3h6v-3"/><path d="M12 16v4"/><path d="M7 20h10"/><path d="M17 7c2 1 2 4 0 5"/></svg>'];
-
-  const section = document.createElement("section");
-  section.className = "section category-visual-section";
-  section.setAttribute("aria-labelledby", "category-visual-title");
-  section.innerHTML = `
-    <div class="section-head"><span class="section-label">Hệ thống danh mục</span><h2 id="category-visual-title">Danh mục sản phẩm BAFurniture</h2><p>Nhóm sản phẩm được sắp xếp theo nhu cầu mua sắm thực tế của văn phòng, trường học, nhà máy và dự án.</p></div>
-    <a class="category-home-hero" href="category.html" aria-label="Xem trang danh mục Ghế văn phòng"><span class="category-home-hero__icon" aria-hidden="true">${chairIcon}</span><span class="category-home-hero__copy"><span class="section-label">Category Page</span><strong>Ghế văn phòng</strong><small>Trang danh mục mẫu có breadcrumb, subcategory visual, filter UI, product grid, empty state và CTA.</small></span><span class="category-home-hero__cta">Xem trang danh mục</span></a>
-    <div class="category-group-grid" aria-label="Nhóm sản phẩm lớn">
-      <a class="category-group-card" href="category.html" aria-label="Xem danh mục Ghế văn phòng"><div class="category-group-card__media category-group-card__placeholder"><span class="category-group-card__placeholder-text">Đang cập nhật ảnh</span><span class="category-group-card__icon-badge" aria-hidden="true">${chairIcon}</span></div><div class="category-group-card__body"><h3>Ghế văn phòng</h3><p>Ghế giám đốc, ghế lưới, ghế xoay, ghế họp và ghế training cho không gian làm việc hiện đại.</p></div></a>
-      <article class="category-group-card"><div class="category-group-card__media"><img src="assets/products/office-desk.jpg" alt="Bàn văn phòng BA_Furniture"><span class="category-group-card__icon-badge" aria-hidden="true">${deskIcon}</span></div><div class="category-group-card__body"><h3>Bàn văn phòng</h3><p>Bàn nhân viên, bàn cụm, bàn quản lý và bàn theo mặt bằng cho doanh nghiệp.</p></div></article>
-      <article class="category-group-card"><div class="category-group-card__media"><img src="assets/products/steel-cabinet.jpg" alt="Tủ và hộc tài liệu BA_Furniture"><span class="category-group-card__icon-badge" aria-hidden="true">${cabinetIcon}</span></div><div class="category-group-card__body"><h3>Tủ &amp; Hộc tài liệu</h3><p>Tủ hồ sơ, hộc di động, tủ tài liệu và giải pháp lưu trữ cho văn phòng.</p></div></article>
-      <article class="category-group-card"><div class="category-group-card__media category-group-card__placeholder category-group-card__placeholder--sofa"><span class="category-group-card__placeholder-text">Đang cập nhật ảnh</span><span class="category-group-card__icon-badge" aria-hidden="true">${sofaIcon}</span></div><div class="category-group-card__body"><h3>Sofa &amp; Ghế lounge</h3><p>Sofa tiếp khách, ghế chờ, lounge văn phòng và khu vực lễ tân cao cấp.</p></div></article>
-      <article class="category-group-card"><div class="category-group-card__media"><img src="assets/products/school-desk.jpg" alt="Nội thất trường học BA_Furniture"><span class="category-group-card__icon-badge" aria-hidden="true">${schoolIcon}</span></div><div class="category-group-card__body"><h3>Nội thất trường học</h3><p>Bàn ghế học sinh, giáo viên, thư viện, phòng chức năng và không gian đào tạo.</p></div></article>
-      <article class="category-group-card"><div class="category-group-card__media category-group-card__placeholder category-group-card__placeholder--rack"><span class="category-group-card__placeholder-text">Đang cập nhật ảnh</span><span class="category-group-card__icon-badge" aria-hidden="true">${rackIcon}</span></div><div class="category-group-card__body"><h3>Kệ &amp; Giá kho</h3><p>Kệ lưu trữ, giá kho, kệ tài liệu và giải pháp sắp xếp cho kho vận hành.</p></div></article>
-    </div>
-    <div class="category-subgroup-panel" aria-labelledby="chair-subgroup-title"><div class="category-subgroup-panel__head"><span class="section-label">Nhóm nhỏ mẫu</span><h3 id="chair-subgroup-title">Ghế văn phòng</h3><p>Các nhóm nhỏ dùng để chuẩn hóa navigation, lọc sản phẩm và định hướng nội dung cho giai đoạn kết nối ProductDB sau này.</p></div><div class="category-subgroup-grid" aria-label="Nhóm nhỏ Ghế văn phòng">${subgroup.map((label, i) => `<a class="category-subgroup-card" href="category.html#category-listing"><span class="category-subgroup-card__icon" aria-hidden="true">${subgroupIcons[i]}</span><span class="category-subgroup-card__label">${label}</span></a>`).join("")}</div></div>`;
-  productsSection.insertAdjacentElement("afterend", section);
-}
-
-injectCategoryModule();
-
-const navLinks = document.querySelectorAll(".main-nav a");
 const sections = [...document.querySelectorAll("main section[id]")];
 
 if ("IntersectionObserver" in window && sections.length > 0) {
