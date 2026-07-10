@@ -1,5 +1,5 @@
 (function () {
-  const moduleVersion = "2026-07-10-s23";
+  const moduleVersion = "2026-07-10-s23-1";
   const cssFiles = ["site-modules.css", "search-filter.css", "productdb-integration.css", "quote-lead.css", "performance-accessibility.css", "final-design-polish.css", "category-visual-library.css"];
   const scriptFiles = [
     "product-data-adapter.js",
