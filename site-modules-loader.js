@@ -1,7 +1,7 @@
 (function () {
-  const moduleVersion = "2026-07-10-s13";
-  const cssFiles = ["site-modules.css"];
-  const scriptFiles = ["product-gallery.js"];
+  const moduleVersion = "2026-07-10-s14";
+  const cssFiles = ["site-modules.css", "search-filter.css"];
+  const scriptFiles = ["product-gallery.js", "search-filter.js"];
 
   function withVersion(path) {
     return `${path}?v=${moduleVersion}`;
