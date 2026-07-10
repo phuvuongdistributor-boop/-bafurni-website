@@ -35,6 +35,16 @@
     node.textContent = JSON.stringify(data);
   }
 
+  function removeJsonLdByType(type, keepId) {
+    document.querySelectorAll('script[type="application/ld+json"]').forEach((node) => {
+      if (keepId && node.id === keepId) return;
+      try {
+        const data = JSON.parse(node.textContent || "{}");
+        if (data["@type"] === type) node.remove();
+      } catch {}
+    });
+  }
+
   function setCanonical(path) {
     if (routing.setCanonical) return routing.setCanonical(path);
     let canonical = document.querySelector('link[rel="canonical"]');
@@ -100,6 +110,9 @@
 
   function homepageSeo() {
     if (document.body.classList.contains("category-template-page") || document.body.classList.contains("product-detail-page")) return;
+    const title = "BA_Furniture | Nội thất văn phòng, trường học và dự án";
+    const description = clean(document.querySelector('meta[name="description"]')?.content) || "BA_Furniture cung cấp nội thất văn phòng, trường học và dự án tại Nam Định, Hà Nam, Ninh Bình, Hưng Yên, Thái Bình.";
+    setCommonSeo(title, description, "/", "website");
     setJsonLd("ba-localbusiness-schema", organizationSchema());
   }
 
@@ -133,6 +146,8 @@
   function productSeo() {
     const page = document.querySelector(".product-detail-page");
     if (!page) return;
+    removeJsonLdByType("Product", "ba-product-schema");
+
     const renderedCode = page.dataset.productdbRendered || "";
     const route = routing.parseProductRoute ? routing.parseProductRoute() : {};
     const routeSlug = clean(route.slug);
