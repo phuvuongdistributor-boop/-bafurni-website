@@ -59,6 +59,12 @@
     { "source": "/danh-muc/search-filter.js", "destination": "/search-filter.js" },
     { "source": "/danh-muc/:category/search-filter.js", "destination": "/search-filter.js" },
     { "source": "/san-pham/search-filter.js", "destination": "/search-filter.js" },
+    { "source": "/san-pham/tq01-ghe-giam-doc-tq01", "destination": "/product-detail.html" },
+    { "source": "/san-pham/tq05-ghe-giam-doc-tq05", "destination": "/product-detail.html" },
+    { "source": "/san-pham/tq07-ghe-giam-doc-tq07", "destination": "/product-detail.html" },
+    { "source": "/san-pham/tq08-ghe-giam-doc-tq08", "destination": "/product-detail.html" },
+    { "source": "/san-pham/tq09-ghe-giam-doc-tq09", "destination": "/product-detail.html" },
+    { "source": "/san-pham/tq11-ghe-giam-doc-tq11", "destination": "/product-detail.html" },
     { "source": "/san-pham/:slug", "destination": "/product-detail.html" },
     { "source": "/danh-muc/:category/:subcategory", "destination": "/category.html" },
     { "source": "/danh-muc/:category", "destination": "/category.html" }
