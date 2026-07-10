@@ -2,6 +2,7 @@ const navToggle = document.querySelector(".nav-toggle");
 const mainNav = document.querySelector(".main-nav");
 const navLinks = document.querySelectorAll(".main-nav a");
 const categoryLibrary = Array.isArray(window.BA_CATEGORY_LIBRARY) ? window.BA_CATEGORY_LIBRARY : [];
+const productDetailHref = "product-detail.html";
 
 const iconPaths = {
   chair: '<path d="M8 4h8l1 9H7L8 4Z"/><path d="M9 13v3h6v-3"/><path d="M12 16v4"/><path d="M8 20h8"/>',
@@ -175,17 +176,20 @@ function renderHomepageCategory() {
 }
 
 function productCard(item, index) {
+  const productCode = `CHAIR-DEMO-${String(index + 1).padStart(2, "0")}`;
+  const productName = `${item.name} BA demo`;
+
   return `
     <article class="product-card category-template-product-card" data-subcategory="${escapeHTML(item.id)}">
       <div class="product-card__image category-template-product-card__image" aria-hidden="true">
         <span>${iconSvg(item.icon)} DEMO</span>
       </div>
       <div class="product-card__body">
-        <p class="product-card__code">Mã mẫu: CHAIR-DEMO-${String(index + 1).padStart(2, "0")}</p>
-        <h3>${escapeHTML(item.name)} BA demo</h3>
+        <p class="product-card__code">Mã mẫu: ${escapeHTML(productCode)}</p>
+        <h3>${escapeHTML(productName)}</h3>
         <p class="category-template-product-card__meta">Ghế văn phòng / ${escapeHTML(item.name)} / Dữ liệu mẫu</p>
         <p class="product-card__price">Liên hệ báo giá</p>
-        <a class="product-card__cta" href="#category-contact">Nhận báo giá</a>
+        <a class="product-card__cta" href="${productDetailHref}" aria-label="Xem chi tiết ${escapeHTML(productName)}">Xem chi tiết</a>
       </div>
     </article>
   `;
