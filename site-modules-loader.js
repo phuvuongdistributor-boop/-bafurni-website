@@ -1,8 +1,9 @@
 (function () {
-  const moduleVersion = "2026-07-10-s16";
+  const moduleVersion = "2026-07-10-s17";
   const cssFiles = ["site-modules.css", "search-filter.css", "productdb-integration.css"];
   const scriptFiles = [
     "product-data-adapter.js",
+    "site-routing.js",
     "productdb-data.js",
     "productdb-integration.js",
     "product-data-adapter-qa.js",
