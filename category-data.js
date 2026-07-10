@@ -183,3 +183,22 @@ window.BA_CATEGORY_LIBRARY = [
     ]
   }
 ];
+
+(function () {
+  if (window.BA_MODULE_LOADER_BOOTSTRAPPED) return;
+  window.BA_MODULE_LOADER_BOOTSTRAPPED = true;
+
+  function loadModuleLoader() {
+    if (document.querySelector('script[src^="site-modules-loader.js"]')) return;
+    const script = document.createElement("script");
+    script.src = "site-modules-loader.js?v=2026-07-10-s13";
+    script.defer = false;
+    document.body.appendChild(script);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", loadModuleLoader, { once: true });
+  } else {
+    loadModuleLoader();
+  }
+})();
