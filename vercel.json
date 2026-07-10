@@ -1,5 +1,6 @@
 {
   "trailingSlash": false,
+  "cleanUrls": false,
   "rewrites": [
     { "source": "/danh-muc/assets/:path*", "destination": "/assets/:path*" },
     { "source": "/danh-muc/:category/assets/:path*", "destination": "/assets/:path*" },
