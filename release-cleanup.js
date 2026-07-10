@@ -7,6 +7,8 @@
     ["Product Detail Shell", "Thông tin sản phẩm"],
     ["Related Products Shell", "Sản phẩm liên quan"],
     ["Product Grid Shell", "Danh sách sản phẩm"],
+    ["Mode: static filter shell, chưa nối ProductDB", "Bộ lọc giao diện sẵn sàng cho dữ liệu sản phẩm"],
+    ["static filter shell, chưa nối ProductDB", "bộ lọc giao diện sẵn sàng cho dữ liệu sản phẩm"],
     ["Filter UI shell tĩnh, chưa nối ProductDB.", "Bộ lọc giao diện đã sẵn sàng cho dữ liệu sản phẩm."],
     ["Trang tĩnh này mô phỏng đầy đủ trải nghiệm danh mục trước khi kết nối ProductDB.", "BA_Furniture tập hợp các dòng ghế văn phòng theo nhu cầu sử dụng, ngân sách và cấu hình dự án."],
     ["Card mẫu tĩnh, chưa nối ProductDB. Khi có dữ liệu thật, khu vực này có thể render sản phẩm cùng danh mục hoặc cùng nhu cầu sử dụng.", "Sản phẩm cùng nhóm được gợi ý để khách hàng so sánh nhanh và gửi yêu cầu báo giá."],
@@ -14,6 +16,8 @@
     ["Category page static shell for CTO review.", "Category experience production release."],
     ["Product detail static shell for CTO review.", "Product detail production release."],
     ["Trang danh mục mẫu", "Trang danh mục"],
+    ["sản phẩm mẫu", "sản phẩm"],
+    ["Sản phẩm mẫu", "Sản phẩm"],
     ["Dữ liệu mẫu", "BA_Furniture"],
     ["BA demo", "BA_Furniture"],
     ["MÃ MẪU: DEMO-", "Mã tham khảo: BA-"],
@@ -99,6 +103,6 @@
 
   window.BAReleaseCleanup = {
     run,
-    version: "2026-07-10-s22"
+    version: "2026-07-10-s22.1"
   };
 })();
