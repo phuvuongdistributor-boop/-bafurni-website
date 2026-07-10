@@ -191,7 +191,7 @@ window.BA_CATEGORY_LIBRARY = [
   function loadModuleLoader() {
     if (document.querySelector('script[src^="site-modules-loader.js"]')) return;
     const script = document.createElement("script");
-    script.src = "site-modules-loader.js?v=2026-07-10-s13";
+    script.src = "site-modules-loader.js?v=" + Date.now();
     script.defer = false;
     document.body.appendChild(script);
   }
