@@ -2,12 +2,12 @@
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "^/(?:danh-muc|san-pham)(?:/[^/]+)*/assets/(?<path>.+)$",
-      "destination": "/assets/$path"
+      "source": "^/(danh-muc|san-pham)(/[^/]+)*/assets/(.+)$",
+      "destination": "/assets/$3"
     },
     {
-      "source": "^/(?:danh-muc|san-pham)(?:/[^/]+)*/(?<asset>[^/]+\\.(?:css|js|svg|png|jpg|jpeg|webp|xml|ico))$",
-      "destination": "/$asset"
+      "source": "^/(danh-muc|san-pham)(/[^/]+)*/([^/]+\\.(css|js|svg|png|jpg|jpeg|webp|xml|ico))$",
+      "destination": "/$3"
     },
     {
       "source": "/san-pham/:slug",
