@@ -1,6 +1,6 @@
 (function () {
-  const moduleVersion = "2026-07-10-s23-1";
-  const cssFiles = ["site-modules.css", "search-filter.css", "productdb-integration.css", "quote-lead.css", "performance-accessibility.css", "final-design-polish.css", "category-visual-library.css"];
+  const moduleVersion = "2026-07-10-s24";
+  const cssFiles = ["site-modules.css", "search-filter.css", "productdb-integration.css", "quote-lead.css", "performance-accessibility.css", "final-design-polish.css", "category-visual-library.css", "category-page-engine.css"];
   const scriptFiles = [
     "product-data-adapter.js",
     "site-routing.js",
@@ -8,6 +8,7 @@
     "productdb-data.js",
     "productdb-integration.js",
     "seo-module.js",
+    "category-page-engine.js",
     "quote-lead.js",
     "product-data-adapter-qa.js",
     "product-gallery.js",

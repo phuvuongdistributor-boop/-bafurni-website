@@ -44,6 +44,9 @@
     { "source": "/danh-muc/category-visual-library.css", "destination": "/category-visual-library.css" },
     { "source": "/danh-muc/:category/category-visual-library.css", "destination": "/category-visual-library.css" },
     { "source": "/san-pham/category-visual-library.css", "destination": "/category-visual-library.css" },
+    { "source": "/danh-muc/category-page-engine.css", "destination": "/category-page-engine.css" },
+    { "source": "/danh-muc/:category/category-page-engine.css", "destination": "/category-page-engine.css" },
+    { "source": "/san-pham/category-page-engine.css", "destination": "/category-page-engine.css" },
     { "source": "/danh-muc/product-data-adapter.js", "destination": "/product-data-adapter.js" },
     { "source": "/danh-muc/:category/product-data-adapter.js", "destination": "/product-data-adapter.js" },
     { "source": "/san-pham/product-data-adapter.js", "destination": "/product-data-adapter.js" },
@@ -62,6 +65,9 @@
     { "source": "/danh-muc/seo-module.js", "destination": "/seo-module.js" },
     { "source": "/danh-muc/:category/seo-module.js", "destination": "/seo-module.js" },
     { "source": "/san-pham/seo-module.js", "destination": "/seo-module.js" },
+    { "source": "/danh-muc/category-page-engine.js", "destination": "/category-page-engine.js" },
+    { "source": "/danh-muc/:category/category-page-engine.js", "destination": "/category-page-engine.js" },
+    { "source": "/san-pham/category-page-engine.js", "destination": "/category-page-engine.js" },
     { "source": "/danh-muc/quote-lead.js", "destination": "/quote-lead.js" },
     { "source": "/danh-muc/:category/quote-lead.js", "destination": "/quote-lead.js" },
     { "source": "/san-pham/quote-lead.js", "destination": "/quote-lead.js" },
@@ -91,25 +97,9 @@
     { "source": "/danh-muc/:category", "destination": "/category.html" }
   ],
   "headers": [
-    {
-      "source": "/sitemap.xml",
-      "headers": [
-        { "key": "Content-Type", "value": "application/xml; charset=utf-8" },
-        { "key": "X-Content-Type-Options", "value": "nosniff" }
-      ]
-    },
-    {
-      "source": "/(.*)",
-      "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
-      ]
-    },
-    {
-      "source": "/assets/(.*)",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
-      ]
-    }
+    { "source": "/sitemap.xml", "headers": [ { "key": "Content-Type", "value": "application/xml; charset=utf-8" }, { "key": "X-Content-Type-Options", "value": "nosniff" } ] },
+    { "source": "/(.*)", "headers": [ { "key": "X-Content-Type-Options", "value": "nosniff" }, { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" } ] },
+    { "source": "/assets/(.*)", "headers": [ { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" } ] },
+    { "source": "/images/(.*)", "headers": [ { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" } ] }
   ]
 }
