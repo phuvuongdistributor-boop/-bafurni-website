@@ -2,6 +2,14 @@
   "trailingSlash": false,
   "rewrites": [
     {
+      "source": "^/(?:danh-muc|san-pham)(?:/[^/]+)*/assets/(?<path>.+)$",
+      "destination": "/assets/$path"
+    },
+    {
+      "source": "^/(?:danh-muc|san-pham)(?:/[^/]+)*/(?<asset>[^/]+\\.(?:css|js|svg|png|jpg|jpeg|webp|xml|ico))$",
+      "destination": "/$asset"
+    },
+    {
       "source": "/san-pham/:slug",
       "destination": "/product-detail.html"
     },
