@@ -1,6 +1,6 @@
 (function () {
-  const moduleVersion = "2026-07-10-s19";
-  const cssFiles = ["site-modules.css", "search-filter.css", "productdb-integration.css", "quote-lead.css"];
+  const moduleVersion = "2026-07-10-s20";
+  const cssFiles = ["site-modules.css", "search-filter.css", "productdb-integration.css", "quote-lead.css", "performance-accessibility.css"];
   const scriptFiles = [
     "product-data-adapter.js",
     "site-routing.js",
@@ -10,7 +10,8 @@
     "quote-lead.js",
     "product-data-adapter-qa.js",
     "product-gallery.js",
-    "search-filter.js"
+    "search-filter.js",
+    "performance-accessibility.js"
   ];
 
   function withVersion(path) {
