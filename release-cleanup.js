@@ -1,6 +1,9 @@
 (function () {
   if (window.BAReleaseCleanup) return;
 
+  const portalUrl = "https://portal.bafurni.com";
+  const publicCategoryPath = "/danh-muc/ghe-van-phong";
+
   const replacements = new Map([
     ["ProductDB Static Bundle", "BA_Furniture ProductDB"],
     ["ProductDB static bundle", "BA_Furniture ProductDB"],
@@ -51,11 +54,48 @@
     });
   }
 
+  function setExternal(link, href) {
+    link.setAttribute("href", href);
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  }
+
+  function cleanLinks() {
+    const contactTarget = document.querySelector("#contact") ? "#contact" : (document.querySelector("#product-contact") ? "#product-contact" : "#main");
+
+    document.querySelectorAll("a[href]").forEach((link) => {
+      const raw = link.getAttribute("href") || "";
+      let url;
+      try {
+        url = new URL(raw, window.location.href);
+      } catch (error) {
+        return;
+      }
+
+      if (url.origin === window.location.origin && url.pathname === "/san-pham/category.html") {
+        link.setAttribute("href", publicCategoryPath);
+      }
+
+      if (url.origin === window.location.origin && url.pathname === "/san-pham/product-detail.html") {
+        link.setAttribute("href", "/product-detail.html");
+      }
+
+      if (url.origin === window.location.origin && url.pathname.startsWith("/danh-muc/") && url.pathname !== publicCategoryPath) {
+        setExternal(link, portalUrl);
+      }
+
+      if (/zalo|đang cập nhật link chính thức/i.test(link.textContent || "")) {
+        link.setAttribute("href", contactTarget);
+      }
+    });
+  }
+
   function cleanPlaceholders() {
     document.querySelectorAll("[data-placeholder], a[href='#zalo'], a[href='#']").forEach((node) => {
       const label = node.textContent || "";
       if (!/zalo|đang cập nhật link chính thức/i.test(label)) return;
-      node.setAttribute("href", "#contact");
+      const contactTarget = document.querySelector("#contact") ? "#contact" : (document.querySelector("#product-contact") ? "#product-contact" : "#main");
+      node.setAttribute("href", contactTarget);
       node.setAttribute("aria-label", "Chat Zalo đang cập nhật link chính thức");
       node.setAttribute("title", "Chat Zalo đang cập nhật link chính thức");
       if (/đang cập nhật link chính thức|NEED_ZALO_LINK/i.test(label)) {
@@ -77,6 +117,7 @@
   function run() {
     scheduled = false;
     cleanTextNodes();
+    cleanLinks();
     cleanPlaceholders();
     cleanSourceLabels();
     document.documentElement.dataset.releaseCleanup = "ready";
@@ -103,6 +144,6 @@
 
   window.BAReleaseCleanup = {
     run,
-    version: "2026-07-10-s22.1"
+    version: "2026-07-10-s22.2"
   };
 })();
