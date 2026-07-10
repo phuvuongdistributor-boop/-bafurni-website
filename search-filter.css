@@ -1,0 +1,204 @@
+.ba-filter-shell {
+  max-width: 1180px;
+  margin: var(--space-0) auto var(--space-24);
+  padding: var(--space-20);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-16);
+  box-shadow: var(--shadow-none);
+}
+
+.ba-filter-shell__top {
+  display: flex;
+  gap: var(--space-16);
+  align-items: end;
+  justify-content: space-between;
+  margin-bottom: var(--space-16);
+}
+
+.ba-filter-shell__title {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.ba-filter-shell__title strong {
+  color: var(--color-text-primary);
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+.ba-filter-shell__title span {
+  color: var(--color-text-secondary);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.ba-filter-shell__mobile-button,
+.ba-filter-shell__clear,
+.ba-filter-shell__close {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-10) var(--space-16);
+  color: var(--color-primary);
+  background: var(--color-surface-subtle);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  font-size: 14px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.ba-filter-shell__mobile-button {
+  display: none;
+}
+
+.ba-filter-panel {
+  display: grid;
+  grid-template-columns: minmax(220px, 1.2fr) repeat(5, minmax(140px, 1fr)) auto;
+  gap: var(--space-12);
+  align-items: end;
+}
+
+.ba-filter-field {
+  display: grid;
+  gap: var(--space-6, 6px);
+}
+
+.ba-filter-field label {
+  color: var(--color-text-secondary);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.ba-filter-field input,
+.ba-filter-field select {
+  width: 100%;
+  min-height: 44px;
+  padding: var(--space-10) var(--space-12);
+  color: var(--color-text-primary);
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-10);
+  font: inherit;
+  font-weight: 800;
+}
+
+.ba-filter-field input:focus-visible,
+.ba-filter-field select:focus-visible,
+.ba-filter-shell__mobile-button:focus-visible,
+.ba-filter-shell__clear:focus-visible,
+.ba-filter-shell__close:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+}
+
+.ba-filter-results {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-10);
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1180px;
+  margin: var(--space-0) auto var(--space-16);
+  padding: var(--space-12) var(--space-16);
+  color: var(--color-text-secondary);
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-12);
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.ba-filter-empty {
+  display: none;
+  max-width: 1180px;
+  margin: var(--space-18) auto var(--space-0);
+  padding: var(--space-22);
+  background: linear-gradient(135deg, var(--color-background-muted), var(--color-surface));
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius-16);
+}
+
+.ba-filter-empty.is-visible {
+  display: block;
+}
+
+.ba-filter-empty h3 {
+  margin: var(--space-0) var(--space-0) var(--space-8);
+  color: var(--color-text-primary);
+  font-size: 20px;
+}
+
+.ba-filter-empty p {
+  margin: var(--space-0);
+  color: var(--color-text-secondary);
+}
+
+.ba-filter-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 180;
+  display: none;
+  background: rgba(16, 28, 37, 0.54);
+}
+
+@media (max-width: 1180px) {
+  .ba-filter-panel {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .ba-filter-shell__mobile-button {
+    display: inline-flex;
+  }
+
+  .ba-filter-panel {
+    position: fixed;
+    inset: auto var(--space-12) var(--space-12) var(--space-12);
+    z-index: 190;
+    display: none;
+    max-height: calc(100vh - var(--space-24));
+    overflow: auto;
+    grid-template-columns: 1fr;
+    padding: var(--space-18);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-16);
+    box-shadow: var(--shadow-md);
+  }
+
+  .ba-filter-shell.is-open .ba-filter-panel,
+  .ba-filter-shell.is-open .ba-filter-overlay {
+    display: grid;
+  }
+
+  .ba-filter-overlay {
+    display: none;
+  }
+
+  .ba-filter-shell__top {
+    align-items: start;
+  }
+}
+
+@media (max-width: 640px) {
+  .ba-filter-shell {
+    padding: var(--space-18);
+  }
+
+  .ba-filter-shell__top,
+  .ba-filter-results {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .ba-filter-shell__mobile-button,
+  .ba-filter-shell__clear,
+  .ba-filter-shell__close {
+    width: 100%;
+  }
+}
