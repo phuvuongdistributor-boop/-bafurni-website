@@ -1,61 +1,77 @@
 {
   "trailingSlash": false,
   "rewrites": [
-    {
-      "source": "^/(danh-muc|san-pham)(/[^/]+)*/assets/(.+)$",
-      "destination": "/assets/$3"
-    },
-    {
-      "source": "^/(danh-muc|san-pham)(/[^/]+)*/([^/]+\\.(css|js|svg|png|jpg|jpeg|webp|xml|ico))$",
-      "destination": "/$3"
-    },
-    {
-      "source": "/san-pham/:slug",
-      "destination": "/product-detail.html"
-    },
-    {
-      "source": "/danh-muc/:category/:subcategory",
-      "destination": "/category.html"
-    },
-    {
-      "source": "/danh-muc/:category",
-      "destination": "/category.html"
-    }
+    { "source": "/danh-muc/assets/:path*", "destination": "/assets/:path*" },
+    { "source": "/danh-muc/:category/assets/:path*", "destination": "/assets/:path*" },
+    { "source": "/san-pham/assets/:path*", "destination": "/assets/:path*" },
+    { "source": "/danh-muc/style.css", "destination": "/style.css" },
+    { "source": "/danh-muc/:category/style.css", "destination": "/style.css" },
+    { "source": "/san-pham/style.css", "destination": "/style.css" },
+    { "source": "/danh-muc/product-detail.css", "destination": "/product-detail.css" },
+    { "source": "/danh-muc/:category/product-detail.css", "destination": "/product-detail.css" },
+    { "source": "/san-pham/product-detail.css", "destination": "/product-detail.css" },
+    { "source": "/danh-muc/category-data.js", "destination": "/category-data.js" },
+    { "source": "/danh-muc/:category/category-data.js", "destination": "/category-data.js" },
+    { "source": "/san-pham/category-data.js", "destination": "/category-data.js" },
+    { "source": "/danh-muc/script.js", "destination": "/script.js" },
+    { "source": "/danh-muc/:category/script.js", "destination": "/script.js" },
+    { "source": "/san-pham/script.js", "destination": "/script.js" },
+    { "source": "/danh-muc/site-modules-loader.js", "destination": "/site-modules-loader.js" },
+    { "source": "/danh-muc/:category/site-modules-loader.js", "destination": "/site-modules-loader.js" },
+    { "source": "/san-pham/site-modules-loader.js", "destination": "/site-modules-loader.js" },
+    { "source": "/danh-muc/site-modules.css", "destination": "/site-modules.css" },
+    { "source": "/danh-muc/:category/site-modules.css", "destination": "/site-modules.css" },
+    { "source": "/san-pham/site-modules.css", "destination": "/site-modules.css" },
+    { "source": "/danh-muc/search-filter.css", "destination": "/search-filter.css" },
+    { "source": "/danh-muc/:category/search-filter.css", "destination": "/search-filter.css" },
+    { "source": "/san-pham/search-filter.css", "destination": "/search-filter.css" },
+    { "source": "/danh-muc/productdb-integration.css", "destination": "/productdb-integration.css" },
+    { "source": "/danh-muc/:category/productdb-integration.css", "destination": "/productdb-integration.css" },
+    { "source": "/san-pham/productdb-integration.css", "destination": "/productdb-integration.css" },
+    { "source": "/danh-muc/product-data-adapter.js", "destination": "/product-data-adapter.js" },
+    { "source": "/danh-muc/:category/product-data-adapter.js", "destination": "/product-data-adapter.js" },
+    { "source": "/san-pham/product-data-adapter.js", "destination": "/product-data-adapter.js" },
+    { "source": "/danh-muc/site-routing.js", "destination": "/site-routing.js" },
+    { "source": "/danh-muc/:category/site-routing.js", "destination": "/site-routing.js" },
+    { "source": "/san-pham/site-routing.js", "destination": "/site-routing.js" },
+    { "source": "/danh-muc/productdb-data.js", "destination": "/productdb-data.js" },
+    { "source": "/danh-muc/:category/productdb-data.js", "destination": "/productdb-data.js" },
+    { "source": "/san-pham/productdb-data.js", "destination": "/productdb-data.js" },
+    { "source": "/danh-muc/productdb-integration.js", "destination": "/productdb-integration.js" },
+    { "source": "/danh-muc/:category/productdb-integration.js", "destination": "/productdb-integration.js" },
+    { "source": "/san-pham/productdb-integration.js", "destination": "/productdb-integration.js" },
+    { "source": "/danh-muc/product-data-adapter-qa.js", "destination": "/product-data-adapter-qa.js" },
+    { "source": "/danh-muc/:category/product-data-adapter-qa.js", "destination": "/product-data-adapter-qa.js" },
+    { "source": "/san-pham/product-data-adapter-qa.js", "destination": "/product-data-adapter-qa.js" },
+    { "source": "/danh-muc/product-gallery.js", "destination": "/product-gallery.js" },
+    { "source": "/danh-muc/:category/product-gallery.js", "destination": "/product-gallery.js" },
+    { "source": "/san-pham/product-gallery.js", "destination": "/product-gallery.js" },
+    { "source": "/danh-muc/search-filter.js", "destination": "/search-filter.js" },
+    { "source": "/danh-muc/:category/search-filter.js", "destination": "/search-filter.js" },
+    { "source": "/san-pham/search-filter.js", "destination": "/search-filter.js" },
+    { "source": "/san-pham/:slug", "destination": "/product-detail.html" },
+    { "source": "/danh-muc/:category/:subcategory", "destination": "/category.html" },
+    { "source": "/danh-muc/:category", "destination": "/category.html" }
   ],
   "headers": [
     {
       "source": "/sitemap.xml",
       "headers": [
-        {
-          "key": "Content-Type",
-          "value": "application/xml; charset=utf-8"
-        },
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        }
+        { "key": "Content-Type", "value": "application/xml; charset=utf-8" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" }
       ]
     },
     {
       "source": "/(.*)",
       "headers": [
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
-        }
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
       ]
     },
     {
       "source": "/assets/(.*)",
       "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
       ]
     }
   ]
