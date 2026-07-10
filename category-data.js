@@ -189,9 +189,9 @@ window.BA_CATEGORY_LIBRARY = [
   window.BA_MODULE_LOADER_BOOTSTRAPPED = true;
 
   function loadModuleLoader() {
-    if (document.querySelector('script[src^="site-modules-loader.js"]')) return;
+    if (document.querySelector('script[src*="site-modules-loader.js"]')) return;
     const script = document.createElement("script");
-    script.src = "site-modules-loader.js?v=" + Date.now();
+    script.src = "/site-modules-loader.js?v=2026-07-10-s25";
     script.defer = false;
     document.body.appendChild(script);
   }
