@@ -1,0 +1,320 @@
+{
+  "generated_at": "2026-07-11",
+  "source": "local products.json",
+  "productdb_modified": false,
+  "portal_modified": false,
+  "total_rows": 3301,
+  "status_counts": {
+    "READY": 1892,
+    "EXCLUDE": 1112,
+    "NEED_IMAGE": 297
+  },
+  "ready_or_fallback_total": 1892,
+  "ready_or_fallback_rate_percent": 57.32,
+  "reason_counts": {
+    "duplicate_code": 1112,
+    "missing_or_invalid_image": 297
+  },
+  "category_counts": {
+    "CABINET_STORAGE": 723,
+    "SHELVING_RACK": 675,
+    "SCHOOL_FURNITURE": 539,
+    "PEDESTAL_DRAWER": 475,
+    "SOFA_WAITING": 379,
+    "OFFICE_CHAIR": 163,
+    "OFFICE_DESK": 148,
+    "MEETING_TABLE": 62,
+    "LOCKER_STEEL": 59,
+    "PUBLIC_PROJECT": 46,
+    "OTHER": 32
+  },
+  "samples": {
+    "READY": [
+      {
+        "row": 1,
+        "code": "CT2412V1",
+        "name": "Bàn họp gỗ cao cấp CT2412V1",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 2,
+        "code": "CT2412VM1",
+        "name": "Bàn họp cao cấp CT2412VM1",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 3,
+        "code": "CT4016V19",
+        "name": "Bàn họp cao cấp CT4016V19",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 4,
+        "code": "CT2010H2",
+        "name": "Bàn họp cao cấp CT2010H2",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 5,
+        "code": "CT2412H2",
+        "name": "Bàn họp cao cấp CT2412H2",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 6,
+        "code": "CT2010H5",
+        "name": "Bàn họp cao cấp CT2010H5",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 7,
+        "code": "CT2010H5CN",
+        "name": "Bàn họp cao cấp CT2010H5CN",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 8,
+        "code": "CT2412H5CN",
+        "name": "Bàn họp cao cấp CT2412H5CN",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 9,
+        "code": "CT2010H6",
+        "name": "Bàn họp cao cấp CT2010H6",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      },
+      {
+        "row": 10,
+        "code": "CT2412H6",
+        "name": "Bàn họp CT2412H6",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": []
+      }
+    ],
+    "EXCLUDE": [
+      {
+        "row": 91,
+        "code": "M3DV1",
+        "name": "Hộc tài liệu M3DV1",
+        "category": "BÀN",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 103,
+        "code": "M3DV2",
+        "name": "Hộc tài liệu M3DV2",
+        "category": "BÀN",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 104,
+        "code": "TPV2",
+        "name": "Tủ phụ TPV2",
+        "category": "BÀN",
+        "inferred_category": "CABINET_STORAGE",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 435,
+        "code": "NTM3D",
+        "name": "Bàn văn phòng NTM3D",
+        "category": "BÀN",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 436,
+        "code": "NT140",
+        "name": "Bàn làm việc NT140",
+        "category": "BÀN",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 439,
+        "code": "NTM1D1F",
+        "name": "Hộc tài liệu NTM1D1F",
+        "category": "BÀN",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 445,
+        "code": "NT140",
+        "name": "Bàn làm việc NT140",
+        "category": "BÀN",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 870,
+        "code": "M3DV1",
+        "name": "Hộc tài liệu M3DV1",
+        "category": "HỘC",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 872,
+        "code": "M3DV2",
+        "name": "Hộc tài liệu M3DV2",
+        "category": "HỘC",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      },
+      {
+        "row": 882,
+        "code": "NTM3D",
+        "name": "Hộc tủ phụ gỗ NTM3D",
+        "category": "HỘC",
+        "inferred_category": "PEDESTAL_DRAWER",
+        "reasons": [
+          "duplicate_code"
+        ]
+      }
+    ],
+    "NEED_IMAGE": [
+      {
+        "row": 210,
+        "code": "BRIC01",
+        "name": "Bàn văn phòng BRIC01",
+        "category": "BÀN",
+        "inferred_category": "MEETING_TABLE",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 531,
+        "code": "4001",
+        "name": "Ghế lưới chân quỳ chữ A 4001",
+        "category": "GHẾ",
+        "inferred_category": "OFFICE_CHAIR",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 532,
+        "code": "4019",
+        "name": "Ghế lưới chân quỳ lưng thấp 4019",
+        "category": "GHẾ",
+        "inferred_category": "SHELVING_RACK",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 533,
+        "code": "4009C",
+        "name": "Ghế lưới chân quỳ lưng thấp 4009C",
+        "category": "GHẾ",
+        "inferred_category": "OFFICE_CHAIR",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 534,
+        "code": "4020",
+        "name": "Ghế lưới lưng cao 4020",
+        "category": "GHẾ",
+        "inferred_category": "OFFICE_CHAIR",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 535,
+        "code": "4010C",
+        "name": "Ghế chân quỳ lưới lưng cao 4010C",
+        "category": "GHẾ",
+        "inferred_category": "OFFICE_CHAIR",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 536,
+        "code": "4005",
+        "name": "Ghế xoay lưới 4005",
+        "category": "GHẾ",
+        "inferred_category": "SHELVING_RACK",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 537,
+        "code": "5003",
+        "name": "Ghế xoay lưới tựa đầu (CM) 5003",
+        "category": "GHẾ",
+        "inferred_category": "SHELVING_RACK",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 538,
+        "code": "1003-1NAN",
+        "name": "Ghế xoay lưới 1003-1",
+        "category": "GHẾ",
+        "inferred_category": "SHELVING_RACK",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      },
+      {
+        "row": 539,
+        "code": "1003-4NAN",
+        "name": "Ghế xoay lưới 1003-4",
+        "category": "GHẾ",
+        "inferred_category": "SHELVING_RACK",
+        "reasons": [
+          "missing_or_invalid_image"
+        ]
+      }
+    ]
+  },
+  "recommendation": "Do not expand further in Sprint 28; keep 1,000 public rows stable and prioritize image/category/content cleanup before the next larger expansion."
+}
