@@ -1,6 +1,6 @@
 (function () {
-  const moduleVersion = "2026-07-11-v3-experience";
-  const cssFiles = ["/site-modules.css", "/search-filter.css", "/productdb-integration.css", "/quote-lead.css", "/performance-accessibility.css", "/final-design-polish.css", "/category-visual-library.css", "/category-page-engine.css", "/sprint31-header-composite.css", "/v3-experience.css"];
+  const moduleVersion = "2026-07-11-v3-experience-fix";
+  const cssFiles = ["/site-modules.css", "/search-filter.css", "/productdb-integration.css", "/quote-lead.css", "/performance-accessibility.css", "/final-design-polish.css", "/category-visual-library.css", "/category-page-engine.css", "/sprint31-header-composite.css", "/v3-experience.css", "/v3-experience-fix.css"];
   const scriptFiles = [
     "/product-data-adapter.js",
     "/site-routing.js",
@@ -31,7 +31,8 @@
     "/performance-accessibility.js",
     "/release-cleanup.js",
     "/sprint31-header-composite.js",
-    "/v3-experience.js"
+    "/v3-experience.js",
+    "/v3-experience-fix.js"
   ];
 
   function withVersion(path) {
