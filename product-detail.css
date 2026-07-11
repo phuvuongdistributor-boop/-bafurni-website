@@ -205,6 +205,23 @@
   line-height: 1.15;
 }
 
+.product-summary__source {
+  margin: var(--space-0);
+  color: var(--color-text-secondary);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.product-summary__source a {
+  color: var(--color-primary);
+  text-underline-offset: 3px;
+}
+
+.product-summary__source a:hover,
+.product-summary__source a:focus-visible {
+  color: var(--color-primary-strong);
+}
+
 .product-summary__actions {
   display: flex;
   flex-wrap: wrap;
