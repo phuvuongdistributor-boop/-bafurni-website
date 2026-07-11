@@ -1,5 +1,5 @@
 (function () {
-  const moduleVersion = "2026-07-10-s26";
+  const moduleVersion = "2026-07-11-s27-compact";
   const cssFiles = ["/site-modules.css", "/search-filter.css", "/productdb-integration.css", "/quote-lead.css", "/performance-accessibility.css", "/final-design-polish.css", "/category-visual-library.css", "/category-page-engine.css"];
   const scriptFiles = [
     "/product-data-adapter.js",
@@ -18,6 +18,7 @@
     "/productdb-data.part8.js",
     "/productdb-data.part9.js",
     "/productdb-data.part10.js",
+    "/productdb-data.phase2.compact.js",
     "/product-category-normalizer.js",
     "/productdb-integration.js",
     "/product-detail-content-engine.js",
@@ -58,7 +59,13 @@
     const script = document.createElement("script");
     script.src = withVersion(src);
     script.defer = false;
-    script.onload = () => loadScript(index + 1);
+    script.onload = () => {
+      if (src.includes("productdb-data.phase2.compact.js") && window.BA_PRODUCTDB_PHASE2_READY && typeof window.BA_PRODUCTDB_PHASE2_READY.finally === "function") {
+        window.BA_PRODUCTDB_PHASE2_READY.finally(() => loadScript(index + 1));
+        return;
+      }
+      loadScript(index + 1);
+    };
     script.onerror = () => loadScript(index + 1);
     document.body.appendChild(script);
   }

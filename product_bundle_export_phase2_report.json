@@ -1,0 +1,45 @@
+{
+  "input_rows": 3301,
+  "phase1_rows_kept": 300,
+  "phase2_rows_added": 700,
+  "final_public_bundle_count": 1000,
+  "phase2_file_count": 1,
+  "phase2_asset": "productdb-data.phase2.compact.js",
+  "phase2_payload": "gzip-base64 compact-js-dictionary",
+  "phase2_optional_detail_fields": "Size, Material, Description, and Source_URL intentionally use public fallback in the compact phase 2 asset.",
+  "rejected_rows": 2601,
+  "rejection_reasons": {
+    "missing_or_invalid_image": 309,
+    "duplicate_code_or_phase1": 304,
+    "duplicate_slug_or_phase1": 303
+  },
+  "phase2_category_coverage": {
+    "OFFICE_DESK": 187,
+    "OFFICE_CHAIR": 140,
+    "OTHER": 4,
+    "CABINET_STORAGE": 49,
+    "LOCKER_STEEL": 12,
+    "SOFA_WAITING": 97,
+    "SCHOOL_FURNITURE": 110,
+    "PEDESTAL_DRAWER": 4,
+    "MEETING_TABLE": 60,
+    "PUBLIC_PROJECT": 36,
+    "SHELVING_RACK": 1
+  },
+  "final_category_coverage": {
+    "OFFICE_CHAIR": 229,
+    "CABINET_STORAGE": 85,
+    "OFFICE_DESK": 262,
+    "PEDESTAL_DRAWER": 47,
+    "SHELVING_RACK": 34,
+    "SCHOOL_FURNITURE": 118,
+    "LOCKER_STEEL": 28,
+    "OTHER": 4,
+    "SOFA_WAITING": 97,
+    "MEETING_TABLE": 60,
+    "PUBLIC_PROJECT": 36
+  },
+  "missing_image_rate_phase2": 0.0,
+  "duplicate_code_or_phase1_count": 304,
+  "duplicate_slug_or_phase1_count": 303
+}
