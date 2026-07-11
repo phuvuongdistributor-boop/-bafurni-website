@@ -1,5 +1,5 @@
 (function () {
-  const moduleVersion = "2026-07-11-v3-experience-fix";
+  const moduleVersion = "2026-07-11-v3-image-hardening";
   const cssFiles = ["/site-modules.css", "/search-filter.css", "/productdb-integration.css", "/quote-lead.css", "/performance-accessibility.css", "/final-design-polish.css", "/category-visual-library.css", "/category-page-engine.css", "/sprint31-header-composite.css", "/v3-experience.css", "/v3-experience-fix.css"];
   const scriptFiles = [
     "/product-data-adapter.js",
@@ -32,7 +32,8 @@
     "/release-cleanup.js",
     "/sprint31-header-composite.js",
     "/v3-experience.js",
-    "/v3-experience-fix.js"
+    "/v3-experience-fix.js",
+    "/v3-image-hardening.js"
   ];
 
   function withVersion(path) {
