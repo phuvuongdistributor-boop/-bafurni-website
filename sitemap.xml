@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bafurni.com/</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/ghe-van-phong</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/ban-van-phong</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.88</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/ban-hop</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.86</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/tu-hoc-tai-lieu</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.86</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/tu-sat-locker</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.86</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/sofa-ghe-cho</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.84</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/noi-that-truong-hoc</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.84</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/ke-gia-kho</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.82</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/noi-that-cong-cong-cong-trinh</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.82</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/noi-that-y-te</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.72</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/noi-that-gia-dinh-gia-dung</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/danh-muc/vach-phu-kien</loc><lastmod>2026-07-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/san-pham/tq01-ghe-giam-doc-tq01</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/san-pham/tq05-ghe-giam-doc-tq05</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/san-pham/tq07-ghe-giam-doc-tq07</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/san-pham/tq08-ghe-giam-doc-tq08</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/san-pham/tq09-ghe-giam-doc-tq09</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/san-pham/tq11-ghe-giam-doc-tq11</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bafurni.com/san-pham/sf01-1-ghe-sofa-don-sf01-1</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://bafurni.com/san-pham/sf01-3-ghe-sofa-bang-sf01-3</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://bafurni.com/san-pham/sf02-1-ghe-sofa-don-sf02-1</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://bafurni.com/san-pham/sf02-3-ghe-sofa-bang-sf02-3</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://bafurni.com/san-pham/g892-ghe-hoi-truong-hoa-phat-g892</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://bafurni.com/san-pham/g893-ghe-hoi-truong-g893</loc><lastmod>2026-07-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bafurni.com/</loc><lastmod>2026-07-13</lastmod><priority>1.0</priority></url>
+  <url><loc>https://bafurni.com/category.html</loc><lastmod>2026-07-13</lastmod><priority>0.9</priority></url>
+  <url><loc>https://bafurni.com/product-detail.html</loc><lastmod>2026-07-13</lastmod><priority>0.7</priority></url>
 </urlset>
