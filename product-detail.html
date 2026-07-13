@@ -12,37 +12,55 @@
   <link rel="preconnect" href="https://noithathoaphat.com">
   <link rel="preconnect" href="https://theone.vn">
   <link rel="icon" href="/favicon.ico">
-  <link rel="stylesheet" href="/style.css?v=2026-07-13-v41">
+  <link rel="stylesheet" href="/style.css?v=2026-07-13-v42">
   <link rel="stylesheet" href="/product-detail-v41.css?v=2026-07-13-v41">
 </head>
 <body>
   <a class="skip-link" href="#main">Bỏ qua menu</a>
-  <header class="site-header">
-    <div class="header-top">
-      <div class="container header-top__inner">
-        <span>Chi tiết sản phẩm BA_Furniture</span>
-        <nav aria-label="Liên kết nhanh"><a href="/category.html">Danh mục</a><a href="#contact">Liên hệ</a></nav>
+  <header class="site-header commerce-header">
+    <div class="utility-bar" aria-label="Thông tin nhanh">
+      <div class="container utility-bar__inner">
+        <p>Chi tiết sản phẩm BA_Furniture được bind theo ProductDB public readonly</p>
+        <nav aria-label="Liên kết tiện ích"><a href="/">Trang chủ</a><a href="/category.html">Danh mục</a><a href="#contact">Liên hệ</a></nav>
       </div>
     </div>
-    <div class="container header-main">
-      <a class="brand" href="/" aria-label="BA_Furniture trang chủ"><span class="brand__mark">BA</span><span><strong>BA_Furniture</strong><small>Nội thất doanh nghiệp</small></span></a>
-      <form class="site-search" action="/category.html" role="search">
-        <label class="sr-only" for="site-search">Tìm sản phẩm</label>
-        <input id="site-search" name="q" type="search" placeholder="Tìm sản phẩm theo tên hoặc mã...">
-        <button type="submit">Tìm kiếm</button>
-      </form>
-      <a class="hotline" href="tel:0929878666"><span>Hotline tư vấn</span><strong>0929.878.666</strong></a>
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <div class="header-main">
+      <div class="container header-main__inner">
+        <a class="brand" href="/" aria-label="BA_Furniture trang chủ"><span class="brand__mark">BA</span><span class="brand__text"><strong>BA_Furniture</strong><small>Nội thất doanh nghiệp</small></span></a>
+        <form class="site-search" action="/category.html" role="search">
+          <label class="sr-only" for="site-search">Tìm sản phẩm</label>
+          <input id="site-search" name="q" type="search" placeholder="Tìm sản phẩm theo tên hoặc mã...">
+          <button type="submit">Tìm kiếm</button>
+        </form>
+        <a class="hotline" href="tel:0929878666"><span>Hotline tư vấn</span><strong>0929.878.666</strong></a>
+        <a class="header-quote" href="tel:0929878666">Nhận báo giá</a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      </div>
     </div>
     <nav class="header-nav" id="site-nav" aria-label="Menu chính">
       <div class="container nav-inner">
-        <a class="nav-catalog" href="/category.html">Danh mục sản phẩm</a>
-        <a href="/">Trang chủ</a>
-        <a href="/category.html">Sản phẩm</a>
-        <a href="/#solutions">Giải pháp</a>
+        <div class="nav-catalog-wrap">
+          <button class="nav-catalog" type="button" aria-expanded="false" aria-controls="mega-menu">Danh mục sản phẩm</button>
+          <div class="mega-menu" id="mega-menu">
+            <div class="mega-menu__grid">
+              <a href="/danh-muc/ghe-van-phong"><strong>Ghế văn phòng</strong><span>Ghế giám đốc, ghế lưới, ghế chân quỳ</span></a>
+              <a href="/danh-muc/ban-van-phong"><strong>Bàn văn phòng</strong><span>Bàn nhân viên, bàn giám đốc, module</span></a>
+              <a href="/danh-muc/ban-hop"><strong>Bàn họp</strong><span>Bàn họp nhỏ, lớn, oval</span></a>
+              <a href="/danh-muc/tu-hoc"><strong>Tủ & Hộc tài liệu</strong><span>Tủ hồ sơ, hộc di động, tủ thấp</span></a>
+              <a href="/danh-muc/locker"><strong>Locker</strong><span>Tủ locker, tủ sắt, tủ thay đồ</span></a>
+              <a href="/danh-muc/sofa"><strong>Sofa & Ghế chờ</strong><span>Sofa sảnh, ghế lounge, khu chờ</span></a>
+              <a href="/danh-muc/truong-hoc"><strong>Nội thất trường học</strong><span>Bàn ghế học sinh, giáo viên</span></a>
+              <a href="/danh-muc/ke-gia-kho"><strong>Kệ & Giá kho</strong><span>Kệ sắt, giá kho, lưu trữ</span></a>
+            </div>
+          </div>
+        </div>
+        <a href="/danh-muc/ghe-van-phong">Ghế văn phòng</a>
+        <a href="/danh-muc/ban-van-phong">Bàn văn phòng</a>
+        <a href="/danh-muc/tu-hoc">Tủ tài liệu</a>
+        <a href="/danh-muc/sofa">Sofa & Ghế chờ</a>
+        <a href="/danh-muc/truong-hoc">Nội thất trường học</a>
         <a href="/#projects">Dự án</a>
         <a href="#contact">Liên hệ</a>
-        <a class="nav-quote" href="tel:0929878666">Nhận báo giá</a>
       </div>
     </nav>
   </header>
@@ -71,7 +89,7 @@
     </div>
     <div class="container copyright">© 2026 BA_Furniture.</div>
   </footer>
-  <script src="/script.js?v=2026-07-13-v41"></script>
+  <script src="/script.js?v=2026-07-13-v42"></script>
   <script src="/product-detail-v41.js?v=2026-07-13-v41"></script>
 </body>
 </html>
