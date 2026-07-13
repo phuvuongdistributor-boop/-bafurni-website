@@ -1,0 +1,144 @@
+.ticker-bar {
+  display: block;
+  height: 34px;
+  min-height: 34px;
+  overflow: hidden;
+  background: var(--color-primary-strong);
+  color: #ffffff;
+  font-size: 13px;
+  line-height: 1;
+}
+
+.ticker {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  outline: none;
+}
+
+.ticker:focus-visible {
+  box-shadow: inset 0 0 0 2px rgba(214, 165, 84, .82);
+}
+
+.ticker__track {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  min-width: 100%;
+  height: 100%;
+  animation: ticker-scroll 34s linear infinite;
+  will-change: transform;
+}
+
+.ticker__group {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 30px;
+  padding-right: 30px;
+  white-space: nowrap;
+}
+
+.ticker__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: rgba(255, 255, 255, .94);
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+
+.ticker__item strong,
+.ticker__dot {
+  color: var(--color-accent);
+}
+
+.ticker:hover .ticker__track,
+.ticker:focus-visible .ticker__track,
+.ticker:focus-within .ticker__track {
+  animation-play-state: paused;
+}
+
+@keyframes ticker-scroll {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@media (max-width: 980px) {
+  .utility-bar.ticker-bar {
+    display: block;
+  }
+
+  .ticker-bar {
+    height: 32px;
+    min-height: 32px;
+    font-size: 12px;
+  }
+
+  .ticker__track {
+    animation-duration: 32s;
+  }
+
+  .ticker__group {
+    gap: 24px;
+    padding-right: 24px;
+  }
+
+  .ticker__item {
+    gap: 7px;
+  }
+}
+
+@media (max-width: 390px) {
+  .ticker-bar {
+    height: 31px;
+    min-height: 31px;
+    font-size: 11.5px;
+  }
+
+  .ticker__group {
+    gap: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-bar {
+    height: auto;
+    min-height: 32px;
+  }
+
+  .ticker {
+    overflow: visible;
+  }
+
+  .ticker__track {
+    width: 100%;
+    min-width: 0;
+    height: auto;
+    padding: 8px 14px;
+    animation: none;
+    transform: none;
+  }
+
+  .ticker__group {
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    padding-right: 0;
+    white-space: normal;
+  }
+
+  .ticker__group[aria-hidden="true"] {
+    display: none;
+  }
+
+  .ticker__item {
+    white-space: normal;
+  }
+}
