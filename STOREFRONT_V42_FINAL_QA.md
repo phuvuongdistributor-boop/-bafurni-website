@@ -43,7 +43,11 @@ Product route sample:
 
 ## Public QA
 
-Status: pending deployment verification.
+Status: PASS.
+
+Production commit:
+
+- `815e3f845e81ac42448b6de6fb264b44c65ebeaf`
 
 Required production URLs:
 
@@ -56,3 +60,23 @@ Required production URLs:
 - `https://bafurni.com/robots.txt`
 - `https://portal.bafurni.com/`
 
+Public checks:
+
+- HTTP 200: PASS
+- `https://bafurni.com/` contains `Danh mục sản phẩm BAFurniture`: PASS
+- Category route `/danh-muc/ghe-van-phong`: PASS
+- Product route `/san-pham/tq05-ghe-giam-doc-tq05`: PASS
+- WebP category assets: PASS
+- Manifest `CATEGORY_ASSET_MANIFEST_V42.json`: PASS
+- Console errors: 0
+- Broken images after full-page scroll: 0
+- Horizontal overflow: 0
+- Portal status: 200
+
+Screenshots:
+
+- `qa-screenshots/public-v42-home-desktop.png`
+- `qa-screenshots/public-v42-home-mobile.png`
+- `qa-screenshots/public-v42-category-desktop.png`
+- `qa-screenshots/public-v42-category-mobile.png`
+- `qa-screenshots/public-v42-product-mobile.png`

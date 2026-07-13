@@ -43,11 +43,35 @@ PASS.
 
 ## Production Deploy
 
-Status: pending GitHub push and Vercel deployment verification.
+Status: PASS.
+
+Production storefront commit:
+
+- `815e3f845e81ac42448b6de6fb264b44c65ebeaf`
+
+Public URLs verified:
+
+- `https://bafurni.com/`
+- `https://bafurni.com/category.html`
+- `https://bafurni.com/danh-muc/ghe-van-phong`
+- `https://bafurni.com/danh-muc/ban-van-phong`
+- `https://bafurni.com/san-pham/tq05-ghe-giam-doc-tq05`
+- `https://bafurni.com/sitemap.xml`
+- `https://bafurni.com/robots.txt`
+- `https://portal.bafurni.com/`
+
+Public QA result:
+
+- HTTP 200: PASS
+- Console error: 0
+- Broken image after full scroll: 0
+- Horizontal overflow: 0
+- Category visual module visible: PASS
+- Header/Hero rebuild visible: PASS
+- Product Detail V4.1 binding preserved: PASS
 
 ## Limitations
 
 - Category/product listing remains static UI shell and is not connected to ProductDB.
 - Portal was not modified.
 - DNS was not modified.
-
