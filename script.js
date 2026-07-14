@@ -281,3 +281,201 @@
   initMobileCta();
   window.BA_CATEGORY_LIBRARY = CATEGORY_LIBRARY;
 })();
+
+;(() => {
+  const CSS_HREF = "/typography-v44.css?v=2026-07-14-v44";
+  const tickerItems = [
+    "Nam Định • Ninh Bình • Hà Nam • Hưng Yên • Thái Bình",
+    "Tư vấn • Sản xuất • Giao lắp",
+    "Báo giá rõ • Bảo hành uy tín",
+    "Văn phòng • Trường học • Nhà máy • Dự án",
+    "Hotline: 0929.878.666"
+  ];
+  const cardDescriptions = [
+    "Ghế làm việc cho văn phòng hiện đại.",
+    "Bàn cá nhân, quản lý và cụm làm việc.",
+    "Bàn họp gọn cho nhóm và dự án.",
+    "Lưu trữ hồ sơ và vật dụng văn phòng.",
+    "Tủ cá nhân cho văn phòng và nhà máy.",
+    "Khu tiếp khách, sảnh và phòng chờ.",
+    "Bàn ghế cho lớp học và phòng chức năng.",
+    "Kệ lưu trữ cho kho và hồ sơ."
+  ];
+
+  function $(selector, root = document) { return root.querySelector(selector); }
+  function $all(selector, root = document) { return Array.from(root.querySelectorAll(selector)); }
+  function ready(fn) { document.readyState === "loading" ? document.addEventListener("DOMContentLoaded", fn, { once: true }) : fn(); }
+  function setText(selector, value, root = document) { const el = $(selector, root); if (el && el.textContent.trim() !== value) el.textContent = value; }
+
+  function loadCss() {
+    if (document.querySelector(`link[href*="${CSS_HREF.split("?")[0]}"]`)) return;
+    const link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = CSS_HREF;
+    document.head.appendChild(link);
+  }
+
+  function rewriteTicker() {
+    $all(".ticker__group").forEach((group, groupIndex) => {
+      group.innerHTML = tickerItems.map((text) => {
+        const parts = text.split(" • ");
+        return `<span class="ticker__item">${parts.map((part, index) => `${index ? '<span class="ticker__dot" aria-hidden="true">•</span> ' : ''}${part}`).join(" ")}</span>`;
+      }).join("");
+      if (groupIndex > 0) group.setAttribute("aria-hidden", "true");
+    });
+  }
+
+  function rewriteHomepage() {
+    if (!$('.commerce-hero')) return;
+    setText('.hero__content .eyebrow', 'Nội thất văn phòng & dự án');
+    setText('.hero__content h1', 'Nội thất đúng nhu cầu, đúng không gian');
+    setText('.hero__lead', 'Bàn, ghế, tủ và giải pháp nội thất cho doanh nghiệp, trường học, nhà máy và công trình.');
+    setText('.hero-card span', 'Đúng kích thước, màu sắc và chất liệu');
+
+    setText('.category-showcase .section-heading .eyebrow', 'Danh mục');
+    setText('.category-showcase .section-heading h2', 'Danh mục sản phẩm');
+    setText('.category-showcase .section-heading p', 'Tìm nhanh theo nhu cầu sử dụng.');
+    $all('.category-grid--storefront .category-card').forEach((card, index) => {
+      const p = $('p', card);
+      if (p && cardDescriptions[index]) p.textContent = cardDescriptions[index];
+      const title = $('span', card);
+      if (title && title.textContent.includes('Tủ & Hộc')) title.textContent = 'Tủ & Hộc';
+    });
+
+    setText('.featured-products .section-heading .eyebrow', 'Mẫu nổi bật');
+    setText('.featured-products .section-heading h2', 'Sản phẩm nổi bật');
+    setText('.featured-products .section-heading p', 'Các mẫu được khách hàng quan tâm.');
+
+    setText('.solutions .split > div:first-child .eyebrow', 'Giải pháp');
+    setText('.solutions .split > div:first-child h2', 'Giải pháp theo không gian');
+    setText('.solutions .split > div:first-child p', 'Tư vấn theo nhu cầu, diện tích và ngân sách.');
+
+    const trust = $('.trust');
+    if (trust && !$('.trust .section-heading')) {
+      const heading = document.createElement('div');
+      heading.className = 'container section-heading compact v44-trust-heading';
+      heading.innerHTML = '<p class="eyebrow">Cam kết</p><h2>Vì sao chọn BA_Furniture?</h2>';
+      trust.insertBefore(heading, trust.firstChild);
+    }
+    const trustCards = $all('.trust-grid article');
+    const trustCopy = [
+      ['Luôn sát nhu cầu', 'Khách hàng ở đâu, BA_Furniture ở đó.'],
+      ['Sản xuất theo yêu cầu', 'Đúng kích thước, màu sắc, chất liệu.'],
+      ['Giải pháp trọn gói', 'Cho doanh nghiệp, trường học và dự án.'],
+      ['Lựa chọn phù hợp', 'Từ sản phẩm tiêu chuẩn đến thiết kế riêng.']
+    ];
+    trustCards.forEach((card, index) => {
+      if (!trustCopy[index]) return;
+      setText('strong', trustCopy[index][0], card);
+      setText('span', trustCopy[index][1], card);
+    });
+
+    setText('.projects .split > div:first-child h2', 'Năng lực triển khai');
+    setText('.projects .split > div:first-child p', 'BA_Furniture tư vấn cấu hình, vật liệu, tiến độ và phương án giao lắp rõ ràng.');
+    setText('.project-panel h3', 'Đủ nhóm sản phẩm chính');
+    setText('.project-panel p', 'Ghế, bàn, tủ, locker, trường học và kệ kho.');
+
+    setText('.service-area h2', 'Khu vực phục vụ');
+    setText('.service-area p', 'Nam Định, Hà Nam, Ninh Bình, Hưng Yên, Thái Bình và dự án theo kế hoạch.');
+    const areaBox = $('.service-area__box > div');
+    if (areaBox && !$('.area-chips', areaBox)) {
+      const chips = document.createElement('div');
+      chips.className = 'area-chips';
+      chips.setAttribute('aria-label', 'Tỉnh thành phục vụ');
+      chips.innerHTML = '<span>Nam Định</span><span>Hà Nam</span><span>Ninh Bình</span><span>Hưng Yên</span><span>Thái Bình</span>';
+      areaBox.appendChild(chips);
+    }
+    setText('.service-area .btn', 'Gọi tư vấn');
+    rewriteFinalCta(document);
+  }
+
+  function rewriteCategoryPage() {
+    if (!$('[data-category-page]')) return;
+    setText('[data-category-description]', 'Ghế làm việc cho văn phòng, phòng họp và khu chờ. BA_Furniture tư vấn mẫu phù hợp theo nhu cầu sử dụng.');
+    setText('.subcategory-visual .section-heading h2', 'Chọn nhanh theo nhu cầu');
+    setText('[data-listing-title]', $('[data-category-title]')?.textContent || 'Ghế văn phòng');
+    const filter = $('#category-filter');
+    if (filter) filter.placeholder = 'Tên hoặc mã sản phẩm';
+    setText('.empty-state p', 'Gọi BA_Furniture để được tư vấn mẫu phù hợp.');
+    rewriteFinalCta(document);
+  }
+
+  function rewriteFinalCta(root) {
+    $all('.final-cta').forEach((section) => {
+      setText('.eyebrow', 'Báo giá', section);
+      setText('h2', 'Cần tư vấn hoặc báo giá?', section);
+      setText('p:not(.eyebrow)', 'Gửi nhu cầu, số lượng và thời gian cần hàng.', section);
+    });
+  }
+
+  function compactWords(text, maxWords = 52) {
+    const words = String(text || '').trim().split(/\s+/).filter(Boolean);
+    return words.length > maxWords ? `${words.slice(0, maxWords).join(' ')}...` : words.join(' ');
+  }
+
+  function scrubTextNode(node) {
+    const before = node.nodeValue;
+    let value = before
+      .replace(/ProductDB public readonly/g, 'Theo số lượng')
+      .replace(/Nguồn dữ liệu/g, 'Báo giá')
+      .replace(/Ảnh sản phẩm lấy từ ProductDB theo đúng mã/g, 'Ảnh sản phẩm theo mã')
+      .replace(/Sản phẩm chưa có ảnh trong ProductDB\./g, 'Sản phẩm đang cập nhật ảnh.')
+      .replace(/Thông tin trang được bind theo Code/g, 'Tra cứu và báo giá theo mã')
+      .replace(/Đang đọc ProductDB\.\.\./g, 'Đang tải sản phẩm...')
+      .replace(/Đang tải dữ liệu sản phẩm\.\.\./g, 'Đang tải sản phẩm...')
+      .replace(/Chưa thể tải ProductDB/g, 'Chưa thể tải sản phẩm')
+      .replace(/URL này không khớp với bản ghi ProductDB đang public\. BA_Furniture không hiển thị sản phẩm mẫu thay thế để tránh nhầm thông tin báo giá\./g, 'URL này chưa khớp với sản phẩm đang có trên website. Gọi BA_Furniture để được tư vấn đúng mã cần tìm.')
+      .replace(/Module bàn làm việc/g, 'Cụm bàn làm việc')
+      .replace(/module bàn làm việc/g, 'cụm làm việc')
+      .replace(/Bàn cụm\/module/g, 'Cụm bàn');
+    if (value !== before) node.nodeValue = value;
+  }
+
+  function scrubVisibleText() {
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        const parent = node.parentElement;
+        if (!parent || ['SCRIPT', 'STYLE', 'NOSCRIPT'].includes(parent.tagName)) return NodeFilter.FILTER_REJECT;
+        return /ProductDB|bind|Module|module|Nguồn dữ liệu|Đang đọc|Đang tải dữ liệu/.test(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+      }
+    });
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach(scrubTextNode);
+    $all('.product-desc').forEach((el) => { el.textContent = compactWords(el.textContent, 52); });
+  }
+
+  function fixImageSrcsets() {
+    $all('img[srcset*="-1200.webp"]').forEach((img) => {
+      const srcset = img.getAttribute('srcset') || '';
+      const first = srcset.split(',').find((part) => part.includes('-720.webp'));
+      if (first) img.setAttribute('srcset', first.trim());
+    });
+  }
+
+  let running = false;
+  function applyV44() {
+    if (running) return;
+    running = true;
+    loadCss();
+    rewriteTicker();
+    rewriteHomepage();
+    rewriteCategoryPage();
+    rewriteFinalCta(document);
+    scrubVisibleText();
+    fixImageSrcsets();
+    running = false;
+  }
+
+  ready(() => {
+    applyV44();
+    [120, 650, 1600, 3200].forEach((delay) => setTimeout(applyV44, delay));
+    let queued = false;
+    const observer = new MutationObserver(() => {
+      if (queued) return;
+      queued = true;
+      requestAnimationFrame(() => { queued = false; applyV44(); });
+    });
+    observer.observe(document.body, { childList: true, subtree: true, characterData: true });
+  });
+})();
