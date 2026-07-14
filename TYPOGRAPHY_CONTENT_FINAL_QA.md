@@ -49,7 +49,48 @@ Result:
 
 ## Production QA
 
-Pending after Vercel deployment.
+Production URL: `https://bafurni.com`
+
+Focused public verification after deployment:
+
+Routes:
+
+- `/`
+- `/category.html`
+- `/danh-muc/ghe-van-phong`
+- `/san-pham/tq05-ghe-giam-doc-tq05`
+
+Viewports:
+
+- 390 x 844
+- 1366 x 768
+
+Result:
+
+- HTTP 200: PASS
+- Console errors: 0
+- Failed requests: 0
+- Bad responses: 0
+- Broken images: 0
+- Horizontal overflow: 0
+- Visible internal terms: 0
+- `typography-v44.css` loaded: PASS
+- Runtime content rewrite visible: PASS
+- Drawer open/close: PASS
+- Reduced-motion ticker: PASS
+
+Additional public matrix was also checked at 360, 390, 412, 768, and 1366 widths; core typography and text-density checks passed.
+
+## Screenshots
+
+Production screenshots saved locally:
+
+- `../screenshots/public-v44-home-390.png`
+- `../screenshots/public-v44-home-1366.png`
+- `../screenshots/public-v44-category-390.png`
+- `../screenshots/public-v44-category-1366.png`
+- `../screenshots/public-v44-product-390.png`
+- `../screenshots/public-v44-product-1366.png`
 
 ## Known Limitations
 
