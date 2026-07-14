@@ -1,0 +1,367 @@
+:root {
+  --font-primary: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Helvetica Neue", sans-serif;
+  --font-heading: var(--font-primary);
+  --type-heading: var(--color-primary-strong);
+  --type-body: #24333f;
+  --type-muted: #5f6e78;
+  --type-link: var(--color-primary);
+}
+
+html {
+  font-family: var(--font-primary);
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  color: var(--type-body);
+  font-family: var(--font-primary);
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+.brand strong,
+.category-card span,
+.product-card h3,
+.product-info-card h1 {
+  color: var(--type-heading);
+  font-family: var(--font-heading);
+  letter-spacing: 0;
+}
+
+h1 {
+  font-size: clamp(36px, 3.4vw, 52px);
+  font-weight: 700;
+  line-height: 1.14;
+}
+
+h2 {
+  font-size: clamp(26px, 2.3vw, 34px);
+  font-weight: 700;
+  line-height: 1.18;
+}
+
+h3 {
+  font-size: clamp(20px, 1.45vw, 24px);
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+p {
+  max-width: 720px;
+}
+
+.eyebrow {
+  color: var(--color-secondary);
+  font-size: 12.5px;
+  font-weight: 650;
+  letter-spacing: 0;
+  line-height: 1.25;
+}
+
+.brand__text small,
+.utility-bar,
+.ticker__item,
+.product-card small,
+.spec-mini-grid span,
+.breadcrumb {
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.header-nav a,
+.nav-catalog,
+.site-search button,
+.header-quote,
+.hotline,
+.btn,
+.category-card em,
+.product-card span,
+.mobile-cta-bar a {
+  font-size: 14.5px;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.mega-menu__grid a span,
+.hero__lead,
+.section-heading p,
+.split p,
+.project-panel p,
+.service-area p,
+.category-hero p,
+.product-desc,
+.site-footer p {
+  color: var(--type-muted);
+  font-size: 16px;
+  line-height: 1.62;
+}
+
+.hero__content {
+  max-width: 620px;
+}
+
+.hero__content .eyebrow {
+  max-width: 40ch;
+}
+
+.hero__content h1 {
+  max-width: 12.5ch;
+  font-size: clamp(36px, 3.4vw, 52px);
+  line-height: 1.14;
+}
+
+.category-hero h1 {
+  font-size: clamp(32px, 3vw, 44px);
+  line-height: 1.16;
+}
+
+.hero__lead {
+  max-width: 58ch;
+}
+
+.hero-stats dd {
+  font-size: 13.5px;
+  line-height: 1.35;
+}
+
+.hero-card strong {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.hero-card span {
+  font-size: 13.5px;
+  line-height: 1.45;
+}
+
+.section-heading {
+  max-width: 760px;
+}
+
+.section-heading p {
+  max-width: 58ch;
+}
+
+.category-card span {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.28;
+}
+
+.category-card p,
+.product-card p,
+.solution-grid article p,
+.trust-grid article span {
+  color: var(--type-muted);
+  font-size: 14.5px;
+  line-height: 1.5;
+}
+
+.category-card p,
+.solution-grid article p,
+.project-panel p {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.product-card h3 {
+  display: -webkit-box;
+  overflow: hidden;
+  min-height: 0;
+  color: var(--type-heading);
+  font-size: 17px;
+  font-weight: 650;
+  line-height: 1.32;
+  overflow-wrap: normal;
+  word-break: normal;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.product-card small {
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+  color: var(--color-secondary);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.product-info-card h1 {
+  max-width: 18ch;
+  font-size: clamp(32px, 3vw, 44px);
+  font-weight: 700;
+  line-height: 1.16;
+}
+
+.product-code-pill {
+  font-size: 13.5px;
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+.product-price {
+  font-size: clamp(22px, 2vw, 26px);
+  font-weight: 700;
+}
+
+.product-desc {
+  max-width: 58ch;
+}
+
+.spec-mini-grid span {
+  text-transform: none;
+}
+
+.spec-mini-grid strong {
+  font-size: 14px;
+  line-height: 1.35;
+}
+
+.product-image-note {
+  color: var(--type-muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.site-footer h2 {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.site-footer p,
+.site-footer a,
+.copyright {
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.area-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.area-chips span {
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-surface);
+  color: var(--type-heading);
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1;
+  padding: 9px 12px;
+}
+
+.v44-trust-heading {
+  margin-bottom: 18px;
+}
+
+@media (max-width: 980px) {
+  body {
+    font-size: 15.5px;
+    line-height: 1.6;
+  }
+
+  h1,
+  .hero__content h1 {
+    max-width: 13ch;
+    font-size: clamp(30px, 8vw, 36px);
+    line-height: 1.15;
+  }
+
+  h2,
+  .section-heading h2 {
+    font-size: clamp(24px, 6.4vw, 30px);
+    line-height: 1.18;
+  }
+
+  h3 {
+    font-size: clamp(18px, 5vw, 22px);
+  }
+
+  .hero__lead,
+  .section-heading p,
+  .split p,
+  .project-panel p,
+  .service-area p,
+  .category-hero p,
+  .product-desc,
+  .site-footer p {
+    font-size: 15.5px;
+    line-height: 1.56;
+  }
+
+  .category-card span {
+    font-size: clamp(20px, 5.6vw, 23px);
+  }
+
+  .category-card p {
+    font-size: 15px;
+    -webkit-line-clamp: 2;
+  }
+
+  .product-info-card h1 {
+    max-width: 100%;
+    font-size: clamp(28px, 7.8vw, 34px);
+    line-height: 1.18;
+  }
+}
+
+@media (max-width: 620px) {
+  .ticker__item {
+    font-size: 12px;
+  }
+
+  .header-nav a,
+  .nav-catalog,
+  .site-search button,
+  .header-quote,
+  .hotline,
+  .btn,
+  .mobile-cta-bar a {
+    font-size: 14px;
+  }
+
+  .hero__content h1 {
+    max-width: 12ch;
+  }
+
+  .hero__lead {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+
+  .section-heading p,
+  .category-hero p {
+    max-width: 42ch;
+  }
+
+  .product-card h3 {
+    font-size: 16px;
+  }
+
+  .product-code-pill {
+    align-items: center;
+    white-space: nowrap;
+  }
+
+  .product-code-pill strong {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
