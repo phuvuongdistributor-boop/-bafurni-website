@@ -2,6 +2,16 @@
 
 Date: 2026-07-14
 
+## Release
+
+UI commit verified on production:
+
+- `80a784b7e4de6f3597273b907a782be63a3d36b4`
+
+Production URL:
+
+- `https://bafurni.com`
+
 ## Local QA
 
 Tested routes:
@@ -41,6 +51,8 @@ Result:
 ## Typography QA
 
 - Homepage hero H1 is 3 lines on mobile/desktop and within V4.4 scale.
+- Homepage category eyebrow is `Danh mục` and description is `Tìm nhanh theo nhu cầu sử dụng.`
+- Featured section eyebrow is `Mẫu nổi bật` and description is concise.
 - Category page H1 is category name only.
 - Product detail H1 is product name only.
 - Product code is separate and does not wrap.
@@ -48,8 +60,6 @@ Result:
 - Card descriptions are concise and clamped.
 
 ## Production QA
-
-Production URL: `https://bafurni.com`
 
 Focused public verification after deployment:
 
@@ -74,6 +84,7 @@ Result:
 - Broken images: 0
 - Horizontal overflow: 0
 - Visible internal terms: 0
+- Product code wrapping: 0
 - `typography-v44.css` loaded: PASS
 - Runtime content rewrite visible: PASS
 - Drawer open/close: PASS
@@ -85,12 +96,12 @@ Additional public matrix was also checked at 360, 390, 412, 768, and 1366 widths
 
 Production screenshots saved locally:
 
-- `../screenshots/public-v44-home-390.png`
-- `../screenshots/public-v44-home-1366.png`
-- `../screenshots/public-v44-category-390.png`
-- `../screenshots/public-v44-category-1366.png`
-- `../screenshots/public-v44-product-390.png`
-- `../screenshots/public-v44-product-1366.png`
+- `../screenshots/public-v44-final-home-390.png`
+- `../screenshots/public-v44-final-home-1366.png`
+- `../screenshots/public-v44-final-category-390.png`
+- `../screenshots/public-v44-final-category-1366.png`
+- `../screenshots/public-v44-final-product-390.png`
+- `../screenshots/public-v44-final-product-1366.png`
 
 ## Known Limitations
 
