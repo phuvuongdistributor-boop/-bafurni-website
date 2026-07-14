@@ -136,6 +136,23 @@
     return CATEGORY_LIBRARY.find((item) => item.slug === slug || (item.aliases || []).includes(slug)) || CATEGORY_LIBRARY[0];
   }
 
+  function categoryImageBase(image) {
+    return String(image || "").replace(/-(720|1200)\.webp$/, "").replace(/\.webp$/, "");
+  }
+
+  function categoryImageUrl(image, size = "720") {
+    return `${categoryImageBase(image)}-${size}.webp`;
+  }
+
+  function categoryImageSrcset(image) {
+    const base = categoryImageBase(image);
+    return `${base}-720.webp 720w, ${base}-1200.webp 1200w`;
+  }
+
+  function categoryImageSizes() {
+    return "(max-width: 620px) calc(100vw - 44px), (max-width: 980px) 50vw, 360px";
+  }
+
   function productCard(product) {
     const [code, name, image, href] = product;
     return `<a class="product-card" href="${escapeHtml(href)}"><img src="${escapeHtml(image)}" alt="${escapeHtml(name)}" width="260" height="186" loading="lazy" decoding="async"><div><small>${escapeHtml(code)}</small><h3>${escapeHtml(name)}</h3><p>Liên hệ báo giá</p><span>Nhận tư vấn</span></div></a>`;
@@ -160,7 +177,11 @@
     if (description) description.textContent = category.description;
     if (listingTitle) listingTitle.textContent = `${category.name} BA_Furniture`;
     if (heroImage) {
-      heroImage.src = category.image;
+      heroImage.src = categoryImageUrl(category.image);
+      heroImage.srcset = categoryImageSrcset(category.image);
+      heroImage.sizes = "(max-width: 980px) calc(100vw - 44px), 520px";
+      heroImage.width = 1200;
+      heroImage.height = 900;
       heroImage.alt = `Danh mục ${category.name} BA_Furniture`;
     }
     const subGrid = $("[data-subcategory-grid]");
@@ -173,18 +194,36 @@
     }
     const related = $("[data-related-categories]");
     if (related) {
-      related.innerHTML = CATEGORY_LIBRARY.filter((item) => item.slug !== category.slug).slice(0, 4).map((item) => `<a class="category-card" href="/danh-muc/${escapeHtml(item.slug)}"><img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.name)}" width="480" height="320" decoding="async"><span>${escapeHtml(item.name)}</span><p>${escapeHtml(item.description)}</p><em>Xem danh mục</em></a>`).join("");
+      related.innerHTML = CATEGORY_LIBRARY.filter((item) => item.slug !== category.slug).slice(0, 4).map((item) => `<a class="category-card" href="/danh-muc/${escapeHtml(item.slug)}"><img src="${escapeHtml(categoryImageUrl(item.image))}" srcset="${escapeHtml(categoryImageSrcset(item.image))}" sizes="${categoryImageSizes()}" alt="${escapeHtml(item.name)}" width="1200" height="900" decoding="async"><span>${escapeHtml(item.name)}</span><p>${escapeHtml(item.description)}</p><em>Xem danh mục</em></a>`).join("");
     }
   }
 
   function initNavigation() {
     const toggle = $(".menu-toggle");
     const nav = $("#site-nav");
+    const closeNav = () => {
+      if (!toggle || !nav) return;
+      toggle.setAttribute("aria-expanded", "false");
+      nav.classList.remove("is-open");
+      document.body.classList.remove("mobile-nav-open");
+    };
     if (toggle && nav) {
       toggle.addEventListener("click", () => {
         const open = toggle.getAttribute("aria-expanded") === "true";
         toggle.setAttribute("aria-expanded", String(!open));
         nav.classList.toggle("is-open", !open);
+        document.body.classList.toggle("mobile-nav-open", !open);
+      });
+      nav.addEventListener("click", (event) => {
+        if (event.target.closest("a")) closeNav();
+      });
+      document.addEventListener("click", (event) => {
+        if (toggle.getAttribute("aria-expanded") !== "true") return;
+        if (nav.contains(event.target) || toggle.contains(event.target)) return;
+        closeNav();
+      });
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") closeNav();
       });
     }
     const catalog = $(".nav-catalog");
@@ -224,9 +263,21 @@
     }
   }
 
+  function initMobileCta() {
+    const bar = $(".mobile-cta-bar");
+    if (!bar) return;
+    const media = window.matchMedia("(max-width: 980px)");
+    const update = () => {
+      document.body.classList.toggle("mobile-cta-visible", media.matches && window.scrollY > 260);
+    };
+    update();
+    window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+  }
+
   renderCategoryPage();
   initNavigation();
   initSearchAndFilter();
+  initMobileCta();
   window.BA_CATEGORY_LIBRARY = CATEGORY_LIBRARY;
 })();
-
