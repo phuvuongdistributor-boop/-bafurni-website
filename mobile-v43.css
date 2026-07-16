@@ -83,33 +83,12 @@
     grid-area: brand;
     min-width: 0;
     min-height: 44px;
-    gap: 8px;
   }
 
-  .brand__mark {
-    width: 40px;
-    height: 40px;
-    border-radius: var(--radius-12);
-    font-size: 16px;
-    flex: 0 0 40px;
-  }
-
-  .brand__text {
-    min-width: 0;
-  }
-
-  .brand__text strong {
-    font-size: 17px;
-    line-height: 1.05;
-  }
-
-  .brand__text small {
-    display: block;
-    max-width: 150px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    font-size: 11px;
+  .brand--header .brand__logo {
+    width: 76px;
+    height: 50px;
+    flex: 0 0 76px;
   }
 
   .hotline {
@@ -513,10 +492,6 @@
     order: 2 !important;
   }
 
-  .brand__text small {
-    max-width: 126px;
-  }
-
   .subcategory-panel {
     max-height: 520px;
     overflow: hidden;
@@ -524,12 +499,10 @@
 }
 
 @media (max-width: 370px) {
-  .brand__text strong {
-    font-size: 16px;
-  }
-
-  .brand__text small {
-    max-width: 108px;
+  .brand--header .brand__logo {
+    width: 70px;
+    height: 46px;
+    flex-basis: 70px;
   }
 
   .site-search input {

@@ -171,28 +171,23 @@ button {
   font-weight: 800;
 }
 
-.brand__mark {
-  display: grid;
-  place-items: center;
-  width: 46px;
-  height: 46px;
-  border-radius: var(--radius-12);
-  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
-  color: #ffffff;
-  font-weight: 900;
-}
-
-.brand__text strong,
-.brand__text small {
+.brand__logo {
   display: block;
+  width: 68px;
+  height: 68px;
+  border-radius: var(--radius-8);
+  background: var(--color-surface);
+  object-fit: contain;
 }
 
-.brand__text strong {
-  color: var(--color-primary);
-  line-height: 1.05;
+.brand--header .brand__logo {
+  width: 110px;
+  height: 68px;
+  flex: 0 0 110px;
+  object-fit: cover;
+  object-position: 50% 30%;
 }
 
-.brand__text small,
 .hotline span {
   color: var(--color-text-soft);
   font-size: 12px;
@@ -856,12 +851,16 @@ h3 {
   gap: var(--space-32);
 }
 
-.brand--footer .brand__mark {
-  background: #ffffff;
-  color: var(--color-primary);
+.brand--footer {
+  min-height: 0;
 }
 
-.brand--footer strong,
+.brand--footer .brand__logo {
+  width: 148px;
+  height: 148px;
+  background: #ffffff;
+}
+
 .site-footer h2 {
   color: #ffffff;
 }
@@ -1195,13 +1194,10 @@ h3 {
     gap: 10px;
   }
 
-  .brand__mark {
-    width: 40px;
-    height: 40px;
-  }
-
-  .brand__text small {
-    display: none;
+  .brand--header .brand__logo {
+    width: 76px;
+    height: 50px;
+    flex-basis: 76px;
   }
 
   .site-search {
