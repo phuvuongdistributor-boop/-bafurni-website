@@ -1,23 +1,8 @@
 (() => {
-  const VERSION = "2026-07-13-v41";
   const root = document.getElementById("product-detail-root");
   if (!root) return;
 
-  const phaseOneChunks = [
-    "productdb-data.part1.js",
-    "productdb-data.part2.js",
-    "productdb-data.part3.js",
-    "productdb-data.part4.js",
-    "productdb-data.part5a.js",
-    "productdb-data.part5b.js",
-    "productdb-data.part5c.js",
-    "productdb-data.part6.js",
-    "productdb-data.part7.js",
-    "productdb-data.part8.js",
-    "productdb-data.part9.js",
-    "productdb-data.part10.js"
-  ];
-  const loaded = new Set();
+  const catalog = window.BAProductCatalog;
   let activeProduct = null;
   let activeImageStatus = "pending";
 
@@ -104,18 +89,11 @@
   }
 
   function rows() {
-    return Array.isArray(window.BA_PRODUCT_ROWS) ? window.BA_PRODUCT_ROWS.filter((row) => row && row.Code && row.ProductName) : [];
+    return catalog ? catalog.rows() : [];
   }
 
   function findProduct() {
-    const token = routeToken();
-    if (!token) return null;
-    const all = rows().slice().sort((a, b) => slugify(b.Code).length - slugify(a.Code).length);
-    return all.find((row) => {
-      const codeSlug = slugify(row.Code);
-      const fullSlug = slugify(`${row.Code}-${row.ProductName}`);
-      return token === codeSlug || token === fullSlug || token.startsWith(`${codeSlug}-`);
-    }) || null;
+    return catalog ? catalog.resolveProduct(routeToken()) : null;
   }
 
   function placeholder(label) {
@@ -209,8 +187,9 @@
       imageStatus: activeImageStatus,
       imageUrl: product && product.images.hero,
       rowsLoaded: rows().length,
-      chunksLoaded: Array.from(loaded),
       phase,
+      requestedRoute: routeToken(),
+      resolver: "product-code-prefix-v52",
       genericFallbackUsed: false
     };
   }
@@ -230,46 +209,14 @@
     }).join("");
   }
 
-  function loadScript(file) {
-    if (loaded.has(file)) return Promise.resolve();
-    return new Promise((resolve, reject) => {
-      const script = document.createElement("script");
-      script.src = `/${file}?v=${VERSION}`;
-      script.async = false;
-      script.onload = () => { loaded.add(file); resolve(); };
-      script.onerror = () => reject(new Error(`Cannot load ${file}`));
-      document.head.appendChild(script);
-    });
-  }
-
-  async function loadPhase2() {
-    await loadScript("productdb-data.phase2.compact.js");
-    if (window.BA_PRODUCTDB_PHASE2_READY && typeof window.BA_PRODUCTDB_PHASE2_READY.then === "function") {
-      await window.BA_PRODUCTDB_PHASE2_READY;
-    }
-  }
-
   async function boot() {
     const started = performance.now();
     renderLoading("Đang đọc ProductDB...");
     try {
-      await loadScript("productdb-data.js");
-      await loadScript(phaseOneChunks[0]);
-      let found = findProduct();
-      if (found) renderProduct(found, "phase1-part1");
-      const rest = phaseOneChunks.slice(1);
-      for (const chunk of rest) {
-        await loadScript(chunk);
-        if (!activeProduct) {
-          found = findProduct();
-          if (found) renderProduct(found, `phase1-${chunk}`);
-        }
-      }
-      await loadPhase2();
-      if (!activeProduct) {
-        found = findProduct();
-        if (found) renderProduct(found, "phase2");
-      }
+      if (!catalog) throw new Error("Product catalog runtime is unavailable");
+      await catalog.load();
+      const found = findProduct();
+      if (found) renderProduct(found, "catalog-v52");
       if (!activeProduct) renderNotFound();
       renderRelated();
       if (window.BA_PRODUCT_DETAIL_QA) {

@@ -231,15 +231,4 @@
       DEFAULT_DETAIL_URL
     }
   };
-
-  window.BA_SAMPLE_PRODUCT_VIEW_MODEL = normalizeProductRow({
-    Code: "CHAIR-DEMO-03",
-    ProductName: "Ghế lưới nhân viên BA demo",
-    Category: "GHẾ",
-    SubCategory: "MESH_CHAIR",
-    SalePrice: "",
-    Size: "Đang cập nhật",
-    Material: "Lưng lưới, chân xoay",
-    Description: "Sản phẩm mẫu cho Product Detail Module"
-  });
 })();

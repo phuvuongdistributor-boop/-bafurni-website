@@ -1,13 +1,13 @@
 (() => {
   const CATEGORY_LIBRARY = [
-    { slug: "ghe-van-phong", name: "Ghế văn phòng", description: "Ghế làm việc cho văn phòng, phòng họp và khu chờ.", image: "/images/categories/main/ghe-van-phong.webp", subs: [["ghe-giam-doc", "Ghế giám đốc"], ["ghe-leader", "Ghế leader"], ["ghe-luoi", "Ghế lưới"], ["ghe-chan-quy", "Ghế chân quỳ"], ["ghe-da", "Ghế da"], ["ghe-training", "Ghế training"], ["ghe-bar-cafe", "Ghế bar/cafe"], ["ghe-xoay", "Ghế xoay"]], products: [["TQ05", "Ghế giám đốc TQ05", "/images/categories/sub/ghe-giam-doc.webp", "/san-pham/tq05-ghe-giam-doc-tq05"], ["TQ01", "Ghế giám đốc TQ01", "/images/categories/sub/ghe-da.webp", "/san-pham/tq01-ghe-giam-doc-tq01"], ["GL304", "Ghế lưới cao cấp GL304", "/images/categories/sub/ghe-luoi.webp", "/san-pham/gl304-ghe-luoi-cao-cap-gl304"], ["GL307", "Ghế lưới cao cấp GL307", "/images/categories/sub/ghe-leader.webp", "/san-pham/gl307-ghe-luoi-cao-cap-gl307"], ["VT3B", "Ghế họp chân tĩnh VT3B", "/images/categories/sub/ghe-chan-quy.webp", "/san-pham/vt3b-ghe-hop-chan-tinh-vt3b"], ["SL933", "Ghế chân quỳ SL933", "/images/categories/sub/ghe-phong-hop.webp", "/san-pham/sl933-ghe-chan-quy-sl933"], ["TQ33", "Ghế xoay văn phòng TQ33", "/images/categories/sub/ghe-xoay.webp", "/san-pham/tq33-ghe-xoay-van-phong-tq33"], ["GL316", "Ghế lưới văn phòng GL316", "/images/categories/sub/ghe-luoi.webp", "/san-pham/gl316-ghe-luoi-van-phong-gl316"]] },
-    { slug: "ban-van-phong", name: "Bàn văn phòng", description: "Bàn cá nhân, bàn quản lý và cụm làm việc.", image: "/images/categories/main/ban-van-phong.webp", subs: [["ban-nhan-vien", "Bàn nhân viên"], ["ban-quan-ly", "Bàn quản lý"], ["ban-giam-doc", "Bàn giám đốc"], ["ban-cum-module", "Cụm bàn"], ["ban-may-tinh", "Bàn máy tính"], ["ban-lam-viec", "Bàn làm việc"]], products: [["BRIMD01-4C15", "Cụm bàn làm việc BRIMD01-4C15", "/images/categories/sub/ban-cum-module.webp", "/san-pham/brimd01-4c15-module-ban-lam-viec-brimd01-4c15"], ["DT1890V2", "Bàn giám đốc Veneer DT1890V2", "/images/categories/sub/ban-giam-doc.webp", "/san-pham/dt1890v2-ban-giam-doc-veneer-dt1890v2"], ["LUXL14C10", "Bàn quản lý LUXL14C10", "/images/categories/sub/ban-quan-ly.webp", "/san-pham/luxl14c10-ban-lanh-dao-luxl14c10"], ["NTM120S", "Bàn máy tính NTM120S", "/images/categories/sub/ban-may-tinh.webp", "/san-pham/ntm120s-ban-may-tinh-ntm120s"]] },
-    { slug: "ban-hop", name: "Bàn họp", description: "Bàn họp gọn cho nhóm và dự án.", image: "/images/categories/main/ban-hop.webp", subs: [["ban-hop-lon", "Bàn họp lớn"], ["ban-hop-nho", "Bàn họp nhỏ"], ["ban-hop-oval", "Bàn họp oval"], ["ban-hoi-truong", "Bàn hội trường"]], products: [["CT2412V1", "Bàn họp gỗ cao cấp CT2412V1", "/images/categories/sub/ban-hop-nho.webp", "/san-pham/ct2412v1-ban-hop-go-cao-cap-ct2412v1"], ["CT4016V19", "Bàn họp cao cấp CT4016V19", "/images/categories/sub/ban-hop-lon.webp", "/san-pham/ct4016v19-ban-hop-cao-cap-ct4016v19"], ["CT2010H2", "Bàn họp cao cấp CT2010H2", "/images/categories/sub/ban-hop-oval.webp", "/san-pham/ct2010h2-ban-hop-cao-cap-ct2010h2"], ["TC336", "Bàn hội trường TC336", "/images/categories/sub/ban-hoi-truong.webp", "/san-pham/tc336-ban-hoi-truong-tc336"]] },
-    { slug: "tu-hoc", aliases: ["tu-hoc-tai-lieu"], name: "Tủ & Hộc tài liệu", description: "Lưu trữ hồ sơ và vật dụng văn phòng.", image: "/images/categories/main/tu-hoc-tai-lieu.webp", subs: [["tu-tai-lieu", "Tủ tài liệu"], ["tu-ho-so", "Tủ hồ sơ"], ["hoc-di-dong", "Hộc di động"], ["tu-thap", "Tủ thấp"], ["tu-sat", "Tủ sắt"], ["tu-locker", "Tủ locker"]], products: [["TU09K7CK", "Tủ sắt hồ sơ TU09K7CK", "/images/categories/sub/tu-ho-so.webp", "/san-pham/tu09k7ck-tu-sat-ho-so-tu09k7ck"], ["TU06AD", "Tủ thấp TU06AD", "/images/categories/sub/tu-thap.webp", "/san-pham/tu06ad-tu-thap-tu06ad"], ["HS1", "Hộc sắt HS1", "/images/categories/sub/hoc-di-dong.webp", "/san-pham/hs1-hoc-sat-hs1"], ["TU09", "Tủ tài liệu TU09", "/images/categories/sub/tu-tai-lieu.webp", "/san-pham/tu09-tu-tai-lieu-tu09"]] },
-    { slug: "locker", name: "Locker", description: "Tủ cá nhân cho văn phòng và nhà máy.", image: "/images/categories/main/tu-locker.webp", subs: [["tu-locker", "Tủ locker"], ["tu-sat", "Tủ sắt"], ["tu-ho-so", "Tủ hồ sơ"], ["tu-truong-hoc", "Tủ trường học"]], products: [["TU983-3KS", "Tủ locker khóa số 9 ngăn TU983-3KS", "/images/categories/sub/tu-locker.webp", "/san-pham/tu983-3ks-tu-locker-khoa-so-9-ngan-tu983-3ks"], ["TU981-2K", "Tủ locker TU981-2K", "/images/categories/main/tu-locker.webp", "/san-pham/tu981-2k-tu-locker-tu981-2k"], ["TU982", "Tủ sắt 6 ngăn TU982", "/images/categories/sub/tu-sat.webp", "/san-pham/tu982-tu-sat-6-ngan-tu982-3kp"], ["TU09K8CK", "Tủ sắt hồ sơ TU09K8CK", "/images/categories/sub/tu-ho-so.webp", "/san-pham/tu09k8ck-tu-sat-ho-so-tu09k8ck"]] },
-    { slug: "sofa", name: "Sofa & Ghế chờ", description: "Khu tiếp khách, sảnh và phòng chờ.", image: "/images/categories/main/sofa-ghe-cho.webp", subs: [["sofa-van-phong", "Sofa văn phòng"], ["sofa-sanh", "Sofa sảnh"], ["ghe-lounge", "Ghế lounge"], ["ghe-cho", "Ghế chờ"]], products: [["SF01", "Sofa văn phòng SF01", "/images/categories/sub/sofa-van-phong.webp", "/san-pham/sf01-sofa-van-phong-sf01"], ["SF02", "Sofa văn phòng SF02", "/images/categories/sub/sofa-sanh.webp", "/san-pham/sf02-sofa-van-phong-sf02"], ["SF01-1", "Ghế sofa đơn SF01-1", "/images/categories/sub/ghe-lounge.webp", "/san-pham/sf01-1-ghe-sofa-don-sf01-1"], ["SF01-3", "Ghế sofa băng SF01-3", "/images/categories/sub/ghe-cho.webp", "/san-pham/sf01-3-ghe-sofa-bang-sf01-3"]] },
-    { slug: "truong-hoc", name: "Nội thất trường học", description: "Bàn ghế cho lớp học và phòng chức năng.", image: "/images/categories/main/noi-that-truong-hoc.webp", subs: [["ban-hoc-sinh", "Bàn học sinh"], ["ghe-hoc-sinh", "Ghế học sinh"], ["ban-giao-vien", "Bàn giáo viên"], ["noi-that-mam-non", "Nội thất mầm non"], ["tu-truong-hoc", "Tủ trường học"], ["ban-ghe-dao-tao", "Bàn ghế đào tạo"]], products: [["BHS03-1", "Bàn ghế học sinh BHS03-1", "/images/categories/sub/ban-hoc-sinh.webp", "/san-pham/bhs03-1-ban-ghe-hoc-sinh-bhs03-1-ghs03-1"], ["GMG101A-2", "Nội thất trường học GMG101A-2", "/images/categories/sub/ban-giao-vien.webp", "/san-pham/gmg101a-2-noi-that-truong-hoc-gmg101a-2"], ["GHS03-1", "Ghế học sinh GHS03-1", "/images/categories/sub/ghe-hoc-sinh.webp", "/san-pham/ghs03-1-ban-ghe-hoc-sinh-bhs03-1-ghs03-1"], ["TMG984-3K", "Tủ trường học TMG984-3K", "/images/categories/sub/tu-truong-hoc.webp", "/san-pham/tmg984-3k-tu-truong-hoc-tmg984-3k"]] },
-    { slug: "ke-gia-kho", name: "Kệ & Giá kho", description: "Kệ lưu trữ cho kho và hồ sơ.", image: "/images/categories/main/ke-gia-kho.webp", subs: [["ke-sat", "Kệ sắt"], ["gia-kho", "Giá kho"], ["ke-luu-tru", "Kệ lưu trữ"], ["tu-ho-so", "Tủ hồ sơ"]], products: [["TK60", "Tủ treo chìa khóa TK60", "/images/categories/sub/ke-sat.webp", "/san-pham/tk60-tu-treo-chia-khoa-tk60"], ["TK100", "Tủ treo chìa khóa TK100", "/images/categories/sub/gia-kho.webp", "/san-pham/tk100-tu-treo-chia-khoa-tk100"], ["TK200", "Tủ treo chìa khóa TK200", "/images/categories/main/ke-gia-kho.webp", "/san-pham/tk200-tu-treo-chia-khoa-tk200"], ["TU981-3KD", "Tủ lưu trữ TU981-3KD", "/images/categories/sub/ke-luu-tru.webp", "/san-pham/tu981-3kd-tu-sat-tu981-3kd"]] }
+    { slug: "ghe-van-phong", name: "Ghế văn phòng", description: "Ghế làm việc cho văn phòng, phòng họp và khu chờ.", image: "/images/categories/main/ghe-van-phong.webp", subs: [["ghe-giam-doc", "Ghế giám đốc"], ["ghe-leader", "Ghế leader"], ["ghe-luoi", "Ghế lưới"], ["ghe-chan-quy", "Ghế chân quỳ"], ["ghe-da", "Ghế da"], ["ghe-training", "Ghế training"], ["ghe-bar-cafe", "Ghế bar/cafe"], ["ghe-xoay", "Ghế xoay"]] },
+    { slug: "ban-van-phong", name: "Bàn văn phòng", description: "Bàn cá nhân, bàn quản lý và cụm làm việc.", image: "/images/categories/main/ban-van-phong.webp", subs: [["ban-nhan-vien", "Bàn nhân viên"], ["ban-quan-ly", "Bàn quản lý"], ["ban-giam-doc", "Bàn giám đốc"], ["ban-cum-module", "Cụm bàn"], ["ban-may-tinh", "Bàn máy tính"], ["ban-lam-viec", "Bàn làm việc"]] },
+    { slug: "ban-hop", name: "Bàn họp", description: "Bàn họp gọn cho nhóm và dự án.", image: "/images/categories/main/ban-hop.webp", subs: [["ban-hop-lon", "Bàn họp lớn"], ["ban-hop-nho", "Bàn họp nhỏ"], ["ban-hop-oval", "Bàn họp oval"], ["ban-hoi-truong", "Bàn hội trường"]] },
+    { slug: "tu-hoc", aliases: ["tu-hoc-tai-lieu"], name: "Tủ & Hộc tài liệu", description: "Lưu trữ hồ sơ và vật dụng văn phòng.", image: "/images/categories/main/tu-hoc-tai-lieu.webp", subs: [["tu-tai-lieu", "Tủ tài liệu"], ["tu-ho-so", "Tủ hồ sơ"], ["hoc-di-dong", "Hộc di động"], ["tu-thap", "Tủ thấp"], ["tu-sat", "Tủ sắt"], ["tu-locker", "Tủ locker"]] },
+    { slug: "locker", name: "Locker", description: "Tủ cá nhân cho văn phòng và nhà máy.", image: "/images/categories/main/tu-locker.webp", subs: [["tu-locker", "Tủ locker"], ["tu-sat", "Tủ sắt"], ["tu-ho-so", "Tủ hồ sơ"], ["tu-truong-hoc", "Tủ trường học"]] },
+    { slug: "sofa", name: "Sofa & Ghế chờ", description: "Khu tiếp khách, sảnh và phòng chờ.", image: "/images/categories/main/sofa-ghe-cho.webp", subs: [["sofa-van-phong", "Sofa văn phòng"], ["sofa-sanh", "Sofa sảnh"], ["ghe-lounge", "Ghế lounge"], ["ghe-cho", "Ghế chờ"]] },
+    { slug: "truong-hoc", name: "Nội thất trường học", description: "Bàn ghế cho lớp học và phòng chức năng.", image: "/images/categories/main/noi-that-truong-hoc.webp", subs: [["ban-hoc-sinh", "Bàn học sinh"], ["ghe-hoc-sinh", "Ghế học sinh"], ["ban-giao-vien", "Bàn giáo viên"], ["noi-that-mam-non", "Nội thất mầm non"], ["tu-truong-hoc", "Tủ trường học"], ["ban-ghe-dao-tao", "Bàn ghế đào tạo"]] },
+    { slug: "ke-gia-kho", name: "Kệ & Giá kho", description: "Kệ lưu trữ cho kho và hồ sơ.", image: "/images/categories/main/ke-gia-kho.webp", subs: [["ke-sat", "Kệ sắt"], ["gia-kho", "Giá kho"], ["ke-luu-tru", "Kệ lưu trữ"], ["tu-ho-so", "Tủ hồ sơ"]] }
   ];
 
   const tickerItems = ["Nam Định • Ninh Bình • Hà Nam • Hưng Yên • Thái Bình", "Tư vấn • Sản xuất • Giao lắp", "Báo giá rõ • Bảo hành uy tín", "Văn phòng • Trường học • Nhà máy • Dự án", "Hotline: 0929.878.666"];
@@ -42,8 +42,51 @@
   }
 
   function productCard(product) {
-    const [code, name, image, href] = product;
-    return `<a class="product-card" href="${esc(href)}"><img src="${esc(image)}" alt="${esc(name)}" width="260" height="186" loading="lazy" decoding="async"><div><small>${esc(code)}</small><h3>${esc(name)}</h3><p>Liên hệ báo giá</p><span>Nhận tư vấn</span></div></a>`;
+    return `<a class="product-card" href="${esc(product.href)}" data-product-code="${esc(product.code)}"><img src="${esc(product.image)}" alt="${esc(product.name)}" width="260" height="186" loading="lazy" decoding="async"><div><small>${esc(product.code)}</small><h3>${esc(product.name)}</h3><p>${esc(product.price)}</p><span>Nhận tư vấn</span></div></a>`;
+  }
+
+  async function renderCategoryProducts(category) {
+    const productGrid = $('[data-product-grid]');
+    if (!productGrid) return;
+    const empty = $('.empty-state');
+    const subSlug = new URLSearchParams(location.search).get('sub') || '';
+    const selectedSub = category.subs.find(([slug]) => slug === subSlug);
+    if (selectedSub) setText('[data-listing-title]', selectedSub[1]);
+    productGrid.setAttribute('aria-busy', 'true');
+    try {
+      const catalog = window.BAProductCatalog;
+      if (!catalog) throw new Error('Product catalog runtime is unavailable');
+      await catalog.load();
+      const rows = catalog.productsForCategory(category.slug, subSlug, 8);
+      const products = rows.map(catalog.toCard);
+      const bundleCodes = new Set(catalog.rows().map((row) => String(row.Code || '').trim().toUpperCase()));
+      productGrid.innerHTML = products.map(productCard).join('');
+      productGrid.removeAttribute('aria-busy');
+      if (empty) empty.hidden = products.length !== 0;
+      $all('img', productGrid).forEach((image) => {
+        image.addEventListener('error', () => {
+          image.src = categoryImageUrl(category.image);
+          image.srcset = categoryImageSrcset(category.image);
+          image.sizes = categoryImageSizes();
+        }, { once: true });
+      });
+      const filter = $('#category-filter');
+      if (filter) filter.dispatchEvent(new Event('input'));
+      window.BA_CATEGORY_PAGE_QA = {
+        category: category.slug,
+        subcategory: subSlug || null,
+        rowsLoaded: catalog.rows().length,
+        productsRendered: products.length,
+        productCodes: products.map((product) => product.code),
+        bundleIntegrity: products.every((product) => bundleCodes.has(product.code.toUpperCase()))
+      };
+    } catch (error) {
+      productGrid.innerHTML = '';
+      productGrid.removeAttribute('aria-busy');
+      if (empty) empty.hidden = false;
+      window.BA_CATEGORY_PAGE_QA = { category: category.slug, subcategory: subSlug || null, error: String(error), bundleIntegrity: false };
+      console.error(error);
+    }
   }
 
   function renderCategoryPage() {
@@ -67,8 +110,7 @@
     }
     const subGrid = $('[data-subcategory-grid]');
     if (subGrid) subGrid.innerHTML = category.subs.map(([slug, name]) => `<a href="/category.html?cat=${esc(category.slug)}&sub=${esc(slug)}"><img src="/images/categories/sub/${esc(slug)}-720.webp" srcset="/images/categories/sub/${esc(slug)}-720.webp 720w, /images/categories/sub/${esc(slug)}-1600.webp 1600w" sizes="(max-width: 620px) calc(100vw - 56px), 240px" alt="${esc(name)}" width="720" height="514" loading="lazy" decoding="async"><span>${esc(name)}</span></a>`).join("");
-    const productGrid = $('[data-product-grid]');
-    if (productGrid) productGrid.innerHTML = category.products.map(productCard).join("");
+    renderCategoryProducts(category);
     const related = $('[data-related-categories]');
     if (related) related.innerHTML = CATEGORY_LIBRARY.filter((item) => item.slug !== category.slug).slice(0, 4).map((item) => `<a class="category-card" href="/danh-muc/${esc(item.slug)}"><img src="${esc(categoryImageUrl(item.image))}" srcset="${esc(categoryImageSrcset(item.image))}" sizes="${categoryImageSizes()}" alt="${esc(item.name)}" width="1200" height="900" decoding="async"><span>${esc(item.name)}</span><p>${esc(item.description)}</p><em>Xem danh mục</em></a>`).join("");
   }
