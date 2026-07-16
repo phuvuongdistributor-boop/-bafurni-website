@@ -1,0 +1,932 @@
+{
+  "version": "V5.1",
+  "date": "2026-07-16",
+  "policy": "Only assets with status APPROVED are eligible for production deployment.",
+  "qualityGate": {
+    "watermark": "auto-reject",
+    "blur": "auto-reject",
+    "wrongProduct": "auto-reject",
+    "aiText": "auto-reject",
+    "poorComposition": "auto-reject",
+    "implausibleGeometry": "auto-reject",
+    "duplicateCommercialScene": "auto-reject"
+  },
+  "summary": {
+    "approvedFamilies": 52,
+    "approvedHero": 1,
+    "approvedMainCategories": 9,
+    "approvedSubcategories": 38,
+    "approvedSolutions": 4,
+    "targetedV51SubcategoryMasters": 31,
+    "preservedApprovedSubcategoryMasters": 7,
+    "rejectedCandidates": 4
+  },
+  "responsiveVariants": {
+    "hero": [
+      "720x540",
+      "1200x750",
+      "1600x1000"
+    ],
+    "mainCategory": [
+      "720x540",
+      "960x720",
+      "1200x900",
+      "1600x1200"
+    ],
+    "subcategory": [
+      "720x514",
+      "960x686",
+      "1600x1143"
+    ],
+    "solution": [
+      "720x450",
+      "1200x750",
+      "1600x1000"
+    ]
+  },
+  "webpQuality": {
+    "mobileAndBase": 84,
+    "desktop": 85
+  },
+  "assets": [
+    {
+      "slug": "homepage",
+      "role": "hero",
+      "path": "images/hero/homepage-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-hop",
+      "role": "main-category",
+      "path": "images/categories/main/ban-hop-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-van-phong",
+      "role": "main-category",
+      "path": "images/categories/main/ban-van-phong-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-luoi",
+      "role": "main-category",
+      "path": "images/categories/main/ghe-luoi-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-van-phong",
+      "role": "main-category",
+      "path": "images/categories/main/ghe-van-phong-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ke-gia-kho",
+      "role": "main-category",
+      "path": "images/categories/main/ke-gia-kho-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "noi-that-truong-hoc",
+      "role": "main-category",
+      "path": "images/categories/main/noi-that-truong-hoc-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "sofa-ghe-cho",
+      "role": "main-category",
+      "path": "images/categories/main/sofa-ghe-cho-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-hoc-tai-lieu",
+      "role": "main-category",
+      "path": "images/categories/main/tu-hoc-tai-lieu-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-locker",
+      "role": "main-category",
+      "path": "images/categories/main/tu-locker-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-cum-module",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-cum-module-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-ghe-dao-tao",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-ghe-dao-tao-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-giam-doc",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-giam-doc-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-giao-vien",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-giao-vien-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-hoc-sinh",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-hoc-sinh-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-hoi-truong",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-hoi-truong-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-hop-lon",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-hop-lon-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-hop-nho",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-hop-nho-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-hop-oval",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-hop-oval-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-lam-viec",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-lam-viec-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-may-tinh",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-may-tinh-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-nhan-vien",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-nhan-vien-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ban-quan-ly",
+      "role": "subcategory",
+      "path": "images/categories/sub/ban-quan-ly-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-bar-cafe",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-bar-cafe-1600.webp",
+      "source": "V5 source retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-chan-quy",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-chan-quy-1600.webp",
+      "source": "V5 source retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-cho",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-cho-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-da",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-da-1600.webp",
+      "source": "V5 source retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-giam-doc",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-giam-doc-1600.webp",
+      "source": "V5 source retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-hoc-sinh",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-hoc-sinh-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-leader",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-leader-1600.webp",
+      "source": "V5 source retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-lounge",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-lounge-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-luoi",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-luoi-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-phong-hop",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-phong-hop-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-training",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-training-1600.webp",
+      "source": "V5 source retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ghe-xoay",
+      "role": "subcategory",
+      "path": "images/categories/sub/ghe-xoay-1600.webp",
+      "source": "V5 source retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "gia-kho",
+      "role": "subcategory",
+      "path": "images/categories/sub/gia-kho-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "hoc-di-dong",
+      "role": "subcategory",
+      "path": "images/categories/sub/hoc-di-dong-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ke-luu-tru",
+      "role": "subcategory",
+      "path": "images/categories/sub/ke-luu-tru-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "ke-sat",
+      "role": "subcategory",
+      "path": "images/categories/sub/ke-sat-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "noi-that-mam-non",
+      "role": "subcategory",
+      "path": "images/categories/sub/noi-that-mam-non-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "sofa-sanh",
+      "role": "subcategory",
+      "path": "images/categories/sub/sofa-sanh-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "sofa-van-phong",
+      "role": "subcategory",
+      "path": "images/categories/sub/sofa-van-phong-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-ho-so",
+      "role": "subcategory",
+      "path": "images/categories/sub/tu-ho-so-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-locker",
+      "role": "subcategory",
+      "path": "images/categories/sub/tu-locker-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-sat",
+      "role": "subcategory",
+      "path": "images/categories/sub/tu-sat-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-tai-lieu",
+      "role": "subcategory",
+      "path": "images/categories/sub/tu-tai-lieu-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-thap",
+      "role": "subcategory",
+      "path": "images/categories/sub/tu-thap-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "tu-truong-hoc",
+      "role": "subcategory",
+      "path": "images/categories/sub/tu-truong-hoc-1600.webp",
+      "source": "V5.1 targeted approved master",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "doanh-nghiep",
+      "role": "solution",
+      "path": "images/solutions/doanh-nghiep-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "du-an",
+      "role": "solution",
+      "path": "images/solutions/du-an-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "nha-may",
+      "role": "solution",
+      "path": "images/solutions/nha-may-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    },
+    {
+      "slug": "truong-hoc",
+      "role": "solution",
+      "path": "images/solutions/truong-hoc-1600.webp",
+      "source": "V5 master retained after V5.1 visual review",
+      "status": "APPROVED",
+      "checks": {
+        "watermark": false,
+        "blur": false,
+        "wrongProduct": false,
+        "aiText": false,
+        "poorComposition": false,
+        "geometry": "PASS",
+        "commercialQuality": "PASS"
+      }
+    }
+  ],
+  "rejectedCandidates": [
+    {
+      "slug": "ban-may-tinh",
+      "candidate": "quality-recovery/rejected-master/ban-may-tinh.png",
+      "status": "REJECTED",
+      "reason": "CPU holder and cable details were not mechanically convincing.",
+      "deployed": false
+    },
+    {
+      "slug": "sofa-van-phong",
+      "candidate": "quality-recovery/rejected-master/sofa-van-phong.png",
+      "status": "REJECTED",
+      "reason": "Book props contained text-like AI marks.",
+      "deployed": false
+    },
+    {
+      "slug": "ghe-luoi",
+      "candidate": "quality-recovery/rejected-master/ghe-luoi-duplicate-source-1600.webp",
+      "status": "REJECTED",
+      "reason": "The subcategory reused the main-category scene with a different crop.",
+      "deployed": false
+    },
+    {
+      "slug": "ghe-luoi",
+      "candidate": "quality-recovery/rejected-master/ghe-luoi-mechanical-reject.png",
+      "status": "REJECTED",
+      "reason": "The gas cylinder protruded too far below the base hub.",
+      "deployed": false
+    }
+  ],
+  "technicalQA": {
+    "familyCount": 52,
+    "randomReviewCount": 50,
+    "decodeFailures": 0,
+    "dimensionFailures": 0,
+    "lowContrast": 0,
+    "lowSharpness": 0,
+    "exactDuplicates": 0,
+    "nearDuplicatesDHash": 0,
+    "highCorrelationPairs": 0
+  },
+  "scope": {
+    "productdbModified": false,
+    "portalModified": false,
+    "routesModified": false,
+    "dnsModified": false
+  }
+}

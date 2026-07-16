@@ -18,9 +18,9 @@
   const ready = (fn) => document.readyState === "loading" ? document.addEventListener("DOMContentLoaded", fn, { once: true }) : fn();
   const setText = (selector, value, root = document) => { const el = $(selector, root); if (el && el.textContent.trim() !== value) el.textContent = value; };
 
-  function categoryImageBase(image) { return String(image || "").replace(/-(720|1200)\.webp$/, "").replace(/\.webp$/, ""); }
+  function categoryImageBase(image) { return String(image || "").replace(/-(720|1200|1600)\.webp$/, "").replace(/\.webp$/, ""); }
   function categoryImageUrl(image, size = "720") { return `${categoryImageBase(image)}-${size}.webp`; }
-  function categoryImageSrcset(image) { return `${categoryImageBase(image)}-720.webp 720w`; }
+  function categoryImageSrcset(image) { return `${categoryImageBase(image)}-720.webp 720w, ${categoryImageBase(image)}-1600.webp 1600w`; }
   function categoryImageSizes() { return "(max-width: 620px) calc(100vw - 44px), (max-width: 980px) 50vw, 360px"; }
   function currentCategorySlug() { const params = new URLSearchParams(location.search); const byCat = params.get("cat"); if (byCat) return byCat; const parts = location.pathname.split("/").filter(Boolean); const idx = parts.indexOf("danh-muc"); return idx >= 0 && parts[idx + 1] ? parts[idx + 1] : "ghe-van-phong"; }
   function findCategory(slug) { return CATEGORY_LIBRARY.find((item) => item.slug === slug || (item.aliases || []).includes(slug)) || CATEGORY_LIBRARY[0]; }
@@ -66,7 +66,7 @@
       heroImage.alt = `Danh mục ${category.name} BA_Furniture`;
     }
     const subGrid = $('[data-subcategory-grid]');
-    if (subGrid) subGrid.innerHTML = category.subs.map(([slug, name]) => `<a href="/category.html?cat=${esc(category.slug)}&sub=${esc(slug)}"><img src="/images/categories/sub/${esc(slug)}.webp" alt="${esc(name)}" width="260" height="186" loading="lazy" decoding="async"><span>${esc(name)}</span></a>`).join("");
+    if (subGrid) subGrid.innerHTML = category.subs.map(([slug, name]) => `<a href="/category.html?cat=${esc(category.slug)}&sub=${esc(slug)}"><img src="/images/categories/sub/${esc(slug)}-720.webp" srcset="/images/categories/sub/${esc(slug)}-720.webp 720w, /images/categories/sub/${esc(slug)}-1600.webp 1600w" sizes="(max-width: 620px) calc(100vw - 56px), 240px" alt="${esc(name)}" width="720" height="514" loading="lazy" decoding="async"><span>${esc(name)}</span></a>`).join("");
     const productGrid = $('[data-product-grid]');
     if (productGrid) productGrid.innerHTML = category.products.map(productCard).join("");
     const related = $('[data-related-categories]');

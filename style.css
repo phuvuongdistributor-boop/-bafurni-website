@@ -753,6 +753,19 @@ h3 {
   padding: 22px;
 }
 
+.solution-grid article {
+  overflow: hidden;
+}
+
+.solution-grid article img {
+  display: block;
+  width: calc(100% + 44px);
+  margin: -22px -22px 18px;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background: var(--color-muted);
+}
+
 .solution-grid p,
 .trust-grid span {
   color: var(--color-text-soft);
