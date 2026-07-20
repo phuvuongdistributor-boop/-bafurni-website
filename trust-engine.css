@@ -807,6 +807,22 @@
   }
 }
 
+@media (min-width: 981px) and (max-width: 1240px) {
+  .v6-header {
+    padding-right: 28px;
+    padding-left: 28px;
+  }
+
+  .v6-nav {
+    gap: 18px;
+    font-size: 11px;
+  }
+
+  .v6-header-cta {
+    font-size: 11px;
+  }
+}
+
 @media (max-width: 680px) {
   .v8-case-card {
     min-height: 520px;
