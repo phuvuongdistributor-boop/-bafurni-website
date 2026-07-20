@@ -3,362 +3,231 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>BAFurniture | Giải pháp nội thất doanh nghiệp & dự án</title>
-    <meta name="description" content="BAFurniture kiến tạo không gian nội thất cho văn phòng, trường học, nhà máy và dự án. Tư vấn, sản xuất theo yêu cầu, cung ứng và lắp đặt trọn gói." />
+    <title>BA_Furniture | Nội thất văn phòng, trường học và dự án</title>
+    <meta name="description" content="BA_Furniture cung cấp ghế, bàn, tủ, sofa và nội thất đồng bộ cho văn phòng, trường học, nhà máy và công trình." />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <link rel="canonical" href="https://bafurni.com/" />
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
-    <link rel="preload" href="assets/brand/hero-office.jpg" as="image" fetchpriority="high" />
-    <link rel="preload" href="style.css?v=7.0.2" as="style" />
+    <link rel="preload" href="images/hero/homepage-1600.webp" as="image" fetchpriority="high" />
     <link rel="stylesheet" href="style.css?v=7.0.2" />
-    <link rel="stylesheet" href="trust-engine.css?v=8.0.0" />
+    <link rel="stylesheet" href="product-first.css?v=1.0.0" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="vi_VN" />
-    <meta property="og:site_name" content="BAFurniture" />
-    <meta property="og:title" content="BAFurniture | Không gian được kiến tạo để vận hành tốt hơn" />
-    <meta property="og:description" content="Giải pháp nội thất đồng bộ cho doanh nghiệp, trường học, nhà máy và dự án." />
+    <meta property="og:site_name" content="BA_Furniture" />
+    <meta property="og:title" content="BA_Furniture | Nội thất đúng nhu cầu, đồng bộ từng không gian" />
+    <meta property="og:description" content="Khám phá danh mục nội thất văn phòng, trường học, nhà máy và dự án." />
     <meta property="og:url" content="https://bafurni.com/" />
-    <meta property="og:image" content="https://bafurni.com/assets/brand/hero-office.jpg" />
+    <meta property="og:image" content="https://bafurni.com/images/hero/homepage-1600.webp" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "BAFurniture",
+        "name": "BA_Furniture",
         "url": "https://bafurni.com/",
         "telephone": "+84929878666",
-        "description": "Giải pháp nội thất doanh nghiệp, trường học, nhà máy và dự án.",
-        "areaServed": ["Nam Định", "Ninh Bình", "Hà Nam", "Hưng Yên", "Thái Bình", "Việt Nam"]
+        "description": "Nội thất văn phòng, trường học, nhà máy và dự án.",
+        "areaServed": "Việt Nam"
       }
     </script>
   </head>
-  <body class="brand-home">
+  <body class="pf-home">
     <a class="skip-link" href="#main">Bỏ qua menu</a>
 
-    <header class="v6-header">
-      <a class="v6-wordmark" href="#home" aria-label="BAFurniture trang chủ">
-        <img class="v8-brand-logo v8-brand-logo--header" src="images/brand/ba-furniture-logo.jpg" alt="" width="1254" height="1254" fetchpriority="high" decoding="async" />
+    <div class="pf-announcement">Tư vấn cấu hình và báo giá theo số lượng · Hotline 0929.878.666</div>
+    <header class="pf-header">
+      <a class="pf-brand" href="/" aria-label="BA_Furniture trang chủ">
+        <img src="images/brand/ba-furniture-logo.jpg" alt="BA_Furniture" width="1254" height="1254" fetchpriority="high" />
+        <span>BA_Furniture</span>
       </a>
-
-      <button class="v6-menu-button nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Mở menu">
+      <button class="pf-menu nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Mở menu">
         <span></span><span></span><span></span>
       </button>
-
-      <nav id="main-nav" class="v6-nav main-nav" aria-label="Menu chính">
-        <a href="#spaces">Không gian</a>
+      <nav id="main-nav" class="pf-nav main-nav" aria-label="Điều hướng chính">
+        <a href="#categories">Danh mục</a>
+        <a href="#featured">Sản phẩm</a>
         <a href="#solutions">Giải pháp</a>
-        <a href="category.html">Sản phẩm</a>
-        <a href="case-studies.html">Hồ sơ dự án</a>
-        <a href="#capability">Năng lực</a>
+        <a href="#projects">Dự án</a>
+        <a href="#contact">Liên hệ</a>
       </nav>
-
-      <a class="v6-header-cta" href="#contact">Trao đổi dự án</a>
+      <form class="pf-search" action="/category.html" role="search">
+        <label class="pf-sr-only" for="site-search">Tìm sản phẩm</label>
+        <input id="site-search" name="q" type="search" placeholder="Tìm ghế, bàn, tủ..." />
+      </form>
+      <a class="pf-hotline" href="tel:0929878666"><span>Hotline</span><strong>0929.878.666</strong></a>
+      <button class="pf-quote-button" type="button" data-open-wizard>Nhận báo giá</button>
     </header>
 
     <main id="main">
-      <section id="home" class="v6-hero" aria-labelledby="hero-title">
-        <img src="assets/brand/hero-office.jpg" alt="Không gian văn phòng hiện đại với nội thất gỗ và ánh sáng tự nhiên" fetchpriority="high" />
-        <div class="v6-hero-shade" aria-hidden="true"></div>
-        <div class="v6-hero-content">
-          <p class="v6-kicker">Giải pháp nội thất đồng bộ</p>
-          <h1 id="hero-title">Kiến tạo không gian. Nâng tầm vận hành.</h1>
-          <p class="v6-hero-lead">Từ định hướng đến lắp đặt hoàn thiện, BAFurniture đồng hành trong từng quyết định về công năng, vật liệu và trải nghiệm không gian.</p>
-          <div class="v6-actions">
-            <a class="v6-button v6-button--light" href="#solutions">Khám phá giải pháp</a>
-            <a class="v6-text-link" href="tel:0929878666">Tư vấn 0929.878.666</a>
+      <section id="home" class="pf-hero">
+        <div class="pf-hero-copy">
+          <p class="pf-eyebrow">Nội thất cho công việc và học tập</p>
+          <h1>Nội thất đúng nhu cầu.<br />Đồng bộ từng không gian.</h1>
+          <p>Ghế, bàn, tủ và giải pháp hoàn thiện cho văn phòng, trường học, nhà máy và công trình.</p>
+          <div class="pf-actions">
+            <a class="pf-button pf-button-primary" href="#categories">Xem sản phẩm</a>
+            <button class="pf-button pf-button-secondary" type="button" data-open-wizard>Nhận tư vấn</button>
           </div>
-        </div>
-        <div class="v6-hero-meta" aria-label="Năng lực nổi bật">
-          <span><strong>Đồng bộ</strong> từ nhu cầu đến bàn giao</span>
-          <span><strong>Một đầu mối</strong> xuyên suốt quá trình</span>
-          <span><strong>Toàn quốc</strong> triển khai theo dự án</span>
-        </div>
-      </section>
-
-      <section class="v6-intro" aria-labelledby="intro-title">
-        <p class="v6-kicker">BAFurniture</p>
-        <div>
-          <h2 id="intro-title">Chúng tôi không chỉ đặt nội thất vào một mặt bằng.</h2>
-          <p>Chúng tôi cùng khách hàng tạo nên một môi trường làm việc có bản sắc, vận hành hiệu quả và bền vững theo thời gian.</p>
-        </div>
-      </section>
-
-      <section id="spaces" class="v6-section v6-spaces" aria-labelledby="spaces-title">
-        <div class="v6-section-heading">
-          <div>
-            <p class="v6-kicker">Lĩnh vực phục vụ</p>
-            <h2 id="spaces-title">Không gian mang dấu ấn của người sử dụng.</h2>
-          </div>
-          <p>Mỗi môi trường có một nhịp vận hành riêng. Chúng tôi bắt đầu bằng việc hiểu con người, công năng và những tiêu chuẩn cần được duy trì lâu dài.</p>
-        </div>
-
-        <div class="v6-space-grid">
-          <a class="v6-space-card" href="#solutions">
-            <img src="assets/brand/category-workplace.jpg" alt="Nhân sự làm việc trong không gian văn phòng mở" loading="lazy" />
-            <span>Doanh nghiệp</span>
-            <strong>Văn phòng & nơi làm việc</strong>
-          </a>
-          <a class="v6-space-card" href="#solutions">
-            <img src="assets/brand/category-education.jpg" alt="Không gian lớp học với bàn ghế đồng bộ" loading="lazy" />
-            <span>Giáo dục</span>
-            <strong>Trường học & đào tạo</strong>
-          </a>
-          <a class="v6-space-card" href="#projects">
-            <img src="assets/brand/project-lounge.jpg" alt="Không gian lounge và tiếp khách hiện đại" loading="lazy" />
-            <span>Công trình</span>
-            <strong>Tiếp khách & không gian chung</strong>
-          </a>
-        </div>
-      </section>
-
-      <section id="products" class="v8-catalog" aria-labelledby="catalog-title">
-        <div class="v8-catalog-heading">
-          <div>
-            <p class="v6-kicker">Hệ thống nhóm sản phẩm</p>
-            <h2 id="catalog-title">Danh mục đã được xây dựng để khách hàng tìm đúng nhóm ngay từ đầu.</h2>
-          </div>
-          <div>
-            <p>Tám nhóm chủ lực bao phủ nơi làm việc, phòng họp, lưu trữ, giáo dục, kho và không gian tiếp khách. Hình ảnh và cấu trúc được khôi phục từ storefront đã hoàn thiện trước V7.</p>
-            <a class="v8-section-link" href="category.html">Mở trang sản phẩm</a>
-          </div>
-        </div>
-
-        <div class="v8-catalog-grid" aria-label="Nhóm sản phẩm chủ lực">
-          <a class="v8-catalog-card v8-catalog-card--feature" href="category.html">
-            <img src="images/categories/main/ghe-van-phong-720.webp" alt="Nhóm ghế văn phòng" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>01 / Nơi làm việc</small><strong>Ghế văn phòng</strong><p>Ghế giám đốc, ghế lưới, ghế chân quỳ và ghế đào tạo.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-          <a class="v8-catalog-card" href="category.html">
-            <img src="images/categories/main/ban-van-phong-720.webp" alt="Nhóm bàn văn phòng" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>02 / Nơi làm việc</small><strong>Bàn văn phòng</strong><p>Bàn nhân viên, quản lý, giám đốc và module làm việc.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-          <a class="v8-catalog-card" href="category.html">
-            <img src="images/categories/main/ban-hop-720.webp" alt="Nhóm bàn họp" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>03 / Cộng tác</small><strong>Bàn họp</strong><p>Bàn họp nhỏ, lớn, oval và cấu hình theo phòng họp.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-          <a class="v8-catalog-card" href="category.html">
-            <img src="images/categories/main/tu-hoc-tai-lieu-720.webp" alt="Nhóm tủ và hộc tài liệu" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>04 / Lưu trữ</small><strong>Tủ & Hộc</strong><p>Tủ hồ sơ, tủ tài liệu, hộc di động và kệ lưu trữ.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-          <a class="v8-catalog-card" href="category.html">
-            <img src="images/categories/main/tu-locker-720.webp" alt="Nhóm tủ locker" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>05 / Vận hành</small><strong>Locker</strong><p>Tủ locker cho văn phòng, nhà máy và trường học.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-          <a class="v8-catalog-card" href="category.html">
-            <img src="images/categories/main/sofa-ghe-cho-720.webp" alt="Nhóm sofa và ghế chờ" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>06 / Tiếp khách</small><strong>Sofa & Ghế chờ</strong><p>Sofa sảnh, ghế lounge, khu tiếp khách và chờ.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-          <a class="v8-catalog-card" href="category.html">
-            <img src="images/categories/main/noi-that-truong-hoc-720.webp" alt="Nhóm nội thất trường học" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>07 / Giáo dục</small><strong>Trường học</strong><p>Bàn ghế học sinh, giáo viên và phòng chức năng.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-          <a class="v8-catalog-card" href="category.html">
-            <img src="images/categories/main/ke-gia-kho-720.webp" alt="Nhóm kệ và giá kho" width="720" height="540" loading="lazy" decoding="async" />
-            <span><small>08 / Lưu trữ</small><strong>Kệ & Giá kho</strong><p>Kệ sắt, giá kho, lưu trữ hàng hóa và hồ sơ.</p><em>Xem nhóm sản phẩm</em></span>
-          </a>
-        </div>
-
-        <div class="v8-subcategory-strip" aria-labelledby="chair-groups-title">
-          <div class="v8-subcategory-intro"><small>Nhóm nhỏ nổi bật</small><strong id="chair-groups-title">Ghế văn phòng</strong><p>Chọn nhanh theo nhu cầu sử dụng.</p></div>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-giam-doc.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế giám đốc</span></a>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-leader.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế leader</span></a>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-luoi.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế lưới</span></a>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-chan-quy.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế chân quỳ</span></a>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-da.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế da</span></a>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-training.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế training</span></a>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-bar-cafe.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế bar/cafe</span></a>
-          <a href="category.html#category-listing"><img src="images/categories/sub/ghe-xoay.webp" alt="" width="260" height="186" loading="lazy" /><span>Ghế xoay</span></a>
-        </div>
-      </section>
-
-      <section id="solutions" class="v6-section v6-solutions" aria-labelledby="solutions-title">
-        <div class="v6-section-heading">
-          <div>
-            <p class="v6-kicker">Giải pháp theo không gian</p>
-            <h2 id="solutions-title">Một tư duy đồng bộ cho mọi điểm chạm.</h2>
-          </div>
-          <p>Thiết kế định hướng từ nhu cầu sử dụng thực tế, kết hợp danh mục sản phẩm rộng và khả năng sản xuất theo yêu cầu.</p>
-        </div>
-
-        <div class="v6-solution-grid">
-          <article class="v6-solution-card v6-solution-card--large">
-            <img src="assets/brand/solution-workplace.jpg" alt="Không gian làm việc mở hiện đại" loading="lazy" />
-            <div class="v6-image-shade" aria-hidden="true"></div>
-            <div class="v6-card-copy">
-              <p>01 / Workplace</p>
-              <h3>Văn phòng doanh nghiệp</h3>
-              <span>Không gian làm việc, phòng lãnh đạo, khu cộng tác và hệ lưu trữ đồng bộ.</span>
-            </div>
-          </article>
-
-          <article class="v6-solution-card">
-            <img src="assets/brand/solution-meeting.jpg" alt="Phòng họp doanh nghiệp với bàn ghế hiện đại" loading="lazy" />
-            <div class="v6-image-shade" aria-hidden="true"></div>
-            <div class="v6-card-copy">
-              <p>02 / Collaboration</p>
-              <h3>Phòng họp & tiếp khách</h3>
-              <span>Cân bằng tính đại diện, sự tập trung và trải nghiệm của người sử dụng.</span>
-            </div>
-          </article>
-
-          <article class="v6-solution-card v6-solution-card--text">
-            <p class="v6-kicker">03 / Bespoke</p>
-            <h3>Sản xuất theo yêu cầu</h3>
-            <p>Kích thước, vật liệu, màu sắc và cấu hình được tinh chỉnh theo mặt bằng, ngân sách và tiêu chuẩn dự án.</p>
-            <a href="#contact">Bắt đầu từ nhu cầu của bạn</a>
-          </article>
-        </div>
-      </section>
-
-      <section id="projects" class="v6-section v6-projects v8-projects" aria-labelledby="projects-title">
-        <div class="v6-section-heading v6-section-heading--inverse">
-          <div>
-            <p class="v6-kicker">Hồ sơ tình huống triển khai</p>
-            <h2 id="projects-title">Năng lực được nhìn thấy trong từng quyết định thực tế.</h2>
-          </div>
-          <p>Ba bối cảnh điển hình cho cách BAFurniture tiếp cận mặt bằng, công năng, vật liệu và kế hoạch bàn giao. Không dùng tên khách hàng hoặc số liệu chưa được xác minh.</p>
-        </div>
-
-        <div class="v8-case-grid">
-          <a class="v8-case-card v8-case-card--primary" href="case-study-workplace.html">
-            <img src="assets/brand/project-office.jpg" alt="Văn phòng mở với hệ bàn làm việc đồng bộ" loading="lazy" />
-            <span class="v8-case-shade" aria-hidden="true"></span>
-            <span class="v8-case-copy"><small>Workplace / Hồ sơ 01</small><strong>Văn phòng vận hành đồng bộ</strong><span>Từ luồng di chuyển đến hệ bàn, lưu trữ và phòng họp.</span></span>
-          </a>
-          <a class="v8-case-card" href="case-study-education.html">
-            <img src="assets/brand/category-education.jpg" alt="Không gian lớp học với bàn ghế đồng bộ" loading="lazy" />
-            <span class="v8-case-shade" aria-hidden="true"></span>
-            <span class="v8-case-copy"><small>Education / Hồ sơ 02</small><strong>Không gian học tập linh hoạt</strong><span>Cân bằng độ bền, khả năng tổ chức lại và vận hành hằng ngày.</span></span>
-          </a>
-          <a class="v8-case-card" href="case-study-lounge.html">
-            <img src="assets/brand/project-lounge.jpg" alt="Khu lounge và tiếp khách trong văn phòng hiện đại" loading="lazy" />
-            <span class="v8-case-shade" aria-hidden="true"></span>
-            <span class="v8-case-copy"><small>Shared space / Hồ sơ 03</small><strong>Khu gặp gỡ có bản sắc</strong><span>Không gian đại diện vẫn đáp ứng nhịp sử dụng thực tế.</span></span>
-          </a>
-        </div>
-        <a class="v8-section-link v8-section-link--light" href="case-studies.html">Xem toàn bộ hồ sơ năng lực triển khai</a>
-      </section>
-
-      <section id="capability" class="v6-capability" aria-labelledby="capability-title">
-        <div class="v6-capability-image">
-          <img src="assets/brand/brand-material.jpg" alt="Không gian làm việc với vật liệu gỗ tự nhiên" loading="lazy" />
-        </div>
-        <div class="v6-capability-copy">
-          <p class="v6-kicker">Năng lực tạo nên niềm tin</p>
-          <h2 id="capability-title">Hiểu sản phẩm. Hiểu không gian. Hiểu yêu cầu vận hành.</h2>
-          <p>BAFurniture kết nối yêu cầu sử dụng, lựa chọn sản phẩm, tùy biến theo mặt bằng và kế hoạch giao lắp trong một luồng làm việc thống nhất.</p>
-          <p class="v6-service-note">Phục vụ trọng điểm tại Nam Định, Ninh Bình, Hà Nam, Hưng Yên, Thái Bình và triển khai linh hoạt theo dự án trên toàn quốc.</p>
-          <dl class="v6-stats">
-            <div><dt>3.300+</dt><dd>Mã sản phẩm có thể tư vấn</dd></div>
-            <div><dt>5</dt><dd>Tỉnh thành phục vụ trọng tâm</dd></div>
-            <div><dt>01</dt><dd>Đầu mối xuyên suốt dự án</dd></div>
-          </dl>
-          <div class="v8-capability-list" aria-label="Ba lớp năng lực">
-            <div><span>01</span><strong>Hiểu bài toán</strong><p>Làm rõ người dùng, công năng, ngân sách và mốc vận hành trước khi chọn cấu hình.</p></div>
-            <div><span>02</span><strong>Kiểm soát cấu hình</strong><p>Đồng bộ kích thước, vật liệu, màu sắc và số lượng theo từng khu vực.</p></div>
-            <div><span>03</span><strong>Điều phối bàn giao</strong><p>Một đầu mối theo dõi xác nhận, cung ứng, giao lắp và các điểm cần hoàn thiện.</p></div>
-          </div>
-        </div>
-      </section>
-
-      <section class="v8-operation" aria-labelledby="operation-title">
-        <div class="v8-operation-image">
-          <img src="assets/brand/solution-meeting.jpg" alt="Không gian họp hoàn thiện với bàn ghế được bố trí đồng bộ" loading="lazy" />
-        </div>
-        <div class="v8-operation-copy">
-          <p class="v6-kicker">Năng lực vận hành thực tế</p>
-          <h2 id="operation-title">Không dừng ở việc chọn một mẫu nội thất.</h2>
-          <p>Mỗi phương án được kiểm tra trong bối cảnh sử dụng thật: số người, luồng đi lại, kích thước mặt bằng, yêu cầu lưu trữ, mốc giao và điều kiện lắp đặt.</p>
-          <dl>
-            <div><dt>Đầu vào</dt><dd>Mặt bằng, khối lượng, nhu cầu và tiêu chuẩn cần đáp ứng.</dd></div>
-            <div><dt>Kiểm soát</dt><dd>Cấu hình, vật liệu, kích thước, màu sắc và kế hoạch giao lắp.</dd></div>
-            <div><dt>Đầu ra</dt><dd>Không gian sẵn sàng cho vận hành và có đầu mối tiếp nhận sau bàn giao.</dd></div>
+          <dl class="pf-hero-proof">
+            <div><dt>8</dt><dd>nhóm sản phẩm chính</dd></div>
+            <div><dt>Toàn quốc</dt><dd>khả năng cung ứng</dd></div>
+            <div><dt>B2B</dt><dd>báo giá theo số lượng</dd></div>
           </dl>
         </div>
-      </section>
-
-      <section class="v8-coverage" aria-labelledby="coverage-title">
-        <div class="v8-coverage-heading">
-          <p class="v6-kicker">Phạm vi phục vụ</p>
-          <h2 id="coverage-title">Bám sát khu vực trọng tâm. Triển khai linh hoạt theo dự án.</h2>
-          <p>Năm tỉnh thành là vùng phục vụ trọng tâm hiện tại. Với các địa phương khác, phạm vi và kế hoạch triển khai được xác nhận theo yêu cầu cụ thể của dự án.</p>
-        </div>
-        <figure class="v8-coverage-map" aria-labelledby="coverage-map-title">
-          <figcaption id="coverage-map-title">Bản đồ phạm vi triển khai tại Việt Nam</figcaption>
-          <div class="v8-map-regions">
-            <div class="v8-map-region v8-map-region--north">
-              <span>Miền Bắc</span>
-              <strong>Vùng phục vụ trọng tâm</strong>
-              <p>Nam Định · Ninh Bình · Hà Nam · Hưng Yên · Thái Bình</p>
-            </div>
-            <div class="v8-map-region v8-map-region--central">
-              <span>Miền Trung</span>
-              <strong>Theo kế hoạch dự án</strong>
-              <p>Xác nhận khối lượng, lịch giao và điều kiện lắp đặt trước triển khai.</p>
-            </div>
-            <div class="v8-map-region v8-map-region--south">
-              <span>Miền Nam</span>
-              <strong>Theo kế hoạch dự án</strong>
-              <p>Điều phối theo hồ sơ yêu cầu và đầu mối tại công trình.</p>
-            </div>
-          </div>
-          <p class="v8-map-note">Phạm vi toàn quốc không đồng nghĩa với cam kết thời gian cố định; tiến độ được xác nhận riêng cho từng dự án.</p>
+        <figure class="pf-hero-media">
+          <picture>
+            <source media="(max-width: 720px)" srcset="images/hero/homepage-720.webp" />
+            <img src="images/hero/homepage-1600.webp" alt="Không gian văn phòng hoàn thiện với bàn ghế nội thất" width="1600" height="1000" fetchpriority="high" />
+          </picture>
+          <figcaption>Không gian làm việc đồng bộ từ sản phẩm đến lắp đặt</figcaption>
         </figure>
       </section>
 
-      <section class="v8-process" aria-labelledby="process-title">
-        <div class="v8-process-heading">
-          <p class="v6-kicker">Quy trình dự án</p>
-          <h2 id="process-title">Năm điểm kiểm soát trước khi không gian đi vào vận hành.</h2>
+      <section id="categories" class="pf-section pf-categories">
+        <div class="pf-section-head">
+          <div>
+            <p class="pf-eyebrow">Danh mục chính</p>
+            <h2>Chọn nhanh theo sản phẩm</h2>
+          </div>
+          <a href="/category.html">Xem toàn bộ danh mục</a>
         </div>
-        <ol class="v8-process-list">
-          <li><span>01</span><div><strong>Tiếp nhận yêu cầu</strong><p>Ghi nhận loại hình, mặt bằng, số lượng, ngân sách và mốc cần sử dụng.</p></div></li>
-          <li><span>02</span><div><strong>Khảo sát & làm rõ</strong><p>Đối chiếu kích thước, luồng vận hành và điều kiện giao lắp thực tế.</p></div></li>
-          <li><span>03</span><div><strong>Chốt giải pháp</strong><p>Xác nhận cấu hình, vật liệu, màu sắc, khối lượng và phạm vi công việc.</p></div></li>
-          <li><span>04</span><div><strong>Cung ứng & điều phối</strong><p>Theo dõi các hạng mục theo kế hoạch đã thống nhất với đầu mối dự án.</p></div></li>
-          <li><span>05</span><div><strong>Giao lắp & bàn giao</strong><p>Kiểm tra hiện trạng hoàn thiện, ghi nhận điểm cần xử lý và tiếp nhận sau bàn giao.</p></div></li>
-        </ol>
+        <div class="pf-category-grid">
+          <a class="pf-category-card pf-category-card-wide" href="/danh-muc/ghe-van-phong">
+            <img src="images/categories/main/ghe-van-phong-720.webp" alt="Ghế văn phòng" width="720" height="480" loading="lazy" />
+            <span><strong>Ghế văn phòng</strong><small>Lãnh đạo, công thái học, nhân viên</small></span>
+          </a>
+          <a class="pf-category-card pf-category-card-wide" href="/danh-muc/ban-van-phong">
+            <img src="images/categories/main/ban-van-phong-720.webp" alt="Bàn văn phòng" width="720" height="480" loading="lazy" />
+            <span><strong>Bàn văn phòng</strong><small>Bàn làm việc, cụm bàn, bàn lãnh đạo</small></span>
+          </a>
+          <a class="pf-category-card" href="/danh-muc/ban-hop">
+            <img src="images/categories/main/ban-hop-720.webp" alt="Bàn họp" width="720" height="480" loading="lazy" />
+            <span><strong>Bàn họp</strong><small>Nhiều quy mô phòng họp</small></span>
+          </a>
+          <a class="pf-category-card" href="/danh-muc/tu-ho-so">
+            <img src="images/categories/main/tu-hoc-tai-lieu-720.webp" alt="Tủ hồ sơ" width="720" height="480" loading="lazy" />
+            <span><strong>Tủ hồ sơ</strong><small>Gỗ, sắt và lưu trữ chuyên dụng</small></span>
+          </a>
+          <a class="pf-category-card" href="/danh-muc/tu-locker">
+            <img src="images/categories/main/tu-locker-720.webp" alt="Tủ locker" width="720" height="480" loading="lazy" />
+            <span><strong>Tủ locker</strong><small>Văn phòng, nhà máy, trường học</small></span>
+          </a>
+          <a class="pf-category-card" href="/danh-muc/sofa-ghe-cho">
+            <img src="images/categories/main/sofa-ghe-cho-720.webp" alt="Sofa và ghế chờ" width="720" height="480" loading="lazy" />
+            <span><strong>Sofa & ghế chờ</strong><small>Tiếp khách và không gian công cộng</small></span>
+          </a>
+          <a class="pf-category-card" href="/danh-muc/noi-that-truong-hoc">
+            <img src="images/categories/main/noi-that-truong-hoc-720.webp" alt="Nội thất trường học" width="720" height="480" loading="lazy" />
+            <span><strong>Nội thất trường học</strong><small>Lớp học và phòng chức năng</small></span>
+          </a>
+          <a class="pf-category-card" href="/danh-muc/ke-gia-kho">
+            <img src="images/categories/main/ke-gia-kho-720.webp" alt="Kệ và giá kho" width="720" height="480" loading="lazy" />
+            <span><strong>Kệ & giá kho</strong><small>Lưu trữ hàng hóa và hồ sơ</small></span>
+          </a>
+        </div>
       </section>
 
-      <section class="v8-authority" aria-labelledby="authority-title">
-        <div class="v8-authority-copy">
-          <p class="v6-kicker">Brand authority</p>
-          <h2 id="authority-title">Niềm tin B2B cần bằng chứng có thể kiểm tra.</h2>
-          <p>BAFurniture trình bày rõ điều đã có, điều cần xác nhận và đầu mối chịu trách nhiệm. Không dùng logo khách hàng, chứng nhận hay số liệu dự án khi chưa có hồ sơ đối chiếu.</p>
-          <a class="v8-section-link" href="case-studies.html">Đọc hồ sơ tình huống triển khai</a>
+      <section id="featured" class="pf-section pf-featured">
+        <div class="pf-section-head">
+          <div>
+            <p class="pf-eyebrow">Sản phẩm nổi bật</p>
+            <h2>Những lựa chọn đang được quan tâm</h2>
+          </div>
+          <a href="/category.html">Khám phá sản phẩm</a>
         </div>
-        <div class="v8-authority-proof">
-          <div><strong>3.300+</strong><span>Mã sản phẩm có thể tư vấn theo hệ danh mục hiện có</span></div>
-          <div><strong>05</strong><span>Tỉnh thành phục vụ trọng tâm được công bố rõ</span></div>
-          <div><strong>01</strong><span>Đầu mối xuyên suốt từ yêu cầu đến bàn giao</span></div>
-          <div><strong>Rõ</strong><span>Phạm vi, cấu hình và tiến độ cần xác nhận cho từng dự án</span></div>
+        <div class="pf-product-grid">
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=TQ05"><img src="images/categories/sub/ghe-giam-doc.webp" alt="Ghế giám đốc TQ05" width="640" height="640" loading="lazy" /></a>
+            <div><p>Ghế lãnh đạo · TQ05</p><h3><a href="/product-detail.html?code=TQ05">Ghế giám đốc TQ05</a></h3><strong>5.225.000 đ</strong><span>W670 × D730 × H1130–1210 mm</span></div>
+          </article>
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=TQ01"><img src="images/categories/sub/ghe-luoi.webp" alt="Ghế giám đốc TQ01" width="640" height="640" loading="lazy" /></a>
+            <div><p>Ghế lãnh đạo · TQ01</p><h3><a href="/product-detail.html?code=TQ01">Ghế giám đốc TQ01</a></h3><strong>5.907.000 đ</strong><span>W680 × D810 × H1155–1210 mm</span></div>
+          </article>
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=DT1890V2"><img src="images/categories/sub/ban-cum-module.webp" alt="Bàn giám đốc DT1890V2" width="640" height="640" loading="lazy" /></a>
+            <div><p>Bàn lãnh đạo · DT1890V2</p><h3><a href="/product-detail.html?code=DT1890V2">Bàn giám đốc Veneer</a></h3><strong>5.258.000 đ</strong><span>W1800 × D900 × H760 mm</span></div>
+          </article>
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=DT2010V2"><img src="images/categories/sub/ban-hop-nho.webp" alt="Bàn giám đốc DT2010V2" width="640" height="640" loading="lazy" /></a>
+            <div><p>Bàn lãnh đạo · DT2010V2</p><h3><a href="/product-detail.html?code=DT2010V2">Bàn giám đốc DT2010V2</a></h3><strong>6.633.000 đ</strong><span>W2000 × D1000 × H760 mm</span></div>
+          </article>
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=TU09K7CK"><img src="images/categories/sub/tu-tai-lieu.webp" alt="Tủ sắt hồ sơ TU09K7CK" width="640" height="640" loading="lazy" /></a>
+            <div><p>Tủ hồ sơ · TU09K7CK</p><h3><a href="/product-detail.html?code=TU09K7CK">Tủ sắt hồ sơ 6 khoang</a></h3><strong>4.664.000 đ</strong><span>W1380 × D450 × H1830 mm</span></div>
+          </article>
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=TU983-3KS"><img src="images/categories/sub/tu-locker.webp" alt="Tủ locker TU983-3KS" width="640" height="640" loading="lazy" /></a>
+            <div><p>Tủ locker · TU983-3KS</p><h3><a href="/product-detail.html?code=TU983-3KS">Tủ locker khóa số 9 ngăn</a></h3><strong>4.686.000 đ</strong><span>W1058 × D450 × H1830 mm</span></div>
+          </article>
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=GMG101A-2"><img src="images/categories/sub/ban-giao-vien.webp" alt="Ghế mầm non GMG101A-2" width="640" height="640" loading="lazy" /></a>
+            <div><p>Trường học · GMG101A-2</p><h3><a href="/product-detail.html?code=GMG101A-2">Ghế mầm non GMG101A-2</a></h3><strong>169.400 đ</strong><span>W350 × D320 × H270 mm</span></div>
+          </article>
+          <article class="pf-product-card">
+            <a href="/product-detail.html?code=BMG101A-2"><img src="images/categories/sub/sofa-van-phong.webp" alt="Bàn mầm non BMG101A-2" width="640" height="640" loading="lazy" /></a>
+            <div><p>Trường học · BMG101A-2</p><h3><a href="/product-detail.html?code=BMG101A-2">Bàn mầm non BMG101A-2</a></h3><strong>432.300 đ</strong><span>W900 × D450 × H460 mm</span></div>
+          </article>
         </div>
       </section>
 
-      <section class="v6-manifesto" aria-label="Cam kết thương hiệu">
-        <p>Đúng nhu cầu.</p>
-        <p>Rõ phạm vi.</p>
-        <p>Có đầu mối.</p>
+      <section id="solutions" class="pf-section pf-quick-groups">
+        <div class="pf-section-head">
+          <div><p class="pf-eyebrow">Chọn theo nhu cầu</p><h2>Bắt đầu từ không gian của bạn</h2></div>
+        </div>
+        <div class="pf-group-list">
+          <a href="/danh-muc/ghe-van-phong?nhom=ghe-lanh-dao"><strong>Phòng lãnh đạo</strong><span>Ghế da, bàn veneer, tủ đồng bộ</span></a>
+          <a href="/danh-muc/ghe-van-phong?nhom=ghe-cong-thai-hoc"><strong>Làm việc cả ngày</strong><span>Ghế lưới và ghế công thái học</span></a>
+          <a href="/danh-muc/ban-van-phong?nhom=cum-ban"><strong>Văn phòng đội nhóm</strong><span>Cụm bàn và ghế nhân viên</span></a>
+          <a href="/danh-muc/ban-hop"><strong>Phòng họp</strong><span>Bàn họp, ghế chân quỳ, tủ phụ</span></a>
+          <a href="/danh-muc/tu-locker"><strong>Nhà máy & kho</strong><span>Locker, tủ sắt, kệ lưu trữ</span></a>
+          <a href="/danh-muc/noi-that-truong-hoc"><strong>Trường học</strong><span>Bàn ghế và phòng chức năng</span></a>
+        </div>
       </section>
 
-      <section id="contact" class="v6-contact" aria-labelledby="contact-title">
+      <section class="pf-section pf-capability">
+        <div class="pf-capability-media">
+          <img src="images/categories/main/ke-gia-kho-1600.webp" alt="Năng lực cung ứng nội thất và hệ thống lưu trữ công trình" width="1600" height="1000" />
+        </div>
+        <div class="pf-capability-copy">
+          <p class="pf-eyebrow">Năng lực triển khai</p>
+          <h2>Từ danh mục đến công trình hoàn thiện</h2>
+          <p>BA_Furniture đồng hành từ chọn cấu hình, bóc tách số lượng đến giao nhận và lắp đặt theo tiến độ.</p>
+          <dl>
+            <div><dt>01</dt><dd>Tư vấn cấu hình</dd></div>
+            <div><dt>02</dt><dd>Báo giá số lượng</dd></div>
+            <div><dt>03</dt><dd>Giao & lắp đặt</dd></div>
+          </dl>
+          <a href="/case-studies.html">Xem hồ sơ năng lực</a>
+        </div>
+      </section>
+
+      <section id="projects" class="pf-section pf-projects">
+        <div class="pf-section-head">
+          <div><p class="pf-eyebrow">Không gian & dự án</p><h2>Sản phẩm trong bối cảnh sử dụng thật</h2></div>
+          <a href="/case-studies.html">Xem tất cả dự án</a>
+        </div>
+        <div class="pf-project-grid">
+          <a href="/case-study-workplace.html"><img src="images/categories/main/ghe-van-phong-1200.webp" alt="Không gian văn phòng làm việc" width="1200" height="800" /><span><small>Workplace</small><strong>Văn phòng vận hành đồng bộ</strong></span></a>
+          <a href="/case-study-education.html"><img src="images/categories/main/noi-that-truong-hoc-1200.webp" alt="Không gian giáo dục" width="1200" height="800" /><span><small>Education</small><strong>Không gian học tập bền vững</strong></span></a>
+          <a href="/case-study-lounge.html"><img src="images/categories/main/sofa-ghe-cho-1200.webp" alt="Không gian tiếp khách và chờ" width="1200" height="800" /><span><small>Public space</small><strong>Khu tiếp khách chỉn chu</strong></span></a>
+        </div>
+      </section>
+
+      <section id="contact" class="pf-section pf-cta">
         <div>
-          <p class="v6-kicker">Nhận phương án phù hợp</p>
-          <h2 id="contact-title">Bắt đầu nhu cầu của bạn trong 60 giây.</h2>
-          <p class="v7-contact-note">Cho chúng tôi biết loại không gian, quy mô và thời gian dự kiến. Đội ngũ BAFurniture sẽ liên hệ để làm rõ phương án.</p>
+          <p class="pf-eyebrow">Báo giá theo nhu cầu</p>
+          <h2>Gửi nhu cầu trong 60 giây</h2>
+          <p>Chọn nhóm không gian, quy mô và thời gian cần hàng. Đội ngũ BA_Furniture sẽ liên hệ với phương án phù hợp.</p>
         </div>
-        <div class="v6-contact-actions">
-          <button class="v7-primary-action" type="button" data-open-wizard>Bắt đầu nhận báo giá</button>
-          <a href="tel:0929878666"><span>Hotline tư vấn</span><strong>0929.878.666</strong></a>
-          <p class="v7-response-note">Phản hồi trong giờ làm việc · Không yêu cầu chọn mã sản phẩm</p>
+        <div class="pf-actions">
+          <button class="pf-button pf-button-primary" type="button" data-open-wizard>Nhận báo giá</button>
+          <a class="pf-button pf-button-secondary" href="tel:0929878666">Gọi 0929.878.666</a>
         </div>
       </section>
     </main>
 
-    <aside class="v7-sticky-cta" aria-label="Liên hệ nhanh">
-      <div>
-        <span>Cần phương án nội thất?</span>
-        <strong>Gửi nhu cầu trong 60 giây</strong>
-      </div>
+    <aside class="v7-sticky-cta pf-sticky" aria-label="Liên hệ nhanh">
+      <div><span>Cần phương án nội thất?</span><strong>Gửi nhu cầu trong 60 giây</strong></div>
       <button type="button" data-open-wizard>Nhận báo giá</button>
       <a href="tel:0929878666">Gọi 0929.878.666</a>
     </aside>
@@ -366,168 +235,78 @@
     <dialog id="quote-wizard" class="v7-wizard" aria-labelledby="wizard-title">
       <div class="v7-wizard-shell">
         <header class="v7-wizard-header">
-          <div>
-            <p class="v6-kicker">BAFurniture Quote Wizard</p>
-            <h2 id="wizard-title">Cho chúng tôi biết nhu cầu của bạn.</h2>
-          </div>
+          <div><p class="v6-kicker">BA_Furniture Quote Wizard</p><h2 id="wizard-title">Cho chúng tôi biết nhu cầu của bạn.</h2></div>
           <button class="v7-wizard-close" type="button" data-close-wizard aria-label="Đóng biểu mẫu">Đóng</button>
         </header>
-
         <div class="v7-wizard-progress" aria-label="Tiến trình gửi nhu cầu">
-          <span class="is-active" data-progress="1">01 Nhu cầu</span>
-          <span data-progress="2">02 Quy mô</span>
-          <span data-progress="3">03 Liên hệ</span>
+          <span class="is-active" data-progress="1">01 Nhu cầu</span><span data-progress="2">02 Quy mô</span><span data-progress="3">03 Liên hệ</span>
         </div>
-
         <form id="quote-form" novalidate>
           <section class="v7-wizard-step is-active" data-step="1" aria-labelledby="wizard-step-1">
-            <p class="v7-step-count">Bước 1 / 3</p>
-            <h3 id="wizard-step-1">Bạn đang cần nội thất cho đâu?</h3>
+            <p class="v7-step-count">Bước 1 / 3</p><h3 id="wizard-step-1">Bạn đang cần nội thất cho đâu?</h3>
             <div class="v7-quick-lead">
-              <div>
-                <strong>Cần tư vấn ngay?</strong>
-                <span>Chỉ để lại số điện thoại, BAFurniture sẽ gọi lại.</span>
-              </div>
-              <label>
-                <span class="v7-visually-hidden">Số điện thoại nhận tư vấn</span>
-                <input name="quick_phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="Số điện thoại của bạn" />
-              </label>
+              <div><strong>Cần tư vấn ngay?</strong><span>Chỉ để lại số điện thoại, BA_Furniture sẽ gọi lại.</span></div>
+              <label><span class="v7-visually-hidden">Số điện thoại nhận tư vấn</span><input name="quick_phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="Số điện thoại của bạn" /></label>
               <button type="button" data-quick-submit>Gửi số điện thoại</button>
             </div>
-            <p class="v7-quick-privacy">Khi gửi số điện thoại, bạn đồng ý để BAFurniture liên hệ tư vấn. Hoặc chọn nhu cầu bên dưới để nhận phương án chi tiết.</p>
+            <p class="v7-quick-privacy">Khi gửi số điện thoại, bạn đồng ý để BA_Furniture liên hệ tư vấn.</p>
             <p class="v7-field-error" data-error="quick" role="alert"></p>
             <div class="v7-choice-grid">
-              <button type="button" class="v7-choice" data-field="need_type" data-value="office"><strong>Văn phòng doanh nghiệp</strong><span>Nơi làm việc, phòng họp, lãnh đạo, tiếp khách</span></button>
-              <button type="button" class="v7-choice" data-field="need_type" data-value="school"><strong>Trường học & đào tạo</strong><span>Lớp học, thư viện, phòng chức năng, bán trú</span></button>
-              <button type="button" class="v7-choice" data-field="need_type" data-value="factory"><strong>Nhà máy & khu công nghiệp</strong><span>Locker, lưu trữ, canteen, văn phòng điều hành</span></button>
-              <button type="button" class="v7-choice" data-field="need_type" data-value="project"><strong>Dự án & công trình</strong><span>Cung ứng theo hồ sơ, khối lượng và tiến độ</span></button>
+              <button type="button" class="v7-choice" data-field="need_type" data-value="office"><strong>Văn phòng doanh nghiệp</strong><span>Nơi làm việc, phòng họp, lãnh đạo</span></button>
+              <button type="button" class="v7-choice" data-field="need_type" data-value="school"><strong>Trường học & đào tạo</strong><span>Lớp học, thư viện, phòng chức năng</span></button>
+              <button type="button" class="v7-choice" data-field="need_type" data-value="factory"><strong>Nhà máy & công nghiệp</strong><span>Locker, lưu trữ, văn phòng điều hành</span></button>
+              <button type="button" class="v7-choice" data-field="need_type" data-value="project"><strong>Dự án & công trình</strong><span>Cung ứng theo khối lượng và tiến độ</span></button>
             </div>
             <p class="v7-field-error" data-error="need_type" role="alert"></p>
           </section>
-
           <section class="v7-wizard-step" data-step="2" aria-labelledby="wizard-step-2" hidden>
-            <p class="v7-step-count">Bước 2 / 3</p>
-            <h3 id="wizard-step-2">Quy mô và thời gian dự kiến?</h3>
+            <p class="v7-step-count">Bước 2 / 3</p><h3 id="wizard-step-2">Quy mô và thời gian dự kiến?</h3>
             <div class="v7-field-grid">
-              <label>
-                <span>Loại khách hàng</span>
-                <select name="org_type" required>
-                  <option value="">Chọn loại khách hàng</option>
-                  <option value="business">Doanh nghiệp</option>
-                  <option value="contractor">Chủ đầu tư / Nhà thầu</option>
-                  <option value="school">Trường học / Đơn vị công</option>
-                  <option value="individual">Cá nhân / Hộ kinh doanh</option>
-                </select>
-              </label>
-              <label>
-                <span>Số lượng dự kiến</span>
-                <select name="quantity" required>
-                  <option value="">Chọn quy mô</option>
-                  <option value="under10">Dưới 10 sản phẩm</option>
-                  <option value="10-29">10–29 sản phẩm</option>
-                  <option value="30-99">30–99 sản phẩm</option>
-                  <option value="100plus">Từ 100 sản phẩm</option>
-                </select>
-              </label>
-              <label>
-                <span>Thời gian cần hàng</span>
-                <select name="timeline" required>
-                  <option value="">Chọn thời gian</option>
-                  <option value="30days">Trong 30 ngày</option>
-                  <option value="1-3months">1–3 tháng</option>
-                  <option value="3plus">Trên 3 tháng</option>
-                  <option value="researching">Đang tìm hiểu</option>
-                </select>
-              </label>
-              <label>
-                <span>Ngân sách dự kiến</span>
-                <select name="budget">
-                  <option value="unknown">Cần tư vấn</option>
-                  <option value="under50">Dưới 50 triệu</option>
-                  <option value="50-200">50–200 triệu</option>
-                  <option value="200-500">200–500 triệu</option>
-                  <option value="500plus">Trên 500 triệu</option>
-                </select>
-              </label>
-              <label class="v7-field-wide">
-                <span>Khu vực triển khai</span>
-                <input name="region" autocomplete="address-level1" placeholder="Ví dụ: Nam Định, Hà Nội..." required />
-              </label>
+              <label><span>Loại khách hàng</span><select name="org_type" required><option value="">Chọn loại khách hàng</option><option value="business">Doanh nghiệp</option><option value="contractor">Chủ đầu tư / Nhà thầu</option><option value="school">Trường học / Đơn vị công</option><option value="individual">Cá nhân / Hộ kinh doanh</option></select></label>
+              <label><span>Số lượng dự kiến</span><select name="quantity" required><option value="">Chọn quy mô</option><option value="under10">Dưới 10 sản phẩm</option><option value="10-29">10–29 sản phẩm</option><option value="30-99">30–99 sản phẩm</option><option value="100plus">Từ 100 sản phẩm</option></select></label>
+              <label><span>Thời gian cần hàng</span><select name="timeline" required><option value="">Chọn thời gian</option><option value="30days">Trong 30 ngày</option><option value="1-3months">1–3 tháng</option><option value="3plus">Trên 3 tháng</option><option value="researching">Đang tìm hiểu</option></select></label>
+              <label><span>Ngân sách dự kiến</span><select name="budget"><option value="unknown">Cần tư vấn</option><option value="under50">Dưới 50 triệu</option><option value="50-200">50–200 triệu</option><option value="200-500">200–500 triệu</option><option value="500plus">Trên 500 triệu</option></select></label>
+              <label class="v7-field-wide"><span>Khu vực triển khai</span><input name="region" autocomplete="address-level1" placeholder="Ví dụ: Nam Định, Hà Nội..." required /></label>
             </div>
             <p class="v7-field-error" data-error="step2" role="alert"></p>
-            <div class="v7-wizard-nav">
-              <button type="button" data-prev-step>Quay lại</button>
-              <button type="button" class="v7-next" data-next-step>Tiếp tục</button>
-            </div>
+            <div class="v7-wizard-nav"><button type="button" data-prev-step>Quay lại</button><button type="button" class="v7-next" data-next-step>Tiếp tục</button></div>
           </section>
-
           <section class="v7-wizard-step" data-step="3" aria-labelledby="wizard-step-3" hidden>
-            <p class="v7-step-count">Bước 3 / 3</p>
-            <h3 id="wizard-step-3">Thông tin để BAFurniture liên hệ.</h3>
+            <p class="v7-step-count">Bước 3 / 3</p><h3 id="wizard-step-3">Thông tin để BA_Furniture liên hệ.</h3>
             <div class="v7-field-grid">
-              <label>
-                <span>Họ và tên</span>
-                <input name="name" autocomplete="name" placeholder="Nguyễn Văn A" required />
-              </label>
-              <label>
-                <span>Số điện thoại</span>
-                <input name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="09xx xxx xxx" required />
-              </label>
-              <label class="v7-field-wide">
-                <span>Doanh nghiệp / Đơn vị</span>
-                <input name="company" autocomplete="organization" placeholder="Tên đơn vị (không bắt buộc)" />
-              </label>
-              <label class="v7-field-wide">
-                <span>Ghi chú nhu cầu</span>
-                <textarea name="note" rows="3" placeholder="Diện tích, hạng mục ưu tiên hoặc yêu cầu đặc biệt..."></textarea>
-              </label>
+              <label><span>Họ và tên</span><input name="name" autocomplete="name" placeholder="Nguyễn Văn A" required /></label>
+              <label><span>Số điện thoại</span><input name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="09xx xxx xxx" required /></label>
+              <label class="v7-field-wide"><span>Doanh nghiệp / Đơn vị</span><input name="company" autocomplete="organization" placeholder="Tên đơn vị (không bắt buộc)" /></label>
+              <label class="v7-field-wide"><span>Ghi chú nhu cầu</span><textarea name="note" rows="3" placeholder="Diện tích, hạng mục ưu tiên hoặc yêu cầu đặc biệt..."></textarea></label>
             </div>
-            <label class="v7-consent">
-              <input name="consent" type="checkbox" required />
-              <span>Tôi đồng ý để BAFurniture liên hệ tư vấn về nhu cầu đã gửi.</span>
-            </label>
-            <label class="v7-honeypot" aria-hidden="true">
-              Website
-              <input name="website" tabindex="-1" autocomplete="off" />
-            </label>
-            <input type="hidden" name="need_type" />
-            <input type="hidden" name="lead_score" />
-            <input type="hidden" name="lead_tier" />
-            <input type="hidden" name="source" value="bafurni-homepage-v7" />
+            <label class="v7-consent"><input name="consent" type="checkbox" required /><span>Tôi đồng ý để BA_Furniture liên hệ tư vấn về nhu cầu đã gửi.</span></label>
+            <label class="v7-honeypot" aria-hidden="true">Website<input name="website" tabindex="-1" autocomplete="off" /></label>
+            <input type="hidden" name="need_type" /><input type="hidden" name="lead_score" /><input type="hidden" name="lead_tier" /><input type="hidden" name="source" value="bafurni-homepage-product-first" />
             <p class="v7-field-error" data-error="submit" role="alert"></p>
-            <div class="v7-wizard-nav">
-              <button type="button" data-prev-step>Quay lại</button>
-              <button type="submit" class="v7-next">Gửi nhu cầu</button>
-            </div>
+            <div class="v7-wizard-nav"><button type="button" data-prev-step>Quay lại</button><button type="submit" class="v7-next">Gửi nhu cầu</button></div>
           </section>
-
           <section class="v7-wizard-success" data-wizard-success hidden aria-live="polite">
-            <p class="v6-kicker">Đã ghi nhận nhu cầu</p>
-            <h3>Cảm ơn bạn đã liên hệ BAFurniture.</h3>
+            <p class="v6-kicker">Đã ghi nhận nhu cầu</p><h3>Cảm ơn bạn đã liên hệ BA_Furniture.</h3>
             <p>Đội ngũ tư vấn sẽ liên hệ theo số điện thoại bạn cung cấp trong giờ làm việc.</p>
-            <div>
-              <button type="button" data-close-wizard>Hoàn tất</button>
-              <a href="tel:0929878666">Gọi ngay 0929.878.666</a>
-            </div>
+            <div><button type="button" data-close-wizard>Hoàn tất</button><a href="tel:0929878666">Gọi ngay 0929.878.666</a></div>
           </section>
         </form>
       </div>
     </dialog>
 
-    <footer class="v6-footer">
-      <a class="v6-wordmark v6-wordmark--footer" href="#home" aria-label="BAFurniture trang chủ"><img class="v8-brand-logo v8-brand-logo--footer" src="images/brand/ba-furniture-logo.jpg" alt="" width="1254" height="1254" loading="lazy" decoding="async" /></a>
-      <p>Nội thất doanh nghiệp, trường học, nhà máy và dự án.</p>
-      <div class="v6-footer-links">
-        <a href="#solutions">Giải pháp</a>
-        <a href="case-studies.html">Hồ sơ dự án</a>
-        <a href="category.html">Sản phẩm</a>
-        <a href="tel:0929878666">Liên hệ</a>
+    <footer class="pf-footer">
+      <div class="pf-footer-brand">
+        <a class="pf-brand" href="/" aria-label="BA_Furniture trang chủ"><img src="images/brand/ba-furniture-logo.jpg" alt="BA_Furniture" width="1254" height="1254" loading="lazy" /><span>BA_Furniture</span></a>
+        <p>Nội thất cho văn phòng, trường học, nhà máy và dự án.</p>
       </div>
-      <p class="v6-copyright">© 2026 BAFurniture. All rights reserved.</p>
+      <div><strong>Sản phẩm</strong><a href="/danh-muc/ghe-van-phong">Ghế văn phòng</a><a href="/danh-muc/ban-van-phong">Bàn văn phòng</a><a href="/danh-muc/tu-ho-so">Tủ hồ sơ</a></div>
+      <div><strong>BA_Furniture</strong><a href="/case-studies.html">Hồ sơ dự án</a><a href="#solutions">Giải pháp</a><a href="#contact">Liên hệ</a></div>
+      <div><strong>Tư vấn</strong><a href="tel:0929878666">0929.878.666</a><button type="button" data-open-wizard>Nhận báo giá</button></div>
+      <p class="pf-copyright">© 2026 BA_Furniture. All rights reserved.</p>
     </footer>
 
     <script src="lead-config.js?v=7.0.1"></script>
-    <script src="script.js?v=7"></script>
+    <script src="script.js?v=7.0.1"></script>
     <script src="lead-engine.js?v=7.0.2"></script>
   </body>
 </html>
