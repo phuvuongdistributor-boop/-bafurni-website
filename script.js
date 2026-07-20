@@ -195,7 +195,20 @@ function renderCategoryPage() {
   const page = document.querySelector(".category-template-page main");
   if (!page || categoryLibrary.length === 0) return;
 
-  const category = categoryLibrary.find((item) => item.id === "OFFICE_CHAIR") || categoryLibrary[0];
+  const routeToCategory = {
+    "ghe-van-phong": "OFFICE_CHAIR",
+    "ban-van-phong": "OFFICE_DESK",
+    "ban-hop": "MEETING_TABLE",
+    "tu-ho-so": "CABINET_STORAGE",
+    "tu-locker": "LOCKER_STEEL",
+    "sofa-ghe-cho": "SOFA_WAITING",
+    "noi-that-truong-hoc": "SCHOOL_FURNITURE",
+    "ke-gia-kho": "SHELVING_RACK"
+  };
+  const params = new URLSearchParams(window.location.search);
+  const routeSlug = params.get("cat") || window.location.pathname.split("/").filter(Boolean).pop() || "";
+  const requestedId = params.get("category") || routeToCategory[routeSlug] || "OFFICE_CHAIR";
+  const category = categoryLibrary.find((item) => item.id === requestedId) || categoryLibrary[0];
   const subcategories = subcategoryObjects(category);
   const related = categoryLibrary.filter((item) => item.id !== category.id).slice(0, 6);
   const products = subcategories.slice(0, 8);

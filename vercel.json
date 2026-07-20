@@ -1,5 +1,15 @@
 {
   "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/danh-muc/:slug",
+      "destination": "/category.html?cat=:slug"
+    },
+    {
+      "source": "/san-pham/:slug",
+      "destination": "/product-detail.html"
+    }
+  ],
   "headers": [
     {
       "source": "/sitemap.xml",
