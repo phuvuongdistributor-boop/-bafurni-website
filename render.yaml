@@ -5,3 +5,7 @@ services:
     buildCommand: echo static
     staticPublishPath: .
     pullRequestPreviewsEnabled: false
+    headers:
+      - path: /sitemap.xml
+        name: Content-Type
+        value: application/xml; charset=utf-8

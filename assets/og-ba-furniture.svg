@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="BA Furniture Open Graph"><rect width="1200" height="630" fill="#f8faf9"/><rect x="78" y="78" width="1044" height="474" rx="28" fill="#ffffff" stroke="#dfe5ea"/><rect x="132" y="138" width="112" height="112" rx="18" fill="#1f6f64"/><text x="188" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">BA</text><text x="132" y="326" font-family="Arial, sans-serif" font-size="68" font-weight="800" fill="#15212c">BA_Furniture</text><text x="132" y="390" font-family="Arial, sans-serif" font-size="34" fill="#31485c">Noi that van phong, truong hoc va du an</text><text x="132" y="458" font-family="Arial, sans-serif" font-size="30" fill="#d9872d">Hotline 0929.878.666 - portal.bafurni.com</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="BA Furniture Open Graph">
+  <rect width="1200" height="630" fill="#f8faf9"/>
+  <rect x="78" y="78" width="1044" height="474" rx="28" fill="#ffffff" stroke="#dfe5ea"/>
+  <rect x="132" y="138" width="112" height="112" rx="18" fill="#1f6f64"/>
+  <text x="188" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">BA</text>
+  <text x="132" y="326" font-family="Arial, sans-serif" font-size="68" font-weight="800" fill="#15212c">BA_Furniture</text>
+  <text x="132" y="390" font-family="Arial, sans-serif" font-size="34" fill="#31485c">Nội thất văn phòng, trường học và dự án</text>
+  <text x="132" y="458" font-family="Arial, sans-serif" font-size="30" fill="#d9872d">Hotline 0929.878.666 • portal.bafurni.com</text>
+</svg>
