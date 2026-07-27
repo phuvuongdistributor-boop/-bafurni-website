@@ -320,6 +320,10 @@ body.pf-home {
   padding: clamp(76px, 8vw, 128px) var(--pf-gutter);
 }
 
+.pf-marketing-picture {
+  display: contents;
+}
+
 .pf-section-head {
   display: flex;
   gap: 32px;

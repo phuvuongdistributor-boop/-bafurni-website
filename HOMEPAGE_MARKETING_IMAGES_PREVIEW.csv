@@ -1,0 +1,17 @@
+﻿Section,ImageURL,FileType,DisplayedSize,RealFileSize,PixelDimension,CompressionRatio,BlurRisk,LCPImpact,CurrentQuality
+Hero — Desktop,assets/marketing/remastered/hero-desktop.avif,AVIF,778x540,166580,1920x1200,41.49:1,LOW,HIGH (LCP),PASS
+Hero — Mobile,assets/marketing/remastered/hero-mobile.avif,AVIF,375x210,70097,1200x900,46.22:1,LOW,HIGH (LCP),PASS
+Solution — Doanh nghiệp,assets/marketing/remastered/solution-doanh-nghiep.avif,AVIF,428x241,195717,1920x1200,35.32:1,LOW,LOW (lazy),PASS
+Solution — Trường học,assets/marketing/remastered/solution-truong-hoc.avif,AVIF,428x241,177632,1920x1200,38.91:1,LOW,LOW (lazy),PASS
+Solution — Nhà máy,assets/marketing/remastered/solution-nha-may.avif,AVIF,428x241,141702,1920x1200,48.78:1,LOW,LOW (lazy),PASS
+Brand Promise — Phòng lãnh đạo,assets/marketing/remastered/brand-promise-ghe-giam-doc.avif,AVIF,314x640,156448,1920x1372,50.51:1,LOW,LOW (lazy),PASS
+Brand Promise — Văn phòng đội nhóm,assets/marketing/remastered/brand-promise-ban-cum-module.avif,AVIF,314x640,172837,1920x1372,45.72:1,LOW,LOW (lazy),PASS
+Brand Promise — Phòng họp,assets/marketing/remastered/brand-promise-ban-hop-nho.avif,AVIF,314x640,343266,1920x1372,23.02:1,LOW,LOW (lazy),PASS
+Brand Promise — Nhà máy & kho,assets/marketing/remastered/brand-promise-tu-locker.avif,AVIF,314x640,156150,1920x1372,50.61:1,LOW,LOW (lazy),PASS
+Project — Workplace,assets/marketing/remastered/project-workplace.avif,AVIF,482x361,265789,1920x1440,31.21:1,LOW,LOW (lazy),PASS
+Project — Education,assets/marketing/remastered/project-education.avif,AVIF,401x361,233070,1920x1440,35.59:1,LOW,LOW (lazy),PASS
+Project — Lounge,assets/marketing/remastered/project-lounge.avif,AVIF,401x361,250785,1920x1440,33.07:1,LOW,LOW (lazy),PASS
+Manufacturing,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE
+Coverage,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE
+CTA,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE
+Background images,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE

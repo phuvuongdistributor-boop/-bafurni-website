@@ -1,0 +1,17 @@
+﻿Section,ImageURL,FileType,DisplayedSize,RealFileSize,PixelDimension,CompressionRatio,BlurRisk,LCPImpact,CurrentQuality
+Hero — Desktop,https://bafurni.com/images/hero/homepage-1600.webp,WEBP,769x540,87812,1600x1000,54.66:1,MEDIUM,HIGH (LCP),SOFT
+Hero — Mobile,https://bafurni.com/images/hero/homepage-720.webp,WEBP,375x210,27670,720x540,42.15:1,MEDIUM,HIGH (LCP),SOFT
+Solution — Doanh nghiệp,https://bafurni.com/images/solutions/doanh-nghiep-720.webp,WEBP,423x238,48524,720x450,20.03:1,MEDIUM,LOW (lazy),SOFT
+Solution — Trường học,https://bafurni.com/images/solutions/truong-hoc-720.webp,WEBP,423x238,42654,720x450,22.79:1,MEDIUM,LOW (lazy),SOFT
+Solution — Nhà máy,https://bafurni.com/images/solutions/nha-may-720.webp,WEBP,423x238,33888,720x450,28.68:1,MEDIUM,LOW (lazy),SOFT
+Brand Promise — Phòng lãnh đạo,https://bafurni.com/images/categories/sub/ghe-giam-doc.webp,WEBP,314x640,58412,960x686,33.82:1,HIGH,LOW (lazy),UPSCALED
+Brand Promise — Văn phòng đội nhóm,https://bafurni.com/images/categories/sub/ban-cum-module.webp,WEBP,314x640,65990,960x686,29.94:1,MEDIUM,LOW (lazy),SOFT
+Brand Promise — Phòng họp,https://bafurni.com/images/categories/sub/ban-hop-nho.webp,WEBP,314x640,141344,960x686,13.98:1,MEDIUM,LOW (lazy),SOFT
+Brand Promise — Nhà máy & kho,https://bafurni.com/images/categories/sub/tu-locker.webp,WEBP,314x640,58128,960x686,33.99:1,MEDIUM,LOW (lazy),SOFT
+Project — Workplace,https://bafurni.com/images/categories/main/ghe-van-phong-1200.webp,WEBP,476x357,113708,1200x900,28.49:1,LOW,MEDIUM (eager),SOFT
+Project — Education,https://bafurni.com/images/categories/main/noi-that-truong-hoc-1200.webp,WEBP,396x357,96830,1200x900,33.46:1,MEDIUM,MEDIUM (eager),SOFT
+Project — Lounge,https://bafurni.com/images/categories/main/sofa-ghe-cho-1200.webp,WEBP,396x357,99000,1200x900,32.73:1,MEDIUM,MEDIUM (eager),SOFT
+Manufacturing,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE
+Coverage,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE
+CTA,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE
+Background images,NONE,NONE,N/A,0,N/A,N/A,NONE,NONE,NO_IMAGE
