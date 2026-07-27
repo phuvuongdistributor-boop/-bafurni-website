@@ -1,8 +1,10 @@
 # BA_Furniture Site-wide UI Unification Audit
 
-Status: local regression PASS; Vercel Preview verification pending initial push.
+Status: local regression PASS; Vercel Preview Ready and verified.
 Branch: `correction/site-wide-ui-unification`
 Production baseline: `3bc3de2b9ee9a83779affab2873b31c75aadcad0`
+Validated implementation commit: `eb587be3440a69a80d47f4f947ae9201c57fb59b`
+Preview: `https://bafurni-website-git-c-d532a4-phuvuongdistributor-boops-projects.vercel.app`
 
 ## Root cause
 
@@ -55,6 +57,27 @@ Because category/product pages did not share the homepage shell or one storefron
 | Broken visible image | 0 |
 | Console error | 0 |
 | ProductDB / Portal / Apps Script changes | 0 |
+
+## Vercel Preview verification
+
+Vercel status: `Ready` on project `bafurni-website`.
+
+Authenticated browser verification on the branch Preview:
+
+- homepage document: HTTP `200`
+- `lead-config.js?v=7.0.1`: HTTP `200`, `application/javascript`
+- canonical category routes: 8/8 render real ProductDB rows
+- required product codes: 8/8 resolve to the correct record and approved local image
+- old category aliases: 5/5 redirect to the canonical homepage route set
+- product friendly route `/san-pham/tq05-ghe-giam-doc-tq05`: PASS
+- search `TQ05`: one result, correct code
+- Quote Wizard homepage: steps 1 → 2 → 3 PASS, not submitted
+- Quote Wizard product detail: steps 1 → 2 → 3 PASS with `source_page=product_detail`, `product_code=TQ05`, not submitted
+- category lead context: `source_page=category`, `category_name=Ghế văn phòng`
+- responsive: PASS at 1440×900, 1280×800, 768×1024 and 390×844
+- horizontal overflow: `0`
+- broken visible image: `0`
+- console error: `0`
 
 ## Screenshot package
 
