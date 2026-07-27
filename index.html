@@ -8,7 +8,8 @@
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <link rel="canonical" href="https://bafurni.com/" />
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
-    <link rel="preload" href="images/hero/homepage-1600.webp" as="image" fetchpriority="high" />
+    <link rel="preload" href="assets/marketing/remastered/hero-desktop.avif" as="image" type="image/avif" media="(min-width: 721px)" fetchpriority="high" />
+    <link rel="preload" href="assets/marketing/remastered/hero-mobile.avif" as="image" type="image/avif" media="(max-width: 720px)" fetchpriority="high" />
     <link rel="stylesheet" href="style.css?v=7.0.2" />
     <link rel="stylesheet" href="product-first.css?v=1.2.0" />
     <meta property="og:type" content="website" />
@@ -17,7 +18,7 @@
     <meta property="og:title" content="BA_Furniture | Nội thất đúng nhu cầu, đồng bộ từng không gian" />
     <meta property="og:description" content="Khám phá danh mục nội thất văn phòng, trường học, nhà máy và dự án." />
     <meta property="og:url" content="https://bafurni.com/" />
-    <meta property="og:image" content="https://bafurni.com/images/hero/homepage-1600.webp" />
+    <meta property="og:image" content="https://bafurni.com/assets/marketing/remastered/hero-desktop.webp" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -70,8 +71,10 @@
         </div>
         <figure class="pf-hero-media">
           <picture>
-            <source media="(max-width: 720px)" srcset="images/hero/homepage-720.webp" />
-            <img src="images/hero/homepage-1600.webp" alt="Không gian văn phòng hoàn thiện với bàn ghế nội thất" width="1600" height="1000" fetchpriority="high" />
+            <source type="image/avif" media="(max-width: 720px)" srcset="assets/marketing/remastered/hero-mobile.avif" width="1200" height="900" />
+            <source type="image/webp" media="(max-width: 720px)" srcset="assets/marketing/remastered/hero-mobile.webp" width="1200" height="900" />
+            <source type="image/avif" srcset="assets/marketing/remastered/hero-desktop.avif" width="1920" height="1200" />
+            <img src="assets/marketing/remastered/hero-desktop.webp" alt="Không gian văn phòng hoàn thiện với bàn ghế nội thất" width="1920" height="1200" fetchpriority="high" />
           </picture>
         </figure>
       </section>
@@ -177,15 +180,15 @@
         </div>
         <div class="pf-solution-grid">
           <a href="/danh-muc/ban-van-phong">
-            <img src="images/solutions/doanh-nghiep-720.webp" alt="Giải pháp nội thất cho văn phòng doanh nghiệp" width="720" height="540" loading="lazy" />
+            <picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/solution-doanh-nghiep.avif" /><img src="assets/marketing/remastered/solution-doanh-nghiep.webp" alt="Giải pháp nội thất cho văn phòng doanh nghiệp" width="1920" height="1200" loading="lazy" /></picture>
             <span><strong>Văn phòng doanh nghiệp</strong><small>Bàn ghế, phòng họp và lưu trữ đồng bộ theo quy mô.</small></span>
           </a>
           <a href="/danh-muc/noi-that-truong-hoc">
-            <img src="images/solutions/truong-hoc-720.webp" alt="Giải pháp nội thất cho trường học" width="720" height="540" loading="lazy" />
+            <picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/solution-truong-hoc.avif" /><img src="assets/marketing/remastered/solution-truong-hoc.webp" alt="Giải pháp nội thất cho trường học" width="1920" height="1200" loading="lazy" /></picture>
             <span><strong>Trường học & đào tạo</strong><small>Bàn ghế lớp học bền bỉ cho cường độ sử dụng cao.</small></span>
           </a>
           <a href="/danh-muc/tu-locker">
-            <img src="images/solutions/nha-may-720.webp" alt="Giải pháp nội thất cho nhà máy" width="720" height="540" loading="lazy" />
+            <picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/solution-nha-may.avif" /><img src="assets/marketing/remastered/solution-nha-may.webp" alt="Giải pháp nội thất cho nhà máy" width="1920" height="1200" loading="lazy" /></picture>
             <span><strong>Nhà máy & vận hành</strong><small>Locker, tủ sắt và lưu trữ cho khu vận hành.</small></span>
           </a>
         </div>
@@ -200,10 +203,10 @@
           </div>
         </div>
         <div class="pf-need-grid">
-          <a href="/danh-muc/ghe-van-phong?nhom=ghe-lanh-dao"><img src="images/categories/sub/ghe-giam-doc.webp" alt="Sản phẩm cho phòng lãnh đạo" width="640" height="640" loading="lazy" /><span><strong>Phòng lãnh đạo</strong><small>Ghế da, bàn veneer và tủ đồng bộ</small></span></a>
-          <a href="/danh-muc/ban-van-phong?nhom=cum-ban"><img src="images/categories/sub/ban-cum-module.webp" alt="Sản phẩm cho văn phòng đội nhóm" width="640" height="640" loading="lazy" /><span><strong>Văn phòng đội nhóm</strong><small>Cụm bàn và ghế làm việc hằng ngày</small></span></a>
-          <a href="/danh-muc/ban-hop"><img src="images/categories/sub/ban-hop-nho.webp" alt="Sản phẩm cho phòng họp" width="640" height="640" loading="lazy" /><span><strong>Phòng họp</strong><small>Bàn họp, ghế chân quỳ và tủ phụ</small></span></a>
-          <a href="/danh-muc/tu-locker"><img src="images/categories/sub/tu-locker.webp" alt="Sản phẩm cho nhà máy và kho" width="640" height="640" loading="lazy" /><span><strong>Nhà máy & kho</strong><small>Locker, tủ sắt và kệ lưu trữ</small></span></a>
+          <a href="/danh-muc/ghe-van-phong?nhom=ghe-lanh-dao"><picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/brand-promise-ghe-giam-doc.avif" /><img src="assets/marketing/remastered/brand-promise-ghe-giam-doc.webp" alt="Sản phẩm cho phòng lãnh đạo" width="1920" height="640" loading="lazy" /></picture><span><strong>Phòng lãnh đạo</strong><small>Ghế da, bàn veneer và tủ đồng bộ</small></span></a>
+          <a href="/danh-muc/ban-van-phong?nhom=cum-ban"><picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/brand-promise-ban-cum-module.avif" /><img src="assets/marketing/remastered/brand-promise-ban-cum-module.webp" alt="Sản phẩm cho văn phòng đội nhóm" width="1920" height="640" loading="lazy" /></picture><span><strong>Văn phòng đội nhóm</strong><small>Cụm bàn và ghế làm việc hằng ngày</small></span></a>
+          <a href="/danh-muc/ban-hop"><picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/brand-promise-ban-hop-nho.avif" /><img src="assets/marketing/remastered/brand-promise-ban-hop-nho.webp" alt="Sản phẩm cho phòng họp" width="1920" height="640" loading="lazy" /></picture><span><strong>Phòng họp</strong><small>Bàn họp, ghế chân quỳ và tủ phụ</small></span></a>
+          <a href="/danh-muc/tu-locker"><picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/brand-promise-tu-locker.avif" /><img src="assets/marketing/remastered/brand-promise-tu-locker.webp" alt="Sản phẩm cho nhà máy và kho" width="1920" height="640" loading="lazy" /></picture><span><strong>Nhà máy & kho</strong><small>Locker, tủ sắt và kệ lưu trữ</small></span></a>
         </div>
       </section>
 
@@ -217,9 +220,9 @@
           <a href="/case-studies.html">Xem hồ sơ dự án</a>
         </div>
         <div class="pf-project-grid">
-          <a href="/case-study-workplace.html"><img src="images/categories/main/ghe-van-phong-1200.webp" alt="Không gian văn phòng làm việc" width="1200" height="800" /><span><small>Văn phòng</small><strong>Vận hành đồng bộ</strong></span></a>
-          <a href="/case-study-education.html"><img src="images/categories/main/noi-that-truong-hoc-1200.webp" alt="Không gian giáo dục" width="1200" height="800" /><span><small>Trường học</small><strong>Học tập bền vững</strong></span></a>
-          <a href="/case-study-lounge.html"><img src="images/categories/main/sofa-ghe-cho-1200.webp" alt="Không gian tiếp khách và chờ" width="1200" height="800" /><span><small>Khu vực công cộng</small><strong>Tiếp khách chỉn chu</strong></span></a>
+          <a href="/case-study-workplace.html"><picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/project-workplace.avif" /><img src="assets/marketing/remastered/project-workplace.webp" alt="Không gian văn phòng làm việc" width="1920" height="1440" loading="lazy" /></picture><span><small>Văn phòng</small><strong>Vận hành đồng bộ</strong></span></a>
+          <a href="/case-study-education.html"><picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/project-education.avif" /><img src="assets/marketing/remastered/project-education.webp" alt="Không gian giáo dục" width="1920" height="1440" loading="lazy" /></picture><span><small>Trường học</small><strong>Học tập bền vững</strong></span></a>
+          <a href="/case-study-lounge.html"><picture class="pf-marketing-picture"><source type="image/avif" srcset="assets/marketing/remastered/project-lounge.avif" /><img src="assets/marketing/remastered/project-lounge.webp" alt="Không gian tiếp khách và chờ" width="1920" height="1440" loading="lazy" /></picture><span><small>Khu vực công cộng</small><strong>Tiếp khách chỉn chu</strong></span></a>
         </div>
       </section>
 
