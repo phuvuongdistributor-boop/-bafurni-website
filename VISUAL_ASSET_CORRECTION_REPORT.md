@@ -56,4 +56,16 @@ The source scenes are repository renders/composites with no camera or creation p
 - `qa/visual-assets-true-quality/before/`
 - `qa/visual-assets-true-quality/after/`
 
-Preview deployment URL, commit SHA and Vercel status are appended after the branch is pushed and the preview reaches Ready.
+## Vercel preview record
+
+- Implementation commit: `d844d22`
+- Stable branch preview: `https://bafurni-website-git-c-b0d688-phuvuongdistributor-boops-projects.vercel.app`
+- Verified deployment: `https://bafurni-website-9pgytcnu3-phuvuongdistributor-boops-projects.vercel.app`
+- Vercel environment: `Preview`
+- Vercel state: `Ready`
+- Vercel build duration: `11 seconds`
+- GitHub/Vercel commit status: `success`
+
+Direct preview verification confirmed the 11 desktop-selected marketing AVIF images plus the mobile hero AVIF, all 8 approved category WebP images, page heights 5769/9540, CLS 0/0, horizontal overflow 0, broken images 0, console errors 0, and Quote Wizard step 1 → 2 → 3 without submission.
+
+The branch remains isolated. No merge to `main` and no production deployment were performed.

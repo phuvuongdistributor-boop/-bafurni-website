@@ -75,5 +75,7 @@ The 12 AVIF files total 2,771,647 bytes versus 2,330,073 bytes before (`+19.0%`)
 - [After — brand cards](qa/visual-assets-true-quality/after/brand.png)
 - [After — projects](qa/visual-assets-true-quality/after/projects.png)
 - [After — mobile first screen](qa/visual-assets-true-quality/after/mobile-first-screen.png)
+- [Vercel preview — desktop first screen](qa/visual-assets-true-quality/after/preview-desktop.png)
+- [Vercel preview — mobile first screen](qa/visual-assets-true-quality/after/preview-mobile.png)
 
 Full per-asset decisions are recorded in `VISUAL_ASSET_TRUE_QUALITY_AUDIT.csv`.
