@@ -1,0 +1,135 @@
+[
+  {
+    "name": "hero-desktop",
+    "source": "images/hero/homepage-1600.webp",
+    "source_dimension": "1600x1000",
+    "output_dimension": "1600x1000",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 87812,
+    "webp_bytes": 87812,
+    "avif_bytes": 136885
+  },
+  {
+    "name": "hero-mobile",
+    "source": "images/hero/homepage-1600.webp",
+    "source_dimension": "1600x1000",
+    "crop_dimension": "1334x1000",
+    "output_dimension": "1200x900",
+    "upscale_ratio": 0.9,
+    "operation": "verified-crop-and-downsample",
+    "source_bytes": 87812,
+    "webp_bytes": 68866,
+    "avif_bytes": 91915
+  },
+  {
+    "name": "solution-doanh-nghiep",
+    "source": "images/solutions/doanh-nghiep-1600.webp",
+    "source_dimension": "1600x1000",
+    "output_dimension": "1600x1000",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 181322,
+    "webp_bytes": 181322,
+    "avif_bytes": 267721
+  },
+  {
+    "name": "solution-truong-hoc",
+    "source": "images/solutions/truong-hoc-1600.webp",
+    "source_dimension": "1600x1000",
+    "output_dimension": "1600x1000",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 128960,
+    "webp_bytes": 128960,
+    "avif_bytes": 195004
+  },
+  {
+    "name": "solution-nha-may",
+    "source": "images/solutions/nha-may-1600.webp",
+    "source_dimension": "1600x1000",
+    "output_dimension": "1600x1000",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 122378,
+    "webp_bytes": 122378,
+    "avif_bytes": 184984
+  },
+  {
+    "name": "brand-promise-ghe-giam-doc",
+    "source": "images/categories/sub/ghe-giam-doc-1600.webp",
+    "source_dimension": "1600x1143",
+    "output_dimension": "1600x1143",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 134104,
+    "webp_bytes": 134104,
+    "avif_bytes": 213408
+  },
+  {
+    "name": "brand-promise-ban-cum-module",
+    "source": "images/categories/sub/ban-cum-module-1600.webp",
+    "source_dimension": "1600x1143",
+    "output_dimension": "1600x1143",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 165008,
+    "webp_bytes": 165008,
+    "avif_bytes": 248374
+  },
+  {
+    "name": "brand-promise-ban-hop-nho",
+    "source": "images/categories/sub/ban-hop-nho-1600.webp",
+    "source_dimension": "1600x1143",
+    "output_dimension": "1600x1143",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 385380,
+    "webp_bytes": 385380,
+    "avif_bytes": 497463
+  },
+  {
+    "name": "brand-promise-tu-locker",
+    "source": "images/categories/sub/tu-locker-1600.webp",
+    "source_dimension": "1600x1143",
+    "output_dimension": "1600x1143",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 137464,
+    "webp_bytes": 137464,
+    "avif_bytes": 213135
+  },
+  {
+    "name": "project-workplace",
+    "source": "images/categories/main/ghe-van-phong-1600.webp",
+    "source_dimension": "1600x1200",
+    "output_dimension": "1600x1200",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 180844,
+    "webp_bytes": 180844,
+    "avif_bytes": 255041
+  },
+  {
+    "name": "project-education",
+    "source": "images/categories/main/noi-that-truong-hoc-1600.webp",
+    "source_dimension": "1600x1200",
+    "output_dimension": "1600x1200",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 139062,
+    "webp_bytes": 139062,
+    "avif_bytes": 215038
+  },
+  {
+    "name": "project-lounge",
+    "source": "images/categories/main/sofa-ghe-cho-1600.webp",
+    "source_dimension": "1600x1200",
+    "output_dimension": "1600x1200",
+    "upscale_ratio": 1,
+    "operation": "native-source-copy-and-avif-encode",
+    "source_bytes": 154462,
+    "webp_bytes": 154462,
+    "avif_bytes": 252679
+  }
+]

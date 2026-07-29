@@ -3,6 +3,23 @@
 
   const PHONE_DISPLAY = "0929.878.666";
   const PHONE_HREF = "tel:0929878666";
+  const ANNOUNCEMENT_INTERVAL_MS = 4600;
+  const ANNOUNCEMENT_TRANSITION_MS = 500;
+  const ANNOUNCEMENT_MESSAGES = [
+    {
+      desktop: "Nhận sản xuất theo kích thước, màu sắc và chất liệu yêu cầu",
+      mobile: "Nhận sản xuất nội thất theo yêu cầu"
+    },
+    {
+      desktop: "Tối ưu báo giá theo số lượng cho doanh nghiệp và dự án",
+      mobile: "Tối ưu giá theo số lượng và dự án"
+    },
+    {
+      desktop: "Tư vấn nhanh · Hotline 0929.878.666",
+      mobile: "Hotline 0929.878.666",
+      hotline: true
+    }
+  ];
 
   function clean(value) {
     return String(value == null ? "" : value).trim();
@@ -217,6 +234,79 @@
     field.value = new URLSearchParams(window.location.search).get("q") || "";
   }
 
+  function renderAnnouncementMessage(stage, message, mobile) {
+    const copy = mobile ? message.mobile : message.desktop;
+    if (!message.hotline) {
+      stage.textContent = copy;
+      return;
+    }
+    stage.replaceChildren();
+    if (!mobile) stage.append(document.createTextNode("Tư vấn nhanh · "));
+    const link = document.createElement("a");
+    link.href = PHONE_HREF;
+    link.textContent = `Hotline ${PHONE_DISPLAY}`;
+    stage.append(link);
+  }
+
+  function bindAnnouncement(announcement) {
+    if (!announcement || announcement.dataset.announcementBound === "true") return;
+    announcement.dataset.announcementBound = "true";
+    announcement.dataset.sharedComponent = "SiteAnnouncement";
+    announcement.className = "pf-announcement";
+
+    let stage = announcement.querySelector("[data-announcement-message]");
+    if (!stage) {
+      stage = document.createElement("span");
+      stage.dataset.announcementMessage = "";
+      stage.setAttribute("aria-live", "polite");
+      stage.setAttribute("aria-atomic", "true");
+      announcement.replaceChildren(stage);
+    }
+
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const mobileViewport = window.matchMedia("(max-width: 720px)");
+    let current = 0;
+    let interval = 0;
+    let transition = 0;
+
+    const render = () => {
+      renderAnnouncementMessage(stage, ANNOUNCEMENT_MESSAGES[current], mobileViewport.matches);
+    };
+    const stop = () => {
+      window.clearInterval(interval);
+      window.clearTimeout(transition);
+      interval = 0;
+      transition = 0;
+      stage.classList.remove("is-leaving", "is-entering");
+    };
+    const start = () => {
+      stop();
+      current = 0;
+      render();
+      if (reducedMotion.matches) {
+        announcement.dataset.announcementState = "reduced-motion";
+        return;
+      }
+      announcement.dataset.announcementState = "rotating";
+      interval = window.setInterval(() => {
+        stage.classList.add("is-leaving");
+        transition = window.setTimeout(() => {
+          current = (current + 1) % ANNOUNCEMENT_MESSAGES.length;
+          render();
+          stage.classList.remove("is-leaving");
+          stage.classList.add("is-entering");
+          window.requestAnimationFrame(() => {
+            window.requestAnimationFrame(() => stage.classList.remove("is-entering"));
+          });
+        }, ANNOUNCEMENT_TRANSITION_MS);
+      }, ANNOUNCEMENT_INTERVAL_MS);
+    };
+
+    reducedMotion.addEventListener?.("change", start);
+    mobileViewport.addEventListener?.("change", render);
+    start();
+  }
+
   function setContext(next = {}) {
     const body = document.body;
     if (next.pageType) body.dataset.pageType = clean(next.pageType);
@@ -248,9 +338,7 @@
     const announcement = document.querySelector("[data-site-announcement]");
     let mounted = false;
     if (announcement) {
-      announcement.className = "pf-announcement";
-      announcement.dataset.sharedComponent = "SiteAnnouncement";
-      announcement.textContent = `Tư vấn cấu hình và báo giá theo số lượng · Hotline ${PHONE_DISPLAY}`;
+      bindAnnouncement(announcement);
       mounted = true;
     }
     mounted = replaceHost("[data-site-header]", headerTemplate()) || mounted;
