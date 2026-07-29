@@ -7,7 +7,7 @@
 | `--v9-font-display` | Playfair Display, Georgia, Times New Roman, serif |
 | `--v9-font-body` | Inter, system UI fallback |
 
-Google Fonts chỉ tải hai family cần thiết, không preload font và dùng `display=swap`.
+Hai family được self-host bằng WOFF2 variable với subset Latin + Vietnamese. Chỉ Playfair Display được preload vì đây là font tiêu đề ở màn hình đầu; Inter tải theo nhu cầu từ CSS. Cấu hình này loại bỏ phụ thuộc Google Fonts và tránh đổi font muộn trên cold load.
 
 ## Color
 

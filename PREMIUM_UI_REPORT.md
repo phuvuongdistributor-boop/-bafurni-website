@@ -11,7 +11,7 @@
 
 1. Tạo lớp token và component polish dùng chung cho Homepage, Category và Product Detail.
 2. Chuẩn hóa header 84 px, logo production 56 px, search và CTA.
-3. Dùng Playfair Display + Inter với Vietnamese glyph.
+3. Dùng Playfair Display + Inter với Vietnamese glyph, self-host WOFF2 và preload riêng display font để tiêu đề không đổi dòng sau first paint.
 4. Chuẩn hóa H1 48 / 42 / 32 px.
 5. Nâng card category/product bằng radius, border, shadow và hover -4 px.
 6. Giữ nguyên toàn bộ ảnh và mapping; tắt image scale ở hover.
