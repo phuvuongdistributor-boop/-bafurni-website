@@ -466,15 +466,18 @@
             <p class="sf-product-category">${html(definition.name)} · Tư vấn theo số lượng và yêu cầu triển khai.</p>
             <p class="sf-price">${html(catalog.money(row.SalePrice))}</p>
             <div class="sf-product-actions">
-              <button class="sf-button sf-button-primary" type="button" data-open-wizard>Nhận báo giá sản phẩm</button>
+              <button class="sf-button sf-button-primary" type="button" data-open-wizard>Nhận báo giá</button>
               <a class="sf-button sf-button-secondary" href="tel:0929878666">Gọi 0929.878.666</a>
             </div>
-            <p class="sf-product-description">${html(description)}</p>
             <section class="sf-specs" aria-labelledby="spec-title">
               <h2 id="spec-title">Thông tin sản phẩm</h2>
               <dl class="sf-spec-list">
                 ${specifications.map(([label, value]) => `<div class="sf-spec-row"><dt>${html(label)}</dt><dd>${html(value)}</dd></div>`).join("")}
               </dl>
+            </section>
+            <section class="sf-description" aria-labelledby="description-title">
+              <h2 id="description-title">Mô tả sản phẩm</h2>
+              <p class="sf-product-description">${html(description)}</p>
             </section>
             <p class="sf-origin-note">Thông tin được đọc từ ProductDB hiện hữu ở chế độ chỉ đọc. BA_Furniture sẽ xác nhận cấu hình, tồn kho và báo giá tại thời điểm tư vấn.</p>
           </div>
