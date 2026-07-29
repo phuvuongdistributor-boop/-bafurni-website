@@ -1,0 +1,9 @@
+Slug,CategoryName,DatasetMatches,RenderedCards,Canonical,ProductCardSource,DemoContent,BrokenImage,HorizontalOverflow,ConsoleError,Result
+ghe-van-phong,Ghế văn phòng,176,32,https://bafurni.com/danh-muc/ghe-van-phong,ProductDB readonly bundle,0,0,0,0,PASS
+ban-van-phong,Bàn văn phòng,268,32,https://bafurni.com/danh-muc/ban-van-phong,ProductDB readonly bundle,0,0,0,0,PASS
+ban-hop,Bàn họp,51,32,https://bafurni.com/danh-muc/ban-hop,ProductDB readonly bundle,0,0,0,0,PASS
+tu-ho-so,Tủ và hộc tài liệu,109,32,https://bafurni.com/danh-muc/tu-ho-so,ProductDB readonly bundle,0,0,0,0,PASS
+tu-locker,Tủ locker,34,32,https://bafurni.com/danh-muc/tu-locker,ProductDB readonly bundle,0,0,0,0,PASS
+sofa-ghe-cho,Sofa và ghế chờ,95,32,https://bafurni.com/danh-muc/sofa-ghe-cho,ProductDB readonly bundle,0,0,0,0,PASS
+noi-that-truong-hoc,Nội thất trường học,124,32,https://bafurni.com/danh-muc/noi-that-truong-hoc,ProductDB readonly bundle,0,0,0,0,PASS
+ke-gia-kho,Kệ và giá kho,3,3,https://bafurni.com/danh-muc/ke-gia-kho,ProductDB readonly bundle,0,0,0,0,PASS

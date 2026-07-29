@@ -1,5 +1,32 @@
 {
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/danh-muc/tu-hoc",
+      "destination": "/danh-muc/tu-ho-so",
+      "permanent": true
+    },
+    {
+      "source": "/danh-muc/tu-hoc-tai-lieu",
+      "destination": "/danh-muc/tu-ho-so",
+      "permanent": true
+    },
+    {
+      "source": "/danh-muc/locker",
+      "destination": "/danh-muc/tu-locker",
+      "permanent": true
+    },
+    {
+      "source": "/danh-muc/sofa",
+      "destination": "/danh-muc/sofa-ghe-cho",
+      "permanent": true
+    },
+    {
+      "source": "/danh-muc/truong-hoc",
+      "destination": "/danh-muc/noi-that-truong-hoc",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/danh-muc/:slug",

@@ -1,0 +1,9 @@
+Code,ProductName,ResolvedRecord,ImageURL,ImageSource,SpecificationFields,RelatedProducts,LeadSourcePage,LeadProductCode,BrokenImage,HorizontalOverflow,ConsoleError,Result
+TQ05,Ghế giám đốc TQ05,PASS,/assets/products/approved/TQ05.webp,approved_local,13,4,product_detail,TQ05,0,0,0,PASS
+TQ01,Ghế giám đốc TQ01,PASS,/assets/products/approved/TQ01.webp,approved_local,13,4,product_detail,TQ01,0,0,0,PASS
+DT1890V2,Bàn giám đốc Veneer DT1890V2,PASS,/assets/products/approved/DT1890V2.webp,approved_local,13,4,product_detail,DT1890V2,0,0,0,PASS
+DT2010V2,Bàn giám đốc DT2010V2,PASS,/assets/products/approved/DT2010V2.webp,approved_local,13,4,product_detail,DT2010V2,0,0,0,PASS
+TU09K7CK,Tủ sắt hồ sơ TU09K7CK,PASS,/assets/products/approved/TU09K7CK.webp,approved_local,13,4,product_detail,TU09K7CK,0,0,0,PASS
+TU983-3KS,Tủ locker khóa số 9 ngăn TU983-3KS,PASS,/assets/products/approved/TU983-3KS.webp,approved_local,13,4,product_detail,TU983-3KS,0,0,0,PASS
+GMG101A-2,Nội thất trường học GMG101A-2,PASS,/assets/products/approved/GMG101A-2.webp,approved_local,13,4,product_detail,GMG101A-2,0,0,0,PASS
+BMG101A-2,Nội thất trường học BMG101A-2,PASS,/assets/products/approved/BMG101A-2.webp,approved_local,13,4,product_detail,BMG101A-2,0,0,0,PASS

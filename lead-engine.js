@@ -4,7 +4,6 @@
   if (!dialog || !form) return;
 
   const config = window.BA_LEAD_CONFIG || {};
-  const openButtons = document.querySelectorAll("[data-open-wizard]");
   const closeButtons = dialog.querySelectorAll("[data-close-wizard]");
   const steps = [...dialog.querySelectorAll("[data-step]")];
   const progress = [...dialog.querySelectorAll("[data-progress]")];
@@ -14,13 +13,21 @@
   let currentStep = 1;
   let lastTrigger = null;
 
+  function contextualFields() {
+    return ["source", "source_page", "product_code", "product_name", "category_name"].reduce((context, name) => {
+      const field = form.elements.namedItem(name);
+      if (field && String(field.value || "").trim()) context[name] = String(field.value).trim();
+      return context;
+    }, {});
+  }
+
   function pushEvent(event, details = {}) {
     window.dataLayer = window.dataLayer || [];
     window.dataLayer.push({ event, ...details });
   }
 
   function openWizard(event) {
-    lastTrigger = event?.currentTarget || document.activeElement;
+    lastTrigger = event?.target?.closest?.("[data-open-wizard]") || event?.currentTarget || document.activeElement;
     resetWizard();
     if (typeof dialog.showModal === "function") {
       dialog.showModal();
@@ -175,7 +182,9 @@
     successPanel.querySelector("button")?.focus();
   }
 
-  openButtons.forEach((button) => button.addEventListener("click", openWizard));
+  document.addEventListener("click", (event) => {
+    if (event.target?.closest?.("[data-open-wizard]")) openWizard(event);
+  });
   closeButtons.forEach((button) => button.addEventListener("click", closeWizard));
 
   dialog.addEventListener("click", (event) => {
@@ -233,7 +242,7 @@
       company: "",
       note: "Yêu cầu gọi lại nhanh từ sticky CTA",
       consent: "callback_request",
-      source: "bafurni-homepage-v7-quick",
+      ...contextualFields(),
       submitted_at: new Date().toISOString(),
       ...getAttribution()
     };
