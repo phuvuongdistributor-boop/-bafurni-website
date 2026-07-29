@@ -75,3 +75,12 @@ Console error local: **0**.
 | Mobile | UI thiếu thống nhất giữa route | Header, logo, type và CTA đồng nhất |
 
 Kết quả: **PASS về kỹ thuật và PASS về cảm nhận thị giác để đưa lên Vercel Preview review.**
+
+## Vercel Preview verification
+
+- Preview alias: `https://bafurni-website-git-c-2d90e7-phuvuongdistributor-boops-projects.vercel.app`
+- Cold load 1440: Playfair Display sẵn sàng ngay first paint, H1 48 px / 2 dòng, CLS 0.
+- Font: self-host WOFF2 Latin + Vietnamese; request Google Fonts = 0.
+- Category và Product Detail: ảnh đúng, broken image 0, overflow 0, site console error 0.
+- Quote Wizard: bước 1 → 2 → 3 PASS, giữ context TQ05, không submit lead.
+- 8/8 category route tải dữ liệu thật và không có broken image.

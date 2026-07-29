@@ -55,3 +55,10 @@ Before desktop có logo phóng chiếm gần toàn bộ first screen và header 
 - `storefront.js`
 
 Không thay đổi ProductDB, Portal, Lead Engine, Apps Script, Search Logic, Quote Wizard Logic, Category Mapping hoặc Product Mapping.
+
+## Preview delivery
+
+- Vercel: Ready — Preview — Latest.
+- Cold-load typography đã được sửa trước khi chốt: không còn đổi font muộn làm hero đổi từ 3 dòng về 2 dòng.
+- `main` vẫn giữ nguyên tại `3bc3de2b9ee9a83779affab2873b31c75aadcad0`.
+- Dừng ở Preview; không merge và không deploy production.
