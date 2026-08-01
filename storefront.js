@@ -90,6 +90,17 @@
   };
 
   const CATEGORY_BY_SLUG = new Map(CATEGORY_DEFINITIONS.map((item) => [item.slug, item]));
+  const APPLICATION_BY_CATEGORY = {
+    "ghe-van-phong": "Phù hợp: Văn phòng · Phòng lãnh đạo · Phòng họp",
+    "ban-van-phong": "Phù hợp: Nhân viên · Lãnh đạo · Văn phòng dự án",
+    "ban-hop": "Phù hợp: Phòng họp · Hội nghị · Đào tạo",
+    "tu-ho-so": "Phù hợp: Lưu trữ hồ sơ · Văn phòng · Cơ quan",
+    "tu-locker": "Phù hợp: Nhân viên · Trường học · Nhà máy",
+    "sofa-ghe-cho": "Phù hợp: Tiếp khách · Khu chờ · Sảnh",
+    "noi-that-truong-hoc": "Phù hợp: Lớp học · Phòng giáo viên · Trường học",
+    "ke-gia-kho": "Phù hợp: Kho hàng · Nhà máy · Khu lưu trữ"
+  };
+  const DEFAULT_APPLICATION = "Phù hợp: Văn phòng · Doanh nghiệp · Dự án";
   const text = (value) => String(value == null ? "" : value).trim();
   const html = (value) => text(value).replace(/[&<>"']/g, (character) => ({
     "&": "&amp;",
@@ -196,6 +207,8 @@
   }
 
   function categoryDefinitionForRow(row) {
+    const categoryText = normalize([row.ProductName, row.Category, row.SubCategory, row.Source_Group].join(" "));
+    if (categoryText.includes("locker")) return CATEGORY_BY_SLUG.get("tu-locker");
     return CATEGORY_DEFINITIONS.find((definition) => catalog.matchesCategory(row, definition.dataSlug))
       || CATEGORY_DEFINITIONS[0];
   }
@@ -405,6 +418,7 @@
     }
 
     const definition = categoryDefinitionForRow(row);
+    const application = APPLICATION_BY_CATEGORY[definition.slug] || DEFAULT_APPLICATION;
     const image = productImage(row);
     const canonical = `https://bafurni.com/product-detail.html?code=${encodeURIComponent(text(row.Code))}`;
     const description = text(row.Description)
@@ -464,6 +478,7 @@
             <p class="sf-product-code">Mã sản phẩm ${html(row.Code)}</p>
             <h1>${html(row.ProductName)}</h1>
             <p class="sf-product-category">${html(definition.name)} · Tư vấn theo số lượng và yêu cầu triển khai.</p>
+            <p class="sf-product-application">${html(application)}</p>
             <p class="sf-price">${html(catalog.money(row.SalePrice))}</p>
             <div class="sf-product-actions">
               <button class="sf-button sf-button-primary" type="button" data-open-wizard>Nhận báo giá</button>

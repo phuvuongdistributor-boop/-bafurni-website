@@ -3,6 +3,23 @@
 
   const PHONE_DISPLAY = "0929.878.666";
   const PHONE_HREF = "tel:0929878666";
+  const ANNOUNCEMENT_INTERVAL_MS = 4600;
+  const ANNOUNCEMENT_TRANSITION_MS = 500;
+  const ANNOUNCEMENT_MESSAGES = [
+    {
+      desktop: "Thiết kế, cung cấp và sản xuất nội thất theo yêu cầu",
+      mobile: "Sản xuất nội thất theo yêu cầu"
+    },
+    {
+      desktop: "Hơn 3.000 sản phẩm cho văn phòng, trường học và dự án",
+      mobile: "Hơn 3.000 sản phẩm nội thất"
+    },
+    {
+      desktop: "Tối ưu báo giá theo số lượng · Hotline 0929.878.666",
+      mobile: "Hotline 0929.878.666",
+      hotline: true
+    }
+  ];
 
   function clean(value) {
     return String(value == null ? "" : value).trim();
@@ -74,7 +91,7 @@
             <img src="/images/brand/ba-furniture-logo.jpg" alt="BA_Furniture" width="1254" height="1254" loading="lazy" />
             <span>BA_Furniture</span>
           </a>
-          <p>Nội thất đồng bộ cho tổ chức và dự án.</p>
+          <p>Giải pháp nội thất cho văn phòng, trường học và dự án.<br />Khách hàng ở đâu, chúng tôi ở đó.</p>
         </div>
         <div>
           <strong>Sản phẩm</strong>
@@ -93,7 +110,7 @@
           <a href="${PHONE_HREF}">${PHONE_DISPLAY}</a>
           <button type="button" data-open-wizard>Nhận báo giá</button>
         </div>
-        <p class="pf-copyright">© 2026 BA_Furniture. All rights reserved.</p>
+        <p class="pf-copyright">© 2026 BA_Furniture. Đã đăng ký bản quyền.</p>
       </footer>
     `;
   }
@@ -104,7 +121,7 @@
         <div class="v7-wizard-shell">
           <header class="v7-wizard-header">
             <div>
-              <p class="v6-kicker">BA_Furniture Quote Wizard</p>
+              <p class="v6-kicker">Yêu cầu báo giá BA_Furniture</p>
               <h2 id="wizard-title">Cho chúng tôi biết nhu cầu của bạn.</h2>
             </div>
             <button class="v7-wizard-close" type="button" data-close-wizard aria-label="Đóng biểu mẫu">Đóng</button>
@@ -217,6 +234,79 @@
     field.value = new URLSearchParams(window.location.search).get("q") || "";
   }
 
+  function renderAnnouncementMessage(stage, message, mobile) {
+    const copy = mobile ? message.mobile : message.desktop;
+    if (!message.hotline) {
+      stage.textContent = copy;
+      return;
+    }
+    stage.replaceChildren();
+    if (!mobile) stage.append(document.createTextNode("Tối ưu báo giá theo số lượng · "));
+    const link = document.createElement("a");
+    link.href = PHONE_HREF;
+    link.textContent = `Hotline ${PHONE_DISPLAY}`;
+    stage.append(link);
+  }
+
+  function bindAnnouncement(announcement) {
+    if (!announcement || announcement.dataset.announcementBound === "true") return;
+    announcement.dataset.announcementBound = "true";
+    announcement.dataset.sharedComponent = "SiteAnnouncement";
+    announcement.className = "pf-announcement";
+
+    let stage = announcement.querySelector("[data-announcement-message]");
+    if (!stage) {
+      stage = document.createElement("span");
+      stage.dataset.announcementMessage = "";
+      stage.setAttribute("aria-live", "polite");
+      stage.setAttribute("aria-atomic", "true");
+      announcement.replaceChildren(stage);
+    }
+
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const mobileViewport = window.matchMedia("(max-width: 720px)");
+    let current = 0;
+    let interval = 0;
+    let transition = 0;
+
+    const render = () => {
+      renderAnnouncementMessage(stage, ANNOUNCEMENT_MESSAGES[current], mobileViewport.matches);
+    };
+    const stop = () => {
+      window.clearInterval(interval);
+      window.clearTimeout(transition);
+      interval = 0;
+      transition = 0;
+      stage.classList.remove("is-leaving", "is-entering");
+    };
+    const start = () => {
+      stop();
+      current = 0;
+      render();
+      if (reducedMotion.matches) {
+        announcement.dataset.announcementState = "reduced-motion";
+        return;
+      }
+      announcement.dataset.announcementState = "rotating";
+      interval = window.setInterval(() => {
+        stage.classList.add("is-leaving");
+        transition = window.setTimeout(() => {
+          current = (current + 1) % ANNOUNCEMENT_MESSAGES.length;
+          render();
+          stage.classList.remove("is-leaving");
+          stage.classList.add("is-entering");
+          window.requestAnimationFrame(() => {
+            window.requestAnimationFrame(() => stage.classList.remove("is-entering"));
+          });
+        }, ANNOUNCEMENT_TRANSITION_MS);
+      }, ANNOUNCEMENT_INTERVAL_MS);
+    };
+
+    reducedMotion.addEventListener?.("change", start);
+    mobileViewport.addEventListener?.("change", render);
+    start();
+  }
+
   function setContext(next = {}) {
     const body = document.body;
     if (next.pageType) body.dataset.pageType = clean(next.pageType);
@@ -248,9 +338,7 @@
     const announcement = document.querySelector("[data-site-announcement]");
     let mounted = false;
     if (announcement) {
-      announcement.className = "pf-announcement";
-      announcement.dataset.sharedComponent = "SiteAnnouncement";
-      announcement.textContent = `Tư vấn cấu hình và báo giá theo số lượng · Hotline ${PHONE_DISPLAY}`;
+      bindAnnouncement(announcement);
       mounted = true;
     }
     mounted = replaceHost("[data-site-header]", headerTemplate()) || mounted;
