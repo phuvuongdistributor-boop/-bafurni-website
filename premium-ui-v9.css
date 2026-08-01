@@ -635,6 +635,15 @@ body.pf-home {
   line-height: 1.7;
 }
 
+.sf-product-application {
+  max-width: 610px;
+  margin-top: 8px;
+  color: var(--v9-color-muted);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.55;
+}
+
 .sf-price {
   margin-top: 24px;
   padding: 24px 0;
@@ -1010,6 +1019,11 @@ body.pf-home {
   .sf-product-description {
     font-size: 17px;
     line-height: 1.65;
+  }
+
+  .sf-product-application {
+    font-size: 13px;
+    line-height: 1.5;
   }
 
   .sf-price {

@@ -1,0 +1,41 @@
+Page,Section,TextBefore,Issue,TextAfter,Reason,WordCountBefore,WordCountAfter,VisualRegression,Result
+Homepage,SEO meta,"BA_Furniture cung cấp ghế, bàn, tủ, sofa và nội thất đồng bộ cho văn phòng, trường học, nhà máy và công trình.",Thiếu năng lực sản xuất theo yêu cầu,"BA_Furniture cung cấp và sản xuất nội thất văn phòng, trường học, nhà máy và dự án theo kích thước, màu sắc và chất liệu yêu cầu.",Rõ năng lực B2B và phạm vi tùy chỉnh,20,24,None,PASS
+Site-wide,Announcement desktop,"Nhận sản xuất theo kích thước... | Tối ưu báo giá... | Tư vấn nhanh...",Chưa đủ phạm vi thương hiệu,"Thiết kế, cung cấp và sản xuất nội thất theo yêu cầu | Hơn 3.000 sản phẩm cho văn phòng, trường học và dự án | Tối ưu báo giá theo số lượng · Hotline 0929.878.666",Ba thông điệp cụ thể và có bằng chứng,27,31,None,PASS
+Site-wide,Announcement mobile,"Nhận sản xuất nội thất theo yêu cầu | Tối ưu giá theo số lượng và dự án | Hotline 0929.878.666",Câu hai còn dài,"Sản xuất nội thất theo yêu cầu | Hơn 3.000 sản phẩm nội thất | Hotline 0929.878.666",Gọn trong một dòng mobile,19,15,None,PASS
+Homepage,Hero brand line,"Ghế, bàn, tủ đồng bộ cho văn phòng, trường học, nhà máy và công trình.",Thiên về liệt kê,"Giải pháp nội thất phù hợp cho từng không gian làm việc.",Hỗ trợ H1 và nêu lợi ích,12,10,None,PASS
+Homepage,Category Ghế văn phòng,,Thiếu phạm vi sử dụng,"Cho lãnh đạo, nhân viên, phòng họp và khu chờ.",Giải thích nhanh ứng dụng,0,9,None,PASS
+Homepage,Category Bàn văn phòng,,Thiếu phạm vi sử dụng,"Bàn làm việc, bàn lãnh đạo và cụm bàn nhân viên.",Giải thích nhanh ứng dụng,0,10,None,PASS
+Homepage,Category Bàn họp,,Thiếu phạm vi sử dụng,"Giải pháp cho phòng họp nhỏ đến không gian hội nghị.",Giải thích nhanh ứng dụng,0,10,None,PASS
+Homepage,Category Tủ và hộc,,Thiếu phạm vi sử dụng,"Lưu trữ hồ sơ gọn gàng cho mọi khu vực làm việc.",Giải thích nhanh ứng dụng,0,11,None,PASS
+Homepage,Category Locker,,Thiếu phạm vi sử dụng,"Tủ cá nhân cho văn phòng, trường học và nhà máy.",Giải thích nhanh ứng dụng,0,9,None,PASS
+Homepage,Category Sofa và ghế chờ,,Thiếu phạm vi sử dụng,"Tiếp khách, nghỉ chờ và hoàn thiện không gian chung.",Giải thích nhanh ứng dụng,0,9,None,PASS
+Homepage,Category Trường học,,Thiếu phạm vi sử dụng,"Bàn ghế và thiết bị phù hợp từng cấp học.",Giải thích nhanh ứng dụng,0,9,None,PASS
+Homepage,Category Kệ và giá kho,,Thiếu phạm vi sử dụng,"Giải pháp lưu trữ hàng hóa và vật tư hiệu quả.",Giải thích nhanh ứng dụng,0,10,None,PASS
+Homepage,Featured eyebrow,"Sản phẩm nổi bật",Lặp từ sản phẩm,"Nổi bật",Giảm lặp mà không đổi nghĩa,3,1,None,PASS
+Homepage,Featured intro,"Giá và thông số theo dữ liệu hiện hữu.",Dài và lặp ngữ cảnh,"Dữ liệu hiện hữu.",Giữ nguồn thông tin ngắn gọn,8,3,None,PASS
+Homepage,Featured CTA,"Khám phá sản phẩm",CTA không thuộc bộ chuẩn,"Xem sản phẩm",CTA trực tiếp,3,2,None,PASS
+Homepage,Solutions eyebrow,"Giải pháp theo không gian",Lặp với tiêu đề,"Giải pháp",Giảm lặp,4,1,None,PASS
+Homepage,Solutions title,"Giải pháp cho doanh nghiệp",Câu dài,"Giải pháp doanh nghiệp",Giữ đúng ngữ cảnh B2B,4,3,None,PASS
+Homepage,Solutions intro,"Ba cấu hình cho môi trường vận hành thực tế.",Dài,"Ba cấu hình vận hành.",Cô đọng,8,4,None,PASS
+Homepage,Solution Văn phòng,"Bàn ghế, phòng họp và lưu trữ đồng bộ theo quy mô.",Lặp đồng bộ,"Bàn ghế, phòng họp và lưu trữ theo quy mô.",Gọn và cụ thể,10,9,None,PASS
+Homepage,Solution Trường học,"Bàn ghế lớp học bền bỉ cho cường độ sử dụng cao.",Thừa từ,"Bàn ghế bền cho cường độ sử dụng cao.",Giữ ý chính,10,8,None,PASS
+Homepage,Solution Nhà máy,"Locker, tủ sắt và lưu trữ cho khu vận hành.",Liệt kê dài,"Locker cho khu vận hành.",Giữ sản phẩm trọng tâm,9,5,None,PASS
+Homepage,Needs eyebrow,"Chọn theo nhu cầu",Có thể rút gọn,"Theo nhu cầu",Giảm lặp,4,3,None,PASS
+Homepage,Needs intro,"Chọn theo khu vực cần hoàn thiện.",Lặp từ chọn,"Chọn đúng không gian.",Gọn và tự nhiên,6,4,None,PASS
+Homepage,Need Phòng lãnh đạo,"Ghế da, bàn veneer và tủ đồng bộ","Đồng bộ" đã có trong hero,"Đồng bộ bàn, ghế, tủ",Gọn theo nhóm sản phẩm,7,4,None,PASS
+Homepage,Need Đội nhóm,"Cụm bàn và ghế làm việc hằng ngày",Dài,"Cụm bàn ghế đội nhóm",Gắn đúng bối cảnh,8,5,None,PASS
+Homepage,Need Phòng họp,"Bàn họp, ghế chân quỳ và tủ phụ",Liệt kê dài,"Bàn ghế phòng họp",Gọn theo nhu cầu,8,4,None,PASS
+Homepage,Need Nhà máy,"Locker, tủ sắt và kệ lưu trữ",Liệt kê dài,"Locker và kệ kho",Gọn theo nhu cầu,7,4,None,PASS
+Homepage,Projects eyebrow,"Hồ sơ dự án",Lặp với CTA,"Dự án",Giảm lặp,3,1,None,PASS
+Homepage,Projects title,"Dự án và không gian",Câu chung chung,"Không gian triển khai",Nhấn năng lực thực thi,4,3,None,PASS
+Homepage,Projects intro,"Ba bối cảnh triển khai tiêu biểu.",Lặp triển khai,"Ba bối cảnh.",Cô đọng,5,2,None,PASS
+Homepage,Capability,"Năng lực triển khai | Sẵn sàng cho nhu cầu số lượng và dự án",Lặp triển khai và nhu cầu,"Năng lực | Sẵn sàng cho số lượng và dự án",Gọn nhưng giữ ý B2B,12,9,None,PASS
+Homepage,CTA,"Nhận tư vấn và báo giá | Chọn không gian, quy mô và thời gian cần hàng.",Lặp CTA và dài,"Tư vấn dự án | Chọn không gian, quy mô và thời gian.",Giữ hành động rõ,14,10,None,PASS
+Site-wide,Wizard kicker,"BA_Furniture Quote Wizard",Tiếng Anh public không cần thiết,"Yêu cầu báo giá BA_Furniture",Việt hóa tự nhiên,3,5,None,PASS
+Site-wide,Footer identity,"Nội thất đồng bộ cho tổ chức và dự án.",Chưa nêu đúng nhóm khách hàng,"Giải pháp nội thất cho văn phòng, trường học và dự án. | Khách hàng ở đâu, chúng tôi ở đó.",Chuẩn hóa mô tả và slogan duy nhất,8,17,None,PASS
+Site-wide,Copyright,"All rights reserved.",Tiếng Anh public,"Đã đăng ký bản quyền.",Việt hóa,3,5,None,PASS
+Product detail,Application mapping,,Thiếu bối cảnh sử dụng,"8 dòng Phù hợp theo category và 1 fallback",Hỗ trợ quyết định mua không sửa ProductDB,0,55,None,PASS
+Case studies,Case labels,"Workplace | Education | Shared space",Tiếng Anh public không cần thiết,"Văn phòng | Giáo dục | Không gian chung",Việt hóa đúng bối cảnh,5,6,None,PASS
+Case studies,CTA,"Trao đổi dự án",Không thuộc bộ CTA chuẩn,"Nhận báo giá | Nhận tư vấn",Chuẩn hóa CTA,3,5,None,PASS
+Case studies,Page titles,"BAFurniture Case Study",Tiếng Anh và tên thương hiệu chưa thống nhất,"Hồ sơ BA_Furniture",Việt hóa và thống nhất identity,3,3,None,PASS
+Case studies,Brand identity,"BAFurniture",Tên hiển thị chưa thống nhất,"BA_Furniture",Đồng nhất toàn site,1,1,None,PASS
