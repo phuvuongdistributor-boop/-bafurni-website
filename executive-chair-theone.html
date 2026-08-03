@@ -156,7 +156,15 @@
         {"@type":"Question","name":"Giá trên trang là giá cuối chưa?","acceptedAnswer":{"@type":"Answer","text":"Chưa. Giá hiển thị lấy từ ProductDB; giá cuối phụ thuộc cấu hình vật liệu, số lượng và thời điểm."}}
       ]}
     </script>
-    <script src="/quote-config.js?v=10.02.0"></script>
+    <script>
+      window.BA_LEAD_CONFIG = Object.freeze({
+        endpoint: "https://script.google.com/macros/s/AKfycbyLFkUYAvwWnpzJOwwLzhCak1YKAW623XPdL-mnbHSJPEfhBYPAX1QtGKNlTC5mFztWMQ/exec",
+        transport: "no-cors",
+        timeoutMs: 10000,
+        site: "bafurni.com",
+        demoMode: ["localhost", "127.0.0.1"].includes(window.location.hostname)
+      });
+    </script>
     <script src="/site-shell.js?v=1.2.0"></script>
     <script src="/executive-chair-theone-data.js?v=10.02.0"></script>
     <script src="/executive-chair-theone.js?v=10.02.1"></script>
