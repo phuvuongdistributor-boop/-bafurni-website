@@ -29,10 +29,6 @@
   ],
   "rewrites": [
     {
-      "source": "/quote-config.js",
-      "destination": "/lead-config.js"
-    },
-    {
       "source": "/quote-engine.js",
       "destination": "/lead-engine.js"
     },

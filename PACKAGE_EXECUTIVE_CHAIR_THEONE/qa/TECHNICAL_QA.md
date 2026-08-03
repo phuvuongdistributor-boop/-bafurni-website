@@ -41,7 +41,7 @@
 - Product TQ34: bước 1 → 2 → 3 PASS; `product_code=TQ34`, tên đúng.
 - Không submit; lead test = 0.
 - Lead Engine endpoint không sửa.
-- Vercel alias `/quote-config.js` → `/lead-config.js` và `/quote-engine.js` → `/lead-engine.js` tránh client blocker theo tên file; logic gốc không đổi.
+- `quote-config.js` giữ đúng public Apps Script endpoint; Vercel alias `/quote-engine.js` → `/lead-engine.js` tránh client blocker theo tên file. Logic gốc không đổi.
 
 ## Runtime
 
