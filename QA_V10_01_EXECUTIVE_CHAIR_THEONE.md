@@ -58,4 +58,15 @@ All three creatives use real local product images, solid colors, no decorative i
 
 ## Preview verification
 
-To be completed after the branch is pushed and Vercel Preview is Ready. Production is explicitly out of scope.
+- Implementation commit: `f26380e3e52b4c5f34b5a3b5dc7f1cfd621ac7d6`
+- Verified deployment: `https://bafurni-website-pu1lswgkr-phuvuongdistributor-boops-projects.vercel.app`
+- Vercel: Ready · Preview · Latest; build duration 11 seconds.
+- `/danh-muc/ghe-giam-doc`: correct landing rendered through the exact rewrite.
+- Product cards: 8/8 correct codes and exact local image mapping; category fallback images: 0.
+- Product detail pages: TQ01, TQ05, TQ26, TQ27, TQ30, TQ34, TQ38 and TQ39 all rendered the requested code; not-found pages: 0.
+- Marketing image URLs: 3/3 loaded at 1920×1080, 1600×1200 and 1200×1200.
+- Quote Wizard: step 1 → step 2 → step 3 PASS; submit was not clicked; test leads sent = 0.
+- Console errors/warnings: 0.
+- Preview default browser viewport: horizontal overflow 0; out-of-bounds content 0.
+- `lead-config.js` remains referenced with the existing version and was not modified.
+- Main and production were not changed. Production deployment is explicitly out of scope.
