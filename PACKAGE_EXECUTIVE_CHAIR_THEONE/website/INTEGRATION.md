@@ -6,4 +6,5 @@
 - ProductDB: read-only; giá lấy đúng từ `productdb-data.part1.js`.
 - Thông số, chất liệu, công năng, bảo hành: đối chiếu trang sản phẩm The One ngày 03/08/2026.
 - Gallery: chỉ dùng ảnh đúng mã đã kiểm tra trực quan. Bảy mã có một ảnh xác minh; TQ34 có ba ảnh nguồn nhưng hai ảnh phụ có watermark `theone.vn`, vì vậy bị loại.
+- Quote scripts dùng alias Vercel `/quote-config.js` và `/quote-engine.js` để tránh false-positive từ client blocker; destination vẫn là `lead-config.js` và `lead-engine.js`, không đổi nội dung hay endpoint.
 - Không sửa Portal, Lead Engine hoặc Apps Script.
