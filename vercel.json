@@ -29,6 +29,10 @@
   ],
   "rewrites": [
     {
+      "source": "/danh-muc/ghe-giam-doc",
+      "destination": "/executive-chair-theone.html"
+    },
+    {
       "source": "/danh-muc/:slug",
       "destination": "/category.html?cat=:slug"
     },

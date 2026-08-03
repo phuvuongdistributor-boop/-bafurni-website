@@ -1,0 +1,4 @@
+Asset,Type,Dimensions,FileBytes,ProductCodes,SourceAssetDimensions,Upscaled,Watermark,SupplierLogo,Status
+assets/v10-01/executive-chair-theone/marketing/hero-1920x1080.png,Hero,1920x1080,626117,"TQ27|TQ34|TQ26","700x700|700x700|580x580",NO,NONE,NONE,PASS
+assets/v10-01/executive-chair-theone/marketing/collage-1600x1200.png,Collage,1600x1200,285902,"TQ01|TQ05|TQ30|TQ39","600x600|600x600|600x600|600x600",NO,NONE,NONE,PASS
+assets/v10-01/executive-chair-theone/marketing/thumbnail-1200x1200.png,Thumbnail,1200x1200,271432,TQ34,700x700,NO,NONE,NONE,PASS
