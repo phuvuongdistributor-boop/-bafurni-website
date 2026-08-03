@@ -9,6 +9,7 @@
     ">": "&gt;",
     '"': "&quot;"
   }[character]));
+  const price = (value) => new Intl.NumberFormat("vi-VN").format(value) + " ₫";
 
   grid.innerHTML = products.map((product) => `
     <article class="v10-product-card" data-product-code="${escapeHtml(product.code)}">
@@ -18,12 +19,8 @@
       <div class="v10-product-body">
         <p class="v10-product-code">The One · ${escapeHtml(product.code)}</p>
         <h3><a href="${escapeHtml(product.detailUrl)}">${escapeHtml(product.name)}</a></h3>
-        <p class="v10-product-summary">${escapeHtml(product.summary)}</p>
-        <dl>
-          <div><dt>Kích thước</dt><dd>${escapeHtml(product.size)}</dd></div>
-          <div><dt>Chất liệu</dt><dd>${escapeHtml(product.material)}</dd></div>
-        </dl>
-        <ul>${product.features.map((feature) => `<li>${escapeHtml(feature)}</li>`).join("")}</ul>
+        <p class="v10-product-price"><span>Giá ProductDB</span><strong>${price(product.price)}</strong></p>
+        <p class="v10-product-size">${escapeHtml(product.size)}</p>
         <div class="v10-product-actions">
           <a href="${escapeHtml(product.detailUrl)}">Xem chi tiết</a>
           <button type="button" data-open-wizard>Tư vấn mẫu này</button>
@@ -57,13 +54,14 @@
   });
   document.head.append(schema);
 
-  window.BA_V10_01_QA = {
+  window.BA_V10_02_QA = {
     route: window.location.pathname,
     source: "THE ONE",
     category: "Office Chair",
     subcategory: "Executive Chair",
     productCount: products.length,
     codes: products.map((product) => product.code),
+    package: "PACKAGE_EXECUTIVE_CHAIR_THEONE",
     productDbMode: "read-only / unchanged",
     brokenImages: () => [...document.images].filter((image) => image.complete && image.naturalWidth === 0).length
   };

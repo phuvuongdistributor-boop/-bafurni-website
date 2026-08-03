@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {"@type":"CollectionPage","@id":"https://bafurni.com/danh-muc/ghe-giam-doc#page","url":"https://bafurni.com/danh-muc/ghe-giam-doc","name":"Ghế giám đốc The One","description":"Tám mẫu ghế giám đốc The One được so sánh theo kích thước, vật liệu và cơ cấu."},
+    {"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://bafurni.com/"},{"@type":"ListItem","position":2,"name":"Ghế văn phòng","item":"https://bafurni.com/danh-muc/ghe-van-phong"},{"@type":"ListItem","position":3,"name":"Ghế giám đốc","item":"https://bafurni.com/danh-muc/ghe-giam-doc"}]},
+    {"@type":"ItemList","name":"8 mẫu ghế giám đốc The One","numberOfItems":8,"itemListElement":[
+      {"@type":"ListItem","position":1,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq01","name":"TQ01"},
+      {"@type":"ListItem","position":2,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq05","name":"TQ05"},
+      {"@type":"ListItem","position":3,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq26","name":"TQ26"},
+      {"@type":"ListItem","position":4,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq27","name":"TQ27"},
+      {"@type":"ListItem","position":5,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq30","name":"TQ30"},
+      {"@type":"ListItem","position":6,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq34","name":"TQ34"},
+      {"@type":"ListItem","position":7,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq38","name":"TQ38"},
+      {"@type":"ListItem","position":8,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq39","name":"TQ39"}
+    ]}
+  ]
+}

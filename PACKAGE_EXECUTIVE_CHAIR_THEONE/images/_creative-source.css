@@ -1,0 +1,50 @@
+@font-face { font-family: Inter; src: url('/assets/fonts/v9/inter-vietnamese-wght-normal.woff2') format('woff2'); font-weight: 100 900; font-display: swap; }
+@font-face { font-family: Playfair; src: url('/assets/fonts/v9/playfair-display-vietnamese-wght-normal.woff2') format('woff2'); font-display: swap; }
+* { box-sizing: border-box; }
+html, body, #creative { width: 100%; height: 100%; margin: 0; overflow: hidden; }
+body { font-family: Inter, Arial, sans-serif; color: #211915; background: #f3eee6; }
+.art { position: relative; width: 100%; height: 100%; overflow: hidden; background: #f3eee6; }
+.brand { position: absolute; left: 5%; top: 5%; z-index: 5; display: flex; align-items: center; gap: 18px; font-size: clamp(19px, 1.6vw, 32px); font-weight: 700; letter-spacing: -.03em; }
+.brand::before { content: 'BA'; display: grid; place-items: center; width: 58px; height: 58px; border: 1px solid currentColor; font-family: Playfair, Georgia, serif; font-weight: 400; }
+.eyebrow { margin: 0 0 18px; font-size: clamp(14px, 1.1vw, 22px); font-weight: 700; letter-spacing: .17em; text-transform: uppercase; }
+h1, h2 { margin: 0; font-family: Playfair, Georgia, serif; font-weight: 500; letter-spacing: -.04em; }
+p { margin: 0; }
+.hero-art { background: #211915; color: #fff; }
+.hero-copy { position: absolute; left: 5%; top: 22%; width: 46%; z-index: 4; }
+.hero-copy h1 { max-width: 840px; font-size: clamp(70px, 6.2vw, 120px); line-height: .96; }
+.hero-copy .sub { max-width: 670px; margin-top: 34px; color: rgba(255,255,255,.68); font-size: clamp(20px, 1.5vw, 30px); line-height: 1.5; }
+.hero-stage { position: absolute; right: 3.5%; top: 7%; width: 46%; height: 88%; background: #fff; }
+.hero-stage img { width: 100%; height: 100%; object-fit: contain; padding: 7%; }
+.hero-tag { position: absolute; right: 42%; bottom: 7%; z-index: 6; padding: 22px 28px; background: #9b5e3e; color: #fff; font-weight: 700; font-size: clamp(17px, 1.4vw, 28px); }
+.collage-art { background: #ede7de; }
+.collage-head { position: absolute; left: 5%; top: 14%; width: 35%; }
+.collage-head h1 { font-size: clamp(58px, 6vw, 100px); line-height: .98; }
+.collage-head p:last-child { margin-top: 28px; color: #6f6259; font-size: clamp(18px, 1.5vw, 27px); line-height: 1.5; }
+.collage-grid { position: absolute; right: 4%; top: 6%; width: 57%; height: 88%; display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+.collage-item { position: relative; display: grid; place-items: center; min-width: 0; background: #fff; border: 1px solid rgba(33,25,21,.14); }
+.collage-item img { width: 88%; height: 82%; object-fit: contain; }
+.collage-item span { position: absolute; left: 18px; bottom: 16px; font-size: clamp(14px, 1.2vw, 21px); font-weight: 700; }
+.square-art { background: #211915; color: #fff; }
+.square-copy { position: absolute; left: 7%; top: 13%; width: 64%; z-index: 4; }
+.square-copy h1 { font-size: clamp(70px, 8vw, 112px); line-height: .95; }
+.square-copy p:last-child { margin-top: 24px; color: rgba(255,255,255,.67); font-size: clamp(19px, 2vw, 28px); }
+.square-products { position: absolute; left: 5%; right: 5%; bottom: 5%; height: 52%; display: flex; align-items: end; justify-content: center; }
+.square-products figure { width: 31%; height: 100%; margin: 0 -2.4%; display: grid; place-items: center; background: #fff; border: 1px solid #dcd2c7; }
+.square-products figure:nth-child(2) { z-index: 2; height: 108%; }
+.square-products img { width: 94%; height: 94%; object-fit: contain; }
+.card-art { background: #f3eee6; }
+.card-art .brand { color: #211915; }
+.card-media { position: absolute; left: 4.5%; right: 4.5%; top: 14%; height: 61%; display: grid; place-items: center; background: #fff; border: 1px solid rgba(33,25,21,.14); }
+.card-media img { width: 94%; height: 94%; object-fit: contain; }
+.card-copy { position: absolute; left: 5%; right: 5%; bottom: 5%; display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 30px; }
+.card-copy h1 { font-size: clamp(62px, 8vw, 108px); line-height: .9; }
+.card-copy .name { margin-top: 14px; color: #6f6259; font-size: clamp(18px, 2vw, 28px); }
+.card-copy .spec { max-width: 370px; padding-left: 26px; border-left: 2px solid #9b5e3e; font-size: clamp(15px, 1.5vw, 22px); line-height: 1.55; }
+.wide-art { background: #211915; color: #fff; }
+.wide-copy { position: absolute; left: 5%; top: 22%; width: 50%; z-index: 4; }
+.wide-copy h1 { font-size: clamp(56px, 6.5vw, 98px); line-height: .95; }
+.wide-copy p:last-child { max-width: 620px; margin-top: 24px; color: rgba(255,255,255,.66); font-size: clamp(18px, 1.8vw, 28px); line-height: 1.45; }
+.wide-products { position: absolute; right: 3%; top: 8%; width: 42%; height: 84%; display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.wide-products figure { margin: 0; display: grid; place-items: center; background: #fff; }
+.wide-products img { width: 94%; height: 94%; object-fit: contain; }
+.wide-line { position: absolute; left: 5%; bottom: 8%; width: 40%; height: 3px; background: #9b5e3e; }
