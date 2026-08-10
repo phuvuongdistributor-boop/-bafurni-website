@@ -1,6 +1,7 @@
 {
   "package": "PACKAGE_EXECUTIVE_CHAIR_THEONE",
   "version": "V10.02",
+  "fieldProvenance": "../report/PRODUCT_FIELD_PROVENANCE_V10_02.csv",
   "summary": "Gói dữ liệu kinh doanh cho 8 ghế giám đốc The One: TQ01, TQ05, TQ26, TQ27, TQ30, TQ34, TQ38 và TQ39.",
   "application": ["Phòng giám đốc quy mô vừa", "Phòng lãnh đạo rộng", "Vị trí cần ghế ngả nhiều góc", "Vị trí cần ghế chân tĩnh"],
   "salesPoints": [
@@ -37,8 +38,10 @@
     {"q":"Bảo hành bao lâu?","a":"12 tháng theo tiêu chuẩn nhà máy."},
     {"q":"Có đặt số lượng không?","a":"Có, báo giá theo số lượng và khu vực."},
     {"q":"Có lắp đặt không?","a":"Xác nhận theo địa điểm triển khai."},
-    {"q":"Giá đã là giá cuối chưa?","a":"Chưa; giá cuối phụ thuộc cấu hình và thời điểm."}
+    {"q":"Giá đã là giá cuối chưa?","a":"Chưa; giá cuối phụ thuộc cấu hình và thời điểm."},
+    {"q":"Có đổi màu da không?","a":"Màu khả dụng cần được xác nhận theo mã và cấp da tại thời điểm đặt."},
+    {"q":"Cần đo gì trước khi chọn?","a":"Đo chiều cao bàn, khoảng lùi, lối đi, vị trí tủ và khoảng hở cho tay ghế."}
   ],
-  "sourcePolicy": "ProductDB read-only for price and identity; verified The One pages for specifications; no inferred load rating.",
-  "updatedAt": "2026-08-03"
+  "sourcePolicy": "ProductDB read-only for price and identity; verified The One pages for specifications; BA_Furniture editorial fields are not supplier specifications; inferred comparisons are not published as official data; no inferred load rating.",
+  "updatedAt": "2026-08-08"
 }

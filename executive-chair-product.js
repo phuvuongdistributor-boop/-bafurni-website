@@ -25,7 +25,13 @@
   document.querySelector("[data-product-code-label]").textContent = product.code;
   document.title = `${product.name} | BA_Furniture`;
   document.querySelector('meta[name="description"]').content = product.summary;
-  document.querySelector("[data-product-canonical]").href = `https://bafurni.com${product.detailUrl}`;
+  let canonical = document.querySelector("link[rel='canonical']");
+  if (!canonical) {
+    canonical = document.createElement("link");
+    canonical.rel = "canonical";
+    document.head.append(canonical);
+  }
+  canonical.href = `https://bafurni.com${product.detailUrl}`;
   document.querySelector("[data-product-og-title]").content = `${product.name} | BA_Furniture`;
   document.querySelector("[data-product-og-description]").content = product.summary;
   document.querySelector("[data-product-og-image]").content = new URL(product.image, "https://bafurni.com").href;

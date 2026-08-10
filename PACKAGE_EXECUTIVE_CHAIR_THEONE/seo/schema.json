@@ -12,6 +12,20 @@
       {"@type":"ListItem","position":6,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq34","name":"TQ34"},
       {"@type":"ListItem","position":7,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq38","name":"TQ38"},
       {"@type":"ListItem","position":8,"url":"https://bafurni.com/san-pham/ghe-giam-doc/tq39","name":"TQ39"}
+    ]},
+    {"@type":"FAQPage","mainEntity":[
+      {"@type":"Question","name":"Mã nào gọn nhất?","acceptedAnswer":{"@type":"Answer","text":"TQ30 có bề ngang 645 mm, nhỏ nhất trong tám mã."}},
+      {"@type":"Question","name":"Mã nào có để chân?","acceptedAnswer":{"@type":"Answer","text":"TQ34 được công bố có cơ cấu để chân và ngả nhiều góc."}},
+      {"@type":"Question","name":"Mã nào là chân tĩnh?","acceptedAnswer":{"@type":"Answer","text":"TQ26 dùng chân tĩnh, không tăng chỉnh độ cao."}},
+      {"@type":"Question","name":"Có chọn da công nghiệp không?","acceptedAnswer":{"@type":"Answer","text":"Có ở một số mã; cấu hình cụ thể được ghi trên từng trang chi tiết."}},
+      {"@type":"Question","name":"Có lựa chọn PVC không?","acceptedAnswer":{"@type":"Answer","text":"Nguồn công bố PVC cho TQ01, TQ30, TQ34 và TQ38."}},
+      {"@type":"Question","name":"Ghế chịu tải bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Nguồn đối chiếu không công bố tải trọng; cần xác nhận bằng tài liệu kỹ thuật."}},
+      {"@type":"Question","name":"Bảo hành bao lâu?","acceptedAnswer":{"@type":"Answer","text":"The One công bố 12 tháng theo tiêu chuẩn nhà máy."}},
+      {"@type":"Question","name":"Có đặt theo số lượng không?","acceptedAnswer":{"@type":"Answer","text":"Có. Số lượng là dữ liệu cần xác nhận để lập báo giá."}},
+      {"@type":"Question","name":"Có giao và lắp đặt không?","acceptedAnswer":{"@type":"Answer","text":"Phạm vi giao/lắp được xác nhận theo địa điểm triển khai, không mặc định cho mọi đơn hàng."}},
+      {"@type":"Question","name":"Giá trên website là giá cuối chưa?","acceptedAnswer":{"@type":"Answer","text":"Chưa. Giá hiển thị lấy từ ProductDB; giá cuối phụ thuộc cấu hình, vật liệu, số lượng và thời điểm."}},
+      {"@type":"Question","name":"Có đổi màu da không?","acceptedAnswer":{"@type":"Answer","text":"Màu khả dụng cần được xác nhận theo mã và cấp da tại thời điểm đặt."}},
+      {"@type":"Question","name":"Cần đo gì trước khi chọn?","acceptedAnswer":{"@type":"Answer","text":"Đo chiều cao bàn, khoảng lùi, lối đi, vị trí tủ và khoảng hở để tay ghế đi vào dưới bàn."}}
     ]}
   ]
 }

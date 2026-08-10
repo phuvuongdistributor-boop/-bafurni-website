@@ -4,7 +4,7 @@ Version: V10.02 Framework
 
 Branch: `feature/v10-02-executive-chair-package-standard`
 
-Status: Preview candidate; production merge forbidden.
+Status: Final release candidate; chỉ merge sau khi Preview regression PASS.
 
 ## Scope
 
@@ -13,9 +13,9 @@ Một nhóm duy nhất: Ghế giám đốc → The One → 8 sản phẩm. Khôn
 ## 10 phần hoàn thành
 
 1. **Product:** 8 Code, giá ProductDB, ảnh đúng mã, gallery sạch, specs, dimensions, materials, descriptions, related products.
-2. **Landing:** flow bán hàng 7 section, 678–691 từ tùy viewport.
+2. **Landing:** flow bán hàng 7 section, đúng 691 từ desktop và 678 từ mobile.
 3. **Buying Guide:** tài liệu riêng khoảng 500–600 từ.
-4. **FAQ:** 12 câu trong package, 10 câu trên landing, có schema.
+4. **FAQ:** 12 câu trong package, 12 câu trên landing, có FAQ schema đầy đủ.
 5. **SEO:** title, description, keywords, canonical, schema, internal links và related categories.
 6. **Image Package:** 13 asset gồm hero, collage, thumbnail, 8 product cards, OG và social cover.
 7. **Marketing Package:** Facebook long/short, Google Business, Zalo OA, 5 caption, 10 hook, 10 CTA.
@@ -43,6 +43,6 @@ The One công bố ba ảnh cho TQ34 nhưng hai ảnh phụ có watermark. Hai f
 - Horizontal overflow = 0 tại 1440, 1280, 768, 390.
 - Main production branch và production deployment chưa thay đổi.
 
-## Stop rule
+## Release gate
 
-Sau Preview QA, dừng. Không merge main, không deploy production, không bắt đầu V10.03.
+Chỉ merge `main` sau khi Preview regression PASS. Sau production verification phải STOP; không bắt đầu V10.03 và không tự đăng marketing.

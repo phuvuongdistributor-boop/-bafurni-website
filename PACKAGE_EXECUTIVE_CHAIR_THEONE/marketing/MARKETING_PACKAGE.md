@@ -4,7 +4,7 @@ Package: `PACKAGE_EXECUTIVE_CHAIR_THEONE`
 
 Landing: `https://bafurni.com/danh-muc/ghe-giam-doc`
 
-Nguyên tắc: truyền thông theo nhóm, không tách chiến dịch cho từng mã; không dùng tuyên bố “rẻ nhất”, “tốt nhất”, “số 1”.
+Nguyên tắc: truyền thông theo nhóm, không tách chiến dịch cho từng mã và không dùng tuyên bố xếp hạng tuyệt đối.
 
 ## Facebook — Long Post
 

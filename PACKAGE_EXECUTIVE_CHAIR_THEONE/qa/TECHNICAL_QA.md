@@ -14,7 +14,7 @@
 - Section flow: Hero → Benefits → Product Grid → Quick Comparison → Buying Guide → FAQ → Quote.
 - Word count: 691 ở 1440; 678 ở 768/390 do nội dung ẩn theo responsive. Target 500–700: PASS.
 - Product cards: 8.
-- FAQ: 10 trên landing; package FAQ: 12.
+- FAQ: 12 trên landing; package FAQ: 12; FAQ schema: 12.
 - JSON files parse: PASS.
 - JavaScript syntax: PASS.
 
@@ -41,7 +41,8 @@
 - Product TQ34: bước 1 → 2 → 3 PASS; `product_code=TQ34`, tên đúng.
 - Không submit; lead test = 0.
 - Lead Engine endpoint không sửa.
-- Cấu hình public được nhúng trực tiếp và giữ đúng giá trị của `lead-config.js`; Vercel alias `/quote-engine.js` → `/lead-engine.js` tránh client blocker theo tên file. Logic gốc không đổi.
+- Cấu hình public được nhúng trực tiếp và giữ đúng endpoint của `lead-config.js`.
+- Landing và product detail tải trực tiếp file thật `/lead-engine.js?v=7.0.3`; rewrite tương thích `/quote-engine.js` vẫn giữ trong Vercel. Logic Lead Engine không đổi.
 
 ## Runtime
 

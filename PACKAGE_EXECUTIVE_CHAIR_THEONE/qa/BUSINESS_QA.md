@@ -1,6 +1,6 @@
 # Business QA — Executive Chair The One
 
-Date: 03/08/2026
+Date: 10/08/2026
 
 Package: `PACKAGE_EXECUTIVE_CHAIR_THEONE`
 
@@ -8,11 +8,12 @@ Package: `PACKAGE_EXECUTIVE_CHAIR_THEONE`
 |---|---|---|
 | Khách có hiểu nhóm này bán gì không? | PASS | Hero nêu rõ ghế giám đốc The One; 8 Code xuất hiện trong grid. |
 | Có phân biệt được các mã không? | PASS | Bảng so sánh theo phòng vừa/phòng rộng/ngả sâu; mỗi Code có trang chi tiết riêng. |
-| Có lý do để liên hệ không? | PASS | Giá cuối phụ thuộc cấu hình da, màu, số lượng và thời điểm; CTA giải thích dữ liệu cần gửi. |
-| CTA rõ không? | PASS | CTA ở hero, từng card, cuối landing, trang chi tiết và sticky CTA. |
-| Landing có đủ thuyết phục không? | PASS | 691 từ desktop/678 từ mobile; có lợi ích, grid, so sánh, guide, FAQ và Quote. |
+| Khách có thấy đủ lý do liên hệ không? | PASS | Giá cuối phụ thuộc cấu hình da, màu, số lượng và thời điểm; CTA giải thích dữ liệu cần gửi. |
+| CTA có dẫn đúng Quote Wizard không? | PASS | Hero, từng card, cuối landing, trang chi tiết và sticky CTA đều mở wizard; landing và TQ34 đã qua bước 1 → 2 → 3, không submit. |
+| Landing có quá nhiều chữ không? | PASS | Giữ đúng 691 từ desktop và 678 từ mobile; 8 sản phẩm xuất hiện trước phần so sánh, guide và FAQ. |
 | Có thể mua ngay không? | PASS — consultative | Không có checkout; khách mở Quote Wizard sau một click và tới bước liên hệ sau ba bước. Đây là luồng mua tư vấn B2B. |
-| Marketing có đúng nhóm không? | PASS | Một package cho cả nhóm; không tách bài theo từng sản phẩm. |
+| Ảnh có tạo hiểu nhầm không? | PASS | 8 ảnh sản phẩm đúng Code; composite chỉ dùng ở bộ marketing, được khai báo rõ và không thay ảnh chi tiết sản phẩm. |
+| Nội dung marketing có thể đăng ngay không? | PASS | Bộ nội dung theo nhóm đã đủ Facebook, Google Business và Zalo OA; chỉ bàn giao, không tự động đăng. |
 | Có thông tin bị suy diễn không? | PASS | Không nêu tải trọng do nguồn không công bố; vật liệu và cơ cấu theo từng Code. |
 
 ## Nhận xét thị giác
@@ -20,7 +21,7 @@ Package: `PACKAGE_EXECUTIVE_CHAIR_THEONE`
 - Hero cho thấy sản phẩm thật ngay màn hình đầu, không giống catalog dữ liệu.
 - Card giữ đủ Code, tên, giá và kích thước nhưng chuyển phần mô tả dài sang trang chi tiết.
 - Bảng so sánh nền tối tạo nhịp dừng và giúp khách khoanh vùng nhanh.
-- Mobile có H1, thông điệp và hai CTA trong màn hình đầu; không phải bản desktop thu nhỏ.
+- Mobile giữ hierarchy riêng; sản phẩm đầu tiên bắt đầu ở khoảng 1,92 màn hình, không dồn chữ vào màn hình đầu.
 
 ## Giới hạn được chấp nhận
 

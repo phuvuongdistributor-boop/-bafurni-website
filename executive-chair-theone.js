@@ -23,7 +23,7 @@
         <p class="v10-product-size">${escapeHtml(product.size)}</p>
         <div class="v10-product-actions">
           <a href="${escapeHtml(product.detailUrl)}">Xem chi tiết</a>
-          <button type="button" data-open-wizard>Tư vấn mẫu này</button>
+          <button type="button" data-open-wizard data-quote-product-code="${escapeHtml(product.code)}" data-quote-product-name="${escapeHtml(product.name)}">Tư vấn mẫu này</button>
         </div>
       </div>
     </article>
@@ -37,6 +37,16 @@
       image.replaceWith(placeholder);
     }, { once: true });
   });
+
+  document.addEventListener("click", (event) => {
+    const trigger = event.target.closest("[data-open-wizard]");
+    if (!trigger || !window.BASiteShell?.setContext) return;
+    window.BASiteShell.setContext({
+      productCode: trigger.dataset.quoteProductCode || "",
+      productName: trigger.dataset.quoteProductName || "",
+      categoryName: "Ghế giám đốc The One"
+    });
+  }, { capture: true });
 
   const schema = document.createElement("script");
   schema.type = "application/ld+json";

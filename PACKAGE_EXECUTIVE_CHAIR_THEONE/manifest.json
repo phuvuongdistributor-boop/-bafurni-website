@@ -1,33 +1,112 @@
 {
-  "name": "PACKAGE_EXECUTIVE_CHAIR_THEONE",
+  "package_id": "PACKAGE_EXECUTIVE_CHAIR_THEONE",
   "version": "V10.02",
-  "status": "PREVIEW_ONLY",
-  "brand": "The One",
   "category": "Office Chair",
   "subcategory": "Executive Chair",
-  "codes": ["TQ01", "TQ05", "TQ26", "TQ27", "TQ30", "TQ34", "TQ38", "TQ39"],
-  "parts": {
-    "product": {"status":"PASS","path":"website/","count":8},
-    "landing": {"status":"PASS","path":"landing/","route":"/danh-muc/ghe-giam-doc","wordCount":"678–691"},
-    "buyingGuide": {"status":"PASS","path":"guide/BUYING_GUIDE.md","target":"approximately 500 words"},
-    "faq": {"status":"PASS","path":"faq/","count":12},
-    "seo": {"status":"PASS","path":"seo/"},
-    "images": {"status":"PASS","path":"images/","deliverableCount":13,"watermark":0},
-    "marketing": {"status":"PASS","path":"marketing/MARKETING_PACKAGE.md"},
-    "knowledge": {"status":"PASS","path":"knowledge/knowledge.json"},
-    "businessQa": {"status":"PASS","path":"qa/BUSINESS_QA.md"},
-    "publishPackage": {"status":"PREVIEW_ONLY","path":"report/PACKAGE_REPORT.md"}
+  "supplier": "The One",
+  "source": {
+    "portal_productdb": "productdb-data.part1.js",
+    "productdb_policy": "read-only",
+    "official_product_pages": [
+      "https://theone.vn/san-pham/ghe-tq01",
+      "https://theone.vn/san-pham/ghe-tq05",
+      "https://theone.vn/san-pham/ghe-tq26",
+      "https://theone.vn/san-pham/ghe-tq27",
+      "https://theone.vn/san-pham/ghe-tq30",
+      "https://theone.vn/san-pham/ghe-tq34",
+      "https://theone.vn/san-pham/ghe-tq38",
+      "https://theone.vn/san-pham/ghe-tq39"
+    ],
+    "field_provenance": "report/PRODUCT_FIELD_PROVENANCE_V10_02.csv"
   },
-  "productRoutes": [
-    "/san-pham/ghe-giam-doc/tq01",
-    "/san-pham/ghe-giam-doc/tq05",
-    "/san-pham/ghe-giam-doc/tq26",
-    "/san-pham/ghe-giam-doc/tq27",
-    "/san-pham/ghe-giam-doc/tq30",
-    "/san-pham/ghe-giam-doc/tq34",
-    "/san-pham/ghe-giam-doc/tq38",
-    "/san-pham/ghe-giam-doc/tq39"
+  "product_codes": ["TQ01", "TQ05", "TQ26", "TQ27", "TQ30", "TQ34", "TQ38", "TQ39"],
+  "landing_url": "https://bafurni.com/danh-muc/ghe-giam-doc",
+  "product_urls": {
+    "TQ01": "https://bafurni.com/san-pham/ghe-giam-doc/tq01",
+    "TQ05": "https://bafurni.com/san-pham/ghe-giam-doc/tq05",
+    "TQ26": "https://bafurni.com/san-pham/ghe-giam-doc/tq26",
+    "TQ27": "https://bafurni.com/san-pham/ghe-giam-doc/tq27",
+    "TQ30": "https://bafurni.com/san-pham/ghe-giam-doc/tq30",
+    "TQ34": "https://bafurni.com/san-pham/ghe-giam-doc/tq34",
+    "TQ38": "https://bafurni.com/san-pham/ghe-giam-doc/tq38",
+    "TQ39": "https://bafurni.com/san-pham/ghe-giam-doc/tq39"
+  },
+  "image_assets": {
+    "count": 13,
+    "manifest": "images/IMAGE_MANIFEST.csv",
+    "source_audit": "images/SOURCE_IMAGE_AUDIT.csv",
+    "contact_sheet": "images/V10_02_MARKETING_CONTACT_SHEET.jpg",
+    "hero": "images/hero-1920x1080.png",
+    "collage": "images/collage-1600x1200.png",
+    "thumbnail": "images/thumbnail-1200x1200.png",
+    "product_cards": {
+      "TQ01": "images/product-cards/TQ01.png",
+      "TQ05": "images/product-cards/TQ05.png",
+      "TQ26": "images/product-cards/TQ26.png",
+      "TQ27": "images/product-cards/TQ27.png",
+      "TQ30": "images/product-cards/TQ30.png",
+      "TQ34": "images/product-cards/TQ34.png",
+      "TQ38": "images/product-cards/TQ38.png",
+      "TQ39": "images/product-cards/TQ39.png"
+    },
+    "open_graph": "images/og-1200x630.png",
+    "social_cover": "images/social-cover-1640x924.png"
+  },
+  "marketing_assets": {
+    "document": "marketing/MARKETING_PACKAGE.md",
+    "published_to_external_platforms": false
+  },
+  "seo_assets": ["seo/seo.json", "seo/schema.json", "seo/INTERNAL_LINKS.md"],
+  "faq": {
+    "document": "faq/FAQ.md",
+    "data": "faq/faq.json",
+    "count": 12
+  },
+  "buying_guide": {
+    "file": "guide/BUYING_GUIDE.md",
+    "word_count": 513
+  },
+  "knowledge_file": "knowledge/knowledge.json",
+  "qa_status": {
+    "overall": "PASS",
+    "tq34_image_integrity": "PASS",
+    "field_provenance": "PASS",
+    "marketing_assets": "PASS",
+    "seo_and_knowledge": "PASS",
+    "business": "PASS",
+    "functional_preview": "PASS",
+    "landing_word_count": 691,
+    "wrong_product_image": 0,
+    "watermark": 0,
+    "supplier_logo": 0,
+    "broken_image": 0
+  },
+  "publish_status": {
+    "state": "APPROVED_FOR_PRODUCTION_RELEASE",
+    "target_branch": "main",
+    "marketing_posts_published": false,
+    "next_package_started": false
+  },
+  "source_timestamps": {
+    "portal_bundle": "2026-07-20T08:40:09+07:00",
+    "productdb_snapshot": "2026-06-29T19:06:36+07:00",
+    "official_pages_verified": "2026-08-08T15:18:48+07:00",
+    "image_integrity_verified": "2026-08-08T15:20:05+07:00"
+  },
+  "known_limitations": [
+    "Only one clean approved gallery photograph is published for each code.",
+    "Official source photographs are 580 x 580 pixels; local derivatives do not add product detail.",
+    "Two auxiliary TQ34 photographs were rejected because of visible theone.vn watermarks.",
+    "Displayed prices are ProductDB reference prices and differ from some current supplier listings; the final quote depends on configuration and time.",
+    "Load rating, exact colors, stock availability and exact delivery or installation scope require confirmation.",
+    "Marketing documents are release-ready drafts but are not auto-published.",
+    "Product metadata and canonical URLs are rendered client-side for the eight static routes."
   ],
-  "constraints": {"mergeMain":false,"deployProduction":false,"modifyProductDb":false,"modifyPortal":false,"modifyLeadEngine":false,"nextPackage":"BLOCKED_PENDING_APPROVAL"},
-  "generatedAt": "2026-08-03T00:00:00+07:00"
+  "constraints": {
+    "modify_productdb": false,
+    "modify_portal": false,
+    "modify_lead_engine": false,
+    "publish_marketing": false,
+    "start_next_package": false
+  }
 }

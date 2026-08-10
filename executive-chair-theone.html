@@ -46,7 +46,7 @@
           <div class="v10-hero-copy">
             <p class="v10-kicker">The One · Ghế lãnh đạo</p>
             <h1 id="v10-title">Chọn ghế giám đốc theo cách làm việc.</h1>
-            <p class="v10-lead">Tám mã The One được đối chiếu theo ProductDB, ảnh thật, kích thước và cơ cấu. So sánh nhanh trước khi chốt vật liệu, số lượng và báo giá.</p>
+            <p class="v10-lead">Tám mẫu The One: ảnh thật và thông số đối chiếu. So sánh trước khi chốt cấu hình phù hợp.</p>
             <div class="v10-actions">
               <a class="v10-button v10-button-light" href="#san-pham">Xem 8 mẫu ghế</a>
               <button class="v10-button v10-button-outline" type="button" data-open-wizard>Nhận tư vấn cấu hình</button>
@@ -90,11 +90,11 @@
             <div><p class="v10-kicker">So sánh nhanh</p><h2 id="compare-title">Bắt đầu từ nhu cầu chính</h2></div>
             <p>Khoanh vùng 2–3 mã trước khi chọn màu và cấp da.</p>
           </div>
-          <div class="v10-table-wrap">
+          <div class="v10-table-wrap" role="region" aria-label="Bảng so sánh nhanh tám mẫu ghế" tabindex="0">
             <table>
               <thead><tr><th>Nhu cầu</th><th>Mã nên xem</th><th>Điểm phân biệt</th></tr></thead>
               <tbody>
-                <tr><td>Phòng vừa, cần gọn</td><td>TQ30, TQ05</td><td>Rộng 645–670 mm, có nâng hạ</td></tr>
+                <tr><td>Phòng vừa, cần gọn</td><td>TQ30, TQ05, TQ01</td><td>Rộng 645–680 mm, có nâng hạ</td></tr>
                 <tr><td>Phòng rộng, tỷ lệ lớn</td><td>TQ26, TQ27</td><td>Rộng 865–880 mm</td></tr>
                 <tr><td>Cần ngả sâu</td><td>TQ34</td><td>Có để chân, sâu tối đa 1440 mm</td></tr>
                 <tr><td>Ngả đa vị trí</td><td>TQ38, TQ39</td><td>Không dùng cơ cấu để chân</td></tr>
@@ -125,12 +125,14 @@
             <details><summary>Mã nào có để chân?</summary><p>TQ34 được công bố có cơ cấu để chân và ngả nhiều góc.</p></details>
             <details><summary>Mã nào là chân tĩnh?</summary><p>TQ26 dùng chân tĩnh, không tăng chỉnh độ cao.</p></details>
             <details><summary>Có chọn da công nghiệp không?</summary><p>Có ở một số mã; cấu hình cụ thể được ghi trên từng trang chi tiết.</p></details>
-            <details><summary>Ghế được bảo hành bao lâu?</summary><p>Nguồn The One công bố 12 tháng theo tiêu chuẩn nhà máy.</p></details>
+            <details><summary>Có lựa chọn PVC không?</summary><p>Nguồn công bố PVC cho TQ01, TQ30, TQ34 và TQ38.</p></details>
+            <details><summary>Ghế chịu tải bao nhiêu?</summary><p>Nguồn đối chiếu không công bố tải trọng; cần xác nhận bằng tài liệu kỹ thuật.</p></details>
+            <details><summary>Bảo hành bao lâu?</summary><p>The One công bố 12 tháng theo tiêu chuẩn nhà máy.</p></details>
             <details><summary>Có đặt theo số lượng không?</summary><p>Có. Số lượng là dữ liệu cần xác nhận để lập báo giá.</p></details>
-            <details><summary>Có lắp đặt không?</summary><p>Phạm vi giao và lắp đặt được xác nhận theo địa điểm triển khai.</p></details>
-            <details><summary>Giá trên trang là giá cuối chưa?</summary><p>Chưa. Đây là giá ProductDB; giá cuối phụ thuộc cấu hình và thời điểm.</p></details>
-            <details><summary>Cần đo gì trước khi chọn?</summary><p>Đo mặt bàn, khoảng lùi, lối đi và vị trí tủ phía sau ghế.</p></details>
-            <details><summary>Làm sao nhận tư vấn đúng mã?</summary><p>Mở biểu mẫu, gửi nhu cầu và ghi mã ghế đang quan tâm.</p></details>
+            <details><summary>Có giao và lắp đặt không?</summary><p>Phạm vi giao/lắp được xác nhận theo địa điểm triển khai, không mặc định cho mọi đơn hàng.</p></details>
+            <details><summary>Giá trên website là giá cuối chưa?</summary><p>Chưa. Giá hiển thị lấy từ ProductDB; giá cuối phụ thuộc cấu hình, vật liệu, số lượng và thời điểm.</p></details>
+            <details><summary>Có đổi màu da không?</summary><p>Màu khả dụng cần được xác nhận theo mã và cấp da tại thời điểm đặt.</p></details>
+            <details><summary>Cần đo gì trước khi chọn?</summary><p>Đo chiều cao bàn, khoảng lùi, lối đi, vị trí tủ và khoảng hở để tay ghế đi vào dưới bàn.</p></details>
           </div>
         </div>
       </section>
@@ -149,11 +151,18 @@
 
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-        {"@type":"Question","name":"Mã ghế giám đốc The One nào gọn nhất?","acceptedAnswer":{"@type":"Answer","text":"TQ30 có bề ngang 645 mm, nhỏ nhất trong tám mã được tuyển chọn."}},
-        {"@type":"Question","name":"Mã nào có cơ cấu để chân?","acceptedAnswer":{"@type":"Answer","text":"TQ34 được công bố có cơ cấu để chân và ngả hãm nhiều góc."}},
-        {"@type":"Question","name":"Mã nào dùng chân tĩnh?","acceptedAnswer":{"@type":"Answer","text":"TQ26 dùng chân tĩnh và không tăng chỉnh độ cao."}},
-        {"@type":"Question","name":"Ghế được bảo hành bao lâu?","acceptedAnswer":{"@type":"Answer","text":"Nguồn The One công bố bảo hành 12 tháng theo tiêu chuẩn nhà máy."}},
-        {"@type":"Question","name":"Giá trên trang là giá cuối chưa?","acceptedAnswer":{"@type":"Answer","text":"Chưa. Giá hiển thị lấy từ ProductDB; giá cuối phụ thuộc cấu hình vật liệu, số lượng và thời điểm."}}
+        {"@type":"Question","name":"Mã nào gọn nhất?","acceptedAnswer":{"@type":"Answer","text":"TQ30 có bề ngang 645 mm, nhỏ nhất trong tám mã."}},
+        {"@type":"Question","name":"Mã nào có để chân?","acceptedAnswer":{"@type":"Answer","text":"TQ34 được công bố có cơ cấu để chân và ngả nhiều góc."}},
+        {"@type":"Question","name":"Mã nào là chân tĩnh?","acceptedAnswer":{"@type":"Answer","text":"TQ26 dùng chân tĩnh, không tăng chỉnh độ cao."}},
+        {"@type":"Question","name":"Có chọn da công nghiệp không?","acceptedAnswer":{"@type":"Answer","text":"Có ở một số mã; cấu hình cụ thể được ghi trên từng trang chi tiết."}},
+        {"@type":"Question","name":"Có lựa chọn PVC không?","acceptedAnswer":{"@type":"Answer","text":"Nguồn công bố PVC cho TQ01, TQ30, TQ34 và TQ38."}},
+        {"@type":"Question","name":"Ghế chịu tải bao nhiêu?","acceptedAnswer":{"@type":"Answer","text":"Nguồn đối chiếu không công bố tải trọng; cần xác nhận bằng tài liệu kỹ thuật."}},
+        {"@type":"Question","name":"Bảo hành bao lâu?","acceptedAnswer":{"@type":"Answer","text":"The One công bố 12 tháng theo tiêu chuẩn nhà máy."}},
+        {"@type":"Question","name":"Có đặt theo số lượng không?","acceptedAnswer":{"@type":"Answer","text":"Có. Số lượng là dữ liệu cần xác nhận để lập báo giá."}},
+        {"@type":"Question","name":"Có giao và lắp đặt không?","acceptedAnswer":{"@type":"Answer","text":"Phạm vi giao/lắp được xác nhận theo địa điểm triển khai, không mặc định cho mọi đơn hàng."}},
+        {"@type":"Question","name":"Giá trên website là giá cuối chưa?","acceptedAnswer":{"@type":"Answer","text":"Chưa. Giá hiển thị lấy từ ProductDB; giá cuối phụ thuộc cấu hình, vật liệu, số lượng và thời điểm."}},
+        {"@type":"Question","name":"Có đổi màu da không?","acceptedAnswer":{"@type":"Answer","text":"Màu khả dụng cần được xác nhận theo mã và cấp da tại thời điểm đặt."}},
+        {"@type":"Question","name":"Cần đo gì trước khi chọn?","acceptedAnswer":{"@type":"Answer","text":"Đo chiều cao bàn, khoảng lùi, lối đi, vị trí tủ và khoảng hở để tay ghế đi vào dưới bàn."}}
       ]}
     </script>
     <script>
@@ -167,7 +176,7 @@
     </script>
     <script src="/site-shell.js?v=1.2.0"></script>
     <script src="/executive-chair-theone-data.js?v=10.02.0"></script>
-    <script src="/executive-chair-theone.js?v=10.02.1"></script>
-    <script src="/quote-engine.js?v=10.02.0"></script>
+    <script src="/executive-chair-theone.js?v=10.02.2"></script>
+    <script src="/lead-engine.js?v=7.0.3"></script>
   </body>
 </html>
