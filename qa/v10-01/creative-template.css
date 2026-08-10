@@ -1,0 +1,52 @@
+@font-face { font-family: "Playfair Display"; src: url("/assets/fonts/v9/playfair-display-vietnamese-wght-normal.woff2") format("woff2"); font-display: swap; font-style: normal; font-weight: 400 900; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: #ded8cf; }
+body { overflow: hidden; font-family: Arial, sans-serif; color: #201814; }
+.creative { position: relative; overflow: hidden; }
+.creative[hidden] { display: none; }
+.creative img { display: block; object-fit: contain; background: #fff; }
+
+.creative-hero { width: 1920px; height: 1080px; background: #201814; color: #fff; }
+.hero-rule { position: absolute; left: 90px; top: 72px; width: 10px; height: 936px; background: #a76643; }
+.hero-copy { position: absolute; left: 162px; top: 145px; width: 900px; }
+.hero-copy p { margin: 0 0 58px; color: #c99370; font-size: 24px; font-weight: 800; letter-spacing: .18em; }
+.hero-copy h1 { margin: 0; color: #fff; font-family: "Playfair Display", Georgia, serif; font-size: 82px; font-weight: 600; line-height: .98; letter-spacing: -.035em; }
+.hero-copy span { display: block; margin-top: 54px; color: rgba(255,255,255,.7); font-size: 27px; line-height: 1.5; }
+.hero-copy b { display: block; margin-top: 34px; color: #fff; font-size: 23px; letter-spacing: .04em; }
+.hero-products { position: absolute; inset: 0 0 0 980px; }
+.hero-chair { position: absolute; margin: 0; background: #fff; box-shadow: 0 28px 70px rgba(0,0,0,.35); }
+.hero-chair img { width: 100%; height: 100%; }
+.hero-chair figcaption { position: absolute; right: 16px; bottom: 13px; color: #63382d; font-size: 18px; font-weight: 900; letter-spacing: .08em; }
+.hero-chair-1 { left: 150px; top: 95px; width: 600px; height: 600px; z-index: 2; }
+.hero-chair-2 { left: 0; top: 590px; width: 420px; height: 420px; z-index: 3; }
+.hero-chair-3 { right: 40px; bottom: 28px; width: 360px; height: 360px; z-index: 4; }
+
+.creative-collage { width: 1600px; height: 1200px; padding: 64px 70px 52px; background: #f5f1ea; }
+.creative-collage header { display: grid; grid-template-columns: 1fr 1.25fr; column-gap: 54px; align-items: end; height: 260px; border-bottom: 2px solid #201814; padding-bottom: 34px; }
+.creative-collage header p { align-self: start; margin: 8px 0 0; color: #6b3b30; font-size: 19px; font-weight: 900; letter-spacing: .16em; }
+.creative-collage header h1 { grid-column: 2; grid-row: 1 / span 2; margin: 0; font-family: "Playfair Display", Georgia, serif; font-size: 60px; line-height: 1; letter-spacing: -.03em; }
+.creative-collage header span { margin-bottom: 8px; color: #766a62; font-size: 20px; }
+.collage-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; height: 760px; padding-top: 30px; }
+.collage-grid figure { display: grid; grid-template-rows: 1fr 108px; margin: 0; border: 1px solid rgba(32,24,20,.2); background: #fff; }
+.collage-grid img { width: 100%; height: 100%; padding: 18px; }
+.collage-grid figcaption { padding: 20px; border-top: 1px solid rgba(32,24,20,.16); }
+.collage-grid b, .collage-grid span { display: block; }
+.collage-grid b { margin-bottom: 8px; color: #6b3b30; font-size: 20px; }
+.collage-grid span { color: #6f635b; font-size: 15px; line-height: 1.35; }
+.creative-collage footer { display: flex; justify-content: space-between; align-items: end; height: 64px; font-size: 19px; letter-spacing: .06em; }
+
+.creative-thumbnail { width: 1200px; height: 1200px; background: #5f3028; color: #fff; }
+.thumb-copy { position: absolute; left: 70px; top: 74px; width: 540px; z-index: 2; }
+.thumb-copy p { margin: 0 0 35px; color: #e2b89a; font-size: 19px; font-weight: 900; letter-spacing: .16em; }
+.thumb-copy h1 { margin: 0; color: #fff; font-family: "Playfair Display", Georgia, serif; font-size: 88px; line-height: .94; letter-spacing: -.035em; }
+.thumb-copy span { display: block; margin-top: 24px; color: rgba(255,255,255,.72); font-size: 27px; }
+.creative-thumbnail figure { position: absolute; right: 0; bottom: 0; width: 690px; height: 870px; margin: 0; background: #fff; }
+.creative-thumbnail figure img { width: 690px; height: 690px; }
+.creative-thumbnail figcaption { height: 180px; padding: 34px 42px; border-top: 1px solid rgba(32,24,20,.16); color: #201814; }
+.creative-thumbnail figcaption b, .creative-thumbnail figcaption span { display: block; }
+.creative-thumbnail figcaption b { margin-bottom: 12px; color: #6b3b30; font-size: 30px; }
+.creative-thumbnail figcaption span { color: #6f635b; font-size: 20px; }
+.thumb-footer { position: absolute; left: 70px; bottom: 68px; width: 390px; padding-top: 24px; border-top: 1px solid rgba(255,255,255,.46); }
+.thumb-footer b, .thumb-footer span { display: block; }
+.thumb-footer b { margin-bottom: 12px; font-size: 24px; letter-spacing: .12em; }
+.thumb-footer span { color: rgba(255,255,255,.68); font-size: 19px; }

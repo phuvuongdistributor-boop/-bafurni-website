@@ -1,0 +1,14 @@
+[
+  {"question":"Mã nào gọn nhất?","answer":"TQ30 có bề ngang 645 mm, nhỏ nhất trong tám mã."},
+  {"question":"Mã nào có để chân?","answer":"TQ34 được công bố có cơ cấu để chân và ngả nhiều góc."},
+  {"question":"Mã nào là chân tĩnh?","answer":"TQ26 dùng chân tĩnh, không tăng chỉnh độ cao."},
+  {"question":"Có chọn da công nghiệp không?","answer":"Có ở một số mã; cấu hình cụ thể được ghi trên từng trang chi tiết."},
+  {"question":"Có lựa chọn PVC không?","answer":"Nguồn công bố PVC cho TQ01, TQ30, TQ34 và TQ38."},
+  {"question":"Ghế chịu tải bao nhiêu?","answer":"Nguồn đối chiếu không công bố tải trọng; cần xác nhận bằng tài liệu kỹ thuật."},
+  {"question":"Bảo hành bao lâu?","answer":"The One công bố 12 tháng theo tiêu chuẩn nhà máy."},
+  {"question":"Có đặt theo số lượng không?","answer":"Có. Số lượng là dữ liệu cần xác nhận để lập báo giá."},
+  {"question":"Có giao và lắp đặt không?","answer":"Phạm vi giao/lắp được xác nhận theo địa điểm triển khai, không mặc định cho mọi đơn hàng."},
+  {"question":"Giá trên website là giá cuối chưa?","answer":"Chưa. Giá hiển thị lấy từ ProductDB; giá cuối phụ thuộc cấu hình, vật liệu, số lượng và thời điểm."},
+  {"question":"Có đổi màu da không?","answer":"Màu khả dụng cần được xác nhận theo mã và cấp da tại thời điểm đặt."},
+  {"question":"Cần đo gì trước khi chọn?","answer":"Đo chiều cao bàn, khoảng lùi, lối đi, vị trí tủ và khoảng hở để tay ghế đi vào dưới bàn."}
+]

@@ -29,6 +29,18 @@
   ],
   "rewrites": [
     {
+      "source": "/quote-engine.js",
+      "destination": "/lead-engine.js"
+    },
+    {
+      "source": "/san-pham/ghe-giam-doc/:code",
+      "destination": "/executive-chair-product.html?code=:code"
+    },
+    {
+      "source": "/danh-muc/ghe-giam-doc",
+      "destination": "/executive-chair-theone.html"
+    },
+    {
       "source": "/danh-muc/:slug",
       "destination": "/category.html?cat=:slug"
     },

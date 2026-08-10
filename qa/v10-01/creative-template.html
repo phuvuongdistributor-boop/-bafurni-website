@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BAFurniture V10.01 Creative Template</title>
+    <link rel="preload" href="/assets/fonts/v9/playfair-display-vietnamese-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="/qa/v10-01/creative-template.css" />
+  </head>
+  <body>
+    <section id="creative-hero" class="creative creative-hero" data-creative="hero" hidden>
+      <div class="hero-rule"></div>
+      <div class="hero-copy">
+        <p>BA_FURNITURE · THE ONE</p>
+        <h1>Ghế giám đốc<br />cho một không gian<br />có vị thế.</h1>
+        <span>Tám lựa chọn · Thông tin rõ · Tư vấn theo cấu hình</span>
+        <b>bafurni.com/danh-muc/ghe-giam-doc</b>
+      </div>
+      <div class="hero-products">
+        <figure class="hero-chair hero-chair-1"><img src="/assets/v10-01/executive-chair-theone/products/TQ27.jpg" alt="TQ27" /><figcaption>TQ27</figcaption></figure>
+        <figure class="hero-chair hero-chair-2"><img src="/assets/v10-01/executive-chair-theone/products/TQ34.jpg" alt="TQ34" /><figcaption>TQ34</figcaption></figure>
+        <figure class="hero-chair hero-chair-3"><img src="/assets/v10-01/executive-chair-theone/products/TQ26.jpg" alt="TQ26" /><figcaption>TQ26</figcaption></figure>
+      </div>
+    </section>
+
+    <section id="creative-collage" class="creative creative-collage" data-creative="collage" hidden>
+      <header><p>THE ONE · EXECUTIVE CHAIR</p><h1>Bốn kiểu ghế.<br />Bốn nhu cầu lãnh đạo.</h1><span>BA_Furniture tuyển chọn theo không gian và cách sử dụng.</span></header>
+      <div class="collage-grid">
+        <figure><img src="/assets/products/approved/TQ01.webp" alt="TQ01" /><figcaption><b>TQ01</b><span>Trang trọng · Điều chỉnh linh hoạt</span></figcaption></figure>
+        <figure><img src="/assets/products/approved/TQ05.webp" alt="TQ05" /><figcaption><b>TQ05</b><span>Tỷ lệ cân đối · Hai cần điều chỉnh</span></figcaption></figure>
+        <figure><img src="/assets/v10-01/executive-chair-theone/products/TQ30.jpg" alt="TQ30" /><figcaption><b>TQ30</b><span>Gọn hơn · Tay gỗ kết hợp kim loại</span></figcaption></figure>
+        <figure><img src="/assets/v10-01/executive-chair-theone/products/TQ39.jpg" alt="TQ39" /><figcaption><b>TQ39</b><span>Khổ rộng · Ngả nhiều vị trí</span></figcaption></figure>
+      </div>
+      <footer><b>bafurni.com</b><span>0929.878.666</span></footer>
+    </section>
+
+    <section id="creative-thumbnail" class="creative creative-thumbnail" data-creative="thumbnail" hidden>
+      <div class="thumb-copy"><p>GHẾ GIÁM ĐỐC THE ONE</p><h1>Chọn theo<br />người dùng.</h1><span>Không chỉ theo hình ảnh.</span></div>
+      <figure><img src="/assets/v10-01/executive-chair-theone/products/TQ34.jpg" alt="Ghế giám đốc The One TQ34" /><figcaption><b>TQ34</b><span>Ngả nhiều góc · Có để chân</span></figcaption></figure>
+      <div class="thumb-footer"><b>BA_FURNITURE</b><span>0929.878.666</span></div>
+    </section>
+
+    <script>
+      const requested = new URLSearchParams(location.search).get("creative") || "hero";
+      const target = document.querySelector(`[data-creative="${requested}"]`) || document.querySelector('[data-creative="hero"]');
+      target.hidden = false;
+      document.body.dataset.activeCreative = target.dataset.creative;
+    </script>
+  </body>
+</html>

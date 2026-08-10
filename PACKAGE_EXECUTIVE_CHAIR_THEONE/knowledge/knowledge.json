@@ -1,0 +1,47 @@
+{
+  "package": "PACKAGE_EXECUTIVE_CHAIR_THEONE",
+  "version": "V10.02",
+  "fieldProvenance": "../report/PRODUCT_FIELD_PROVENANCE_V10_02.csv",
+  "summary": "Gói dữ liệu kinh doanh cho 8 ghế giám đốc The One: TQ01, TQ05, TQ26, TQ27, TQ30, TQ34, TQ38 và TQ39.",
+  "application": ["Phòng giám đốc quy mô vừa", "Phòng lãnh đạo rộng", "Vị trí cần ghế ngả nhiều góc", "Vị trí cần ghế chân tĩnh"],
+  "salesPoints": [
+    "Tám mã có ảnh và thông số đối chiếu theo Code.",
+    "Khoảng bề ngang từ 645 mm đến 880 mm giúp khoanh vùng theo diện tích.",
+    "Có lựa chọn chân tĩnh, chân xoay, ngả đa vị trí và cơ cấu để chân.",
+    "CTA dẫn vào Quote Wizard ba bước, giữ ngữ cảnh trang và mã sản phẩm."
+  ],
+  "buyingGuide": [
+    "Đo chiều rộng, khoảng lùi và lối đi; tính cả chiều sâu khi ghế ngả.",
+    "Chọn chân tĩnh hoặc chân xoay theo cách sử dụng.",
+    "Không mặc định mọi mã có cùng lựa chọn da; xác nhận vật liệu theo Code.",
+    "Kiểm tra khoảng hở dưới bàn cho tay ghế và bề mặt sàn cho bánh xe.",
+    "Chốt Code, cấp da, màu, số lượng, giao/lắp và bảo hành trên báo giá."
+  ],
+  "keywords": ["ghế giám đốc The One", "ghế lãnh đạo", "ghế da giám đốc", "TQ01", "TQ05", "TQ26", "TQ27", "TQ30", "TQ34", "TQ38", "TQ39"],
+  "products": [
+    {"code":"TQ01","summary":"Ghế lưng cao chân xoay, tay gỗ, có nâng hạ và ngả.","application":"Phòng giám đốc cần dáng gỗ – da truyền thống.","strength":"Nhiều lựa chọn bề mặt bọc; có nâng hạ và ngả.","weakness":"Giá phụ thuộc cấu hình da, phải chốt vật liệu.","related":["TQ05","TQ30"]},
+    {"code":"TQ05","summary":"Ghế chân xoay bọc da thật tại phần tiếp xúc, dùng cơ cấu hai cần.","application":"Phòng lãnh đạo quy mô vừa.","strength":"Chiều sâu 730 mm dễ bố trí hơn nhóm khổ lớn.","weakness":"Cần xác nhận màu da theo đơn hàng.","related":["TQ01","TQ30"]},
+    {"code":"TQ26","summary":"Ghế chân tĩnh, da thật, khung gỗ tự nhiên, tựa ngả nhiều góc.","application":"Phòng rộng và vị trí ngồi cố định.","strength":"Bề ngang 880 mm, khung gỗ tự nhiên.","weakness":"Không nâng hạ; chiều sâu khi ngả tới 1350 mm.","related":["TQ27","TQ39"]},
+    {"code":"TQ27","summary":"Ghế xoay khổ lớn, da thật tại phần tiếp xúc, ngả nhiều vị trí.","application":"Phòng lãnh đạo rộng cần ghế xoay lớn.","strength":"Bề ngang 865 mm, chiều cao tối đa 1335 mm.","weakness":"Cần khoảng lùi tới 1260 mm khi ngả.","related":["TQ26","TQ39"]},
+    {"code":"TQ30","summary":"Mẫu bề ngang 645 mm, có nâng hạ và ngả.","application":"Phòng vừa hoặc bàn không quá lớn.","strength":"Gọn nhất trong tám mã.","weakness":"Giá phụ thuộc loại da thật, da công nghiệp hoặc PVC.","related":["TQ01","TQ05"]},
+    {"code":"TQ34","summary":"Ghế ngả nhiều góc, có cơ cấu để chân.","application":"Vị trí cần làm việc và nghỉ ngắn tại chỗ.","strength":"Mã duy nhất trong nhóm công bố rõ cơ cấu để chân.","weakness":"Chiều sâu vận hành tối đa 1440 mm.","related":["TQ38","TQ39"]},
+    {"code":"TQ38","summary":"Ghế xoay da, ngả đa vị trí, bề ngang 670 mm.","application":"Phòng vừa cần cơ cấu ngả nhưng không dùng để chân.","strength":"Chiều sâu tối đa 1030 mm gọn hơn TQ27, TQ34, TQ39.","weakness":"Cần chốt loại bề mặt bọc trước báo giá.","related":["TQ34","TQ39"]},
+    {"code":"TQ39","summary":"Ghế xoay bề ngang 750 mm, ngả nhiều vị trí.","application":"Phòng cần ghế lớn hơn nhóm TQ01/TQ05/TQ30 nhưng gọn hơn TQ27.","strength":"Tỷ lệ rộng, có nâng hạ và ngả.","weakness":"Chiều sâu khi ngả tới 1220 mm; không công bố PVC.","related":["TQ27","TQ38"]}
+  ],
+  "faq": [
+    {"q":"Mã nào gọn nhất?","a":"TQ30 rộng 645 mm."},
+    {"q":"Mã nào có để chân?","a":"TQ34."},
+    {"q":"Mã nào là chân tĩnh?","a":"TQ26."},
+    {"q":"Có da công nghiệp không?","a":"Có ở một số mã; kiểm tra theo Code."},
+    {"q":"Có PVC không?","a":"Nguồn công bố PVC cho TQ01, TQ30, TQ34, TQ38."},
+    {"q":"Tải trọng bao nhiêu?","a":"Nguồn đối chiếu không công bố; cần xác nhận kỹ thuật."},
+    {"q":"Bảo hành bao lâu?","a":"12 tháng theo tiêu chuẩn nhà máy."},
+    {"q":"Có đặt số lượng không?","a":"Có, báo giá theo số lượng và khu vực."},
+    {"q":"Có lắp đặt không?","a":"Xác nhận theo địa điểm triển khai."},
+    {"q":"Giá đã là giá cuối chưa?","a":"Chưa; giá cuối phụ thuộc cấu hình và thời điểm."},
+    {"q":"Có đổi màu da không?","a":"Màu khả dụng cần được xác nhận theo mã và cấp da tại thời điểm đặt."},
+    {"q":"Cần đo gì trước khi chọn?","a":"Đo chiều cao bàn, khoảng lùi, lối đi, vị trí tủ và khoảng hở cho tay ghế."}
+  ],
+  "sourcePolicy": "ProductDB read-only for price and identity; verified The One pages for specifications; BA_Furniture editorial fields are not supplier specifications; inferred comparisons are not published as official data; no inferred load rating.",
+  "updatedAt": "2026-08-08"
+}

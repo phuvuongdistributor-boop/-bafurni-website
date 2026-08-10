@@ -1,0 +1,15 @@
+Role,File,PixelDimension,SourceProducts,Watermark,SupplierLogo,CodeLabelMatch,CompositeDisclosure,Status
+Hero,hero-1920x1080.png,1920x1080,TQ27,NONE,NONE,PASS,N/A,PASS
+Collage,collage-1600x1200.png,1600x1200,TQ30|TQ26|TQ34|TQ39,NONE,NONE,PASS,PASS,PASS
+Thumbnail,thumbnail-1200x1200.png,1200x1200,TQ30|TQ27|TQ34,NONE,NONE,PASS,PASS,PASS
+ProductCard,product-cards/TQ01.png,1200x1200,TQ01,NONE,NONE,PASS,N/A,PASS
+ProductCard,product-cards/TQ05.png,1200x1200,TQ05,NONE,NONE,PASS,N/A,PASS
+ProductCard,product-cards/TQ26.png,1200x1200,TQ26,NONE,NONE,PASS,N/A,PASS
+ProductCard,product-cards/TQ27.png,1200x1200,TQ27,NONE,NONE,PASS,N/A,PASS
+ProductCard,product-cards/TQ30.png,1200x1200,TQ30,NONE,NONE,PASS,N/A,PASS
+ProductCard,product-cards/TQ34.png,1200x1200,TQ34,NONE,NONE,PASS,N/A,PASS
+ProductCard,product-cards/TQ38.png,1200x1200,TQ38,NONE,NONE,PASS,N/A,PASS
+ProductCard,product-cards/TQ39.png,1200x1200,TQ39,NONE,NONE,PASS,N/A,PASS
+OpenGraph,og-1200x630.png,1200x630,TQ30|TQ27|TQ34|TQ39,NONE,NONE,PASS,PASS,PASS
+SocialCover,social-cover-1640x924.png,1640x924,TQ30|TQ27|TQ34|TQ39,NONE,NONE,PASS,PASS,PASS
+QAContactSheet,V10_02_MARKETING_CONTACT_SHEET.jpg,2280x3030,13 marketing assets,NONE,NONE,PASS,PASS,PASS
