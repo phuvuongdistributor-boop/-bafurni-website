@@ -139,7 +139,10 @@ Natural dimensions trình duyệt đọc: GL304 `1000×723`; GL309, GL316, GL317
 ## Preview release
 
 - Preview branch only: `correction/v10-04r-clean-image-recovery`
-- Preview URL/status: sẽ ghi sau khi Vercel deployment Ready.
+- Recovery content commit: `5a1c4076fc4a540307201388436558e0236e59ae`
+- Stable branch Preview: `https://bafurni-website-git-c-a0d3c7-phuvuongdistributor-boops-projects.vercel.app`
+- Initial immutable deployment: `https://bafurni-website-lpcmy0n8n-phuvuongdistributor-boops-projects.vercel.app`
+- Vercel: `Ready` — Environment `Preview` — build duration `13s`.
 - Production: không deploy.
 
 ## Kết luận
