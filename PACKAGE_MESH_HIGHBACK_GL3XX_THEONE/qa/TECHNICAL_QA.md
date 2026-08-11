@@ -49,9 +49,17 @@
 
 ## Vercel Preview
 
-- First Preview deployment ID: `5844049663`.
-- Environment URL: `https://bafurni-website-p60svn1ih-phuvuongdistributor-boops-projects.vercel.app`.
+- Validated Preview deployment ID: `5844250943`.
+- Validated commit: `eafd1aaf44adbc662677b5451b975b886f664073`.
+- Environment URL: `https://bafurni-website-55yykm76c-phuvuongdistributor-boops-projects.vercel.app`.
 - Branch alias: `https://bafurni-website-git-f-d5beaf-phuvuongdistributor-boops-projects.vercel.app`.
 - GitHub deployment state: `success`; description: `Deployment has completed`.
-- Commit-to-success observed: 44 giây.
+- 22/22 product routes: browser navigation PASS H1/SKU, broken image 0.
+- Landing: 22 cards, đúng thứ tự Code, 7 placeholder, category fallback 0, horizontal overflow 0, console error 0.
+- Responsive: 1440×900, 1280×800, 768×1024, 390×844, 360×800 đều 22 cards, broken image 0, overflow 0.
+- Product Grid bắt đầu tại khoảng 1189 px (1440) và 1699 px sau font/layout ổn định (390).
+- Quote Wizard: landing, GL304, GL345 đều đến bước 3; không bấm gửi, lead submitted 0.
+- Homepage V9.1: 8 category card, 8 featured card, logo đúng, broken/overflow/console error 0.
+- V10.02: đúng 8 mã `TQ01, TQ05, TQ26, TQ27, TQ30, TQ34, TQ38, TQ39`; broken/overflow/console error 0.
+- `lead-config.js`: HTTP 200 trong browser session đã xác thực.
 - Deployment Protection: Vercel SSO; browser QA sử dụng phiên đã được xác thực, không coi trang login HTTP 200 là homepage PASS.

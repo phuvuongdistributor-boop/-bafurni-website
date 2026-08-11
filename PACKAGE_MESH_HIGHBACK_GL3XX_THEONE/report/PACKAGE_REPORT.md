@@ -54,8 +54,11 @@ Bảng 22 mã đầy đủ: `PRODUCT_SOURCE_IMAGE_STATUS.md`.
 - Quote Wizard landing, GL304, GL345: bước 1→2→3 PASS; submit 0.
 - Homepage V9.1 regression: 0.
 - V10.02 Executive Chair regression: 0.
-- Vercel Preview đầu tiên: `READY`, deployment ID `5844049663`, commit-to-success quan sát 44 giây.
+- Vercel Preview đã xác minh UI: `READY`, deployment ID `5844250943`, commit `eafd1aaf44adbc662677b5451b975b886f664073`.
+- Validated environment URL: `https://bafurni-website-55yykm76c-phuvuongdistributor-boops-projects.vercel.app`.
 - Preview branch alias: `https://bafurni-website-git-f-d5beaf-phuvuongdistributor-boops-projects.vercel.app` (Deployment Protection / Vercel SSO).
+- Browser QA: 22/22 product route đúng H1/SKU, landing 22 cards, 7 placeholder trung tính, broken image 0, category fallback 0, console error 0.
+- Quote Wizard landing/GL304/GL345: bước 1→2→3 PASS, submit 0.
 
 ## Missing fields not public
 

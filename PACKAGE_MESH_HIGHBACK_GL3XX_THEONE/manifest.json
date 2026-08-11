@@ -63,8 +63,16 @@
     "preview": "READY",
     "preview_branch_alias": "https://bafurni-website-git-f-d5beaf-phuvuongdistributor-boops-projects.vercel.app",
     "first_preview_environment_url": "https://bafurni-website-p60svn1ih-phuvuongdistributor-boops-projects.vercel.app",
+    "validated_preview_environment_url": "https://bafurni-website-55yykm76c-phuvuongdistributor-boops-projects.vercel.app",
+    "validated_preview_deployment_id": 5844250943,
+    "validated_preview_commit": "eafd1aaf44adbc662677b5451b975b886f664073",
     "deployment_protection": "VERCEL_SSO",
-    "preview_commit_to_success_seconds_observed": 44
+    "preview_commit_to_success_seconds_observed": 20,
+    "preview_screenshots": [
+      "qa/screenshots/preview-landing-desktop.png",
+      "qa/screenshots/preview-landing-mobile.png",
+      "qa/screenshots/preview-landing-mobile-products.png"
+    ]
   },
   "publish_status": {
     "main_merged": false,
