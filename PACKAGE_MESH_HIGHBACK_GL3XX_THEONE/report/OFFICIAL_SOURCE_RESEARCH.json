@@ -1,0 +1,4435 @@
+{
+  "report_id": "BAFURNITURE_V10_04_GL3_SOURCE_FIRST_RESEARCH",
+  "generated_at": "2026-08-10T09:57:47+07:00",
+  "scope": {
+    "micro_group": "Ghế lưới lưng cao/cao cấp GL3xx",
+    "source": "The One",
+    "requested_product_count": 22,
+    "included_product_count": 22,
+    "codes": [
+      "GL304",
+      "GL307",
+      "GL309",
+      "GL316",
+      "GL317",
+      "GL320",
+      "GL321",
+      "GL322",
+      "GL323",
+      "GL324",
+      "GL326",
+      "GL328",
+      "GL329",
+      "GL331",
+      "GL332",
+      "GL333",
+      "GL334",
+      "GL335",
+      "GL336",
+      "GL338",
+      "GL343",
+      "GL345"
+    ],
+    "official_category_url": "https://theone.vn/ghe-luoi",
+    "portal_productdb": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json",
+    "website_source_modified": false
+  },
+  "provenance_legend": {
+    "OFFICIAL_SOURCE": "Published on the checked theone.vn product page.",
+    "PORTAL_SOURCE": "Read from the current Portal ProductDB JSON snapshot.",
+    "BA_FURNITURE_EDITORIAL": "Concise BA_Furniture paraphrase supported by cited source facts.",
+    "INFERRED_NOT_PUBLISHED": "Reasoned inference that must not be published as a source fact.",
+    "MISSING": "Not found or not explicitly published on the checked source."
+  },
+  "summary": {
+    "http_200": 22,
+    "dimensions_official": 22,
+    "materials_official": 22,
+    "numeric_price_official": 18,
+    "quote_only_or_contact": 4,
+    "discontinued": 2,
+    "explicit_colors": 1,
+    "conflict_counts": {
+      "product_name:DIFFERENT_LABEL": 21,
+      "dimensions:PORTAL_SUBSET_OF_OFFICIAL": 17,
+      "materials:OFFICIAL_MORE_DETAILED": 15,
+      "price:DIFFERENT_CURRENT_PRICE": 18,
+      "source_url:DIFFERENT_SOURCE_WEBSITE": 22,
+      "materials:PARTIAL_OVERLAP": 6,
+      "materials:MATCH": 1,
+      "price:OFFICIAL_NUMERIC_PRICE_MISSING": 4,
+      "dimensions:NUMERIC_CONFLICT": 5,
+      "product_name:MATCH": 1
+    }
+  },
+  "products": [
+    {
+      "code": "GL304",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl304",
+        "final_url": "https://theone.vn/san-pham/ghe-gl304",
+        "content_sha256": "3119f49d2a692f71da021ca8f6210425d3c63626cdeb4ef6beb6e3af035e4bb0"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl304",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "page_title": {
+          "value": "Ghế Lưới Trưởng Phòng The One GL304 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL304 sử dụng chân xoay bằng thép mạ, có bánh xe di chuyển tiện lợi. Bên dưới ghế có bát có chức năng …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "5558c5542a4aa4bd264ee3dd1a6a58c953841b6f9d2591e120cfd062fdc7e455",
+          "character_count": 367,
+          "word_count": 81,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "product_name": {
+          "value": "Ghế Lưới Trưởng Phòng The One GL304",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "dimensions": {
+          "value": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "materials": {
+          "value": "Khung thép mạ bọc vải lưới chịu lực; chân thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Lưới Trưởng Phòng The One GL304 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.210.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2210000
+            ],
+            "quote_required": false,
+            "low_vnd": 2210000,
+            "high_vnd": 2210000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl304"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới cao cấp GL304",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W585 x D680 x H1180-1260 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải cao cấp, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp khung thép mạ bọc vải lưới chịu lực, chân tay thép mạ.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 1894200.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-cao-cap-hoa-phat-gl304",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-xoay-luoi-gl304.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Lưới Trưởng Phòng The One GL304",
+          "portal": "Ghế lưới cao cấp GL304"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            585,
+            680,
+            1180,
+            1260
+          ],
+          "portal_numeric_signature": [
+            585,
+            680,
+            1180,
+            1260
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "mesh",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2210000
+          ],
+          "portal_sale_price_vnd": 1894200
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl304",
+          "portal": "https://noithathoaphat.com/ghe-luoi-cao-cap-hoa-phat-gl304"
+        }
+      }
+    },
+    {
+      "code": "GL307",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl307",
+        "final_url": "https://theone.vn/san-pham/ghe-gl307",
+        "content_sha256": "cd43d9149703c8e52f0c48d116e9eaf9fc30f441f1cf45020b14e59837b5b92b"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl307",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "page_title": {
+          "value": "Ghế Lưới Lưng Cao The One GL307 / GL307R - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL307 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của Nội thất The One. Bên dưới ghế có bát có chức năng …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "8a72d9051fc6380ea5e29860c2883d8e5f8118e2cdffbd442bb221881a8286f3",
+          "character_count": 457,
+          "word_count": 101,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "product_name": {
+          "value": "Ghế Lưới Lưng Cao The One GL307 / GL307R",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "dimensions": {
+          "value": "Rộng 550 x Sâu 650 x Cao (1050÷1130) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "materials": {
+          "value": "Khung tựa, tay và chân thép mạ; đệm mút bọc vải lưới xốp; tựa bọc vải lưới chịu lực",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Lưới Lưng Cao The One GL307 / GL307R thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.350.000 ₫ – 3.720.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2350000,
+              3720000
+            ],
+            "quote_required": false,
+            "low_vnd": 2350000,
+            "high_vnd": 3720000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl307"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới cao cấp GL307",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W550 x D650 x H1050-1130 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải cao cấp, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới đen, khung thép mạ bọc vải lưới chịu lực, đệm mút bọc vải, chân tay thép mạ.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2013000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-cao-cap-hoa-phat-gl307",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-lung-cao-gl307.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Lưới Lưng Cao The One GL307 / GL307R",
+          "portal": "Ghế lưới cao cấp GL307"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            550,
+            650,
+            1050,
+            1130
+          ],
+          "portal_numeric_signature": [
+            550,
+            650,
+            1050,
+            1130
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2350000,
+            3720000
+          ],
+          "portal_sale_price_vnd": 2013000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl307",
+          "portal": "https://noithathoaphat.com/ghe-luoi-cao-cap-hoa-phat-gl307"
+        }
+      }
+    },
+    {
+      "code": "GL309",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl309",
+        "final_url": "https://theone.vn/san-pham/ghe-gl309",
+        "content_sha256": "eb631b475ff2d436403fea3e7e5dee3a2171788f37568d546684f5e68ac7a0a0"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl309",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "page_title": {
+          "value": "Ghế Lưới Tựa Đầu The One GL309 / GL309R - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL309 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của Nội thất The One. Cụm chân ghế được thiết kế sử dụng …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "136f4d5fcb97247d67740d38e657fab05a78817b9ff45b263af1a1513f72ac04",
+          "character_count": 430,
+          "word_count": 94,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "product_name": {
+          "value": "Ghế Lưới Tựa Đầu The One GL309 / GL309R",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "dimensions": {
+          "value": "Rộng 620 x Sâu (520÷1280) x Cao (1215÷1295) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "materials": {
+          "value": "Chân thép mạ, tay nhựa ốp PU",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả nhiều góc.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [
+            "D16"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "description_summary": {
+          "value": "Ghế Lưới Tựa Đầu The One GL309 / GL309R thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.625.000 ₫ – 4.700.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2625000,
+              4700000
+            ],
+            "quote_required": false,
+            "low_vnd": 2625000,
+            "high_vnd": 4700000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl309"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới Hòa Phát GL309",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W620 x D520-1280 x H1215-1295 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Lưới, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp, chân thép mạ, tay nhựa, tựa ghế ngả được nhiều góc độ.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2266000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-gl309",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-luoi-gl309-2.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Lưới Tựa Đầu The One GL309 / GL309R",
+          "portal": "Ghế lưới Hòa Phát GL309"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            620,
+            520,
+            1280,
+            1215,
+            1295
+          ],
+          "portal_numeric_signature": [
+            620,
+            520,
+            1280,
+            1215,
+            1295
+          ]
+        },
+        "materials": {
+          "status": "PARTIAL_OVERLAP",
+          "severity": "info",
+          "official_tokens": [
+            "plastic",
+            "pu",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "mesh",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2625000,
+            4700000
+          ],
+          "portal_sale_price_vnd": 2266000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl309",
+          "portal": "https://noithathoaphat.com/ghe-luoi-gl309"
+        }
+      }
+    },
+    {
+      "code": "GL316",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl316",
+        "final_url": "https://theone.vn/san-pham/ghe-gl316",
+        "content_sha256": "7ddc96fff6732f5711b3e33650c821dcfe1aac0ea6f5b15e931096cfc0c2ce55"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl316",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "page_title": {
+          "value": "Ghế Xoay Lưới Cao Cấp The One GL316 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL316 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của The One. Khung ghế bằng thép bọc lưới kết hợp PVC, có …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "ad3205395427e4a2cb33ed0f3e07856ec0d5a3bd44986875d352f6fdfd81b2ef",
+          "character_count": 386,
+          "word_count": 85,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới Cao Cấp The One GL316",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "dimensions": {
+          "value": "Rộng 655 x Sâu (605÷935) x Cao (1080 ÷1160) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "materials": {
+          "value": "Tựa lưới & PVC; đệm mút bọc PVC; chân thép mạ; tay thép mạ & nhựa",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả/hãm nhiều góc.",
+            "Có cơ cấu ngả nhiều góc.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới Cao Cấp The One GL316 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.685.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2685000
+            ],
+            "quote_required": false,
+            "low_vnd": 2685000,
+            "high_vnd": 2685000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Phòng Họp",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl316"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới văn phòng GL316",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W655 x D605-935 x H1080-1160 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp có khả năng ngả, hãm ở nhiều góc độ khác nhau tạo nên sự thoải mái cho người sử dụng. Chân thép mạ.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2332000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-van-phong-hoa-phat-gl316",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/tin-tuc/GL316.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới Cao Cấp The One GL316",
+          "portal": "Ghế lưới văn phòng GL316"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            655,
+            605,
+            935,
+            1080,
+            1160
+          ],
+          "portal_numeric_signature": [
+            655,
+            605,
+            935,
+            1080,
+            1160
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "foam",
+            "mesh",
+            "plastic",
+            "pvc",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "pvc",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2685000
+          ],
+          "portal_sale_price_vnd": 2332000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl316",
+          "portal": "https://noithathoaphat.com/ghe-luoi-van-phong-hoa-phat-gl316"
+        }
+      }
+    },
+    {
+      "code": "GL317",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl317",
+        "final_url": "https://theone.vn/san-pham/ghe-gl317",
+        "content_sha256": "2f7c228b07ae3e7f861a3ad3f1aebbbbfb5d07c39ea3874238e139b7af1011d1"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl317",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "page_title": {
+          "value": "Ghế Xoay Lưng Cao The One GL317 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL317 thuộc dòng ghế xoay lãnh đạo cao cấp. Khung tựa ghế bằng thép mạ bọc da công nghiệp, có các …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "78d1b631b0af9099094098f11f23b707a8b96d2c81ac3679877d7eda1eca065b",
+          "character_count": 348,
+          "word_count": 76,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưng Cao The One GL317",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "dimensions": {
+          "value": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "materials": {
+          "value": "Khung thép bọc da CN; chân tay thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưng Cao The One GL317 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.475.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2475000
+            ],
+            "quote_required": false,
+            "low_vnd": 2475000,
+            "high_vnd": 2475000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl317"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế xoay văn phòng GL317",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W585 x D680 x H1180-1260 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Da, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế xoay lưng cao khung thép mạ bọc DA công nghiệp, chân tay thép mạ.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2193400.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-xoay-van-phong-hoa-phat-gl317",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-da-gl317.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưng Cao The One GL317",
+          "portal": "Ghế xoay văn phòng GL317"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            585,
+            680,
+            1180,
+            1260
+          ],
+          "portal_numeric_signature": [
+            585,
+            680,
+            1180,
+            1260
+          ]
+        },
+        "materials": {
+          "status": "MATCH",
+          "severity": "none",
+          "official_tokens": [
+            "leather",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "leather",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2475000
+          ],
+          "portal_sale_price_vnd": 2193400
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl317",
+          "portal": "https://noithathoaphat.com/ghe-xoay-van-phong-hoa-phat-gl317"
+        }
+      }
+    },
+    {
+      "code": "GL320",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl320",
+        "final_url": "https://theone.vn/san-pham/ghe-gl320",
+        "content_sha256": "1ec5d290009b1abb1497b953e869f50bdcf7831429b57b603adc665244c03381"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl320",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "page_title": {
+          "value": "Ghế Xoay Lưới Hiện Đại The One GL320 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL320 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Tựa ghế ngả, hãm ở nhiều góc độ khác nhau bằng …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "a0d316fd2147224d5179478a176a253cc1d34d4ac27375ec818c4063d2920267",
+          "character_count": 385,
+          "word_count": 84,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới Hiện Đại The One GL320",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "dimensions": {
+          "value": "Rộng 600 x Sâu (710÷1015) x Cao (1160÷1240) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "materials": {
+          "value": "Khung thép mạ bọc vải lưới; tay chân thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới Hiện Đại The One GL320 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "3.100.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              3100000
+            ],
+            "quote_required": false,
+            "low_vnd": 3100000,
+            "high_vnd": 3100000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl320"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới Hòa Phát GL320",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W600 x D710-1015 x H1160-1240 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp khung thép mạ bọc vải lưới chịu lực. Tựa ghế ngả, hãm ở nhiều góc độ khác nhau bằng cơ cấu ngả tạo nên sự thoải mái cho người sử dụng. Chân tay thép mạ.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2662000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-hoa-phat-gl320",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-hoa-phat-GL320.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới Hiện Đại The One GL320",
+          "portal": "Ghế lưới Hòa Phát GL320"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            600,
+            710,
+            1015,
+            1160,
+            1240
+          ],
+          "portal_numeric_signature": [
+            600,
+            710,
+            1015,
+            1160,
+            1240
+          ]
+        },
+        "materials": {
+          "status": "PARTIAL_OVERLAP",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "mesh",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "pvc",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            3100000
+          ],
+          "portal_sale_price_vnd": 2662000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl320",
+          "portal": "https://noithathoaphat.com/ghe-luoi-hoa-phat-gl320"
+        }
+      }
+    },
+    {
+      "code": "GL321",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl321",
+        "final_url": "https://theone.vn/san-pham/ghe-gl321",
+        "content_sha256": "2132e4c6a07c2304ce1c05ac7c5700c9d9e12f9db66f28d76d99e2c34d6a1573"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl321",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "page_title": {
+          "value": "Ghế Làm Việc Cao Cấp The One GL321 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "meta_description_excerpt": {
+          "value": "NGƯNG KINH DOANH Ghế GL321 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của Nội thất The One. Khung tựa ghế bằng nhựa …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "f71f8e16e0df73c1d2de06ac894c76bd97262f0d29470810d076e9214f417bb3",
+          "character_count": 511,
+          "word_count": 106,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "product_name": {
+          "value": "Ghế Làm Việc Cao Cấp The One GL321",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "dimensions": {
+          "value": "Chân nhựa: Rộng 630 x Sâu (680÷975) x Cao (1215÷1340) mm Chân mạ: Rộng 630 x Sâu (680÷975) x Cao (1205÷1280) mm Chân mạ M1: Rộng 630 x Sâu (680÷975) x Cao (1190÷1270) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc lưới; đệm mút bọc da; tay nhựa; chân nhựa/ mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa.",
+            "Có cấu hình chân nhựa hoặc chân mạ."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Làm Việc Cao Cấp The One GL321 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "Liên hệ",
+            "currency": "VND",
+            "numeric_amounts": [],
+            "quote_required": true,
+            "low_vnd": null,
+            "high_vnd": null
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "availability": {
+          "value": {
+            "discontinued": true,
+            "quote_required": true,
+            "schema_availability": null,
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl321"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới cao cấp GL321",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W630 x D680-975 x H1215-1340 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Lưới, khung nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp lưng cao. Tựa ghế có thể ngả hãm được nhiều góc độ. Chân ghế nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2288000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-cao-cap-gl321",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-luoi-gl321-1.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Làm Việc Cao Cấp The One GL321",
+          "portal": "Ghế lưới cao cấp GL321"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            630,
+            680,
+            975,
+            1215,
+            1340,
+            630,
+            680,
+            975,
+            1205,
+            1280,
+            1,
+            630,
+            680,
+            975,
+            1190,
+            1270
+          ],
+          "portal_numeric_signature": [
+            630,
+            680,
+            975,
+            1215,
+            1340
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "foam",
+            "leather",
+            "mesh",
+            "plastic"
+          ],
+          "portal_tokens": [
+            "mesh",
+            "plastic"
+          ]
+        },
+        "price": {
+          "status": "OFFICIAL_NUMERIC_PRICE_MISSING",
+          "severity": "info",
+          "official_display": "Liên hệ",
+          "portal_sale_price_vnd": 2288000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl321",
+          "portal": "https://noithathoaphat.com/ghe-luoi-cao-cap-gl321"
+        }
+      }
+    },
+    {
+      "code": "GL322",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl322",
+        "final_url": "https://theone.vn/san-pham/ghe-gl322",
+        "content_sha256": "ffe4f5a0619340c0d2c3795c4fda0fbe87867d59f64df470ba0166da50027715"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl322",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "page_title": {
+          "value": "Ghế Xoay Lưới Tựa Đầu The One GL322 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL322 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của Nội thất The One. Cụm chân ghế được thiết kế sử dụng …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "08d66147ee625d8fb145d4b1617a074187493932c5a8a18410e7c680a0e078dd",
+          "character_count": 492,
+          "word_count": 104,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới Tựa Đầu The One GL322",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "dimensions": {
+          "value": "ghế chân Nhựa: Rộng 620 x Sâu (600÷870) x Cao (1125÷1200) mm; ghế chân Mạ: Rộng 620 x Sâu (600÷870) x Cao (1155÷1235) mm; ghế chân mạ M1: Rộng 620 x Sâu (600÷870) x Cao (1135÷1215) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân nhựa/ mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa.",
+            "Có cấu hình chân nhựa hoặc chân mạ."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới Tựa Đầu The One GL322 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.375.000 ₫ – 2.685.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2375000,
+              2685000
+            ],
+            "quote_required": false,
+            "low_vnd": 2375000,
+            "high_vnd": 2685000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl322"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới văn phòng GL322",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W620 x D600-870 x H1125-1200 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải cao cấp, khung nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp lưng cao, khung tựa bọc vải lưới, tay nhựa. Tựa ghế có thể ngả hãm được nhiều góc độ. Chân ghế nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2079000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-van-phong-hoa-phat-gl322m",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-GL322.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới Tựa Đầu The One GL322",
+          "portal": "Ghế lưới văn phòng GL322"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            620,
+            600,
+            870,
+            1125,
+            1200,
+            620,
+            600,
+            870,
+            1155,
+            1235,
+            1,
+            620,
+            600,
+            870,
+            1135,
+            1215
+          ],
+          "portal_numeric_signature": [
+            620,
+            600,
+            870,
+            1125,
+            1200
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "plastic"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2375000,
+            2685000
+          ],
+          "portal_sale_price_vnd": 2079000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl322",
+          "portal": "https://noithathoaphat.com/ghe-luoi-van-phong-hoa-phat-gl322m"
+        }
+      }
+    },
+    {
+      "code": "GL323",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl323",
+        "final_url": "https://theone.vn/san-pham/ghe-gl323",
+        "content_sha256": "476c9e32dd6f38a1992b1642e25793095468f6f2d6f2a22345c1cc81b9d2183a"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl323",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "page_title": {
+          "value": "Ghế Văn Phòng Gác Chân The One GL323 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL323 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Ghế có khả năng ngả ở nhiều góc độ khác nhau. …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "b1a5d637314511a8f8bc73e936f57b0bf26efcdcf801fdbc246857a8472a2771",
+          "character_count": 326,
+          "word_count": 70,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "product_name": {
+          "value": "Ghế Văn Phòng Gác Chân The One GL323",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "dimensions": {
+          "value": "Rộng 635 x Sâu (510÷1020) x Cao (1155÷1230) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc vải lưới; chân thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả nhiều góc.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Văn Phòng Gác Chân The One GL323 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "3.325.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              3325000
+            ],
+            "quote_required": false,
+            "low_vnd": 3325000,
+            "high_vnd": 3325000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl323"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới cao cấp GL323",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W635 x D510-1020 x H1155-1230 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Lưới, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp khung tựa nhựa kết hợp chân thép mạ. Ghế có khả năng ngả, hãm ở nhiều góc độ khác nhau. Có cơ cấu để chân rút ra nằm nghỉ thư giãn, gấp lại phía dưới đệm khi không sử dụng.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2882000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-cao-cap-gl323",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-GL323.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Văn Phòng Gác Chân The One GL323",
+          "portal": "Ghế lưới cao cấp GL323"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            635,
+            510,
+            1020,
+            1155,
+            1230
+          ],
+          "portal_numeric_signature": [
+            635,
+            510,
+            1020,
+            1155,
+            1230
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "mesh",
+            "plastic",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "mesh",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            3325000
+          ],
+          "portal_sale_price_vnd": 2882000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl323",
+          "portal": "https://noithathoaphat.com/ghe-luoi-cao-cap-gl323"
+        }
+      }
+    },
+    {
+      "code": "GL324",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl324",
+        "final_url": "https://theone.vn/san-pham/ghe-gl324",
+        "content_sha256": "a8f3508a85600263ef7fc4381733fc03a85abe59945f1ffa08e5551db19e2205"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl324",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "page_title": {
+          "value": "Ghế Xoay Lưới Cao Cấp The One GL324 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL324 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của Nội thất The One. Ghế có khả năng ngả ở nhiều góc …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "cd272578fb75b070578c28a8916bc8a95ab7c30542997db82ab783220531f9f7",
+          "character_count": 492,
+          "word_count": 105,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới Cao Cấp The One GL324",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "dimensions": {
+          "value": "Chân nhựa: Rộng 665 x Sâu (665÷975) x Cao ( 1125-1220 ) mm Chân mạ: Rộng 665 x Sâu (665÷975) x Cao (1145÷1220) mm Chân mạ M1: Rộng 665 x Sâu (665÷975) x Cao (1120÷1200) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc lưới; đệm mút bọc vải lưới; tay nhựa; chân nhựa/ mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả nhiều góc.",
+            "Có chi tiết treo áo phía sau tựa.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa.",
+            "Có cấu hình chân nhựa hoặc chân mạ."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới Cao Cấp The One GL324 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.785.000 ₫ – 3.240.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2785000,
+              3240000
+            ],
+            "quote_required": false,
+            "low_vnd": 2785000,
+            "high_vnd": 3240000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl324"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới văn phòng GL324",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W665 x D665-975 x H1155-1280 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải cao cấp, khung nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo cao cấp có tựa ghế ngả hãm được nhiều góc độ khác nhau, phía sau tựa có hệ thống treo áo nhằm tăng tính tiện ích cho người sử dụng. Chân ghế nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2442000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-van-phong-gl324",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-xoay-luoi-gl324.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới Cao Cấp The One GL324",
+          "portal": "Ghế lưới văn phòng GL324"
+        },
+        "dimensions": {
+          "status": "NUMERIC_CONFLICT",
+          "severity": "warning",
+          "official_numeric_signature": [
+            665,
+            665,
+            975,
+            1125,
+            1220,
+            665,
+            665,
+            975,
+            1145,
+            1220,
+            1,
+            665,
+            665,
+            975,
+            1120,
+            1200
+          ],
+          "portal_numeric_signature": [
+            665,
+            665,
+            975,
+            1155,
+            1280
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "plastic"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2785000,
+            3240000
+          ],
+          "portal_sale_price_vnd": 2442000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl324",
+          "portal": "https://noithathoaphat.com/ghe-luoi-van-phong-gl324"
+        }
+      }
+    },
+    {
+      "code": "GL326",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl326",
+        "final_url": "https://theone.vn/san-pham/ghe-gl326",
+        "content_sha256": "9659d7e50f137e86562ecf6afc65cbc2ce3247cca44708526e070d985d27da62"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl326",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "page_title": {
+          "value": "Ghế Trưởng Phòng Cao Cấp The One GL326 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL326 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của Nội thất The One. Ghế có thể ngả hãm nhiều góc độ, …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "54f3b3cb18a5df19888c2001fd0b3b519630670ed15407f52e8d6d844561792d",
+          "character_count": 415,
+          "word_count": 91,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "product_name": {
+          "value": "Ghế Trưởng Phòng Cao Cấp The One GL326",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "dimensions": {
+          "value": "Rộng 620 x Sâu (645÷1600) x Cao (1180÷1260) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả/hãm nhiều góc.",
+            "Có cơ cấu để chân.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Trưởng Phòng Cao Cấp The One GL326 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "4.835.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              4835000
+            ],
+            "quote_required": false,
+            "low_vnd": 4835000,
+            "high_vnd": 4835000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl326"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới GL326",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W620 x D645-1600 x H1180-1260 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải cao cấp, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp khung tựa nhựa bọc vải, kiểu dáng hiện đại. Ghế có thể ngả hãm nhiều góc độ, có cơ cấu để chân sử dụng thuận tiện khi ngả ra nằm. Chân thép mạ. (Hàng nhập khẩu)",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 4191000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-gl326",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-GL326.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Trưởng Phòng Cao Cấp The One GL326",
+          "portal": "Ghế lưới GL326"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            620,
+            645,
+            1600,
+            1180,
+            1260
+          ],
+          "portal_numeric_signature": [
+            620,
+            645,
+            1600,
+            1180,
+            1260
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            4835000
+          ],
+          "portal_sale_price_vnd": 4191000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl326",
+          "portal": "https://noithathoaphat.com/ghe-luoi-gl326"
+        }
+      }
+    },
+    {
+      "code": "GL328",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl328",
+        "final_url": "https://theone.vn/san-pham/ghe-gl328",
+        "content_sha256": "82f24071cb31d59b7d2a45dd2d5540b422aa3962fa7dbdd597ec30aba8a146f7"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl328",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "page_title": {
+          "value": "Ghế Lưới Lãnh Đạo The One GL328 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế GL328 thuộc dòng ghế xoay lưới lãnh đạo cao cấp của Nội thất The One. Ghế có thể ngả hãm nhiều góc độ …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "ae30bec3607159b861c35454b2460cde8cd28fa9c2d583ce0d5a6ebe0061bd67",
+          "character_count": 390,
+          "word_count": 84,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "product_name": {
+          "value": "Ghế Lưới Lãnh Đạo The One GL328",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "dimensions": {
+          "value": "Rộng 645 x Sâu (645÷900) x Cao (1130÷1210) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân hợp kim nhôm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả/hãm nhiều góc.",
+            "Tay ghế có thể điều chỉnh độ cao.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Lưới Lãnh Đạo The One GL328 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "3.225.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              3225000
+            ],
+            "quote_required": false,
+            "low_vnd": 3225000,
+            "high_vnd": 3225000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl328"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới Hòa Phát GL328",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W645 x D645-900 x H1130-1210 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải cao cấp, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo cao cấp, có cơ cấu ngả hãm tựa nhiều góc độ, tay chữ T tăng chỉnh chiều cao. Chân thép mạ. (Hàng nhập khẩu)",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2794000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-hoa-phat-gl328",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-hoa-phat-GL328.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Lưới Lãnh Đạo The One GL328",
+          "portal": "Ghế lưới Hòa Phát GL328"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            645,
+            645,
+            900,
+            1130,
+            1210
+          ],
+          "portal_numeric_signature": [
+            645,
+            645,
+            900,
+            1130,
+            1210
+          ]
+        },
+        "materials": {
+          "status": "PARTIAL_OVERLAP",
+          "severity": "info",
+          "official_tokens": [
+            "aluminium_alloy",
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            3225000
+          ],
+          "portal_sale_price_vnd": 2794000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl328",
+          "portal": "https://noithathoaphat.com/ghe-luoi-hoa-phat-gl328"
+        }
+      }
+    },
+    {
+      "code": "GL329",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl329",
+        "final_url": "https://theone.vn/san-pham/ghe-gl329",
+        "content_sha256": "b26944c568d8e3ce76c66ab88d16ba7263708c3350b7610ff847356ac1b05662"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl329",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "page_title": {
+          "value": "Ghế Xoay Lưới Văn Phòng The One GL329 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL329 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Khung tựa ghế bằng nhựa bọc vải lưới đàn hồi chịu …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "f4c47ecc42614b85f94e34028af460c362ffe7fb6ee075d1ad2ee6f45b903ca6",
+          "character_count": 441,
+          "word_count": 98,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới Văn Phòng The One GL329",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "dimensions": {
+          "value": "Chân nhựa rộng 580 x sâu 630 x cao 1100-1195 mm Chân mạ rộng 580 x sâu 630 x cao 1105-1180 mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc vải lưới, đệm mút bọc PVC, chân tay nhựa",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "construction_features": {
+          "value": [
+            "Chân xoay có bánh xe di chuyển.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa.",
+            "Có cấu hình chân nhựa hoặc chân mạ."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới Văn Phòng The One GL329 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Tay ghế sử dụng vật liệu nhựa.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "1.355.000 ₫ – 1.630.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              1355000,
+              1630000
+            ],
+            "quote_required": false,
+            "low_vnd": 1355000,
+            "high_vnd": 1630000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Văn Phòng",
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl329"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới Hòa Phát GL329",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W580 x D630 x H1130-1255 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới cao cấp khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, kiểu dáng hiện đại. Chân nhựa.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 1309000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-hoa-phat-gl329",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-lanh-dao-gl329.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới Văn Phòng The One GL329",
+          "portal": "Ghế lưới Hòa Phát GL329"
+        },
+        "dimensions": {
+          "status": "NUMERIC_CONFLICT",
+          "severity": "warning",
+          "official_numeric_signature": [
+            580,
+            630,
+            1100,
+            1195,
+            580,
+            630,
+            1105,
+            1180
+          ],
+          "portal_numeric_signature": [
+            580,
+            630,
+            1130,
+            1255
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "pvc"
+          ],
+          "portal_tokens": [
+            "plastic",
+            "pvc"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            1355000,
+            1630000
+          ],
+          "portal_sale_price_vnd": 1309000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl329",
+          "portal": "https://noithathoaphat.com/ghe-luoi-hoa-phat-gl329"
+        }
+      }
+    },
+    {
+      "code": "GL331",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl331",
+        "final_url": "https://theone.vn/san-pham/ghe-gl331",
+        "content_sha256": "bf883b6e8f0658da80d073f75961523ff7d30f6c4c43b1963f618698913bbb0d"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl331",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "page_title": {
+          "value": "Ghế Lãnh Đạo Hiện Đại The One GL331 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL331 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Khung tựa nhựa bọc vải lưới. Đệm ghế mút bọc PVC …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "52dd7313b5111802cafb5d3e25276e0014c0783bfbaa28f5419836724707cf1d",
+          "character_count": 350,
+          "word_count": 77,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "product_name": {
+          "value": "Ghế Lãnh Đạo Hiện Đại The One GL331",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "dimensions": {
+          "value": "Rộng 650 x Sâu 680 x Cao (1170÷1250) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "materials": {
+          "value": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "construction_features": {
+          "value": [
+            "Chân xoay có bánh xe di chuyển.",
+            "Tay ghế có thể gập.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Lãnh Đạo Hiện Đại The One GL331 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Tay ghế có thể gập. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.185.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2185000
+            ],
+            "quote_required": false,
+            "low_vnd": 2185000,
+            "high_vnd": 2185000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Văn Phòng",
+            "Ghế Trưởng Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl331"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL331",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W650 x D680 x H1170-1250 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo lưng cao, đệm bọc PVC, khung tựa nhựa bọc vải lưới. Tay có thể gấp lên - xuống khi sử dụng. Chân thép mạ",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 1892000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl331",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-luoi-gl331.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Lãnh Đạo Hiện Đại The One GL331",
+          "portal": "Ghế lưới lưng cao GL331"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            650,
+            680,
+            1170,
+            1250
+          ],
+          "portal_numeric_signature": [
+            650,
+            680,
+            1170,
+            1250
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "pvc",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "pvc",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2185000
+          ],
+          "portal_sale_price_vnd": 1892000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl331",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl331"
+        }
+      }
+    },
+    {
+      "code": "GL332",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl332",
+        "final_url": "https://theone.vn/san-pham/ghe-gl332",
+        "content_sha256": "e7f697e0e6022f2819d5853eadca61dfb1e77aa78733b7f134807affad99db7f"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl332",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "page_title": {
+          "value": "Ghế Làm Việc Ngả Lưng The One GL332 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL332 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Thiết kế ghế có chức năng điều chỉnh chiều sâu đệm …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "b75e0149f90e91d3c96f278fb38c5b3838b0a22173194dba4c1787e6ecbe4ebd",
+          "character_count": 395,
+          "word_count": 84,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "product_name": {
+          "value": "Ghế Làm Việc Ngả Lưng The One GL332",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "dimensions": {
+          "value": "Rộng 655 x Sâu (610÷900) x Cao (1180÷1260) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "materials": {
+          "value": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "construction_features": {
+          "value": [
+            "Chân xoay có bánh xe di chuyển.",
+            "Có tựa đầu.",
+            "Tựa đầu có thể điều chỉnh.",
+            "Có thể điều chỉnh chiều sâu đệm ngồi.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Làm Việc Ngả Lưng The One GL332 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có tựa đầu. Tựa đầu có thể điều chỉnh.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "Liên hệ",
+            "currency": "VND",
+            "numeric_amounts": [],
+            "quote_required": true,
+            "low_vnd": null,
+            "high_vnd": null
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": true,
+            "schema_availability": null,
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Văn Phòng",
+            "Ghế Trưởng Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl332"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL332",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W655 x D610-900 x H1180-1260 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo lưng cao, đệm bọc PVC, khung tựa nhựa bọc vải lưới. Tay nhựa. Chân thép mạ. Ghế có chức năng điều chỉnh chiều sâu đệm ngồi phù hợp vóc dáng người ngồi. Tựa ghế có phần đỡ lưng phụ giúp người sử dụng thoải mái hơn.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 3432000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl332",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/Ghe-xoay-luoi-gl332.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Làm Việc Ngả Lưng The One GL332",
+          "portal": "Ghế lưới lưng cao GL332"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            655,
+            610,
+            900,
+            1180,
+            1260
+          ],
+          "portal_numeric_signature": [
+            655,
+            610,
+            900,
+            1180,
+            1260
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "pvc",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "pvc",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "OFFICIAL_NUMERIC_PRICE_MISSING",
+          "severity": "info",
+          "official_display": "Liên hệ",
+          "portal_sale_price_vnd": 3432000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl332",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl332"
+        }
+      }
+    },
+    {
+      "code": "GL333",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl333",
+        "final_url": "https://theone.vn/san-pham/ghe-gl333",
+        "content_sha256": "8aad92dcba8f805fe50ab907e6de38abc2569d6fff7502d489cad2456077f67d"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl333",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "page_title": {
+          "value": "Ghế Lãnh Đạo Lưng Cao The One GL333 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL333 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Thiết kế ghế có thể ngả hãm nhiều góc độ, và …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "ef5125aa98a2e36cac1df61057492d9c78b2f19b0a69d2d735e88d15a4321225",
+          "character_count": 491,
+          "word_count": 104,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "product_name": {
+          "value": "Ghế Lãnh Đạo Lưng Cao The One GL333",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "dimensions": {
+          "value": "Ghế chân nhựa: Rộng 600 x Sâu (610÷1580) x Cao (1190÷1250) mm Ghế chân mạ: Rộng 600 x Sâu (595÷1660) x Cao (1210÷1290) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "materials": {
+          "value": "Khung tựa nhựa bọc vải lưới, đệm mút bọc vải, chân thép mạ/nhựa, tay nhựa+thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "construction_features": {
+          "value": [
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả/hãm nhiều góc.",
+            "Có cơ cấu để chân.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa.",
+            "Có cấu hình chân nhựa hoặc chân mạ."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Lãnh Đạo Lưng Cao The One GL333 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Có cơ cấu để chân.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.500.000 ₫ – 2.700.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2500000,
+              2700000
+            ],
+            "quote_required": false,
+            "low_vnd": 2500000,
+            "high_vnd": 2700000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Văn Phòng",
+            "Ghế Trưởng Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl333"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL333",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W600 x D610-1580 x H1190-1250 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải, khung nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo lưng cao, đệm mút xốp bọc vải. Khung tựa bằng nhựa bọc vải lưới, phần tay bằng nhựa kết hợp mạ. Ghế có thể ngả hãm nhiều góc độ, và có cơ cấu để chân bằng nhựa sử dụng thuận tiện khi ngả ra nằm. (Hàng nhập khẩu) Ghế chân nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2189000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl333",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-lung-caogl333-2.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Lãnh Đạo Lưng Cao The One GL333",
+          "portal": "Ghế lưới lưng cao GL333"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            600,
+            610,
+            1580,
+            1190,
+            1250,
+            600,
+            595,
+            1660,
+            1210,
+            1290
+          ],
+          "portal_numeric_signature": [
+            600,
+            610,
+            1580,
+            1190,
+            1250
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "plastic"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2500000,
+            2700000
+          ],
+          "portal_sale_price_vnd": 2189000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl333",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl333"
+        }
+      }
+    },
+    {
+      "code": "GL334",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl334",
+        "final_url": "https://theone.vn/san-pham/ghe-gl334",
+        "content_sha256": "424dc617eb272bbda08c5a862ba41dd958a3c8490ff4cad7fb82a9e59801b758"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl334",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "page_title": {
+          "value": "Ghế Văn Phòng Ngả Lưng The One GL334 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế The One GL334 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Thiết kế Ghế có thể ngả hãm nhiều góc độ, có …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "bc381edfe9008ebbaa1b28a0f5718f9919a07e933b8774264798a004a79e8e4e",
+          "character_count": 412,
+          "word_count": 91,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "product_name": {
+          "value": "Ghế Văn Phòng Ngả Lưng The One GL334",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "dimensions": {
+          "value": "Rộng 610 x sâu 660-1610 x cao 1240-1320 mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "materials": {
+          "value": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "construction_features": {
+          "value": [
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả/hãm nhiều góc.",
+            "Có cơ cấu để chân.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Văn Phòng Ngả Lưng The One GL334 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Có cơ cấu để chân.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.600.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2600000
+            ],
+            "quote_required": false,
+            "low_vnd": 2600000,
+            "high_vnd": 2600000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Văn Phòng",
+            "Ghế Trưởng Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl334"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL334",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W610 x D660-1610 x H1240-1320 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo lưng cao, đệm bọc PVC, khung tựa bằng nhựa bọc vải lưới. Tay ghế nhựa và dung chân thép mạ. Ghế có thể ngả hãm nhiều góc độ, có cơ cấu để chân bằng nhựa sử dụng thuận tiện khi ngả ra nằm.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2673000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl334",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-nga-lung-gl334.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Văn Phòng Ngả Lưng The One GL334",
+          "portal": "Ghế lưới lưng cao GL334"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            610,
+            660,
+            1610,
+            1240,
+            1320
+          ],
+          "portal_numeric_signature": [
+            610,
+            660,
+            1610,
+            1240,
+            1320
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "pvc",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "pvc",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2600000
+          ],
+          "portal_sale_price_vnd": 2673000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl334",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl334"
+        }
+      }
+    },
+    {
+      "code": "GL335",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl335",
+        "final_url": "https://theone.vn/san-pham/ghe-gl335",
+        "content_sha256": "48690b9a2b4baa763d76cabc7505cae725b49638ac9b54f6c6bf60883b0f13b6"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl335",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "page_title": {
+          "value": "Ghế Lưới Lưng Cao GL335 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế xoay lưới The One GL335 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Khung tựa ghế GL335 bằng nhựa bọc vải lưới …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "392290855c318c3d3a2203899226afa4876579f9a34a33851cb3768bc8249503",
+          "character_count": 472,
+          "word_count": 100,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "product_name": {
+          "value": "Ghế Lưới Lưng Cao GL335",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "dimensions": {
+          "value": "Rộng 680 x Sâu (585-880) x Cao (1220-1300) mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc vải lưới, đệm mút bọc PVC, Chân thép mạ, tay nhựa",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "construction_features": {
+          "value": [
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả/hãm nhiều góc.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Lưới Lưng Cao GL335 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Sử dụng cấu hình chân xoay.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.110.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2110000
+            ],
+            "quote_required": false,
+            "low_vnd": 2110000,
+            "high_vnd": 2110000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "https://schema.org/InStock",
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl335"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL335",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W680 x D585-880 x H1220-1300 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Da, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo lưng cao, đệm bọc PVC, khung tựa nhựa bọc vải lưới. Phần tay chữ T bằng nhựa . Ghế có thể ngả hãm nhiều góc độ theo nhu cầu sử dụng. Chân thép mạ.",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2398000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl335",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/GL335.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "MATCH",
+          "severity": "none",
+          "official": "Ghế Lưới Lưng Cao GL335",
+          "portal": "Ghế lưới lưng cao GL335"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            680,
+            585,
+            880,
+            1220,
+            1300
+          ],
+          "portal_numeric_signature": [
+            680,
+            585,
+            880,
+            1220,
+            1300
+          ]
+        },
+        "materials": {
+          "status": "PARTIAL_OVERLAP",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "pvc",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "leather",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2110000
+          ],
+          "portal_sale_price_vnd": 2398000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl335",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl335"
+        }
+      }
+    },
+    {
+      "code": "GL336",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl336",
+        "final_url": "https://theone.vn/san-pham/ghe-gl336",
+        "content_sha256": "03322e67e59a45967b44020fad245553fb4f831a24acf87ec537531bfbad3745"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl336",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "page_title": {
+          "value": "Ghế Xoay Lưới The One GL336 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế xoay văn phòng The One GL336 thuộc dòng ghế xoay lưới lãnh đạo cao cấp. Khung tựa ghế bằng nhựa bọc vải lưới …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "4a92acd86f9b11fe4b335daeb7305ac458d2b0810ed837df442aadb2043e056a",
+          "character_count": 479,
+          "word_count": 100,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới The One GL336",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "dimensions": {
+          "value": "(mm) Chân mạ: Rộng 620 x Sâu 570-1490 x Cao 1210-1290 mm. Chân mạ M1: Rộng 620 x Sâu 570-1490 x Cao 1190-1270 mm.",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc vải lưới, đệm mút bọc vải, Chân thép mạ, tay nhựa",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có cơ cấu ngả/hãm nhiều góc.",
+            "Có cơ cấu để chân.",
+            "Sử dụng cấu hình chân xoay.",
+            "Tay ghế sử dụng vật liệu nhựa."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới The One GL336 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "2.600.000 ₫ – 2.725.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              2600000,
+              2725000
+            ],
+            "quote_required": false,
+            "low_vnd": 2600000,
+            "high_vnd": 2725000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl336"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL336",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W620 x D570-1490 x H1190-1270 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải, khung nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo lưng cao, đệm mút bọc vải, khung tựa bằng nhựa bọc vải lưới. Tay ghế nhựa. Ghế có thể ngả hãm nhiều góc độ bằng cơ cấu ngả piston, có cơ cấu để chân bằng nhựa sử dụng thuận tiện khi ngả ra nằm. Chân mạ (M1)",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2596000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl336",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/gl336(1).jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới The One GL336",
+          "portal": "Ghế lưới lưng cao GL336"
+        },
+        "dimensions": {
+          "status": "PORTAL_SUBSET_OF_OFFICIAL",
+          "severity": "info",
+          "official_numeric_signature": [
+            620,
+            570,
+            1490,
+            1210,
+            1290,
+            1,
+            620,
+            570,
+            1490,
+            1190,
+            1270
+          ],
+          "portal_numeric_signature": [
+            620,
+            570,
+            1490,
+            1190,
+            1270
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "plastic"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            2600000,
+            2725000
+          ],
+          "portal_sale_price_vnd": 2596000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl336",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl336"
+        }
+      }
+    },
+    {
+      "code": "GL338",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/ghe-gl338",
+        "final_url": "https://theone.vn/san-pham/ghe-gl338",
+        "content_sha256": "12e2cdd3eefecf77560eecd828f16b594f37b09336202de954fed9e401da2241"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/ghe-gl338",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "page_title": {
+          "value": "GL338 | Ghế Xoay Lưới Cao Cấp GL338 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế xoay lưới The One GL338 thiết kế hiện đại sang trọng nhập khẩu nguyên chiếc. Ghế lưới văn phòng GL338 tựa bọc vải …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "2d9f7b48e349892da57a9b86969d244d2d89608464d0fafa457165444e390230",
+          "character_count": 485,
+          "word_count": 104,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới Cao Cấp GL338",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "dimensions": {
+          "value": "Chân nhựa: rộng 610 x sâu 590 x cao 1150 -1245 mm. Chân mạ: Rộng 610 x Sâu 590 x Cao 1180 -1260mm.",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "materials": {
+          "value": "Bọc lưới, đệm lưới/PVC. Chân nhựa hoặc mạ.",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "construction_features": {
+          "value": [
+            "Tay ghế sử dụng vật liệu nhựa.",
+            "Có cấu hình chân nhựa hoặc chân mạ."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới Cao Cấp GL338 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Tay ghế sử dụng vật liệu nhựa. Có cấu hình chân nhựa hoặc chân mạ.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "1.720.000 ₫ – 2.060.000 ₫",
+            "currency": "VND",
+            "numeric_amounts": [
+              1720000,
+              2060000
+            ],
+            "quote_required": false,
+            "low_vnd": 1720000,
+            "high_vnd": 2060000
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": false,
+            "schema_availability": "http://schema.org/InStock",
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/ghe-gl338"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL338",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W610 x D590 x H1180-1300 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lưng cao khung tựa nhựa bọc vải lưới, đệm mút xốp bọc vải hoặc PVC. Tay nhựa (Hàng nhập khẩu) Chân nhựa",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 1507000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl338",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/GL338.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới Cao Cấp GL338",
+          "portal": "Ghế lưới lưng cao GL338"
+        },
+        "dimensions": {
+          "status": "NUMERIC_CONFLICT",
+          "severity": "warning",
+          "official_numeric_signature": [
+            610,
+            590,
+            1150,
+            1245,
+            610,
+            590,
+            1180,
+            1260
+          ],
+          "portal_numeric_signature": [
+            610,
+            590,
+            1180,
+            1300
+          ]
+        },
+        "materials": {
+          "status": "PARTIAL_OVERLAP",
+          "severity": "info",
+          "official_tokens": [
+            "mesh",
+            "plastic",
+            "pvc"
+          ],
+          "portal_tokens": [
+            "pvc",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "DIFFERENT_CURRENT_PRICE",
+          "severity": "warning",
+          "official_amounts_vnd": [
+            1720000,
+            2060000
+          ],
+          "portal_sale_price_vnd": 1507000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/ghe-gl338",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl338"
+        }
+      }
+    },
+    {
+      "code": "GL343",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/gl343",
+        "final_url": "https://theone.vn/san-pham/gl343",
+        "content_sha256": "73fc65e6386f7b249ad655e4d24c928b0e2a0d84b15fbf947cddea587398e439"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/gl343",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "page_title": {
+          "value": "GL343 | Ghế Xoay Lưới Cao Cấp GL343 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "meta_description_excerpt": {
+          "value": "NGƯNG KINH DOANH Ghế xoay lưới The One GL343 tựa lưng cao khung nhựa bọc lưới kết hợp tựa đầu. Đệm ghế xoay lưng …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "9e5aecc751bbfd44a3308e04a5142fd6778b91b361cfcce138dfa700258b0e4e",
+          "character_count": 523,
+          "word_count": 115,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "product_name": {
+          "value": "Ghế Xoay Lưới Cao Cấp GL343",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "dimensions": {
+          "value": "Rộng 625 x Sâu 565-850 x Cao 1225-1305 mm.",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "materials": {
+          "value": "Khung nhựa bọc lưới đệm PVC / Chân mạ.",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "construction_features": {
+          "value": [
+            "Có tựa đầu.",
+            "Tựa đầu có thể điều chỉnh.",
+            "Tay ghế có thể điều chỉnh độ cao.",
+            "Tựa lưng sử dụng bề mặt lưới."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/gl343",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế Xoay Lưới Cao Cấp GL343 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Có tựa đầu. Tựa đầu có thể điều chỉnh. Tay ghế có thể điều chỉnh độ cao.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/gl343",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "Liên hệ",
+            "currency": "VND",
+            "numeric_amounts": [],
+            "quote_required": true,
+            "low_vnd": null,
+            "high_vnd": null
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "availability": {
+          "value": {
+            "discontinued": true,
+            "quote_required": true,
+            "schema_availability": null,
+            "vat_excluded_explicitly_stated": false
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl343"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới lưng cao GL343",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W610 x D565-850 x H1225-1305 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "PVC, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lưng cao, khung tựa nhựa bọc vải lưới, đệm bọc PVC may trang trí. Ghế có khả năng điều chỉnh độ cao và độ ngả tựa, tay chữ T tăng chỉnh được chiều cao. Chân thép mạ",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 2475000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl343",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-GL343.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế Xoay Lưới Cao Cấp GL343",
+          "portal": "Ghế lưới lưng cao GL343"
+        },
+        "dimensions": {
+          "status": "NUMERIC_CONFLICT",
+          "severity": "warning",
+          "official_numeric_signature": [
+            625,
+            565,
+            850,
+            1225,
+            1305
+          ],
+          "portal_numeric_signature": [
+            610,
+            565,
+            850,
+            1225,
+            1305
+          ]
+        },
+        "materials": {
+          "status": "PARTIAL_OVERLAP",
+          "severity": "info",
+          "official_tokens": [
+            "mesh",
+            "plastic",
+            "pvc"
+          ],
+          "portal_tokens": [
+            "pvc",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "OFFICIAL_NUMERIC_PRICE_MISSING",
+          "severity": "info",
+          "official_display": "Liên hệ",
+          "portal_sale_price_vnd": 2475000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/gl343",
+          "portal": "https://noithathoaphat.com/ghe-luoi-lung-cao-gl343"
+        }
+      }
+    },
+    {
+      "code": "GL345",
+      "retrieval": {
+        "checked_at": "2026-08-10T09:57:47+07:00",
+        "http_status": 200,
+        "requested_url": "https://theone.vn/san-pham/gl345",
+        "final_url": "https://theone.vn/san-pham/gl345",
+        "content_sha256": "23125ba938580aca0936f3531132a9b3d58bf9fd52fc65f91db3f7dbf59b8ef4"
+      },
+      "official_source": {
+        "product_page": {
+          "value": "https://theone.vn/san-pham/gl345",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "page_title": {
+          "value": "GL345 | Ghế lưới lưng cao The One GL345 - Nội Thất The One",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "meta_description_excerpt": {
+          "value": "Ghế xoay lưới GL345 khung tựa nhựa bọc lưới có kèm tựa đầu chắc chắn, thiết kế ngả lưng nhiều góc độ. Tay ghế …",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345",
+          "note": "Excerpt capped at 24 words; full meta is represented by hash and length."
+        },
+        "meta_description_evidence": {
+          "sha256": "99b4b3781a6dfc6eb896547ac970cb92ab287c5ba9330375881bf6dd594f3702",
+          "character_count": 374,
+          "word_count": 83,
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "product_name": {
+          "value": "Ghế lưới lưng cao The One GL345",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "dimensions": {
+          "value": "W695 x D580-890 x H1130 – 1245 mm",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "materials": {
+          "value": "Khung tựa nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân thép mạ",
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "construction_features": {
+          "value": [
+            "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+            "Chân xoay có bánh xe di chuyển.",
+            "Có tựa đầu.",
+            "Tựa đầu có thể điều chỉnh.",
+            "Tay ghế có thể điều chỉnh độ cao.",
+            "Tựa lưng sử dụng bề mặt lưới.",
+            "Sử dụng cấu hình chân xoay."
+          ],
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/gl345",
+          "note": "Concise paraphrase of explicit facts on the official page; no unstated claim added."
+        },
+        "published_colors": {
+          "value": [],
+          "provenance": "MISSING",
+          "note": "No explicit public color name/code found on the checked page."
+        },
+        "description_summary": {
+          "value": "Ghế lưới lưng cao The One GL345 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có tựa đầu.",
+          "provenance": "BA_FURNITURE_EDITORIAL",
+          "source_url": "https://theone.vn/san-pham/gl345",
+          "note": "Editorial summary limited to facts supported by the official page."
+        },
+        "price": {
+          "value": {
+            "display": "Liên hệ",
+            "currency": "VND",
+            "numeric_amounts": [],
+            "quote_required": true,
+            "low_vnd": null,
+            "high_vnd": null
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "availability": {
+          "value": {
+            "discontinued": false,
+            "quote_required": true,
+            "schema_availability": null,
+            "vat_excluded_explicitly_stated": true
+          },
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        },
+        "category_labels": {
+          "value": [
+            "Ghế Lưới",
+            "Ghế Trưởng Phòng",
+            "Ghế Văn Phòng"
+          ],
+          "provenance": "OFFICIAL_SOURCE",
+          "source_url": "https://theone.vn/san-pham/gl345"
+        }
+      },
+      "portal_source": {
+        "product_name": {
+          "value": "Ghế lưới văn phòng GL345",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "dimensions": {
+          "value": "W650 x D550-865 x H1090-1175 mm",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "materials": {
+          "value": "Vải cao cấp, khung sắt",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "description": {
+          "value": "Ghế lưới lãnh đạo cao cấp khung tựa nhựa bọc vải lưới, đệm mút bọc vải có ốp đệm bằng nhựa. Cơ cấu tựa đầu chỉnh cao thấp phù hợp người ngồi. Tay ghế chữ T có thể tăng chỉnh chiều cao. Ghế có khả năng ngả hãm thư giãn. Chân thép mạ. Đỡ tựa lưng điều chỉnh lên xuống giúp ngồi thoải mái hơn. (Hàng nhập khẩu).",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "sale_price_vnd": {
+          "value": 3179000.0,
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "source_url": {
+          "value": "https://noithathoaphat.com/ghe-luoi-van-phong-gl345",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        },
+        "image_url": {
+          "value": "https://noithathoaphat.com/Uploads/images/ghe-van-phong/ghe-luoi/ghe-luoi-lanh-dao-GL345.jpg",
+          "provenance": "PORTAL_SOURCE",
+          "source_url": "C:\\Users\\Admin\\Documents\\Codex\\2026-06-11\\google-drive-plugin-google-drive-openai\\outputs\\ProductDB_V2_UPLOAD_FIXED_v3\\master\\exports\\deploy\\ProductDB_V2_Render_CURRENT\\master_v2\\products.json"
+        }
+      },
+      "conflicts_with_productdb": {
+        "product_name": {
+          "status": "DIFFERENT_LABEL",
+          "severity": "info",
+          "official": "Ghế lưới lưng cao The One GL345",
+          "portal": "Ghế lưới văn phòng GL345"
+        },
+        "dimensions": {
+          "status": "NUMERIC_CONFLICT",
+          "severity": "warning",
+          "official_numeric_signature": [
+            695,
+            580,
+            890,
+            1130,
+            1245
+          ],
+          "portal_numeric_signature": [
+            650,
+            550,
+            865,
+            1090,
+            1175
+          ]
+        },
+        "materials": {
+          "status": "OFFICIAL_MORE_DETAILED",
+          "severity": "info",
+          "official_tokens": [
+            "fabric",
+            "foam",
+            "mesh",
+            "plastic",
+            "steel_or_metal"
+          ],
+          "portal_tokens": [
+            "fabric",
+            "steel_or_metal"
+          ]
+        },
+        "price": {
+          "status": "OFFICIAL_NUMERIC_PRICE_MISSING",
+          "severity": "info",
+          "official_display": "Liên hệ",
+          "portal_sale_price_vnd": 3179000
+        },
+        "source_url": {
+          "status": "DIFFERENT_SOURCE_WEBSITE",
+          "severity": "info",
+          "official": "https://theone.vn/san-pham/gl345",
+          "portal": "https://noithathoaphat.com/ghe-luoi-van-phong-gl345"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title description">
+  <title id="title">Ảnh sản phẩm sạch đang cập nhật</title>
+  <desc id="description">Placeholder trung tính; không dùng ảnh có watermark, QR hoặc logo nhà cung cấp.</desc>
+  <rect width="800" height="800" fill="#f3eee6"/>
+  <rect x="58" y="58" width="684" height="684" fill="#fff" stroke="#d9cfc4" stroke-width="2"/>
+  <text x="400" y="322" fill="#9b5e3e" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4" text-anchor="middle">BA_FURNITURE</text>
+  <text x="400" y="390" fill="#211915" font-family="Georgia, serif" font-size="42" text-anchor="middle">Ảnh sạch đang cập nhật</text>
+  <text x="400" y="442" fill="#6f6259" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Không thay bằng ảnh mã khác</text>
+  <text x="400" y="476" fill="#6f6259" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">Không che watermark hoặc QR</text>
+</svg>

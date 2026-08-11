@@ -41,6 +41,14 @@
       "destination": "/executive-chair-theone.html"
     },
     {
+      "source": "/san-pham/ghe-luoi-lung-cao/:code",
+      "destination": "/mesh-highback-product.html?code=:code"
+    },
+    {
+      "source": "/danh-muc/ghe-luoi-lung-cao",
+      "destination": "/mesh-highback-gl3xx.html"
+    },
+    {
       "source": "/danh-muc/:slug",
       "destination": "/category.html?cat=:slug"
     },

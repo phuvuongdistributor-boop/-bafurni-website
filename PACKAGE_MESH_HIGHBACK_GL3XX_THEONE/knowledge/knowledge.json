@@ -1,0 +1,863 @@
+{
+  "package": {
+    "id": "PACKAGE_MESH_HIGHBACK_GL3XX_THEONE",
+    "version": "V10.04",
+    "category": "Office Chair",
+    "subcategory": "Mesh High-back Chair / GL3xx",
+    "source": "The One",
+    "product_count": 22
+  },
+  "products": [
+    {
+      "code": "GL304",
+      "product_summary": "Ghế Lưới Trưởng Phòng The One GL304 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
+      "material": "Khung thép mạ bọc vải lưới chịu lực; chân thép mạ",
+      "price_reference_vnd": 1894200,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL307",
+        "GL320",
+        "GL345"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl304",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL307",
+      "product_summary": "Ghế Lưới Lưng Cao The One GL307 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "Rộng 550 x Sâu 650 x Cao (1050÷1130) mm",
+      "material": "Khung tựa, tay và chân thép mạ; đệm mút bọc vải lưới xốp; tựa bọc vải lưới chịu lực",
+      "price_reference_vnd": 2013000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL304",
+        "GL329",
+        "GL338"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl307",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL309",
+      "product_summary": "Ghế Lưới Tựa Đầu The One GL309 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc.",
+      "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả nhiều góc.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa."
+      ],
+      "dimensions": "Rộng 620 x Sâu (520÷1280) x Cao (1215÷1295) mm",
+      "material": "Chân thép mạ, tay nhựa ốp PU",
+      "price_reference_vnd": 2266000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả nhiều góc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL332",
+        "GL343",
+        "GL345"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl309",
+      "image_status": "NO_CLEAN_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "NO_CLEAN_EXACT"
+      }
+    },
+    {
+      "code": "GL316",
+      "product_summary": "Ghế Xoay Lưới Cao Cấp The One GL316 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+      "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả/hãm nhiều góc.",
+        "Có cơ cấu ngả nhiều góc.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "Rộng 655 x Sâu (605÷935) x Cao (1080 ÷1160) mm",
+      "material": "Tựa lưới & PVC; đệm mút bọc PVC; chân thép mạ; tay thép mạ & nhựa",
+      "price_reference_vnd": 2332000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL324",
+        "GL335",
+        "GL338"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl316",
+      "image_status": "NO_CLEAN_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "NO_CLEAN_EXACT"
+      }
+    },
+    {
+      "code": "GL317",
+      "product_summary": "Ghế Xoay Lưng Cao The One GL317 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí quản lý cần dáng ghế lưng cao bọc da CN trong cùng dải GL3xx; đây không phải mẫu tựa lưới.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
+      "material": "Khung thép bọc da CN; chân tay thép mạ",
+      "price_reference_vnd": 2193400,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL304",
+        "GL320",
+        "GL331"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl317",
+      "image_status": "NO_CLEAN_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "NO_CLEAN_EXACT"
+      }
+    },
+    {
+      "code": "GL320",
+      "product_summary": "Ghế Xoay Lưới Hiện Đại The One GL320 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "Rộng 600 x Sâu (710÷1015) x Cao (1160÷1240) mm",
+      "material": "Khung thép mạ bọc vải lưới; tay chân thép mạ",
+      "price_reference_vnd": 2662000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL304",
+        "GL331",
+        "GL345"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl320",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL321",
+      "product_summary": "Ghế Làm Việc Cao Cấp The One GL321 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa.",
+        "Có cấu hình chân nhựa hoặc chân mạ."
+      ],
+      "dimensions": "Chân nhựa: Rộng 630 x Sâu (680÷975) x Cao (1215÷1340) mm Chân mạ: Rộng 630 x Sâu (680÷975) x Cao (1205÷1280) mm Chân mạ M1: Rộng 630 x Sâu (680÷975) x Cao (1190÷1270) mm",
+      "material": "Khung nhựa bọc lưới; đệm mút bọc da; tay nhựa; chân nhựa/ mạ",
+      "price_reference_vnd": 2288000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Trang nguồn The One ghi ngừng kinh doanh; cần xác nhận khả dụng hoặc mẫu thay thế; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL322",
+        "GL324",
+        "GL338"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl321",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL322",
+      "product_summary": "Ghế Xoay Lưới Tựa Đầu The One GL322 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa.",
+        "Có cấu hình chân nhựa hoặc chân mạ."
+      ],
+      "dimensions": "ghế chân Nhựa: Rộng 620 x Sâu (600÷870) x Cao (1125÷1200) mm; ghế chân Mạ: Rộng 620 x Sâu (600÷870) x Cao (1155÷1235) mm; ghế chân mạ M1: Rộng 620 x Sâu (600÷870) x Cao (1135÷1215) mm",
+      "material": "Khung nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân nhựa/ mạ",
+      "price_reference_vnd": 2079000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL321",
+        "GL332",
+        "GL343"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl322",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL323",
+      "product_summary": "Ghế Văn Phòng Gác Chân The One GL323 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc.",
+      "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả nhiều góc.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "Rộng 635 x Sâu (510÷1020) x Cao (1155÷1230) mm",
+      "material": "Khung nhựa bọc vải lưới; chân thép mạ",
+      "price_reference_vnd": 2882000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả nhiều góc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL326",
+        "GL333",
+        "GL334"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl323",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL324",
+      "product_summary": "Ghế Xoay Lưới Cao Cấp The One GL324 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc.",
+      "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả nhiều góc.",
+        "Có chi tiết treo áo phía sau tựa.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa.",
+        "Có cấu hình chân nhựa hoặc chân mạ."
+      ],
+      "dimensions": "Chân nhựa: Rộng 665 x Sâu (665÷975) x Cao ( 1125-1220 ) mm Chân mạ: Rộng 665 x Sâu (665÷975) x Cao (1145÷1220) mm Chân mạ M1: Rộng 665 x Sâu (665÷975) x Cao (1120÷1200) mm",
+      "material": "Khung nhựa bọc lưới; đệm mút bọc vải lưới; tay nhựa; chân nhựa/ mạ",
+      "price_reference_vnd": 2442000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả nhiều góc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL316",
+        "GL321",
+        "GL335"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl324",
+      "image_status": "NO_CLEAN_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "NO_CLEAN_EXACT"
+      }
+    },
+    {
+      "code": "GL326",
+      "product_summary": "Ghế Trưởng Phòng Cao Cấp The One GL326 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+      "application": "Vị trí quản lý hoặc nhân sự cần ghế lưng cao có cơ cấu ngả và để chân cho các quãng nghỉ ngắn tại bàn.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả/hãm nhiều góc.",
+        "Có cơ cấu để chân.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa."
+      ],
+      "dimensions": "Rộng 620 x Sâu (645÷1600) x Cao (1180÷1260) mm",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân thép mạ",
+      "price_reference_vnd": 4191000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL323",
+        "GL333",
+        "GL334"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl326",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL328",
+      "product_summary": "Ghế Lưới Lãnh Đạo The One GL328 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+      "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả/hãm nhiều góc.",
+        "Tay ghế có thể điều chỉnh độ cao.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa."
+      ],
+      "dimensions": "Rộng 645 x Sâu (645÷900) x Cao (1130÷1210) mm",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân hợp kim nhôm",
+      "price_reference_vnd": 2794000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL332",
+        "GL343",
+        "GL345"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl328",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL329",
+      "product_summary": "Ghế Xoay Lưới Văn Phòng The One GL329 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Tay ghế sử dụng vật liệu nhựa.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Chân xoay có bánh xe di chuyển.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa.",
+        "Có cấu hình chân nhựa hoặc chân mạ."
+      ],
+      "dimensions": "Chân nhựa rộng 580 x sâu 630 x cao 1100-1195 mm Chân mạ rộng 580 x sâu 630 x cao 1105-1180 mm",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc PVC, chân tay nhựa",
+      "price_reference_vnd": 1309000,
+      "strength": "Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay; Tay ghế sử dụng vật liệu nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL307",
+        "GL331",
+        "GL338"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl329",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL331",
+      "product_summary": "Ghế Lãnh Đạo Hiện Đại The One GL331 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Tay ghế có thể gập. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Chân xoay có bánh xe di chuyển.",
+        "Tay ghế có thể gập.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "Rộng 650 x Sâu 680 x Cao (1170÷1250) mm",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ",
+      "price_reference_vnd": 1892000,
+      "strength": "Chân xoay có bánh xe di chuyển; Tay ghế có thể gập; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL320",
+        "GL329",
+        "GL338"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl331",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL332",
+      "product_summary": "Ghế Làm Việc Ngả Lưng The One GL332 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có tựa đầu. Tựa đầu có thể điều chỉnh.",
+      "application": "Vị trí quản lý hoặc nhân viên ưu tiên tựa đầu trên ghế lưng cao; cần đối chiếu kích thước bàn và khoảng ngả trước khi chọn.",
+      "verified_features": [
+        "Chân xoay có bánh xe di chuyển.",
+        "Có tựa đầu.",
+        "Tựa đầu có thể điều chỉnh.",
+        "Có thể điều chỉnh chiều sâu đệm ngồi.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa."
+      ],
+      "dimensions": "Rộng 655 x Sâu (610÷900) x Cao (1180÷1260) mm",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa",
+      "price_reference_vnd": 3432000,
+      "strength": "Chân xoay có bánh xe di chuyển; Có tựa đầu; Tựa đầu có thể điều chỉnh.",
+      "weakness_or_confirmation_needed": "Trang nguồn yêu cầu liên hệ thay vì công bố giá hiện hành; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL309",
+        "GL328",
+        "GL343"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl332",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL333",
+      "product_summary": "Ghế Lãnh Đạo Lưng Cao The One GL333 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Có cơ cấu để chân.",
+      "application": "Vị trí quản lý hoặc nhân sự cần ghế lưng cao có cơ cấu ngả và để chân cho các quãng nghỉ ngắn tại bàn.",
+      "verified_features": [
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả/hãm nhiều góc.",
+        "Có cơ cấu để chân.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa.",
+        "Có cấu hình chân nhựa hoặc chân mạ."
+      ],
+      "dimensions": "Ghế chân nhựa: Rộng 600 x Sâu (610÷1580) x Cao (1190÷1250) mm Ghế chân mạ: Rộng 600 x Sâu (595÷1660) x Cao (1210÷1290) mm",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc vải, chân thép mạ/nhựa, tay nhựa+thép mạ",
+      "price_reference_vnd": 2189000,
+      "strength": "Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc; Có cơ cấu để chân.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL323",
+        "GL326",
+        "GL334"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl333",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL334",
+      "product_summary": "Ghế Văn Phòng Ngả Lưng The One GL334 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Có cơ cấu để chân.",
+      "application": "Vị trí quản lý hoặc nhân sự cần ghế lưng cao có cơ cấu ngả và để chân cho các quãng nghỉ ngắn tại bàn.",
+      "verified_features": [
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả/hãm nhiều góc.",
+        "Có cơ cấu để chân.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa."
+      ],
+      "dimensions": "Rộng 610 x sâu 660-1610 x cao 1240-1320 mm",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa",
+      "price_reference_vnd": 2673000,
+      "strength": "Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc; Có cơ cấu để chân.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL323",
+        "GL326",
+        "GL333"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl334",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL335",
+      "product_summary": "Ghế Lưới Lưng Cao GL335 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Sử dụng cấu hình chân xoay.",
+      "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
+      "verified_features": [
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả/hãm nhiều góc.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa."
+      ],
+      "dimensions": "Rộng 680 x Sâu (585-880) x Cao (1220-1300) mm",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc PVC, Chân thép mạ, tay nhựa",
+      "price_reference_vnd": 2398000,
+      "strength": "Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc; Sử dụng cấu hình chân xoay.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL316",
+        "GL324",
+        "GL338"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl335",
+      "image_status": "NO_CLEAN_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "NO_CLEAN_EXACT"
+      }
+    },
+    {
+      "code": "GL336",
+      "product_summary": "Ghế Xoay Lưới The One GL336 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc.",
+      "application": "Vị trí quản lý hoặc nhân sự cần ghế lưng cao có cơ cấu ngả và để chân cho các quãng nghỉ ngắn tại bàn.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có cơ cấu ngả/hãm nhiều góc.",
+        "Có cơ cấu để chân.",
+        "Sử dụng cấu hình chân xoay.",
+        "Tay ghế sử dụng vật liệu nhựa."
+      ],
+      "dimensions": "(mm) Chân mạ: Rộng 620 x Sâu 570-1490 x Cao 1210-1290 mm. Chân mạ M1: Rộng 620 x Sâu 570-1490 x Cao 1190-1270 mm.",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc vải, Chân thép mạ, tay nhựa",
+      "price_reference_vnd": 2596000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL323",
+        "GL326",
+        "GL334"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl336",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL338",
+      "product_summary": "Ghế Xoay Lưới Cao Cấp GL338 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Tay ghế sử dụng vật liệu nhựa. Có cấu hình chân nhựa hoặc chân mạ.",
+      "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
+      "verified_features": [
+        "Tay ghế sử dụng vật liệu nhựa.",
+        "Có cấu hình chân nhựa hoặc chân mạ."
+      ],
+      "dimensions": "Chân nhựa: rộng 610 x sâu 590 x cao 1150 -1245 mm. Chân mạ: Rộng 610 x Sâu 590 x Cao 1180 -1260mm.",
+      "material": "Bọc lưới, đệm lưới/PVC. Chân nhựa hoặc mạ.",
+      "price_reference_vnd": 1507000,
+      "strength": "Tay ghế sử dụng vật liệu nhựa; Có cấu hình chân nhựa hoặc chân mạ.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL307",
+        "GL329",
+        "GL335"
+      ],
+      "source_url": "https://theone.vn/san-pham/ghe-gl338",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL343",
+      "product_summary": "Ghế Xoay Lưới Cao Cấp GL343 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Có tựa đầu. Tựa đầu có thể điều chỉnh. Tay ghế có thể điều chỉnh độ cao.",
+      "application": "Vị trí quản lý hoặc nhân viên ưu tiên tựa đầu trên ghế lưng cao; cần đối chiếu kích thước bàn và khoảng ngả trước khi chọn.",
+      "verified_features": [
+        "Có tựa đầu.",
+        "Tựa đầu có thể điều chỉnh.",
+        "Tay ghế có thể điều chỉnh độ cao.",
+        "Tựa lưng sử dụng bề mặt lưới."
+      ],
+      "dimensions": "Rộng 625 x Sâu 565-850 x Cao 1225-1305 mm.",
+      "material": "Khung nhựa bọc lưới đệm PVC / Chân mạ.",
+      "price_reference_vnd": 2475000,
+      "strength": "Có tựa đầu; Tựa đầu có thể điều chỉnh; Tay ghế có thể điều chỉnh độ cao.",
+      "weakness_or_confirmation_needed": "Trang nguồn The One ghi ngừng kinh doanh; cần xác nhận khả dụng hoặc mẫu thay thế; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL309",
+        "GL328",
+        "GL345"
+      ],
+      "source_url": "https://theone.vn/san-pham/gl343",
+      "image_status": "LOW_RES_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "LOW_RES_EXACT"
+      }
+    },
+    {
+      "code": "GL345",
+      "product_summary": "Ghế lưới lưng cao The One GL345 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có tựa đầu.",
+      "application": "Vị trí quản lý hoặc nhân viên ưu tiên tựa đầu trên ghế lưng cao; cần đối chiếu kích thước bàn và khoảng ngả trước khi chọn.",
+      "verified_features": [
+        "Điều chỉnh độ cao bằng cơ cấu khí nén.",
+        "Chân xoay có bánh xe di chuyển.",
+        "Có tựa đầu.",
+        "Tựa đầu có thể điều chỉnh.",
+        "Tay ghế có thể điều chỉnh độ cao.",
+        "Tựa lưng sử dụng bề mặt lưới.",
+        "Sử dụng cấu hình chân xoay."
+      ],
+      "dimensions": "W695 x D580-890 x H1130 – 1245 mm",
+      "material": "Khung tựa nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân thép mạ",
+      "price_reference_vnd": 3179000,
+      "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có tựa đầu.",
+      "weakness_or_confirmation_needed": "Trang nguồn yêu cầu liên hệ thay vì công bố giá hiện hành; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "related": [
+        "GL309",
+        "GL328",
+        "GL343"
+      ],
+      "source_url": "https://theone.vn/san-pham/gl345",
+      "image_status": "NO_CLEAN_EXACT",
+      "provenance": {
+        "membership": "PORTAL_SOURCE",
+        "price": "PORTAL_SOURCE",
+        "productName": "OFFICIAL_SOURCE",
+        "size": "OFFICIAL_SOURCE",
+        "material": "OFFICIAL_SOURCE",
+        "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL",
+        "image": "NO_CLEAN_EXACT"
+      }
+    }
+  ],
+  "comparison": {
+    "GL304_vs_GL345": {
+      "GL304": "Rộng 585 mm; khung và chân thép mạ bọc lưới; không có tựa đầu được nguồn công bố.",
+      "GL345": "Rộng 695 mm; tựa đầu và tay ghế điều chỉnh độ cao; ảnh public sạch đúng mã chưa có.",
+      "selection_rule": "Chọn theo khoảng bố trí và nhu cầu điều chỉnh, không chọn theo ảnh thay thế."
+    },
+    "headrest_verified": [
+      "GL309",
+      "GL322",
+      "GL332",
+      "GL343",
+      "GL345"
+    ],
+    "footrest_verified": [
+      "GL323",
+      "GL326",
+      "GL333",
+      "GL334",
+      "GL336"
+    ],
+    "folding_arm_verified": [
+      "GL331"
+    ],
+    "adjustable_arm_verified": [
+      "GL328",
+      "GL343",
+      "GL345"
+    ],
+    "discontinued_at_source": [
+      "GL321",
+      "GL343"
+    ],
+    "non_mesh_variant": [
+      "GL317"
+    ]
+  },
+  "buying_guide": {
+    "file": "../guide/BUYING_GUIDE.md",
+    "decision_sequence": [
+      "Đo bàn, khoảng dưới bàn, lối đi và khoảng lùi.",
+      "Chọn tựa đầu, tay ghế, cơ cấu ngả và để chân chỉ khi cần.",
+      "Đối chiếu kích thước theo đúng cấu hình chân.",
+      "Chốt Code, vật liệu, màu được công bố, số lượng và tình trạng nguồn."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ghế lưới lưng cao có phù hợp khi ngồi nhiều giờ không?",
+      "answer": "Có thể phù hợp nếu kích thước, tay ghế, tựa và cơ cấu tương thích với người ngồi và bàn. Nguồn không công bố một mức tải trọng hoặc tiêu chuẩn công thái học chung cho cả 22 mã."
+    },
+    {
+      "question": "Ghế lưới khác ghế da như thế nào?",
+      "answer": "Lưới ưu tiên bề mặt thoáng. GL317 là mẫu lưng cao bọc da CN trong danh sách package, không phải mẫu tựa lưới."
+    },
+    {
+      "question": "Mẫu nào có tựa đầu?",
+      "answer": "Thông tin tựa đầu được xác nhận qua tên hoặc thông số nguồn cho GL309, GL322, GL332, GL343 và GL345."
+    },
+    {
+      "question": "Có điều chỉnh độ cao không?",
+      "answer": "Cơ cấu nâng hạ được ghi riêng trên từng trang chi tiết khi nguồn công bố; không áp dụng mặc định cho toàn bộ nhóm."
+    },
+    {
+      "question": "GL304 khác GL345 ở đâu?",
+      "answer": "GL304 rộng 585 mm, có khung và chân thép mạ bọc lưới. GL345 rộng 695 mm; nguồn xác nhận tựa đầu và tay điều chỉnh độ cao."
+    },
+    {
+      "question": "Có thể chọn màu theo yêu cầu không?",
+      "answer": "Trang GL309 công bố mã màu D16. Với các mã còn lại, màu khả dụng phải được xác nhận theo Code và cấu hình tại thời điểm báo giá."
+    },
+    {
+      "question": "Tải trọng tối đa là bao nhiêu?",
+      "answer": "Nguồn chính thức đã kiểm tra không công bố tải trọng đồng nhất cho cả package; website không đưa số ước đoán."
+    },
+    {
+      "question": "Giá website đã là giá cuối chưa?",
+      "answer": "Chưa. Giá hiển thị là SalePrice từ ProductDB và được ghi rõ là giá tham khảo; giá cuối cần xác nhận theo cấu hình, số lượng và thời điểm."
+    },
+    {
+      "question": "Có mẫu nào có cơ cấu để chân?",
+      "answer": "Nguồn công bố cơ cấu để chân cho GL323, GL326, GL333, GL334 và GL336; cần kiểm tra chiều sâu tối đa."
+    },
+    {
+      "question": "Mua số lượng được tư vấn thế nào?",
+      "answer": "Gửi số lượng, khu vực và những Code đang cân nhắc qua Quote Wizard để BA_Furniture đối chiếu cấu hình và tình trạng nguồn trước khi báo giá."
+    }
+  ],
+  "keywords": [
+    "ghế lưới lưng cao",
+    "ghế lưới cao cấp",
+    "ghế lưới văn phòng",
+    "ghế GL3xx The One"
+  ],
+  "sales_points": [
+    "22 Code có trang chi tiết riêng và thông số nguồn.",
+    "So sánh theo kích thước, tựa đầu, tay ghế, cơ cấu và vật liệu.",
+    "Giá ProductDB được dán nhãn tham khảo, không giả là giá cuối.",
+    "Ảnh sai mã, watermark, QR và logo nhà cung cấp không được public."
+  ],
+  "source_provenance": {
+    "official_research": "../report/OFFICIAL_SOURCE_RESEARCH.json",
+    "field_provenance": "../report/PRODUCT_FIELD_PROVENANCE_V10_04.csv",
+    "image_audit": "../images/SOURCE_IMAGE_AUDIT.csv",
+    "missing_or_inferred_not_public": [
+      "tải trọng",
+      "tồn kho",
+      "thời gian giao",
+      "bảo hành đồng nhất cho package",
+      "màu ngoài D16 của GL309"
+    ]
+  }
+}
