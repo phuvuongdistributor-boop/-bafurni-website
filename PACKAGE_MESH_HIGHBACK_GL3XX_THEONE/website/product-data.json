@@ -2,11 +2,14 @@
   {
     "code": "GL304",
     "name": "Ghế Lưới Trưởng Phòng The One GL304",
-    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
-    "imageWidth": 800,
-    "imageHeight": 800,
-    "gallery": [],
-    "verifiedGalleryCount": 0,
+    "image": "/assets/v10-04/gl3xx-theone/products/GL304/main.webp",
+    "imageWidth": 1000,
+    "imageHeight": 723,
+    "gallery": [
+      "/assets/v10-04/gl3xx-theone/products/GL304/main.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL304/gallery-01.webp"
+    ],
+    "verifiedGalleryCount": 2,
     "price": 1894200,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
@@ -31,9 +34,9 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/ghe-gl304",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl304",
-    "imageStatus": "NO_CLEAN_EXACT",
-    "isPlaceholder": true,
-    "imageNaturalResolution": "NONE",
+    "imageStatus": "CLEAN_EXACT",
+    "isPlaceholder": false,
+    "imageNaturalResolution": "1000x723",
     "rejectedImageCount": 19,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
@@ -43,7 +46,7 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "NO_CLEAN_EXACT"
+      "image": "CLEAN_EXACT_OFFICIAL_MANUFACTURER"
     }
   },
   {
@@ -98,11 +101,16 @@
   {
     "code": "GL309",
     "name": "Ghế Lưới Tựa Đầu The One GL309",
-    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
-    "imageWidth": 800,
-    "imageHeight": 800,
-    "gallery": [],
-    "verifiedGalleryCount": 0,
+    "image": "/assets/v10-04/gl3xx-theone/products/GL309/main.webp",
+    "imageWidth": 2000,
+    "imageHeight": 1446,
+    "gallery": [
+      "/assets/v10-04/gl3xx-theone/products/GL309/main.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL309/gallery-01.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL309/gallery-02.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL309/gallery-03.webp"
+    ],
+    "verifiedGalleryCount": 4,
     "price": 2266000,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "Rộng 620 x Sâu (520÷1280) x Cao (1215÷1295) mm",
@@ -129,9 +137,9 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/ghe-gl309",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl309",
-    "imageStatus": "NO_CLEAN_EXACT",
-    "isPlaceholder": true,
-    "imageNaturalResolution": "NONE",
+    "imageStatus": "CLEAN_EXACT",
+    "isPlaceholder": false,
+    "imageNaturalResolution": "2000x1446",
     "rejectedImageCount": 20,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
@@ -141,17 +149,20 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "NO_CLEAN_EXACT"
+      "image": "CLEAN_EXACT_OFFICIAL_MANUFACTURER"
     }
   },
   {
     "code": "GL316",
     "name": "Ghế Xoay Lưới Cao Cấp The One GL316",
-    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
-    "imageWidth": 800,
-    "imageHeight": 800,
-    "gallery": [],
-    "verifiedGalleryCount": 0,
+    "image": "/assets/v10-04/gl3xx-theone/products/GL316/main.webp",
+    "imageWidth": 2000,
+    "imageHeight": 1446,
+    "gallery": [
+      "/assets/v10-04/gl3xx-theone/products/GL316/main.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL316/gallery-01.webp"
+    ],
+    "verifiedGalleryCount": 2,
     "price": 2332000,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "Rộng 655 x Sâu (605÷935) x Cao (1080 ÷1160) mm",
@@ -178,9 +189,9 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/ghe-gl316",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl316",
-    "imageStatus": "NO_CLEAN_EXACT",
-    "isPlaceholder": true,
-    "imageNaturalResolution": "NONE",
+    "imageStatus": "CLEAN_EXACT",
+    "isPlaceholder": false,
+    "imageNaturalResolution": "2000x1446",
     "rejectedImageCount": 19,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
@@ -190,17 +201,19 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "NO_CLEAN_EXACT"
+      "image": "CLEAN_EXACT_OFFICIAL_MANUFACTURER"
     }
   },
   {
     "code": "GL317",
     "name": "Ghế Xoay Lưng Cao The One GL317",
-    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
-    "imageWidth": 800,
-    "imageHeight": 800,
-    "gallery": [],
-    "verifiedGalleryCount": 0,
+    "image": "/assets/v10-04/gl3xx-theone/products/GL317/main.webp",
+    "imageWidth": 2000,
+    "imageHeight": 1446,
+    "gallery": [
+      "/assets/v10-04/gl3xx-theone/products/GL317/main.webp"
+    ],
+    "verifiedGalleryCount": 1,
     "price": 2193400,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
@@ -225,9 +238,9 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/ghe-gl317",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl317",
-    "imageStatus": "NO_CLEAN_EXACT",
-    "isPlaceholder": true,
-    "imageNaturalResolution": "NONE",
+    "imageStatus": "CLEAN_EXACT",
+    "isPlaceholder": false,
+    "imageNaturalResolution": "2000x1446",
     "rejectedImageCount": 9,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
@@ -237,7 +250,7 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "NO_CLEAN_EXACT"
+      "image": "CLEAN_EXACT_OFFICIAL_MANUFACTURER"
     }
   },
   {
@@ -444,11 +457,14 @@
   {
     "code": "GL324",
     "name": "Ghế Xoay Lưới Cao Cấp The One GL324",
-    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
-    "imageWidth": 800,
-    "imageHeight": 800,
-    "gallery": [],
-    "verifiedGalleryCount": 0,
+    "image": "/assets/v10-04/gl3xx-theone/products/GL324/main.webp",
+    "imageWidth": 2000,
+    "imageHeight": 1446,
+    "gallery": [
+      "/assets/v10-04/gl3xx-theone/products/GL324/main.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL324/gallery-01.webp"
+    ],
+    "verifiedGalleryCount": 2,
     "price": 2442000,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "Chân nhựa: Rộng 665 x Sâu (665÷975) x Cao ( 1125-1220 ) mm Chân mạ: Rộng 665 x Sâu (665÷975) x Cao (1145÷1220) mm Chân mạ M1: Rộng 665 x Sâu (665÷975) x Cao (1120÷1200) mm",
@@ -477,9 +493,9 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/ghe-gl324",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl324",
-    "imageStatus": "NO_CLEAN_EXACT",
-    "isPlaceholder": true,
-    "imageNaturalResolution": "NONE",
+    "imageStatus": "CLEAN_EXACT",
+    "isPlaceholder": false,
+    "imageNaturalResolution": "2000x1446",
     "rejectedImageCount": 20,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
@@ -489,7 +505,7 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "NO_CLEAN_EXACT"
+      "image": "CLEAN_EXACT_OFFICIAL_MANUFACTURER"
     }
   },
   {
@@ -854,11 +870,15 @@
   {
     "code": "GL335",
     "name": "Ghế Lưới Lưng Cao GL335",
-    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
-    "imageWidth": 800,
-    "imageHeight": 800,
-    "gallery": [],
-    "verifiedGalleryCount": 0,
+    "image": "/assets/v10-04/gl3xx-theone/products/GL335/main.webp",
+    "imageWidth": 2000,
+    "imageHeight": 1446,
+    "gallery": [
+      "/assets/v10-04/gl3xx-theone/products/GL335/main.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL335/gallery-01.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL335/gallery-02.webp"
+    ],
+    "verifiedGalleryCount": 3,
     "price": 2398000,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "Rộng 680 x Sâu (585-880) x Cao (1220-1300) mm",
@@ -884,9 +904,9 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/ghe-gl335",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl335",
-    "imageStatus": "NO_CLEAN_EXACT",
-    "isPlaceholder": true,
-    "imageNaturalResolution": "NONE",
+    "imageStatus": "CLEAN_EXACT",
+    "isPlaceholder": false,
+    "imageNaturalResolution": "2000x1446",
     "rejectedImageCount": 19,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
@@ -896,7 +916,7 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "NO_CLEAN_EXACT"
+      "image": "CLEAN_EXACT_OFFICIAL_MANUFACTURER"
     }
   },
   {
@@ -1052,11 +1072,14 @@
   {
     "code": "GL345",
     "name": "Ghế lưới lưng cao The One GL345",
-    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
-    "imageWidth": 800,
-    "imageHeight": 800,
-    "gallery": [],
-    "verifiedGalleryCount": 0,
+    "image": "/assets/v10-04/gl3xx-theone/products/GL345/main.webp",
+    "imageWidth": 2000,
+    "imageHeight": 1446,
+    "gallery": [
+      "/assets/v10-04/gl3xx-theone/products/GL345/main.webp",
+      "/assets/v10-04/gl3xx-theone/products/GL345/gallery-01.webp"
+    ],
+    "verifiedGalleryCount": 2,
     "price": 3179000,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "W695 x D580-890 x H1130 – 1245 mm",
@@ -1085,9 +1108,9 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/gl345",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl345",
-    "imageStatus": "NO_CLEAN_EXACT",
-    "isPlaceholder": true,
-    "imageNaturalResolution": "NONE",
+    "imageStatus": "CLEAN_EXACT",
+    "isPlaceholder": false,
+    "imageNaturalResolution": "2000x1446",
     "rejectedImageCount": 19,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
@@ -1097,7 +1120,7 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "NO_CLEAN_EXACT"
+      "image": "CLEAN_EXACT_OFFICIAL_MANUFACTURER"
     }
   }
 ]
