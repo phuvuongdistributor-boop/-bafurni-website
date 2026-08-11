@@ -1,6 +1,6 @@
 ﻿Asset,File,Width,Height,SourceCodes,SourceImageStatus,MaxSourceResolution,ProductPixelsUpscaled,Watermark,QR,SupplierLogo
-Hero,hero-1920x1080.png,1920,1080,GL304|GL328|GL333,LOW_RES_EXACT,580x580,False,False,False,False
-Collage,collage-1600x1200.png,1600,1200,GL304|GL307|GL320|GL323|GL326|GL328|GL331|GL332|GL333|GL334,LOW_RES_EXACT,580x580,False,False,False,False
-Thumbnail,thumbnail-1200x1200.png,1200,1200,GL304|GL328|GL333,LOW_RES_EXACT,580x580,False,False,False,False
-OG,og-1200x630.png,1200,630,GL304|GL328|GL331|GL333,LOW_RES_EXACT,580x580,False,False,False,False
-Social Cover,social-cover-1640x924.png,1640,924,GL304|GL328|GL331|GL333,LOW_RES_EXACT,580x580,False,False,False,False
+Hero,hero-1920x1080.png,1920,1080,GL328|GL333|GL323,LOW_RES_EXACT,580x580,False,False,False,False
+Collage,collage-1600x1200.png,1600,1200,GL307|GL320|GL322|GL323|GL326|GL328|GL329|GL331|GL333|GL334,LOW_RES_EXACT,580x580,False,False,False,False
+Thumbnail,thumbnail-1200x1200.png,1200,1200,GL328|GL333|GL323,LOW_RES_EXACT,580x580,False,False,False,False
+OG,og-1200x630.png,1200,630,GL328|GL331|GL333|GL323,LOW_RES_EXACT,580x580,False,False,False,False
+Social Cover,social-cover-1640x924.png,1640,924,GL328|GL331|GL333|GL323,LOW_RES_EXACT,580x580,False,False,False,False

@@ -21,14 +21,14 @@
       "material": "Khung thép mạ bọc vải lưới chịu lực; chân thép mạ",
       "price_reference_vnd": 1894200,
       "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
-      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
       "related": [
         "GL307",
         "GL320",
         "GL345"
       ],
       "source_url": "https://theone.vn/san-pham/ghe-gl304",
-      "image_status": "LOW_RES_EXACT",
+      "image_status": "NO_CLEAN_EXACT",
       "provenance": {
         "membership": "PORTAL_SOURCE",
         "price": "PORTAL_SOURCE",
@@ -37,7 +37,7 @@
         "material": "OFFICIAL_SOURCE",
         "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
         "application": "BA_FURNITURE_EDITORIAL",
-        "image": "LOW_RES_EXACT"
+        "image": "NO_CLEAN_EXACT"
       }
     },
     {

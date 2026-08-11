@@ -6,7 +6,7 @@
 - 22/22 product routes: HTTP 200.
 - Exact Code membership: 22/22; code ngoài danh sách: 0.
 - Product cards: 22; duplicate Code: 0.
-- Product image mapping: 16 `LOW_RES_EXACT`, 6 `NO_CLEAN_EXACT` neutral placeholder.
+- Product image mapping: 15 `LOW_RES_EXACT`, 7 `NO_CLEAN_EXACT` neutral placeholder.
 - Category fallback: 0.
 - Wrong product image: 0.
 - Watermark/QR/supplier logo trên public assets: 0/0/0.
@@ -34,7 +34,7 @@
 
 ## Product samples
 
-- GL304: H1/Code/canonical/Product schema đúng; gallery 3 ảnh đúng mã; related routes đúng; broken image 0.
+- GL304: H1/Code/canonical đúng; placeholder disclosure hiển thị; Product schema không khai báo ảnh giả; ba ảnh exact-code có watermark đã bị xóa khỏi public tree; broken image 0.
 - GL345: H1/Code/canonical đúng; placeholder disclosure hiển thị; Product schema không khai báo ảnh giả; broken image 0.
 
 ## Regression
@@ -45,4 +45,13 @@
 
 ## Automated validation
 
-`STATIC_VALIDATION.json`: 128 checks PASS sau staging. Validator được chạy lại sau commit và sau Preview deployment.
+`STATIC_VALIDATION.json`: 122 checks PASS sau final visual correction. Validator được chạy lại sau commit và sau Preview deployment.
+
+## Vercel Preview
+
+- First Preview deployment ID: `5844049663`.
+- Environment URL: `https://bafurni-website-p60svn1ih-phuvuongdistributor-boops-projects.vercel.app`.
+- Branch alias: `https://bafurni-website-git-f-d5beaf-phuvuongdistributor-boops-projects.vercel.app`.
+- GitHub deployment state: `success`; description: `Deployment has completed`.
+- Commit-to-success observed: 44 giây.
+- Deployment Protection: Vercel SSO; browser QA sử dụng phiên đã được xác thực, không coi trang login HTTP 200 là homepage PASS.

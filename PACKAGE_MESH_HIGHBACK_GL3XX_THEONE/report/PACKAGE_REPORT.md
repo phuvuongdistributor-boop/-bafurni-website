@@ -23,11 +23,12 @@
 ## Image audit
 
 - Candidate URL: 229; tải thành công: 220; lỗi tải: 9.
-- Clean main images: 16/22.
-- Clean gallery images selected: 19 exact-byte files.
-- `CLEAN_EXACT`: 0; `LOW_RES_EXACT`: 19.
-- `NO_CLEAN_EXACT`: GL309, GL316, GL317, GL324, GL335, GL345.
-- Rejected: WATERMARK 16, QR 0, SUPPLIER_LOGO 9, WRONG_CODE 2, DUPLICATE 174, REJECT 9.
+- Clean main images: 15/22.
+- Clean gallery images selected: 16 exact-byte files.
+- `CLEAN_EXACT`: 0; `LOW_RES_EXACT`: 16.
+- `NO_CLEAN_EXACT`: GL304, GL309, GL316, GL317, GL324, GL335, GL345.
+- Rejected: WATERMARK 19, QR 0, SUPPLIER_LOGO 9, WRONG_CODE 2, DUPLICATE 174, REJECT 9.
+- Final visual correction: ba ảnh gốc GL304 có watermark chéo mờ trên lưng ghế; cả ba bị loại khỏi public assets và GL304 chuyển sang placeholder trung tính.
 - Highest candidate resolution: 800×500, nhưng thuộc `SUPPLIER_LOGO` và bị loại.
 - Lowest candidate resolution: 100×100 duplicate thumbnail và bị loại.
 - Highest/lowest selected clean resolution: 580×580 / 580×580.
@@ -41,7 +42,7 @@ Bảng 22 mã đầy đủ: `PRODUCT_SOURCE_IMAGE_STATUS.md`.
 - Buying guide: 589 từ.
 - FAQ: 10.
 - Marketing asset count: 5 — Hero, Collage, Thumbnail, OG, Social Cover.
-- Collage: 10 mã sạch, không dùng sáu mã thiếu ảnh.
+- Collage: 10 mã sạch, không dùng bảy mã thiếu ảnh.
 - Marketing copy: 2 Facebook, 1 Google Business, 1 Zalo OA, 5 caption, 10 hook, 10 CTA; chưa publish.
 - Knowledge package: 22 product summaries, verified features, comparison, FAQ, buying guide routing, keywords, sales points và source provenance.
 
@@ -53,7 +54,8 @@ Bảng 22 mã đầy đủ: `PRODUCT_SOURCE_IMAGE_STATUS.md`.
 - Quote Wizard landing, GL304, GL345: bước 1→2→3 PASS; submit 0.
 - Homepage V9.1 regression: 0.
 - V10.02 Executive Chair regression: 0.
-- Preview URL/status: `PENDING_FIRST_BRANCH_DEPLOY`.
+- Vercel Preview đầu tiên: `READY`, deployment ID `5844049663`, commit-to-success quan sát 44 giây.
+- Preview branch alias: `https://bafurni-website-git-f-d5beaf-phuvuongdistributor-boops-projects.vercel.app` (Deployment Protection / Vercel SSO).
 
 ## Missing fields not public
 
@@ -62,7 +64,7 @@ Package không biến các trường sau thành fact public vì nguồn chưa c�
 ## Known limitations
 
 1. Ảnh sạch chính thức chỉ 580×580; chi tiết vẫn bị giới hạn khi zoom, dù không upscale.
-2. Sáu mã dùng placeholder trung tính vì nguồn public chỉ có ảnh watermark/logo hoặc không có ảnh sạch.
+2. Bảy mã dùng placeholder trung tính vì nguồn public chỉ có ảnh watermark/logo hoặc không có ảnh sạch; GL304 được bổ sung vào nhóm này sau QA thị giác Preview.
 3. GL317 là biến thể lưng cao bọc da CN trong membership ProductDB/Portal, không phải tựa lưới.
 4. GL321 và GL343 đang được The One ghi ngừng kinh doanh; phải xác nhận mẫu thay thế/khả dụng.
 5. Giá ProductDB khác giá hiện hành trên 18 trang nguồn; website không dùng giá nguồn để ghi đè ProductDB.

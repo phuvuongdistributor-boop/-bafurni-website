@@ -2,7 +2,7 @@
 
 | Code | Source URL | Main image | Resolution | Gallery count | Rejected | Image status | Data status |
 |---|---|---|---:|---:|---:|---|---|
-| GL304 | https://theone.vn/san-pham/ghe-gl304 | https://theone.vn/wp-content/uploads/2024/03/theonevn-GL304L11.jpg | 580x580 | 3 | 16 | LOW_RES_EXACT | OFFICIAL_CORE_FIELDS_VERIFIED |
+| GL304 | https://theone.vn/san-pham/ghe-gl304 | NEUTRAL_PLACEHOLDER | NONE | 0 | 19 | NO_CLEAN_EXACT | OFFICIAL_CORE_FIELDS_VERIFIED |
 | GL307 | https://theone.vn/san-pham/ghe-gl307 | https://theone.vn/wp-content/uploads/2024/03/theonevn-GL307L11LX13.jpg | 580x580 | 1 | 9 | LOW_RES_EXACT | OFFICIAL_CORE_FIELDS_VERIFIED |
 | GL309 | https://theone.vn/san-pham/ghe-gl309 | NEUTRAL_PLACEHOLDER | NONE | 0 | 20 | NO_CLEAN_EXACT | OFFICIAL_CORE_FIELDS_VERIFIED |
 | GL316 | https://theone.vn/san-pham/ghe-gl316 | NEUTRAL_PLACEHOLDER | NONE | 0 | 19 | NO_CLEAN_EXACT | OFFICIAL_CORE_FIELDS_VERIFIED |

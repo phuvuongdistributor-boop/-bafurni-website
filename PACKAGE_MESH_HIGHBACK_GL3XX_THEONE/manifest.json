@@ -33,15 +33,16 @@
   },
   "images": {
     "candidate_urls": 229,
-    "selected_exact_byte_files": 19,
-    "codes_with_clean_main": 16,
-    "codes_without_clean_main": 6,
+    "selected_exact_byte_files": 16,
+    "codes_with_clean_main": 15,
+    "codes_without_clean_main": 7,
     "selected_resolution": "580x580",
     "watermark_public": 0,
     "qr_public": 0,
     "supplier_logo_public": 0,
     "wrong_code_public": 0,
     "product_pixels_upscaled": false,
+    "final_visual_correction": "GL304 exact-code originals contain a faint diagonal watermark; all GL304 product pixels were removed from public assets and replaced by the neutral placeholder.",
     "hero": "images/hero-1920x1080.png",
     "collage": "images/collage-1600x1200.png",
     "thumbnail": "images/thumbnail-1200x1200.png",
@@ -59,7 +60,11 @@
     "lead_submitted": 0,
     "homepage_v9_1_regression": 0,
     "v10_02_regression": 0,
-    "preview": "PENDING_FIRST_BRANCH_DEPLOY"
+    "preview": "READY",
+    "preview_branch_alias": "https://bafurni-website-git-f-d5beaf-phuvuongdistributor-boops-projects.vercel.app",
+    "first_preview_environment_url": "https://bafurni-website-p60svn1ih-phuvuongdistributor-boops-projects.vercel.app",
+    "deployment_protection": "VERCEL_SSO",
+    "preview_commit_to_success_seconds_observed": 44
   },
   "publish_status": {
     "main_merged": false,

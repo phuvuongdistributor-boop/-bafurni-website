@@ -15,7 +15,7 @@ const EXPECTED = [
   "GL332", "GL333", "GL334", "GL335", "GL336", "GL338", "GL343",
   "GL345"
 ];
-const NO_CLEAN = ["GL309", "GL316", "GL317", "GL324", "GL335", "GL345"];
+const NO_CLEAN = ["GL304", "GL309", "GL316", "GL317", "GL324", "GL335", "GL345"];
 
 const failures = [];
 const pass = [];
@@ -63,8 +63,8 @@ check(products.every((item) => item.priceLabel === "Giá tham khảo ProductDB")
 check(products.every((item) => item.fieldProvenance && item.sourceUrl.startsWith("https://theone.vn/")), "Field provenance and official source present");
 
 const placeholderCodes = products.filter((item) => item.isPlaceholder).map((item) => item.code);
-check(JSON.stringify(placeholderCodes) === JSON.stringify(NO_CLEAN), "Exactly six NO_CLEAN_EXACT placeholders", placeholderCodes.join(","));
-check(products.filter((item) => !item.isPlaceholder).every((item) => item.imageStatus === "LOW_RES_EXACT"), "16 image-bearing records are LOW_RES_EXACT");
+check(JSON.stringify(placeholderCodes) === JSON.stringify(NO_CLEAN), "Exactly seven NO_CLEAN_EXACT placeholders", placeholderCodes.join(","));
+check(products.filter((item) => !item.isPlaceholder).every((item) => item.imageStatus === "LOW_RES_EXACT"), "15 image-bearing records are LOW_RES_EXACT");
 for (const item of products) {
   if (item.isPlaceholder) {
     check(item.image.endsWith("placeholder.svg"), `${item.code} neutral placeholder mapping`);
@@ -83,10 +83,10 @@ for (const item of products) {
 const imageAudit = json("PACKAGE_MESH_HIGHBACK_GL3XX_THEONE/images/SOURCE_IMAGE_AUDIT.json");
 check(imageAudit.Totals.CandidateURLs === 229, "229 source image candidates audited");
 check(imageAudit.Totals.ClassificationTotals.QR === 0, "Rejected QR count recorded as 0");
-check(imageAudit.Totals.ClassificationTotals.WATERMARK === 16, "16 watermark candidates rejected");
+check(imageAudit.Totals.ClassificationTotals.WATERMARK === 19, "19 watermark candidates rejected after final visual correction");
 check(imageAudit.Totals.ClassificationTotals.WRONG_CODE === 2, "2 wrong-code candidates rejected");
 const selectedCandidates = imageAudit.Candidates.filter((item) => item.SelectedRole);
-check(selectedCandidates.length === 19, "19 selected exact-byte source files");
+check(selectedCandidates.length === 16, "16 selected exact-byte source files");
 for (const candidate of selectedCandidates) {
   const filename = candidate.SelectedRole === "MAIN"
     ? "main.jpg"
@@ -103,6 +103,9 @@ const marketing = [
   ["og-1200x630.png", 1200, 630],
   ["social-cover-1640x924.png", 1640, 924]
 ];
+const marketingManifest = text("PACKAGE_MESH_HIGHBACK_GL3XX_THEONE/images/IMAGE_MANIFEST.csv");
+check(!marketingManifest.includes("GL304"), "Watermarked GL304 pixels excluded from every marketing asset");
+check(!exists("assets/v10-04/gl3xx-theone/products/GL304/main.jpg"), "Watermarked GL304 main asset removed from public tree");
 for (const [filename, width, height] of marketing) {
   const packageFile = path.join(PACKAGE, "images", filename);
   const publicFile = path.join(REPO, "assets", "v10-04", "gl3xx-theone", "marketing", filename);
@@ -148,8 +151,8 @@ const result = {
   metrics: {
     products: products.length,
     source_pages: 22,
-    low_res_exact_codes: 16,
-    no_clean_exact_codes: 6,
+    low_res_exact_codes: 15,
+    no_clean_exact_codes: 7,
     clean_gallery_images: products.reduce((sum, item) => sum + item.verifiedGalleryCount, 0),
     landing_words: words(landingCopy),
     guide_words: words(guide),

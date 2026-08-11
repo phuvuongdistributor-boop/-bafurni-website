@@ -33,14 +33,14 @@
     "CandidateURLs": 229,
     "Downloaded": 220,
     "DownloadFailed": 9,
-    "SelectedExactByteCopies": 19,
-    "CodesWithProposedMain": 16,
-    "CodesWithoutCleanMain": 6,
+    "SelectedExactByteCopies": 16,
+    "CodesWithProposedMain": 15,
+    "CodesWithoutCleanMain": 7,
     "MaxCleanLongSideAcrossScope": 580,
     "ClassificationTotals": {
       "CLEAN_EXACT": 0,
-      "LOW_RES_EXACT": 19,
-      "WATERMARK": 16,
+      "LOW_RES_EXACT": 16,
+      "WATERMARK": 19,
       "QR": 0,
       "SUPPLIER_LOGO": 9,
       "WRONG_CODE": 2,
@@ -56,28 +56,22 @@
       "DownloadedCount": 19,
       "OriginalAttachmentCount": 4,
       "CLEAN_EXACT": 0,
-      "LOW_RES_EXACT": 3,
-      "WATERMARK": 0,
+      "LOW_RES_EXACT": 0,
+      "WATERMARK": 3,
       "QR": 0,
       "SUPPLIER_LOGO": 1,
       "WRONG_CODE": 0,
       "DUPLICATE": 15,
       "REJECT": 0,
-      "ProposedMainURL": "https://theone.vn/wp-content/uploads/2024/03/theonevn-GL304L11.jpg",
-      "ProposedMainPath": "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/selected/GL304/main__theonevn-GL304L11.jpg",
-      "ProposedGalleryURLs": [
-        "https://theone.vn/wp-content/uploads/2024/03/theonevn-GL304L11_1.jpg",
-        "https://theone.vn/wp-content/uploads/2024/03/theonevn-GL304L11_2.jpg"
-      ],
-      "ProposedGalleryPaths": [
-        "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/selected/GL304/gallery_01__theonevn-GL304L11_1.jpg",
-        "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/selected/GL304/gallery_02__theonevn-GL304L11_2.jpg"
-      ],
-      "SelectedCount": 3,
-      "RejectedCount": 16,
-      "MaxCleanResolution": "580x580",
-      "MaxCleanLongSide": 580,
-      "Recommendation": "USE_PROVISIONALLY_WITH_LOW_RES_DISCLOSURE; exact clean original only 580x580; never upscale."
+      "ProposedMainURL": null,
+      "ProposedMainPath": null,
+      "ProposedGalleryURLs": [],
+      "ProposedGalleryPaths": [],
+      "SelectedCount": 0,
+      "RejectedCount": 19,
+      "MaxCleanResolution": "NONE",
+      "MaxCleanLongSide": 0,
+      "Recommendation": "DO_NOT_PUBLISH; all exact-code product originals contain a visible watermark. Use the neutral placeholder until a clean official asset is available."
     },
     {
       "Code": "GL307",
@@ -606,15 +600,15 @@
       "SHA256": "3bd4067c4de2e6e1291b4647bb5bc7265bfb30a3f31a4c0e2e3e83e36a01c43f",
       "DuplicateOfURL": "",
       "DuplicateHashGroupSize": 1,
-      "Classification": "LOW_RES_EXACT",
-      "ClassificationReason": "Visually clean exact-code original, but maximum edge is only 580px (below the 1000px package target).",
-      "VisualInspection": "VISUAL_INSPECTED",
+      "Classification": "WATERMARK",
+      "ClassificationReason": "Final preview visual QA found a faint diagonal watermark embedded across the chair-back mesh; the asset is exact-code but cannot be published.",
+      "VisualInspection": "VISUAL_INSPECTED_CORRECTED_AT_PREVIEW",
       "LocalPath": "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/raw/GL304/001_theonevn-GL304L11.jpg",
       "DownloadError": "",
-      "SelectedRole": "MAIN",
-      "SelectedPath": "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/selected/GL304/main__theonevn-GL304L11.jpg",
-      "SelectedSHA256": "3bd4067c4de2e6e1291b4647bb5bc7265bfb30a3f31a4c0e2e3e83e36a01c43f",
-      "ExactBytesPreserved": true
+      "SelectedRole": "",
+      "SelectedPath": "",
+      "SelectedSHA256": "",
+      "ExactBytesPreserved": false
     },
     {
       "Code": "GL304",
@@ -741,15 +735,15 @@
       "SHA256": "9d50d1b02e3c70dd44dff113bbdb7f6c8f6b16e389156eecc9f8d43bcef00447",
       "DuplicateOfURL": "",
       "DuplicateHashGroupSize": 1,
-      "Classification": "LOW_RES_EXACT",
-      "ClassificationReason": "Visually clean exact-code original, but maximum edge is only 580px (below the 1000px package target).",
-      "VisualInspection": "VISUAL_INSPECTED",
+      "Classification": "WATERMARK",
+      "ClassificationReason": "Final preview visual QA found a faint diagonal watermark embedded across the chair-back mesh; the asset is exact-code but cannot be published.",
+      "VisualInspection": "VISUAL_INSPECTED_CORRECTED_AT_PREVIEW",
       "LocalPath": "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/raw/GL304/006_theonevn-GL304L11_1.jpg",
       "DownloadError": "",
-      "SelectedRole": "GALLERY_01",
-      "SelectedPath": "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/selected/GL304/gallery_01__theonevn-GL304L11_1.jpg",
-      "SelectedSHA256": "9d50d1b02e3c70dd44dff113bbdb7f6c8f6b16e389156eecc9f8d43bcef00447",
-      "ExactBytesPreserved": true
+      "SelectedRole": "",
+      "SelectedPath": "",
+      "SelectedSHA256": "",
+      "ExactBytesPreserved": false
     },
     {
       "Code": "GL304",
@@ -876,15 +870,15 @@
       "SHA256": "773ea7bc4b0114b64adc4f5b1547a6d1f78e2aaf4e8da340b8cd7cdc00ded590",
       "DuplicateOfURL": "",
       "DuplicateHashGroupSize": 1,
-      "Classification": "LOW_RES_EXACT",
-      "ClassificationReason": "Visually clean exact-code original, but maximum edge is only 580px (below the 1000px package target).",
-      "VisualInspection": "VISUAL_INSPECTED",
+      "Classification": "WATERMARK",
+      "ClassificationReason": "Final preview visual QA found a faint diagonal watermark embedded across the chair-back mesh; the asset is exact-code but cannot be published.",
+      "VisualInspection": "VISUAL_INSPECTED_CORRECTED_AT_PREVIEW",
       "LocalPath": "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/raw/GL304/011_theonevn-GL304L11_2.jpg",
       "DownloadError": "",
-      "SelectedRole": "GALLERY_02",
-      "SelectedPath": "C:/Users/Admin/.codex/visualizations/2026/07/16/019f6a5a-f60f-72d3-8f66-398492e30693/v10-04-image-harvest/selected/GL304/gallery_02__theonevn-GL304L11_2.jpg",
-      "SelectedSHA256": "773ea7bc4b0114b64adc4f5b1547a6d1f78e2aaf4e8da340b8cd7cdc00ded590",
-      "ExactBytesPreserved": true
+      "SelectedRole": "",
+      "SelectedPath": "",
+      "SelectedSHA256": "",
+      "ExactBytesPreserved": false
     },
     {
       "Code": "GL304",
@@ -6754,5 +6748,12 @@
       "SelectedSHA256": "",
       "ExactBytesPreserved": false
     }
-  ]
+  ],
+  "VisualCorrection": {
+    "Code": "GL304",
+    "AppliedAt": "2026-08-11",
+    "Stage": "FINAL_PREVIEW_VISUAL_QA",
+    "Reason": "Final preview visual QA found a faint diagonal watermark embedded across the chair-back mesh; the asset is exact-code but cannot be published.",
+    "Action": "Removed all GL304 product pixels from public assets and switched the product to the neutral placeholder."
+  }
 }

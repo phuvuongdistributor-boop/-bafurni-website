@@ -2,15 +2,11 @@
   {
     "code": "GL304",
     "name": "Ghế Lưới Trưởng Phòng The One GL304",
-    "image": "/assets/v10-04/gl3xx-theone/products/GL304/main.jpg",
-    "imageWidth": 580,
-    "imageHeight": 580,
-    "gallery": [
-      "/assets/v10-04/gl3xx-theone/products/GL304/main.jpg",
-      "/assets/v10-04/gl3xx-theone/products/GL304/gallery-01.jpg",
-      "/assets/v10-04/gl3xx-theone/products/GL304/gallery-02.jpg"
-    ],
-    "verifiedGalleryCount": 3,
+    "image": "/assets/v10-04/gl3xx-theone/products/placeholder.svg",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "gallery": [],
+    "verifiedGalleryCount": 0,
     "price": 1894200,
     "priceLabel": "Giá tham khảo ProductDB",
     "size": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
@@ -25,7 +21,7 @@
     "colors": "",
     "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
     "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
-    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "",
     "relatedCodes": [
       "GL307",
@@ -35,10 +31,10 @@
     "sourceBrand": "The One",
     "sourceUrl": "https://theone.vn/san-pham/ghe-gl304",
     "detailUrl": "/san-pham/ghe-luoi-lung-cao/gl304",
-    "imageStatus": "LOW_RES_EXACT",
-    "isPlaceholder": false,
-    "imageNaturalResolution": "580x580",
-    "rejectedImageCount": 16,
+    "imageStatus": "NO_CLEAN_EXACT",
+    "isPlaceholder": true,
+    "imageNaturalResolution": "NONE",
+    "rejectedImageCount": 19,
     "fieldProvenance": {
       "membership": "PORTAL_SOURCE",
       "price": "PORTAL_SOURCE",
@@ -47,7 +43,7 @@
       "material": "OFFICIAL_SOURCE",
       "features": "BA_FURNITURE_EDITORIAL_FROM_OFFICIAL_SOURCE",
       "application": "BA_FURNITURE_EDITORIAL",
-      "image": "LOW_RES_EXACT"
+      "image": "NO_CLEAN_EXACT"
     }
   },
   {

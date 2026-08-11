@@ -6,7 +6,7 @@ GL304,Material,OFFICIAL_SOURCE,https://theone.vn/san-pham/ghe-gl304
 GL304,Features,BA_FURNITURE_EDITORIAL,https://theone.vn/san-pham/ghe-gl304
 GL304,Price,PORTAL_SOURCE,ProductDB SalePrice; public label is reference price
 GL304,Application,BA_FURNITURE_EDITORIAL,Derived only from verified construction/features
-GL304,Image,LOW_RES_EXACT,https://theone.vn/wp-content/uploads/2024/03/theonevn-GL304L11.jpg
+GL304,Image,NO_CLEAN_EXACT,MISSING
 GL307,Membership,PORTAL_SOURCE,ProductDB/Portal package inventory
 GL307,ProductName,OFFICIAL_SOURCE,https://theone.vn/san-pham/ghe-gl307
 GL307,Size,OFFICIAL_SOURCE,https://theone.vn/san-pham/ghe-gl307

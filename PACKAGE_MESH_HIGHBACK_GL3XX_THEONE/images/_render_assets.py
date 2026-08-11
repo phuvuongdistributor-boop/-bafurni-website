@@ -26,8 +26,9 @@ FONT_BOLD = Path("C:/Windows/Fonts/segoeuib.ttf")
 FONT_SERIF = Path("C:/Windows/Fonts/segoeui.ttf")
 FONT_SERIF_BOLD = Path("C:/Windows/Fonts/segoeuib.ttf")
 
-COLLAGE_CODES = ["GL304", "GL307", "GL320", "GL323", "GL326", "GL328", "GL331", "GL332", "GL333", "GL334"]
-HERO_CODES = ["GL304", "GL328", "GL333"]
+COLLAGE_CODES = ["GL307", "GL320", "GL322", "GL323", "GL326", "GL328", "GL329", "GL331", "GL333", "GL334"]
+HERO_CODES = ["GL328", "GL333", "GL323"]
+WIDE_CODES = ["GL328", "GL331", "GL333", "GL323"]
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -150,7 +151,7 @@ def render_thumbnail() -> Path:
     draw.text((60, 195), "THE ONE · GL3XX", font=font(FONT_BOLD, 23), fill="#C9BDB4")
     text_block(draw, (60, 235), "Ghế lưới\nlưng cao", font(FONT_SERIF_BOLD, 79), PAPER, 560, 0)
     draw.text((60, 455), "22 mã theo nhu cầu thật", font=font(FONT_REGULAR, 26), fill="#C9BDB4")
-    for (x, y), code in zip([(55, 625), (405, 570), (755, 625)], ["GL304", "GL328", "GL333"]):
+    for (x, y), code in zip([(55, 625), (405, 570), (755, 625)], HERO_CODES):
         product_panel(canvas, code, (x, y, 390, 500), 27)
     return save_png(canvas, "thumbnail-1200x1200.png")
 
@@ -168,7 +169,7 @@ def render_wide(filename: str, size: tuple[int, int]) -> Path:
     panel_w, panel_h = round(w * 0.38), round(h * 0.84)
     gap = max(7, round(w * 0.008))
     cw, ch = (panel_w - gap) // 2, (panel_h - gap) // 2
-    for index, code in enumerate(["GL304", "GL328", "GL331", "GL333"]):
+    for index, code in enumerate(WIDE_CODES):
         col, row = index % 2, index // 2
         product_panel(canvas, code, (panel_x + col * (cw + gap), panel_y + row * (ch + gap), cw, ch), max(16, round(19 * scale)))
     return save_png(canvas, filename)
@@ -198,9 +199,9 @@ def write_manifest(paths: list[Path]) -> None:
     rows = [
         ("Hero", paths[0], HERO_CODES),
         ("Collage", paths[1], COLLAGE_CODES),
-        ("Thumbnail", paths[2], ["GL304", "GL328", "GL333"]),
-        ("OG", paths[3], ["GL304", "GL328", "GL331", "GL333"]),
-        ("Social Cover", paths[4], ["GL304", "GL328", "GL331", "GL333"]),
+        ("Thumbnail", paths[2], HERO_CODES),
+        ("OG", paths[3], WIDE_CODES),
+        ("Social Cover", paths[4], WIDE_CODES),
     ]
     with (OUTPUT / "IMAGE_MANIFEST.csv").open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.writer(handle)
