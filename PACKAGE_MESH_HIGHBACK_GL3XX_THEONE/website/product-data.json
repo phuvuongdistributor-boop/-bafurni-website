@@ -24,7 +24,7 @@
     "colors": "",
     "application": "Vị trí quản lý hoặc nhân viên cần ghế lưng cao dùng bề mặt lưới và chân xoay có bánh xe.",
     "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
-    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "",
     "relatedCodes": [
       "GL307",
@@ -127,7 +127,7 @@
     "colors": "D16",
     "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
     "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả nhiều góc.",
-    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "",
     "relatedCodes": [
       "GL332",
@@ -179,7 +179,7 @@
     "colors": "",
     "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
     "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc.",
-    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "",
     "relatedCodes": [
       "GL324",
@@ -228,7 +228,7 @@
     "colors": "",
     "application": "Vị trí quản lý cần dáng ghế lưng cao bọc da CN trong cùng dải GL3xx; đây không phải mẫu tựa lưới.",
     "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Sử dụng cấu hình chân xoay.",
-    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "",
     "relatedCodes": [
       "GL304",
@@ -483,7 +483,7 @@
     "colors": "",
     "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
     "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có cơ cấu ngả nhiều góc.",
-    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "",
     "relatedCodes": [
       "GL316",
@@ -894,7 +894,7 @@
     "colors": "",
     "application": "Vị trí làm việc cần ghế lưng cao có cơ cấu ngả; phù hợp khi không gian phía sau đủ cho biên độ công bố.",
     "strength": "Chân xoay có bánh xe di chuyển; Có cơ cấu ngả/hãm nhiều góc; Sử dụng cấu hình chân xoay.",
-    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Giá hiển thị là giá tham khảo ProductDB, cần xác nhận lại theo cấu hình và thời điểm; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "",
     "relatedCodes": [
       "GL316",
@@ -1098,7 +1098,7 @@
     "colors": "",
     "application": "Vị trí quản lý hoặc nhân viên ưu tiên tựa đầu trên ghế lưng cao; cần đối chiếu kích thước bàn và khoảng ngả trước khi chọn.",
     "strength": "Điều chỉnh độ cao bằng cơ cấu khí nén; Chân xoay có bánh xe di chuyển; Có tựa đầu.",
-    "limitation": "Trang nguồn yêu cầu liên hệ thay vì công bố giá hiện hành; chưa có ảnh public sạch đúng mã để hiển thị; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
+    "limitation": "Trang nguồn yêu cầu liên hệ thay vì công bố giá hiện hành; nguồn không công bố tải trọng, tồn kho hoặc thời gian giao.",
     "availabilityNote": "Nguồn The One yêu cầu liên hệ để xác nhận giá và khả dụng.",
     "relatedCodes": [
       "GL309",
