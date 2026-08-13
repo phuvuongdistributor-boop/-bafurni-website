@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "checks_passed": 122,
+  "failures": [],
+  "metrics": {
+    "products": 22,
+    "source_pages": 22,
+    "low_res_exact_codes": 15,
+    "no_clean_exact_codes": 7,
+    "clean_gallery_images": 16,
+    "landing_words": 725,
+    "guide_words": 589,
+    "faq_count": 10,
+    "marketing_assets": 5,
+    "changed_files": 86
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://bafurni.com/danh-muc/ghe-luoi-lung-cao#page",
+      "url": "https://bafurni.com/danh-muc/ghe-luoi-lung-cao",
+      "name": "Ghế lưới lưng cao và cao cấp GL3xx The One"
+    },
+    {
+      "@type": "ItemList",
+      "name": "22 mẫu ghế lưới lưng cao GL3xx The One",
+      "numberOfItems": 22,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl304",
+          "name": "Ghế Lưới Trưởng Phòng The One GL304"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl307",
+          "name": "Ghế Lưới Lưng Cao The One GL307"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl309",
+          "name": "Ghế Lưới Tựa Đầu The One GL309"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl316",
+          "name": "Ghế Xoay Lưới Cao Cấp The One GL316"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl317",
+          "name": "Ghế Xoay Lưng Cao The One GL317"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl320",
+          "name": "Ghế Xoay Lưới Hiện Đại The One GL320"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl321",
+          "name": "Ghế Làm Việc Cao Cấp The One GL321"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl322",
+          "name": "Ghế Xoay Lưới Tựa Đầu The One GL322"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl323",
+          "name": "Ghế Văn Phòng Gác Chân The One GL323"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl324",
+          "name": "Ghế Xoay Lưới Cao Cấp The One GL324"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl326",
+          "name": "Ghế Trưởng Phòng Cao Cấp The One GL326"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl328",
+          "name": "Ghế Lưới Lãnh Đạo The One GL328"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl329",
+          "name": "Ghế Xoay Lưới Văn Phòng The One GL329"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl331",
+          "name": "Ghế Lãnh Đạo Hiện Đại The One GL331"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl332",
+          "name": "Ghế Làm Việc Ngả Lưng The One GL332"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl333",
+          "name": "Ghế Lãnh Đạo Lưng Cao The One GL333"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl334",
+          "name": "Ghế Văn Phòng Ngả Lưng The One GL334"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl335",
+          "name": "Ghế Lưới Lưng Cao GL335"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl336",
+          "name": "Ghế Xoay Lưới The One GL336"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl338",
+          "name": "Ghế Xoay Lưới Cao Cấp GL338"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl343",
+          "name": "Ghế Xoay Lưới Cao Cấp GL343"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl345",
+          "name": "Ghế lưới lưng cao The One GL345"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ghế lưới lưng cao có phù hợp khi ngồi nhiều giờ không?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Có thể phù hợp nếu kích thước, tay ghế, tựa và cơ cấu tương thích với người ngồi và bàn. Nguồn không công bố một mức tải trọng hoặc tiêu chuẩn công thái học chung cho cả 22 mã."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ghế lưới khác ghế da như thế nào?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lưới ưu tiên bề mặt thoáng. GL317 là mẫu lưng cao bọc da CN trong danh sách package, không phải mẫu tựa lưới."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mẫu nào có tựa đầu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Thông tin tựa đầu được xác nhận qua tên hoặc thông số nguồn cho GL309, GL322, GL332, GL343 và GL345."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Có điều chỉnh độ cao không?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cơ cấu nâng hạ được ghi riêng trên từng trang chi tiết khi nguồn công bố; không áp dụng mặc định cho toàn bộ nhóm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "GL304 khác GL345 ở đâu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GL304 rộng 585 mm, có khung và chân thép mạ bọc lưới. GL345 rộng 695 mm; nguồn xác nhận tựa đầu và tay điều chỉnh độ cao."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Có thể chọn màu theo yêu cầu không?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Trang GL309 công bố mã màu D16. Với các mã còn lại, màu khả dụng phải được xác nhận theo Code và cấu hình tại thời điểm báo giá."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tải trọng tối đa là bao nhiêu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nguồn chính thức đã kiểm tra không công bố tải trọng đồng nhất cho cả package; website không đưa số ước đoán."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Giá website đã là giá cuối chưa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Chưa. Giá hiển thị là SalePrice từ ProductDB và được ghi rõ là giá tham khảo; giá cuối cần xác nhận theo cấu hình, số lượng và thời điểm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Có mẫu nào có cơ cấu để chân?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nguồn công bố cơ cấu để chân cho GL323, GL326, GL333, GL334 và GL336; cần kiểm tra chiều sâu tối đa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mua số lượng được tư vấn thế nào?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gửi số lượng, khu vực và những Code đang cân nhắc qua Quote Wizard để BA_Furniture đối chiếu cấu hình và tình trạng nguồn trước khi báo giá."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl304#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl304",
+      "name": "Ghế Lưới Trưởng Phòng The One GL304",
+      "sku": "GL304",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Lưới Trưởng Phòng The One GL304 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: Rộng 585 x Sâu 680 x Cao (1180÷1260) mm. Vật liệu: Khung thép mạ bọc vải lưới chịu lực; chân thép mạ.",
+      "material": "Khung thép mạ bọc vải lưới chịu lực; chân thép mạ",
+      "size": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
+      "category": "Ghế lưng cao GL3xx"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl307#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl307",
+      "name": "Ghế Lưới Lưng Cao The One GL307",
+      "sku": "GL307",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Lưới Lưng Cao The One GL307 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: Rộng 550 x Sâu 650 x Cao (1050÷1130) mm. Vật liệu: Khung tựa, tay và chân thép mạ; đệm mút bọc vải lưới xốp; tựa bọc vải lưới chịu lực.",
+      "material": "Khung tựa, tay và chân thép mạ; đệm mút bọc vải lưới xốp; tựa bọc vải lưới chịu lực",
+      "size": "Rộng 550 x Sâu 650 x Cao (1050÷1130) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL307/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl309#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl309",
+      "name": "Ghế Lưới Tựa Đầu The One GL309",
+      "sku": "GL309",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Lưới Tựa Đầu The One GL309 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc. Kích thước nguồn công bố: Rộng 620 x Sâu (520÷1280) x Cao (1215÷1295) mm. Vật liệu: Chân thép mạ, tay nhựa ốp PU.",
+      "material": "Chân thép mạ, tay nhựa ốp PU",
+      "size": "Rộng 620 x Sâu (520÷1280) x Cao (1215÷1295) mm",
+      "category": "Ghế lưng cao GL3xx"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl316#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl316",
+      "name": "Ghế Xoay Lưới Cao Cấp The One GL316",
+      "sku": "GL316",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới Cao Cấp The One GL316 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Kích thước nguồn công bố: Rộng 655 x Sâu (605÷935) x Cao (1080 ÷1160) mm. Vật liệu: Tựa lưới & PVC; đệm mút bọc PVC; chân thép mạ; tay thép mạ & nhựa.",
+      "material": "Tựa lưới & PVC; đệm mút bọc PVC; chân thép mạ; tay thép mạ & nhựa",
+      "size": "Rộng 655 x Sâu (605÷935) x Cao (1080 ÷1160) mm",
+      "category": "Ghế lưng cao GL3xx"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl317#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl317",
+      "name": "Ghế Xoay Lưng Cao The One GL317",
+      "sku": "GL317",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưng Cao The One GL317 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: Rộng 585 x Sâu 680 x Cao (1180÷1260) mm. Vật liệu: Khung thép bọc da CN; chân tay thép mạ.",
+      "material": "Khung thép bọc da CN; chân tay thép mạ",
+      "size": "Rộng 585 x Sâu 680 x Cao (1180÷1260) mm",
+      "category": "Ghế lưng cao GL3xx"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl320#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl320",
+      "name": "Ghế Xoay Lưới Hiện Đại The One GL320",
+      "sku": "GL320",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới Hiện Đại The One GL320 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: Rộng 600 x Sâu (710÷1015) x Cao (1160÷1240) mm. Vật liệu: Khung thép mạ bọc vải lưới; tay chân thép mạ.",
+      "material": "Khung thép mạ bọc vải lưới; tay chân thép mạ",
+      "size": "Rộng 600 x Sâu (710÷1015) x Cao (1160÷1240) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL320/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl321#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl321",
+      "name": "Ghế Làm Việc Cao Cấp The One GL321",
+      "sku": "GL321",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Làm Việc Cao Cấp The One GL321 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: Chân nhựa: Rộng 630 x Sâu (680÷975) x Cao (1215÷1340) mm Chân mạ: Rộng 630 x Sâu (680÷975) x Cao (1205÷1280) mm Chân mạ M1: Rộng 630 x Sâu (680÷975) x Cao (1190÷1270) mm. Vật liệu: Khung nhựa bọc lưới; đệm mút bọc da; tay nhựa; chân nhựa/ mạ.",
+      "material": "Khung nhựa bọc lưới; đệm mút bọc da; tay nhựa; chân nhựa/ mạ",
+      "size": "Chân nhựa: Rộng 630 x Sâu (680÷975) x Cao (1215÷1340) mm Chân mạ: Rộng 630 x Sâu (680÷975) x Cao (1205÷1280) mm Chân mạ M1: Rộng 630 x Sâu (680÷975) x Cao (1190÷1270) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL321/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl322#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl322",
+      "name": "Ghế Xoay Lưới Tựa Đầu The One GL322",
+      "sku": "GL322",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới Tựa Đầu The One GL322 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: ghế chân Nhựa: Rộng 620 x Sâu (600÷870) x Cao (1125÷1200) mm; ghế chân Mạ: Rộng 620 x Sâu (600÷870) x Cao (1155÷1235) mm; ghế chân mạ M1: Rộng 620 x Sâu (600÷870) x Cao (1135÷1215) mm. Vật liệu: Khung nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân nhựa/ mạ.",
+      "material": "Khung nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân nhựa/ mạ",
+      "size": "ghế chân Nhựa: Rộng 620 x Sâu (600÷870) x Cao (1125÷1200) mm; ghế chân Mạ: Rộng 620 x Sâu (600÷870) x Cao (1155÷1235) mm; ghế chân mạ M1: Rộng 620 x Sâu (600÷870) x Cao (1135÷1215) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL322/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl323#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl323",
+      "name": "Ghế Văn Phòng Gác Chân The One GL323",
+      "sku": "GL323",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Văn Phòng Gác Chân The One GL323 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc. Kích thước nguồn công bố: Rộng 635 x Sâu (510÷1020) x Cao (1155÷1230) mm. Vật liệu: Khung nhựa bọc vải lưới; chân thép mạ.",
+      "material": "Khung nhựa bọc vải lưới; chân thép mạ",
+      "size": "Rộng 635 x Sâu (510÷1020) x Cao (1155÷1230) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL323/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl324#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl324",
+      "name": "Ghế Xoay Lưới Cao Cấp The One GL324",
+      "sku": "GL324",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới Cao Cấp The One GL324 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả nhiều góc. Kích thước nguồn công bố: Chân nhựa: Rộng 665 x Sâu (665÷975) x Cao ( 1125-1220 ) mm Chân mạ: Rộng 665 x Sâu (665÷975) x Cao (1145÷1220) mm Chân mạ M1: Rộng 665 x Sâu (665÷975) x Cao (1120÷1200) mm. Vật liệu: Khung nhựa bọc lưới; đệm mút bọc vải lưới; tay nhựa; chân nhựa/ mạ.",
+      "material": "Khung nhựa bọc lưới; đệm mút bọc vải lưới; tay nhựa; chân nhựa/ mạ",
+      "size": "Chân nhựa: Rộng 665 x Sâu (665÷975) x Cao ( 1125-1220 ) mm Chân mạ: Rộng 665 x Sâu (665÷975) x Cao (1145÷1220) mm Chân mạ M1: Rộng 665 x Sâu (665÷975) x Cao (1120÷1200) mm",
+      "category": "Ghế lưng cao GL3xx"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl326#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl326",
+      "name": "Ghế Trưởng Phòng Cao Cấp The One GL326",
+      "sku": "GL326",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Trưởng Phòng Cao Cấp The One GL326 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Kích thước nguồn công bố: Rộng 620 x Sâu (645÷1600) x Cao (1180÷1260) mm. Vật liệu: Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân thép mạ.",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân thép mạ",
+      "size": "Rộng 620 x Sâu (645÷1600) x Cao (1180÷1260) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL326/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl328#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl328",
+      "name": "Ghế Lưới Lãnh Đạo The One GL328",
+      "sku": "GL328",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Lưới Lãnh Đạo The One GL328 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Kích thước nguồn công bố: Rộng 645 x Sâu (645÷900) x Cao (1130÷1210) mm. Vật liệu: Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân hợp kim nhôm.",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc vải lưới xốp, tay nhựa, chân hợp kim nhôm",
+      "size": "Rộng 645 x Sâu (645÷900) x Cao (1130÷1210) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL328/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl329#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl329",
+      "name": "Ghế Xoay Lưới Văn Phòng The One GL329",
+      "sku": "GL329",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới Văn Phòng The One GL329 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Sử dụng cấu hình chân xoay. Tay ghế sử dụng vật liệu nhựa. Kích thước nguồn công bố: Chân nhựa rộng 580 x sâu 630 x cao 1100-1195 mm Chân mạ rộng 580 x sâu 630 x cao 1105-1180 mm. Vật liệu: Khung nhựa bọc vải lưới, đệm mút bọc PVC, chân tay nhựa.",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc PVC, chân tay nhựa",
+      "size": "Chân nhựa rộng 580 x sâu 630 x cao 1100-1195 mm Chân mạ rộng 580 x sâu 630 x cao 1105-1180 mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL329/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl331#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl331",
+      "name": "Ghế Lãnh Đạo Hiện Đại The One GL331",
+      "sku": "GL331",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Lãnh Đạo Hiện Đại The One GL331 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Tay ghế có thể gập. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: Rộng 650 x Sâu 680 x Cao (1170÷1250) mm. Vật liệu: Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ.",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ",
+      "size": "Rộng 650 x Sâu 680 x Cao (1170÷1250) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL331/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl332#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl332",
+      "name": "Ghế Làm Việc Ngả Lưng The One GL332",
+      "sku": "GL332",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Làm Việc Ngả Lưng The One GL332 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có tựa đầu. Tựa đầu có thể điều chỉnh. Kích thước nguồn công bố: Rộng 655 x Sâu (610÷900) x Cao (1180÷1260) mm. Vật liệu: Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa.",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa",
+      "size": "Rộng 655 x Sâu (610÷900) x Cao (1180÷1260) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL332/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl333#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl333",
+      "name": "Ghế Lãnh Đạo Lưng Cao The One GL333",
+      "sku": "GL333",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Lãnh Đạo Lưng Cao The One GL333 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Có cơ cấu để chân. Kích thước nguồn công bố: Ghế chân nhựa: Rộng 600 x Sâu (610÷1580) x Cao (1190÷1250) mm Ghế chân mạ: Rộng 600 x Sâu (595÷1660) x Cao (1210÷1290) mm. Vật liệu: Khung tựa nhựa bọc vải lưới, đệm mút bọc vải, chân thép mạ/nhựa, tay nhựa+thép mạ.",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc vải, chân thép mạ/nhựa, tay nhựa+thép mạ",
+      "size": "Ghế chân nhựa: Rộng 600 x Sâu (610÷1580) x Cao (1190÷1250) mm Ghế chân mạ: Rộng 600 x Sâu (595÷1660) x Cao (1210÷1290) mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL333/main.jpg",
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL333/gallery-01.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl334#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl334",
+      "name": "Ghế Văn Phòng Ngả Lưng The One GL334",
+      "sku": "GL334",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Văn Phòng Ngả Lưng The One GL334 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Có cơ cấu để chân. Kích thước nguồn công bố: Rộng 610 x sâu 660-1610 x cao 1240-1320 mm. Vật liệu: Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa.",
+      "material": "Khung tựa nhựa bọc vải lưới, đệm mút bọc PVC, chân thép mạ, tay nhựa",
+      "size": "Rộng 610 x sâu 660-1610 x cao 1240-1320 mm",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL334/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl335#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl335",
+      "name": "Ghế Lưới Lưng Cao GL335",
+      "sku": "GL335",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Lưới Lưng Cao GL335 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Sử dụng cấu hình chân xoay. Kích thước nguồn công bố: Rộng 680 x Sâu (585-880) x Cao (1220-1300) mm. Vật liệu: Khung nhựa bọc vải lưới, đệm mút bọc PVC, Chân thép mạ, tay nhựa.",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc PVC, Chân thép mạ, tay nhựa",
+      "size": "Rộng 680 x Sâu (585-880) x Cao (1220-1300) mm",
+      "category": "Ghế lưng cao GL3xx"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl336#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl336",
+      "name": "Ghế Xoay Lưới The One GL336",
+      "sku": "GL336",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới The One GL336 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có cơ cấu ngả/hãm nhiều góc. Kích thước nguồn công bố: (mm) Chân mạ: Rộng 620 x Sâu 570-1490 x Cao 1210-1290 mm. Chân mạ M1: Rộng 620 x Sâu 570-1490 x Cao 1190-1270 mm.. Vật liệu: Khung nhựa bọc vải lưới, đệm mút bọc vải, Chân thép mạ, tay nhựa.",
+      "material": "Khung nhựa bọc vải lưới, đệm mút bọc vải, Chân thép mạ, tay nhựa",
+      "size": "(mm) Chân mạ: Rộng 620 x Sâu 570-1490 x Cao 1210-1290 mm. Chân mạ M1: Rộng 620 x Sâu 570-1490 x Cao 1190-1270 mm.",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL336/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl338#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl338",
+      "name": "Ghế Xoay Lưới Cao Cấp GL338",
+      "sku": "GL338",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới Cao Cấp GL338 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Tay ghế sử dụng vật liệu nhựa. Có cấu hình chân nhựa hoặc chân mạ. Kích thước nguồn công bố: Chân nhựa: rộng 610 x sâu 590 x cao 1150 -1245 mm. Chân mạ: Rộng 610 x Sâu 590 x Cao 1180 -1260mm.. Vật liệu: Bọc lưới, đệm lưới/PVC. Chân nhựa hoặc mạ..",
+      "material": "Bọc lưới, đệm lưới/PVC. Chân nhựa hoặc mạ.",
+      "size": "Chân nhựa: rộng 610 x sâu 590 x cao 1150 -1245 mm. Chân mạ: Rộng 610 x Sâu 590 x Cao 1180 -1260mm.",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL338/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl343#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl343",
+      "name": "Ghế Xoay Lưới Cao Cấp GL343",
+      "sku": "GL343",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế Xoay Lưới Cao Cấp GL343 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Có tựa đầu. Tựa đầu có thể điều chỉnh. Tay ghế có thể điều chỉnh độ cao. Kích thước nguồn công bố: Rộng 625 x Sâu 565-850 x Cao 1225-1305 mm.. Vật liệu: Khung nhựa bọc lưới đệm PVC / Chân mạ..",
+      "material": "Khung nhựa bọc lưới đệm PVC / Chân mạ.",
+      "size": "Rộng 625 x Sâu 565-850 x Cao 1225-1305 mm.",
+      "category": "Ghế lưng cao GL3xx",
+      "image": [
+        "https://bafurni.com/assets/v10-04/gl3xx-theone/products/GL343/main.jpg"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl345#product",
+      "url": "https://bafurni.com/san-pham/ghe-luoi-lung-cao/gl345",
+      "name": "Ghế lưới lưng cao The One GL345",
+      "sku": "GL345",
+      "brand": {
+        "@type": "Brand",
+        "name": "The One"
+      },
+      "description": "Ghế lưới lưng cao The One GL345 thuộc nhóm ghế văn phòng lưng cao/cao cấp của The One. Điều chỉnh độ cao bằng cơ cấu khí nén. Chân xoay có bánh xe di chuyển. Có tựa đầu. Kích thước nguồn công bố: W695 x D580-890 x H1130 – 1245 mm. Vật liệu: Khung tựa nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân thép mạ.",
+      "material": "Khung tựa nhựa bọc lưới; đệm mút bọc vải; tay nhựa; chân thép mạ",
+      "size": "W695 x D580-890 x H1130 – 1245 mm",
+      "category": "Ghế lưng cao GL3xx"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "package_id": "PACKAGE_MESH_HIGHBACK_GL3XX_THEONE",
+  "version": "V10.04",
+  "branch": "feature/v10-04-gl3xx-theone-product-package",
+  "base_commit": "8ac588cc871b5c6d386d6010f125b12412164777",
+  "framework_reference": "PACKAGE_EXECUTIVE_CHAIR_THEONE / V10.02",
+  "category": "Office Chair",
+  "subcategory": "Mesh High-back Chair / GL3xx",
+  "supplier": "The One",
+  "product_codes": [
+    "GL304", "GL307", "GL309", "GL316", "GL317", "GL320", "GL321",
+    "GL322", "GL323", "GL324", "GL326", "GL328", "GL329", "GL331",
+    "GL332", "GL333", "GL334", "GL335", "GL336", "GL338", "GL343",
+    "GL345"
+  ],
+  "landing_route": "/danh-muc/ghe-luoi-lung-cao",
+  "product_route_pattern": "/san-pham/ghe-luoi-lung-cao/{code}",
+  "source": {
+    "official_research": "report/OFFICIAL_SOURCE_RESEARCH.json",
+    "field_provenance": "report/PRODUCT_FIELD_PROVENANCE_V10_04.csv",
+    "image_audit": "images/SOURCE_IMAGE_AUDIT.csv",
+    "productdb_policy": "read-only / unchanged",
+    "portal_policy": "read-only / unchanged"
+  },
+  "content": {
+    "landing_words": 725,
+    "landing_html_static_words": 714,
+    "buying_guide_words": 589,
+    "faq_count": 10,
+    "knowledge_products": 22,
+    "marketing_platform_posts": 4,
+    "marketing_assets": 5
+  },
+  "images": {
+    "candidate_urls": 229,
+    "selected_exact_byte_files": 16,
+    "codes_with_clean_main": 15,
+    "codes_without_clean_main": 7,
+    "selected_resolution": "580x580",
+    "watermark_public": 0,
+    "qr_public": 0,
+    "supplier_logo_public": 0,
+    "wrong_code_public": 0,
+    "product_pixels_upscaled": false,
+    "final_visual_correction": "GL304 exact-code originals contain a faint diagonal watermark; all GL304 product pixels were removed from public assets and replaced by the neutral placeholder.",
+    "hero": "images/hero-1920x1080.png",
+    "collage": "images/collage-1600x1200.png",
+    "thumbnail": "images/thumbnail-1200x1200.png",
+    "og": "images/og-1200x630.png",
+    "social_cover": "images/social-cover-1640x924.png"
+  },
+  "qa": {
+    "static_validation": "PASS",
+    "local_functional": "PASS",
+    "responsive_viewports": ["1440x900", "1280x800", "768x1024", "390x844", "360x800"],
+    "horizontal_overflow": 0,
+    "broken_image": 0,
+    "quote_wizard_contexts": ["landing", "GL304", "GL345"],
+    "quote_wizard_steps": "1->2->3 PASS",
+    "lead_submitted": 0,
+    "homepage_v9_1_regression": 0,
+    "v10_02_regression": 0,
+    "preview": "READY",
+    "preview_branch_alias": "https://bafurni-website-git-f-d5beaf-phuvuongdistributor-boops-projects.vercel.app",
+    "first_preview_environment_url": "https://bafurni-website-p60svn1ih-phuvuongdistributor-boops-projects.vercel.app",
+    "validated_preview_environment_url": "https://bafurni-website-55yykm76c-phuvuongdistributor-boops-projects.vercel.app",
+    "validated_preview_deployment_id": 5844250943,
+    "validated_preview_commit": "eafd1aaf44adbc662677b5451b975b886f664073",
+    "deployment_protection": "VERCEL_SSO",
+    "preview_commit_to_success_seconds_observed": 20,
+    "preview_screenshots": [
+      "qa/screenshots/preview-landing-desktop.png",
+      "qa/screenshots/preview-landing-mobile.png",
+      "qa/screenshots/preview-landing-mobile-products.png"
+    ]
+  },
+  "publish_status": {
+    "main_merged": false,
+    "production_deployed": false,
+    "marketing_published": false,
+    "next_micro_group_started": false
+  },
+  "constraints": {
+    "modify_productdb": false,
+    "modify_portal": false,
+    "modify_v9_1": false,
+    "modify_lead_engine": false,
+    "modify_apps_script": false,
+    "redesign_framework": false
+  }
+}
