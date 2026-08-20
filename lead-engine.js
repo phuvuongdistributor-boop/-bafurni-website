@@ -13,6 +13,8 @@
   let currentStep = 1;
   let lastTrigger = null;
 
+  window.BA_LEAD_ATTRIBUTION?.sync?.(form);
+
   function contextualFields() {
     return ["source", "source_page", "product_code", "product_name", "category_name"].reduce((context, name) => {
       const field = form.elements.namedItem(name);
@@ -128,14 +130,19 @@
 
   function getAttribution() {
     const params = new URLSearchParams(window.location.search);
+    const fallback = {
+      utm_source: params.get("utm_source") || "",
+      utm_medium: params.get("utm_medium") || "",
+      utm_campaign: params.get("utm_campaign") || "",
+      utm_content: params.get("utm_content") || "",
+      utm_term: params.get("utm_term") || ""
+    };
+    const attribution = window.BA_LEAD_ATTRIBUTION?.get?.() || fallback;
     return {
       page_url: window.location.href,
       page_title: document.title,
       referrer: document.referrer,
-      utm_source: params.get("utm_source") || "",
-      utm_medium: params.get("utm_medium") || "",
-      utm_campaign: params.get("utm_campaign") || "",
-      utm_content: params.get("utm_content") || ""
+      ...attribution
     };
   }
 
