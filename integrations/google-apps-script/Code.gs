@@ -130,6 +130,11 @@ function sendTelegramLead(lead) {
   const chatId = properties.getProperty("TELEGRAM_CHAT_ID");
   if (!token || !chatId) throw new Error("TELEGRAM_NOT_CONFIGURED");
 
+  const source = lead.utm_source || lead.source || "website";
+  const attributionLines = ["Nguồn: " + formatAttributionSource(source)];
+  if (lead.utm_campaign) attributionLines.push("Campaign: " + lead.utm_campaign);
+  if (lead.utm_content) attributionLines.push("Content: " + lead.utm_content);
+
   const text = [
     lead.lead_tier === "HOT" ? "LEAD HOT BAFurniture" : "Lead mới BAFurniture",
     "ID: " + lead.lead_id,
@@ -143,7 +148,7 @@ function sendTelegramLead(lead) {
     "Điện thoại: " + lead.phone,
     "Đơn vị: " + (lead.company || "—"),
     "Ghi chú: " + (lead.note || "—"),
-    "Nguồn: " + (lead.utm_source || lead.source || "website")
+    ...attributionLines
   ].join("\n");
 
   const started = Date.now();
@@ -156,6 +161,11 @@ function sendTelegramLead(lead) {
   const code = response.getResponseCode();
   if (code < 200 || code >= 300) throw new Error("TELEGRAM_HTTP_" + code);
   return { status: "SENT", ms: Date.now() - started };
+}
+
+function formatAttributionSource(value) {
+  const source = String(value || "");
+  return source.toLowerCase() === "facebook" ? "Facebook" : source;
 }
 
 function sanitize(value) {

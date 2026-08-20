@@ -185,6 +185,11 @@
               <input type="hidden" name="product_code" value="${escapeHtml(context.productCode)}" />
               <input type="hidden" name="product_name" value="${escapeHtml(context.productName)}" />
               <input type="hidden" name="category_name" value="${escapeHtml(context.categoryName)}" />
+              <input type="hidden" name="utm_source" />
+              <input type="hidden" name="utm_medium" />
+              <input type="hidden" name="utm_campaign" />
+              <input type="hidden" name="utm_content" />
+              <input type="hidden" name="utm_term" />
               <p class="v7-field-error" data-error="submit" role="alert"></p>
               <div class="v7-wizard-nav"><button type="button" data-prev-step>Quay lại</button><button type="submit" class="v7-next">Gửi nhu cầu</button></div>
             </section>
