@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://bafurni.com/danh-muc/ghe-hop-chan-quy#page",
+      "url": "https://bafurni.com/danh-muc/ghe-hop-chan-quy",
+      "name": "Ghế họp chân quỳ SL The One",
+      "description": "So sánh 22 mẫu ghế họp chân quỳ SL The One theo Code, kích thước, vật liệu và cấu tạo nguồn công bố.",
+      "breadcrumb": {
+        "@id": "https://bafurni.com/danh-muc/ghe-hop-chan-quy#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://bafurni.com/danh-muc/ghe-hop-chan-quy#products"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://bafurni.com/danh-muc/ghe-hop-chan-quy#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Trang chủ",
+          "item": "https://bafurni.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghế văn phòng",
+          "item": "https://bafurni.com/danh-muc/ghe-van-phong"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ghế họp chân quỳ",
+          "item": "https://bafurni.com/danh-muc/ghe-hop-chan-quy"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://bafurni.com/danh-muc/ghe-hop-chan-quy#products",
+      "name": "22 mẫu ghế họp chân quỳ SL The One",
+      "numberOfItems": 22,
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl216s", "name": "Ghế họp chân quỳ SL216S" },
+        { "@type": "ListItem", "position": 2, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl225s", "name": "Ghế họp chân quỳ SL225S" },
+        { "@type": "ListItem", "position": 3, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl601s", "name": "Ghế họp chân quỳ SL601S" },
+        { "@type": "ListItem", "position": 4, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl603m", "name": "Ghế họp chân quỳ SL603M" },
+        { "@type": "ListItem", "position": 5, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl606", "name": "Ghế họp chân quỳ SL606" },
+        { "@type": "ListItem", "position": 6, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl607", "name": "Ghế họp SL607" },
+        { "@type": "ListItem", "position": 7, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl710s", "name": "Ghế họp chân quỳ SL710S" },
+        { "@type": "ListItem", "position": 8, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl711s", "name": "Ghế họp chân quỳ SL711S" },
+        { "@type": "ListItem", "position": 9, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl712s", "name": "Ghế họp chân quỳ SL712S" },
+        { "@type": "ListItem", "position": 10, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl718m", "name": "Ghế họp chân quỳ SL718M" },
+        { "@type": "ListItem", "position": 11, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl719m", "name": "Ghế họp chân quỳ SL719M" },
+        { "@type": "ListItem", "position": 12, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl721m", "name": "Ghế họp chân quỳ SL721M" },
+        { "@type": "ListItem", "position": 13, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl811m", "name": "Ghế họp chân quỳ SL811M" },
+        { "@type": "ListItem", "position": 14, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl901", "name": "Ghế họp chân quỳ SL901" },
+        { "@type": "ListItem", "position": 15, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl903", "name": "Ghế họp chân quỳ SL903" },
+        { "@type": "ListItem", "position": 16, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl904", "name": "Ghế họp SL904" },
+        { "@type": "ListItem", "position": 17, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl905", "name": "Ghế họp SL905" },
+        { "@type": "ListItem", "position": 18, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl906", "name": "Ghế họp chân quỳ SL906" },
+        { "@type": "ListItem", "position": 19, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl908", "name": "Ghế họp SL908" },
+        { "@type": "ListItem", "position": 20, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl926", "name": "Ghế họp SL926" },
+        { "@type": "ListItem", "position": 21, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl933", "name": "Ghế chân quỳ SL933" },
+        { "@type": "ListItem", "position": 22, "url": "https://bafurni.com/san-pham/ghe-hop-chan-quy/sl9700m", "name": "Ghế họp chân quỳ SL9700M" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bafurni.com/danh-muc/ghe-hop-chan-quy#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Package này có bao nhiêu mẫu?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Package gồm chính xác 22 Code đã đối chiếu với ProductDB/Portal: SL216S, SL225S, SL601S, SL603M, SL606, SL607, SL710S, SL711S, SL712S, SL718M, SL719M, SL721M, SL811M, SL901, SL903, SL904, SL905, SL906, SL908, SL926, SL933 và SL9700M." }
+        },
+        {
+          "@type": "Question",
+          "name": "Mẫu nào được nguồn mô tả là lưng cao?",
+          "acceptedAnswer": { "@type": "Answer", "text": "SL216S được nguồn The One mô tả trực tiếp là ghế họp lưng cao, kích thước W625 × D655 × H1075 mm. Các mã khác cần xem kích thước và mô tả riêng." }
+        },
+        {
+          "@type": "Question",
+          "name": "Nên chọn bọc vải hay da/PVC?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Hãy chọn theo yêu cầu bề mặt, cách vệ sinh và cấu hình nguồn có cho từng Code. Vải, da thật phần tiếp xúc, da công nghiệp và PVC là các lựa chọn khác nhau; không phải mọi vật liệu đều có trên mọi mã." }
+        },
+        {
+          "@type": "Question",
+          "name": "Khung sơn tĩnh điện và khung mạ khác nhau thế nào trong package?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Đó là hai dạng hoàn thiện được nguồn ghi theo từng sản phẩm. Website không suy diễn độ bền tương đối khi nguồn không có kết quả thử nghiệm so sánh." }
+        },
+        {
+          "@type": "Question",
+          "name": "Mẫu nào có chi tiết tay gỗ hoặc tay nhôm?",
+          "acceptedAnswer": { "@type": "Answer", "text": "SL607 và SL926 có chi tiết tay gỗ kết hợp thép mạ; SL933 dùng tay nhôm đúc có ốp gỗ sơn; SL9700M dùng tay nhôm đúc." }
+        },
+        {
+          "@type": "Question",
+          "name": "Kích thước các mẫu có giống nhau không?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Không. Trong dữ liệu nguồn, chiều rộng từ 570 đến 650 mm, chiều sâu từ 590 đến 715 mm và chiều cao từ 900 đến 1130 mm. Kích thước được công bố với dung sai ±20 mm." }
+        },
+        {
+          "@type": "Question",
+          "name": "Tải trọng tối đa là bao nhiêu?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Nguồn chính thức đã kiểm tra không công bố một mức tải trọng chung cho 22 mã. BA_Furniture không đưa số ước đoán; yêu cầu cụ thể cần được xác nhận theo Code." }
+        },
+        {
+          "@type": "Question",
+          "name": "Màu trên ảnh có giống hoàn toàn sản phẩm thực tế không?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Không nên mặc định như vậy. Nguồn The One lưu ý màu hiển thị có thể khác do ảnh chụp hoặc mô phỏng 3D. Màu và vật liệu thực tế cần được xác nhận trước khi đặt hàng." }
+        },
+        {
+          "@type": "Question",
+          "name": "Giá trên website đã là giá cuối chưa?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Chưa. Giá hiển thị là dữ liệu tham khảo từ ProductDB. Báo giá cuối cần gắn với Code, vật liệu, số lượng, khu vực và tình trạng nguồn tại thời điểm xác nhận." }
+        },
+        {
+          "@type": "Question",
+          "name": "Có thể đặt số lượng cho phòng họp không?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Có thể gửi yêu cầu theo số lượng qua Quote Wizard. BA_Furniture sẽ đối chiếu Code, kích thước, vật liệu và mặt bằng trước khi báo giá; đây không phải cam kết tồn kho hoặc thời gian giao." }
+        },
+        {
+          "@type": "Question",
+          "name": "Bảo hành và thời gian giao là bao lâu?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Nguồn package không cung cấp một chính sách bảo hành hoặc thời gian giao chung để public cho cả 22 mã. Hai nội dung này cần được xác nhận trong báo giá theo sản phẩm và thời điểm." }
+        }
+      ]
+    }
+  ]
+}

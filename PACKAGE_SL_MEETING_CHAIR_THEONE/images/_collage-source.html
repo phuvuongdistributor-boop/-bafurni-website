@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1200, initial-scale=1">
+  <style>
+    @font-face {
+      font-family: "InterV9";
+      src: url("../../assets/fonts/v9/inter-vietnamese-wght-normal.woff2") format("woff2");
+      font-weight: 100 900;
+      font-display: block;
+    }
+    @font-face {
+      font-family: "PlayfairV9";
+      src: url("../../assets/fonts/v9/playfair-display-vietnamese-wght-normal.woff2") format("woff2");
+      font-weight: 400 900;
+      font-display: block;
+    }
+    :root {
+      --green: #0e5f56;
+      --green-dark: #0b3835;
+      --orange: #d7862e;
+      --cream: #f4f1e9;
+      --cream-deep: #e9e2d5;
+      --ink: #13202a;
+      --muted: #66737f;
+      --line: #d8ddd7;
+      --white: #ffffff;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 1200px; height: 1500px; overflow: hidden; }
+    body { font-family: "InterV9", Arial, sans-serif; color: var(--ink); background: var(--cream); }
+    .creative {
+      position: relative;
+      width: 1200px;
+      height: 1500px;
+      overflow: hidden;
+      background: var(--cream);
+    }
+    .top-panel {
+      position: absolute;
+      inset: 0 0 auto;
+      height: 408px;
+      background: var(--cream);
+      border-bottom: 1px solid rgba(14, 95, 86, .14);
+    }
+    .top-panel::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 178px;
+      height: 408px;
+      background: var(--cream-deep);
+    }
+    .brand {
+      position: absolute;
+      top: 54px;
+      left: 70px;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      z-index: 2;
+    }
+    .brand-mark {
+      width: 58px;
+      height: 58px;
+      border: 1px solid rgba(19, 32, 42, .12);
+      border-radius: 10px;
+      object-fit: contain;
+      background: white;
+    }
+    .brand-name { font-size: 28px; font-weight: 790; letter-spacing: -.6px; }
+    .brand-note { margin-top: 2px; font-size: 12px; font-weight: 760; letter-spacing: 2.45px; color: var(--green); }
+    .series {
+      position: absolute;
+      top: 62px;
+      right: 68px;
+      z-index: 2;
+      padding: 12px 18px 11px;
+      border: 1px solid rgba(14, 95, 86, .26);
+      border-radius: 999px;
+      background: white;
+      color: var(--green-dark);
+      font-size: 15px;
+      font-weight: 780;
+      letter-spacing: 1.65px;
+    }
+    .headline {
+      position: absolute;
+      top: 143px;
+      left: 70px;
+      width: 940px;
+      margin: 0;
+      font-family: "PlayfairV9", Georgia, serif;
+      font-size: 66px;
+      line-height: .98;
+      letter-spacing: -2.25px;
+      font-weight: 720;
+      z-index: 2;
+    }
+    .headline em { color: var(--green); font-style: normal; }
+    .subline {
+      position: absolute;
+      top: 344px;
+      left: 74px;
+      font-size: 22px;
+      font-weight: 630;
+      color: #465b66;
+      letter-spacing: .15px;
+      z-index: 2;
+    }
+    .accent-line {
+      position: absolute;
+      top: 383px;
+      left: 74px;
+      width: 132px;
+      height: 7px;
+      border-radius: 99px;
+      background: var(--orange);
+      z-index: 2;
+    }
+    .hero-stage {
+      position: absolute;
+      left: 62px;
+      top: 422px;
+      width: 1076px;
+      height: 584px;
+      overflow: hidden;
+      border: 1px solid rgba(19, 32, 42, .12);
+      border-radius: 42px;
+      background: white;
+      box-shadow: 0 26px 60px rgba(11, 56, 53, .14);
+    }
+    .hero-stage::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 330px;
+      height: 100%;
+      background: #eef3ee;
+      z-index: 0;
+    }
+    .hero-kicker {
+      position: absolute;
+      top: 31px;
+      left: 38px;
+      z-index: 3;
+      color: var(--green);
+      font-size: 16px;
+      font-weight: 790;
+      letter-spacing: 2.15px;
+    }
+    .hero-product {
+      position: absolute;
+      z-index: 1;
+      width: 430px;
+      height: 430px;
+      object-fit: contain;
+      object-position: center bottom;
+    }
+    .hero-product.sl216s { left: 70px; bottom: 67px; }
+    .hero-product.sl926 { right: 70px; bottom: 63px; }
+    .hero-label {
+      position: absolute;
+      z-index: 4;
+      bottom: 28px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 11px 15px 10px;
+      border: 1px solid var(--line);
+      border-radius: 13px;
+      background: rgba(255, 255, 255, .96);
+      box-shadow: 0 10px 24px rgba(19, 32, 42, .09);
+    }
+    .hero-label.left { left: 42px; }
+    .hero-label.right { right: 38px; }
+    .hero-code { font-size: 25px; font-weight: 830; letter-spacing: -.5px; }
+    .hero-feature { color: var(--muted); font-size: 15px; font-weight: 630; }
+    .support-band {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 170px;
+      height: 305px;
+      padding: 33px 60px 32px;
+      background: var(--green-dark);
+      border-top: 7px solid var(--orange);
+    }
+    .support-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 22px;
+      color: white;
+    }
+    .support-head strong { font-size: 25px; letter-spacing: -.2px; }
+    .support-head span { color: #cddbd7; font-size: 14px; letter-spacing: 1.2px; }
+    .support-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 13px; }
+    .support-item {
+      height: 196px;
+      padding: 10px 9px 9px;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, .18);
+      border-radius: 20px;
+      background: white;
+      text-align: center;
+    }
+    .support-item img {
+      display: block;
+      width: 100%;
+      height: 144px;
+      object-fit: contain;
+      object-position: center;
+    }
+    .support-item b { display: block; margin-top: 4px; font-size: 20px; font-weight: 830; letter-spacing: -.2px; }
+    .footer {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 170px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 70px;
+      border-top: 1px solid var(--line);
+      background: white;
+    }
+    .footer-copy strong { display: block; color: var(--green); font-size: 33px; letter-spacing: -.9px; }
+    .footer-copy span { display: block; margin-top: 8px; color: var(--muted); font-size: 18px; font-weight: 590; }
+    .site { display: flex; align-items: center; gap: 13px; font-size: 23px; font-weight: 800; }
+    .site-dot { width: 16px; height: 16px; border-radius: 50%; background: var(--orange); box-shadow: 0 0 0 7px rgba(215, 134, 46, .15); }
+  </style>
+</head>
+<body>
+  <main class="creative">
+    <div class="top-panel"></div>
+
+    <div class="brand">
+      <img class="brand-mark" src="../../images/brand/ba-furniture-logo.jpg" alt="BA_Furniture">
+      <div><div class="brand-name">BA_Furniture</div><div class="brand-note">NỘI THẤT VĂN PHÒNG</div></div>
+    </div>
+    <div class="series">22 MẪU · THE ONE · DÒNG SL</div>
+
+    <h1 class="headline">Ghế họp chân quỳ.<br><em>Chọn đúng dáng cho phòng họp.</em></h1>
+    <div class="subline">Vải · Da/PVC · Khung sơn/mạ · Tay nhựa/gỗ/nhôm</div>
+    <div class="accent-line"></div>
+
+    <section class="hero-stage">
+      <div class="hero-kicker">HAI DÁNG NỔI BẬT</div>
+      <img class="hero-product sl216s" src="../../assets/product-packages/sl-chair-theone/products/SL216S/main.jpg" alt="SL216S">
+      <img class="hero-product sl926" src="../../assets/product-packages/sl-chair-theone/products/SL926/main.jpg" alt="SL926">
+      <div class="hero-label left"><span class="hero-code">SL216S</span><span class="hero-feature">Lưng cao · bọc vải</span></div>
+      <div class="hero-label right"><span class="hero-code">SL926</span><span class="hero-feature">Tay gỗ · chân mạ</span></div>
+    </section>
+
+    <section class="support-band">
+      <div class="support-head"><strong>Thêm 6 lựa chọn đại diện</strong><span>ẢNH THẬT · ĐÚNG CODE</span></div>
+      <div class="support-grid">
+        <div class="support-item"><img src="../../assets/product-packages/sl-chair-theone/products/SL603M/main.jpg" alt="SL603M"><b>SL603M</b></div>
+        <div class="support-item"><img src="../../assets/product-packages/sl-chair-theone/products/SL607/main.jpg" alt="SL607"><b>SL607</b></div>
+        <div class="support-item"><img src="../../assets/product-packages/sl-chair-theone/products/SL718M/main.jpg" alt="SL718M"><b>SL718M</b></div>
+        <div class="support-item"><img src="../../assets/product-packages/sl-chair-theone/products/SL901/main.jpg" alt="SL901"><b>SL901</b></div>
+        <div class="support-item"><img src="../../assets/product-packages/sl-chair-theone/products/SL933/main.jpg" alt="SL933"><b>SL933</b></div>
+        <div class="support-item"><img src="../../assets/product-packages/sl-chair-theone/products/SL9700M/main.jpg" alt="SL9700M"><b>SL9700M</b></div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-copy"><strong>Xem đủ 22 mã, chọn theo nhu cầu.</strong><span>Tư vấn cấu hình · Báo giá theo số lượng</span></div>
+      <div class="site"><span class="site-dot"></span>bafurni.com</div>
+    </footer>
+  </main>
+</body>
+</html>
