@@ -51,6 +51,7 @@
     const context = {
       productCode: trigger.dataset.quoteProductCode || "",
       productName: trigger.dataset.quoteProductName || "",
+      productCategory: "ghe-luoi-lung-cao",
       categoryName: "Ghế lưới lưng cao The One"
     };
     document.body.dataset.productCode = context.productCode;

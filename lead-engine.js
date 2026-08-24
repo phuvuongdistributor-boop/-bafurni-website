@@ -16,7 +16,7 @@
   window.BA_LEAD_ATTRIBUTION?.sync?.(form);
 
   function contextualFields() {
-    return ["source", "source_page", "product_code", "product_name", "category_name"].reduce((context, name) => {
+    return ["source", "source_page", "product_code", "product_name", "product_category", "category_name"].reduce((context, name) => {
       const field = form.elements.namedItem(name);
       if (field && String(field.value || "").trim()) context[name] = String(field.value).trim();
       return context;

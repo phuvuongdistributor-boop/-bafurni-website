@@ -263,6 +263,7 @@
       pageType: "category",
       source: "bafurni-category",
       categoryName: activeDefinition.name,
+      productCategory: definition?.slug || "",
       productCode: "",
       productName: ""
     });
@@ -391,6 +392,7 @@
       source: "bafurni-product-detail",
       productCode: requestedCode,
       productName: "",
+      productCategory: "",
       categoryName: ""
     });
     root.innerHTML = `
@@ -436,6 +438,7 @@
       source: "bafurni-product-detail",
       productCode: row.Code,
       productName: row.ProductName,
+      productCategory: definition.slug,
       categoryName: definition.name
     });
 

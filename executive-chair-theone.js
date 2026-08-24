@@ -44,6 +44,7 @@
     window.BASiteShell.setContext({
       productCode: trigger.dataset.quoteProductCode || "",
       productName: trigger.dataset.quoteProductName || "",
+      productCategory: "ghe-giam-doc",
       categoryName: "Ghế giám đốc The One"
     });
   }, { capture: true });
