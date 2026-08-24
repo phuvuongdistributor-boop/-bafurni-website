@@ -9,7 +9,7 @@
   const cleanCode = (value) => String(value || "").trim().toUpperCase();
   const params = new URLSearchParams(window.location.search);
   const pathCode = window.location.pathname.split("/").filter(Boolean).at(-1);
-  const code = cleanCode(params.get("code") || pathCode);
+  const code = cleanCode(params.get("code") || document.body.dataset.productCode || pathCode);
   const product = products.find((item) => item.code === code);
   const escapeHtml = (value) => String(value == null ? "" : value).replace(/[&<>\"]/g, (character) => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"
@@ -17,13 +17,30 @@
   const price = (value) => Number.isFinite(Number(value))
     ? `${new Intl.NumberFormat("vi-VN").format(Number(value))} ₫`
     : "Liên hệ";
+  const robots = document.querySelector('meta[name="robots"]');
+  const setRobots = (content) => {
+    if (robots) robots.content = content;
+  };
+  const upsertSchema = (id, value) => {
+    let node = document.getElementById(id);
+    if (!node) {
+      node = document.createElement("script");
+      node.id = id;
+      node.type = "application/ld+json";
+      document.head.append(node);
+    }
+    node.textContent = JSON.stringify(value);
+  };
 
   if (!product) {
+    document.title = "Không tìm thấy sản phẩm GL4xx | BA_Furniture";
+    setRobots("noindex, follow, max-image-preview:large");
     root.innerHTML = `<div class="v10-wrap v10-product-error"><p class="v10-kicker">Không tìm thấy mã</p><h1>Sản phẩm chưa có trong package.</h1><a href="/danh-muc/ghe-luoi-phong-hop">Quay lại 24 mẫu ghế lưới phòng họp</a></div>`;
     document.querySelector(".v10-related")?.remove();
     return;
   }
 
+  setRobots("index, follow, max-image-preview:large");
   document.body.dataset.productCode = product.code;
   document.body.dataset.productName = product.name;
   document.querySelector("[data-product-code-label]").textContent = product.code;
@@ -54,7 +71,7 @@
     ["Tình trạng nguồn", product.availabilityNote]
   ].filter(([, value]) => value);
 
-  root.innerHTML = `
+  const detailMarkup = `
     <div class="v10-wrap v10-detail-grid">
       <div class="v10-gallery">
         <div class="v10-gallery-stage"><img src="${escapeHtml(gallery[0])}" alt="${escapeHtml(product.name)}" width="${product.imageWidth}" height="${product.imageHeight}" data-gallery-stage /></div>
@@ -80,6 +97,11 @@
         <article><p class="v10-kicker">Trước khi chốt</p><h2>Cần xác nhận</h2><p>${escapeHtml(product.limitation)}</p></article>
       </div>
     </div>`;
+  const prerenderedIdentity = root.querySelector("h1")?.textContent?.trim() === product.name;
+  const prerenderedGalleryCount = root.querySelectorAll("[data-gallery-image]").length;
+  if (!prerenderedIdentity || prerenderedGalleryCount !== gallery.length) {
+    root.innerHTML = detailMarkup;
+  }
 
   root.querySelectorAll("[data-gallery-image]").forEach((button) => {
     button.addEventListener("click", () => {
@@ -91,11 +113,19 @@
   const related = (product.relatedCodes || [])
     .map((relatedCode) => products.find((item) => item.code === relatedCode))
     .filter(Boolean);
-  if (relatedRoot) relatedRoot.innerHTML = related.map((item) => `
+  const relatedMarkup = related.map((item) => `
     <a class="v10-related-card" href="${escapeHtml(item.detailUrl)}">
       <figure><img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.name)}" width="${item.imageWidth}" height="${item.imageHeight}" loading="lazy" /></figure>
       <div><span>The One · ${escapeHtml(item.code)}</span><h3>${escapeHtml(item.name)}</h3><p>${escapeHtml(item.size)}<br />${price(item.price)}</p></div>
     </a>`).join("");
+  if (relatedRoot) {
+    const prerenderedRelatedCodes = [...relatedRoot.querySelectorAll(":scope > a")]
+      .map((link) => link.getAttribute("href")?.split("/").at(-1)?.toUpperCase() || "");
+    const expectedRelatedCodes = related.map((item) => item.code);
+    if (JSON.stringify(prerenderedRelatedCodes) !== JSON.stringify(expectedRelatedCodes)) {
+      relatedRoot.innerHTML = relatedMarkup;
+    }
+  }
 
   document.addEventListener("click", (event) => {
     if (!event.target.closest("[data-open-wizard]")) return;
@@ -108,11 +138,13 @@
     if (window.BASiteShell?.setContext) window.BASiteShell.setContext(context);
   }, { capture: true });
 
-  const schema = document.createElement("script");
-  schema.type = "application/ld+json";
+  const productUrl = `https://bafurni.com${product.detailUrl}`;
   const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
+    "@id": `${productUrl}#product`,
+    url: productUrl,
+    mainEntityOfPage: productUrl,
     name: product.name,
     sku: product.code,
     brand: { "@type": "Brand", name: product.sourceBrand },
@@ -121,9 +153,20 @@
     size: product.size,
     category: "Ghế lưới phòng họp"
   };
-  if (!product.isPlaceholder) productSchema.image = gallery.map((image) => new URL(image, window.location.origin).href);
-  schema.textContent = JSON.stringify(productSchema);
-  document.head.append(schema);
+  if (!product.isPlaceholder) productSchema.image = gallery.map((image) => new URL(image, "https://bafurni.com").href);
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "@id": `${productUrl}#breadcrumb`,
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Trang chủ", item: "https://bafurni.com/" },
+      { "@type": "ListItem", position: 2, name: "Ghế văn phòng", item: "https://bafurni.com/danh-muc/ghe-van-phong" },
+      { "@type": "ListItem", position: 3, name: "Ghế lưới phòng họp", item: "https://bafurni.com/danh-muc/ghe-luoi-phong-hop" },
+      { "@type": "ListItem", position: 4, name: product.name, item: productUrl }
+    ]
+  };
+  upsertSchema("gl4xx-product-schema", productSchema);
+  upsertSchema("gl4xx-product-breadcrumb-schema", breadcrumbSchema);
 
   window.BA_GL4XX_MEETING_PRODUCT_QA = {
     code: product.code,

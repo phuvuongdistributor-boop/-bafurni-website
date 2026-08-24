@@ -58,7 +58,7 @@
     },
     {
       "source": "/san-pham/ghe-luoi-phong-hop/:code",
-      "destination": "/gl4xx-meeting-product.html?code=:code"
+      "destination": "/gl4xx-product-pages/:code.html?code=:code"
     },
     {
       "source": "/danh-muc/ghe-luoi-phong-hop",

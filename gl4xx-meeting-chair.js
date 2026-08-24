@@ -15,7 +15,7 @@
     ? `${new Intl.NumberFormat("vi-VN").format(Number(value))} ₫`
     : "Liên hệ";
 
-  grid.innerHTML = products.map((product) => `
+  const cardMarkup = products.map((product) => `
     <article class="v10-product-card" data-product-code="${escapeHtml(product.code)}">
       <a class="v10-product-media" href="${escapeHtml(product.detailUrl)}" aria-label="Xem ${escapeHtml(product.name)}">
         <img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}" width="${product.imageWidth}" height="${product.imageHeight}" loading="lazy" decoding="async" data-product-code="${escapeHtml(product.code)}" />
@@ -35,6 +35,12 @@
       </div>
     </article>
   `).join("");
+  const prerenderedCodes = [...grid.querySelectorAll(":scope > [data-product-code]")]
+    .map((card) => card.dataset.productCode);
+  const expectedCodes = products.map((product) => product.code);
+  if (JSON.stringify(prerenderedCodes) !== JSON.stringify(expectedCodes)) {
+    grid.innerHTML = cardMarkup;
+  }
 
   grid.querySelectorAll("img[data-product-code]").forEach((image) => {
     image.addEventListener("error", () => {

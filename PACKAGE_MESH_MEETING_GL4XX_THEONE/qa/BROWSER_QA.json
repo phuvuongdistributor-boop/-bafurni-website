@@ -1,7 +1,7 @@
 {
   "status": "PASS",
   "previewBase": "http://127.0.0.1:4184",
-  "checkedAt": "2026-08-24T09:53:50.581Z",
+  "checkedAt": "2026-08-24T10:31:27.366Z",
   "products": 24,
   "routesChecked": [
     "/san-pham/ghe-luoi-phong-hop/gl401",
@@ -68,7 +68,7 @@
     {
       "name": "Landing 1440x900: product section appears early",
       "status": "PASS",
-      "details": "{\"cardCount\":24,\"sectionTop\":843,\"firstCardTop\":1062,\"firstScreenCards\":0,\"pageHeight\":8795,\"viewportHeight\":900}"
+      "details": "{\"cardCount\":24,\"sectionTop\":843,\"firstCardTop\":1062,\"firstScreenCards\":0,\"pageHeight\":8886,\"viewportHeight\":900}"
     },
     {
       "name": "Landing 1440x900: wizard Step 3",
@@ -108,7 +108,7 @@
     {
       "name": "Landing 1280x800: product section appears early",
       "status": "PASS",
-      "details": "{\"cardCount\":24,\"sectionTop\":843,\"firstCardTop\":1059,\"firstScreenCards\":0,\"pageHeight\":8780,\"viewportHeight\":800}"
+      "details": "{\"cardCount\":24,\"sectionTop\":843,\"firstCardTop\":1059,\"firstScreenCards\":0,\"pageHeight\":8871,\"viewportHeight\":800}"
     },
     {
       "name": "Landing 1280x800: wizard Step 3",
@@ -148,7 +148,7 @@
     {
       "name": "Landing 768x1024: product section appears early",
       "status": "PASS",
-      "details": "{\"cardCount\":24,\"sectionTop\":1101,\"firstCardTop\":1318,\"firstScreenCards\":0,\"pageHeight\":14372,\"viewportHeight\":1024}"
+      "details": "{\"cardCount\":24,\"sectionTop\":1101,\"firstCardTop\":1318,\"firstScreenCards\":0,\"pageHeight\":14463,\"viewportHeight\":1024}"
     },
     {
       "name": "Landing 768x1024: wizard Step 3",
@@ -188,7 +188,7 @@
     {
       "name": "Landing 390x844: product section appears early",
       "status": "PASS",
-      "details": "{\"cardCount\":24,\"sectionTop\":1157,\"firstCardTop\":1443,\"firstScreenCards\":0,\"pageHeight\":25056,\"viewportHeight\":844}"
+      "details": "{\"cardCount\":24,\"sectionTop\":1157,\"firstCardTop\":1443,\"firstScreenCards\":0,\"pageHeight\":25202,\"viewportHeight\":844}"
     },
     {
       "name": "Landing 390x844: wizard Step 3",
@@ -228,7 +228,7 @@
     {
       "name": "Landing 360x800: product section appears early",
       "status": "PASS",
-      "details": "{\"cardCount\":24,\"sectionTop\":1147,\"firstCardTop\":1460,\"firstScreenCards\":0,\"pageHeight\":24951,\"viewportHeight\":800}"
+      "details": "{\"cardCount\":24,\"sectionTop\":1147,\"firstCardTop\":1460,\"firstScreenCards\":0,\"pageHeight\":25097,\"viewportHeight\":800}"
     },
     {
       "name": "Landing 360x800: wizard Step 3",

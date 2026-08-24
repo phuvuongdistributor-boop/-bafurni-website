@@ -2,7 +2,10 @@
 
 Trạng thái: **PREVIEW ONLY — chưa publish**.
 
-Package có đúng một caption Facebook plain text tại `FACEBOOK_POST_FINAL.txt` và đúng chín media theo chuẩn đã khóa: một cover 4:5 + tám ảnh sản phẩm vuông.
+Package có hai bộ copy riêng theo kênh, cùng dùng đúng tám mã và chín media đã duyệt:
+
+- Facebook: `FACEBOOK_POST_FINAL.txt` + một cover 4:5 + tám ảnh sản phẩm vuông.
+- Zalo Wall: `zalo/ZALO_WALL_CAPTION.txt` + chín bản sao byte-for-byte của approved render; không render lại hoặc upscale.
 
 ## Tám mã đại diện
 
@@ -32,4 +35,12 @@ Product raster được thu nhỏ trên canvas, không vượt độ phân giả
 
 Expected M1A attribution: `facebook / social / gl4xx_theone / group_post_01`.
 
+Zalo Wall:
+
+`https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=zalo&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01`
+
+Expected M1A attribution: `zalo / social / gl4xx_theone / group_post_01`.
+
 M1C context từ landing: `product_code=""`, `product_name=""`, `product_category="ghe-luoi-phong-hop"`. Từ trang sản phẩm: Code/tên hiện tại + cùng category.
+
+Hai kênh đều ở trạng thái **PREPARED_NOT_PUBLISHED**. Không mở composer hoặc publish trong package build.

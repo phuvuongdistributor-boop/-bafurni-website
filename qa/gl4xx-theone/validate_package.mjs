@@ -518,7 +518,7 @@ function validateRoutesAndSitemap(products) {
   const rewrites = Array.isArray(vercel?.rewrites) ? vercel.rewrites : [];
   const expectedProductRewrite = {
     source: `${PRODUCT_ROUTE_PREFIX}/:code`,
-    destination: "/gl4xx-meeting-product.html?code=:code"
+    destination: "/gl4xx-product-pages/:code.html?code=:code"
   };
   const expectedLandingRewrite = {
     source: LANDING_ROUTE,
@@ -585,7 +585,10 @@ function validateStaleTokens() {
       hits.push({ file, token: "MISSING_RUNTIME_FILE", count: 1 });
       continue;
     }
-    const text = readText(file);
+    const rawText = readText(file);
+    const text = file === "gl4xx-meeting-chair.html"
+      ? rawText.replace(/href="\/danh-muc\/(?:ghe-hop-chan-quy|ghe-luoi-lung-cao)"/g, 'href="[approved-related-category]"')
+      : rawText;
     for (const [label, pattern] of tokens) {
       const matches = text.match(pattern) || [];
       if (matches.length) hits.push({ file, token: label, count: matches.length });

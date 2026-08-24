@@ -39,6 +39,16 @@
     "productPattern": "/san-pham/ghe-luoi-phong-hop/{code-lowercase}",
     "productCount": 24
   },
+  "seo": {
+    "keywordRows": 30,
+    "pageCount": 25,
+    "serverDeliveredProductPages": 24,
+    "sitemapUrls": 25,
+    "landingSchemas": ["CollectionPage", "BreadcrumbList", "FAQPage"],
+    "productSchemas": ["Product", "BreadcrumbList"],
+    "productRichResultEligibility": "DEFERRED_NO_VERIFIED_OFFER_REVIEW_RATING",
+    "searchConsoleSubmitted": false
+  },
   "data": {
     "manufacturerExactPages": 23,
     "officialCatalogFallbackCodes": ["GL404B"],
@@ -69,7 +79,23 @@
     "cover": "images/facebook-multi-image/01-cover-collage-1200x1500.png",
     "individualCanvas": "1080x1080",
     "caption": "marketing/FACEBOOK_POST_FINAL.txt",
-    "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01"
+    "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+    "facebook": {
+      "caption": "marketing/FACEBOOK_POST_FINAL.txt",
+      "mediaDirectory": "images/facebook-multi-image",
+      "mediaCount": 9,
+      "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+      "composerPrepared": false,
+      "published": false
+    },
+    "zalo": {
+      "caption": "marketing/zalo/ZALO_WALL_CAPTION.txt",
+      "mediaDirectory": "marketing/zalo/media",
+      "mediaCount": 9,
+      "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=zalo&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+      "composerPrepared": false,
+      "published": false
+    }
   },
   "tracking": {
     "utm_source": "facebook",
@@ -77,12 +103,28 @@
     "utm_campaign": "gl4xx_theone",
     "utm_content": "group_post_01",
     "utm_term": "",
-    "persistenceKey": "ba_utm_attribution_v1"
+    "persistenceKey": "ba_utm_attribution_v1",
+    "fields": ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"],
+    "facebook": {
+      "utm_source": "facebook",
+      "utm_medium": "social",
+      "utm_campaign": "gl4xx_theone",
+      "utm_content": "group_post_01"
+    },
+    "zalo": {
+      "utm_source": "zalo",
+      "utm_medium": "social",
+      "utm_campaign": "gl4xx_theone",
+      "utm_content": "group_post_01"
+    },
+    "productContextFields": ["product_code", "product_name", "product_category"]
   },
   "qa": {
     "leadSubmission": false,
     "productionDeployment": false,
     "facebookPublished": false,
+    "zaloPublished": false,
+    "leadSubmitted": false,
     "ads": false,
     "boost": false,
     "schedule": false
