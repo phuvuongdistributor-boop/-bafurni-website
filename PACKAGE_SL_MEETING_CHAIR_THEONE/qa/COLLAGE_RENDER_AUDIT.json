@@ -1,0 +1,81 @@
+{
+  "width": 1200,
+  "height": 1500,
+  "images": [
+    {
+      "alt": "BA_Furniture",
+      "naturalWidth": 1254,
+      "naturalHeight": 1254,
+      "renderedWidth": 58,
+      "renderedHeight": 58,
+      "complete": true
+    },
+    {
+      "alt": "SL216S",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 430,
+      "renderedHeight": 430,
+      "complete": true
+    },
+    {
+      "alt": "SL926",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 430,
+      "renderedHeight": 430,
+      "complete": true
+    },
+    {
+      "alt": "SL603M",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 149,
+      "renderedHeight": 144,
+      "complete": true
+    },
+    {
+      "alt": "SL607",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 149,
+      "renderedHeight": 144,
+      "complete": true
+    },
+    {
+      "alt": "SL718M",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 149,
+      "renderedHeight": 144,
+      "complete": true
+    },
+    {
+      "alt": "SL901",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 149,
+      "renderedHeight": 144,
+      "complete": true
+    },
+    {
+      "alt": "SL933",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 149,
+      "renderedHeight": 144,
+      "complete": true
+    },
+    {
+      "alt": "SL9700M",
+      "naturalWidth": 580,
+      "naturalHeight": 580,
+      "renderedWidth": 149,
+      "renderedHeight": 144,
+      "complete": true
+    }
+  ],
+  "errors": [],
+  "status": "PASS",
+  "noUpscale": true
+}

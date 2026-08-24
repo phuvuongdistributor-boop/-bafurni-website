@@ -1,0 +1,71 @@
+{
+  "package_id": "PACKAGE_SL_MEETING_CHAIR_THEONE",
+  "package_type": "micro_group_product_package",
+  "branch": "feature/sl-chair-theone-product-package",
+  "base_commit": "b95dd4e9bc4f02d7c29a431cff9f499aa2be2916",
+  "framework_reference": "V10.04 GL3xx The One",
+  "marketing_reference": "M1A + M1B + M1C",
+  "category": "Office Chair",
+  "subcategory": "Ghế họp chân quỳ SL",
+  "supplier": "The One",
+  "product_codes": [
+    "SL216S", "SL225S", "SL601S", "SL603M", "SL606", "SL607",
+    "SL710S", "SL711S", "SL712S", "SL718M", "SL719M", "SL721M",
+    "SL811M", "SL901", "SL903", "SL904", "SL905", "SL906", "SL908",
+    "SL926", "SL933", "SL9700M"
+  ],
+  "landing_route": "/danh-muc/ghe-hop-chan-quy",
+  "product_route_pattern": "/san-pham/ghe-hop-chan-quy/{code}",
+  "content": {
+    "landing_copy_words": 684,
+    "runtime_visible_words": 730,
+    "buying_guide_words": 494,
+    "faq_count": 11,
+    "knowledge_products": 22,
+    "facebook_posts": 1,
+    "collage_assets": 1
+  },
+  "images": {
+    "candidate_images": 270,
+    "selected_clean_exact": 22,
+    "source_native_low_resolution": 22,
+    "gallery_total": 22,
+    "rejected_images": 248,
+    "placeholder": 0,
+    "watermark": 0,
+    "qr": 0,
+    "supplier_logo": 0,
+    "wrong_code": 0,
+    "category_fallback": 0,
+    "fake_upscale": 0,
+    "collage": "images/collage-facebook-group-post-01-1200x1500.png"
+  },
+  "marketing": {
+    "selected_codes": ["SL216S", "SL603M", "SL607", "SL718M", "SL901", "SL926", "SL933", "SL9700M"],
+    "copy": "marketing/FACEBOOK_POST_FINAL.txt",
+    "tracked_url": "https://bafurni.com/danh-muc/ghe-hop-chan-quy?utm_source=facebook&utm_medium=social&utm_campaign=sl_chair_theone&utm_content=group_post_01",
+    "publish_status": "PREPARE_ONLY"
+  },
+  "qa": {
+    "static_validation": "PASS",
+    "local_browser": "PASS",
+    "responsive_viewports": ["1440x900", "1280x800", "768x1024", "390x844", "360x800"],
+    "horizontal_overflow": 0,
+    "broken_image": 0,
+    "console_error": 0,
+    "quote_wizard": "landing + SL216S + SL9700M, step 1->2->3 PASS",
+    "lead_submitted": 0,
+    "m1a_regression": 0,
+    "m1c_regression": 0,
+    "preview_status": "PENDING_DEPLOYMENT"
+  },
+  "constraints": {
+    "main_merged": false,
+    "production_deployed": false,
+    "facebook_published": false,
+    "productdb_modified": false,
+    "portal_modified": false,
+    "lead_engine_modified": false,
+    "framework_redesigned": false
+  }
+}

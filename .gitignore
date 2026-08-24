@@ -1,0 +1,5 @@
+.artifact-sl-chair/
+**/__pycache__/
+*.inspect.ndjson
+qa/sl-chair-theone/*
+!qa/sl-chair-theone/APPROVED_IMAGE_SELECTION.md

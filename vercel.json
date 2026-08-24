@@ -49,6 +49,14 @@
       "destination": "/mesh-highback-gl3xx.html"
     },
     {
+      "source": "/san-pham/ghe-hop-chan-quy/:code",
+      "destination": "/sl-meeting-product.html?code=:code"
+    },
+    {
+      "source": "/danh-muc/ghe-hop-chan-quy",
+      "destination": "/sl-meeting-chair.html"
+    },
+    {
       "source": "/danh-muc/:slug",
       "destination": "/category.html?cat=:slug"
     },

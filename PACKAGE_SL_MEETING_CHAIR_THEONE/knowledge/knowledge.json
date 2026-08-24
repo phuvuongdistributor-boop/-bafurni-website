@@ -1,0 +1,700 @@
+{
+  "package": {
+    "id": "PACKAGE_SL_MEETING_CHAIR_THEONE",
+    "category": "Office Chair",
+    "subcategory": "Ghế họp chân quỳ SL",
+    "source": "The One",
+    "product_count": 22
+  },
+  "products": [
+    {
+      "code": "SL216S",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL216S. Ghế họp lưng cao khung thép sơn tĩnh điện hoặc mạ, đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng cao khung thép sơn tĩnh điện hoặc mạ, đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W625 x D655 x H1075 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 1012000,
+      "strength": "Ghế họp lưng cao khung thép sơn tĩnh điện hoặc mạ, đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL225S",
+        "SL601S",
+        "SL710S"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl216.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL225S",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL225S. Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W605 x D600 x H925 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 891000,
+      "strength": "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL601S",
+        "SL710S",
+        "SL711S"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-sl225s.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL601S",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL601S. Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W580 x D615 x H945 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 1034000,
+      "strength": "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL710S",
+        "SL711S",
+        "SL712S"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl601s.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL603M",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL603M. Ghế họp lưng trung khung thép mạ. Đệm tựa bọc da thật phần tiếp xúc người sử dụng, da CN hoặc PVC. Tay ghế bằng thép mạ có ốp nhựa.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép mạ.",
+        "Đệm tựa bọc da thật phần tiếp xúc người sử dụng, da CN hoặc PVC.",
+        "Tay ghế bằng thép mạ có ốp nhựa."
+      ],
+      "dimensions": "W570 x D715 x H1000 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 3124000,
+      "strength": "Ghế họp lưng trung khung thép mạ. Đệm tựa bọc da thật phần tiếp xúc người sử dụng, da CN hoặc PVC.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL719M",
+        "SL901",
+        "SL903"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-hop-sl/ghe-hop-cao-cap-sl603m.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL606",
+      "product_summary": "Ghế Họp Chân Quỳ SL606. Ghế họp lưng trung chân thép sơn tĩnh điện. Đệm tựa mút bọc PVC, da công nghiệp hoặc da thật.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp lưng trung chân thép sơn tĩnh điện.",
+        "Đệm tựa mút bọc PVC, da công nghiệp hoặc da thật."
+      ],
+      "dimensions": "W620 x D645 x H980 mm",
+      "material": "Da",
+      "price_reference_vnd": 2827000,
+      "strength": "Ghế họp lưng trung chân thép sơn tĩnh điện. Đệm tựa mút bọc PVC, da công nghiệp hoặc da thật.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL901",
+        "SL903",
+        "SL904"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl606.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL607",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL607. Ghế họp lưng trung, chân thép mạ, tay có ốp gỗ kết hợp thép mạ. Đệm tựa bọc PVC.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp lưng trung, chân thép mạ, tay có ốp gỗ kết hợp thép mạ.",
+        "Đệm tựa bọc PVC."
+      ],
+      "dimensions": "W580 x D590 x H1110 mm",
+      "material": "PVC, khung sắt",
+      "price_reference_vnd": 1914000,
+      "strength": "Ghế họp lưng trung, chân thép mạ, tay có ốp gỗ kết hợp thép mạ. Đệm tựa bọc PVC.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL903",
+        "SL904",
+        "SL905"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl607.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL710S",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL710S. Ghế họp lưng trung khung thép sơn tĩnh điện,đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép sơn tĩnh điện,đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W575 x D690 x H900 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 944900,
+      "strength": "Ghế họp lưng trung khung thép sơn tĩnh điện,đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL811M",
+        "SL216S",
+        "SL225S"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl710s.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL711S",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL711S. Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W600 x D650 x H900 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 1155000,
+      "strength": "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL216S",
+        "SL225S",
+        "SL601S"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-ho-cao-cap-sl711s.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL712S",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL712S. Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W595 x D595 x H930 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 944900,
+      "strength": "Ghế họp lưng trung khung thép sơn tĩnh điện, đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL225S",
+        "SL601S",
+        "SL710S"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl712s.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL718M",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL718M. Ghế họp lưng trung khung thép mạ, đệm tựa liền, ốp tay nhựa. Ghế có 03 chất liệu lựa chọn - Đệm tựa bọc da thật tại phần tiếp xúc trực tiếp với người sử dụng, phần còn lại bọc PVC - Đệm tựa bọc bọc da công nghiệp, hoặc PVC toàn bộ.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép mạ, đệm tựa liền, ốp tay nhựa.",
+        "Ghế có 03 chất liệu lựa chọn - Đệm tựa bọc da thật tại phần tiếp xúc trực tiếp với người sử dụng, phần còn lại bọc PVC - Đệm tựa bọc bọc da công nghiệp, hoặc PVC toàn bộ."
+      ],
+      "dimensions": "W580 x D690 x H990 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 2486000,
+      "strength": "Ghế họp lưng trung khung thép mạ, đệm tựa liền, ốp tay nhựa. Ghế có 03 chất liệu lựa chọn - Đệm tựa bọc da thật tại phần tiếp xúc trực tiếp với người sử dụng, phần còn lại bọc PVC - Đệm tựa bọc bọc da công nghiệp, hoặc PVC toàn bộ.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL908",
+        "SL926",
+        "SL933"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl718m.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL719M",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL719M. Ghế họp lưng trung khung thép mạ, đệm tựa liền bọc vải hoặc da CN, ốp tay nhựa.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép mạ, đệm tựa liền bọc vải hoặc da CN, ốp tay nhựa."
+      ],
+      "dimensions": "W580 x D690 x H990 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 1144000,
+      "strength": "Ghế họp lưng trung khung thép mạ, đệm tựa liền bọc vải hoặc da CN, ốp tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL926",
+        "SL933",
+        "SL9700M"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl719m.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL721M",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL721M. Ghế họp lưng trung khung thép mạ, đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép mạ, đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W580 x D615 x H945 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 1111000,
+      "strength": "Ghế họp lưng trung khung thép mạ, đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL711S",
+        "SL712S",
+        "SL811M"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl721m.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL811M",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL811M. Ghế họp lưng trung khung thép mạ, đệm tựa mút bọc vải, tay nhựa.",
+      "application": "Phòng họp hoặc khu trao đổi cần ghế chân quỳ đệm bọc vải, ưu tiên dáng gọn và bố trí theo dãy.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép mạ, đệm tựa mút bọc vải, tay nhựa."
+      ],
+      "dimensions": "W595 x D665 x H965 mm",
+      "material": "Vải, khung sắt",
+      "price_reference_vnd": 1309000,
+      "strength": "Ghế họp lưng trung khung thép mạ, đệm tựa mút bọc vải, tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL712S",
+        "SL721M",
+        "SL216S"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl811m.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL901",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL901. Ghế họp lưng trung khung thép mạ, đệm tựa bọc da thật, da công nghiệp hoặc PVC mặt tiếp xúc với người sử dụng. Tay nhựa không bọc PVC.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép mạ, đệm tựa bọc da thật, da công nghiệp hoặc PVC mặt tiếp xúc với người sử dụng.",
+        "Tay nhựa không bọc PVC."
+      ],
+      "dimensions": "W590 x D690 x H1050 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 2915000,
+      "strength": "Ghế họp lưng trung khung thép mạ, đệm tựa bọc da thật, da công nghiệp hoặc PVC mặt tiếp xúc với người sử dụng. Tay nhựa không bọc PVC.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL603M",
+        "SL606",
+        "SL607"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-ho-cao-cap-sl901.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL903",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL903. Ghế họp khung thép mạ, đệm tựa bọc da thật, da công nghiệp hoặc PVC mặt tiếp xúc người sử dụng. Tay nhựa không bọc PVC.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp khung thép mạ, đệm tựa bọc da thật, da công nghiệp hoặc PVC mặt tiếp xúc người sử dụng.",
+        "Tay nhựa không bọc PVC."
+      ],
+      "dimensions": "W590 x D710 x H1090 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 3520000,
+      "strength": "Ghế họp khung thép mạ, đệm tựa bọc da thật, da công nghiệp hoặc PVC mặt tiếp xúc người sử dụng. Tay nhựa không bọc PVC.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL606",
+        "SL607",
+        "SL718M"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl903.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL904",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL904. Ghế họp khung thép mạ, đệm tựa bọc da thật, da CN hoặc PVC mặt tiếp xúc. Tay nhựa không bọc PVC.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp khung thép mạ, đệm tựa bọc da thật, da CN hoặc PVC mặt tiếp xúc.",
+        "Tay nhựa không bọc PVC."
+      ],
+      "dimensions": "W590 x D710 x H1080 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 3179000,
+      "strength": "Ghế họp khung thép mạ, đệm tựa bọc da thật, da CN hoặc PVC mặt tiếp xúc. Tay nhựa không bọc PVC.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL607",
+        "SL718M",
+        "SL719M"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl904.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL905",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL905. Ghế phòng họp cao cấp, đệm tựa mút bọc da thật hoặc PVC mặt tiếp xúc, ốp tay nhựa đen không bọc PVC, chân thép mạ.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế phòng họp cao cấp, đệm tựa mút bọc da thật hoặc PVC mặt tiếp xúc, ốp tay nhựa đen không bọc PVC, chân thép mạ."
+      ],
+      "dimensions": "W595 x D700 x H1030 mm",
+      "material": "Da cao cấp, khung sắt",
+      "price_reference_vnd": 2981000,
+      "strength": "Ghế phòng họp cao cấp, đệm tựa mút bọc da thật hoặc PVC mặt tiếp xúc, ốp tay nhựa đen không bọc PVC, chân thép mạ.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL718M",
+        "SL719M",
+        "SL901"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-phong-hop-1902.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL906",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL906. Ghế phòng họp khung chân thép mạ, đệm tựa liền bọc PVC màu đen. Tay ghế dùng ốp nhựa màu đen.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế phòng họp khung chân thép mạ, đệm tựa liền bọc PVC màu đen.",
+        "Tay ghế dùng ốp nhựa màu đen."
+      ],
+      "dimensions": "W590 x D690 x H990 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 1529000,
+      "strength": "Ghế phòng họp khung chân thép mạ, đệm tựa liền bọc PVC màu đen. Tay ghế dùng ốp nhựa màu đen.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL719M",
+        "SL901",
+        "SL903"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-phong-hop-SL906.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL908",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL908. Ghế họp cao cấp khung thép mạ, đệm tựa bọc da thật, Da CN hoặc PVC mặt tiếp xúc. Ốp tay nhựa.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp cao cấp khung thép mạ, đệm tựa bọc da thật, Da CN hoặc PVC mặt tiếp xúc.",
+        "Ốp tay nhựa."
+      ],
+      "dimensions": "W590 x D685 x H980 mm",
+      "material": "Da cao cấp, khung sắt",
+      "price_reference_vnd": 2695000,
+      "strength": "Ghế họp cao cấp khung thép mạ, đệm tựa bọc da thật, Da CN hoặc PVC mặt tiếp xúc. Ốp tay nhựa.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL901",
+        "SL903",
+        "SL904"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-phong-hop-SL908.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL926",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL926. Ghế phòng họp cao cấp đệm tựa bọc da thật da CN hoặc PVC mặt tiếp xúc, tay gỗ sơn kết hợp thép mạ. Chân mạ.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế phòng họp cao cấp đệm tựa bọc da thật da CN hoặc PVC mặt tiếp xúc, tay gỗ sơn kết hợp thép mạ.",
+        "Chân mạ."
+      ],
+      "dimensions": "W650 x D700 x H1130 mm",
+      "material": "Da cao cấp",
+      "price_reference_vnd": 3234000,
+      "strength": "Ghế phòng họp cao cấp đệm tựa bọc da thật da CN hoặc PVC mặt tiếp xúc, tay gỗ sơn kết hợp thép mạ. Chân mạ.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL903",
+        "SL904",
+        "SL905"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl926.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL933",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL933. Ghế họp cao cấp đệm tựa bọc da thật, da công nghiệp hoặc PVC, bề mặt đệm tựa có các đường may trang trí. Tay nhôm đúc có ốp gỗ sơn. Khung chân thép sơn.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp cao cấp đệm tựa bọc da thật, da công nghiệp hoặc PVC, bề mặt đệm tựa có các đường may trang trí.",
+        "Tay nhôm đúc có ốp gỗ sơn.",
+        "Khung chân thép sơn."
+      ],
+      "dimensions": "W610 x D685 x H1050 mm",
+      "material": "Da cao cấp, khung sắt",
+      "price_reference_vnd": 3355000,
+      "strength": "Ghế họp cao cấp đệm tựa bọc da thật, da công nghiệp hoặc PVC, bề mặt đệm tựa có các đường may trang trí. Tay nhôm đúc có ốp gỗ sơn.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL904",
+        "SL905",
+        "SL906"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl933.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    },
+    {
+      "code": "SL9700M",
+      "product_summary": "Ghế Họp Chân Quỳ The One SL9700M. Ghế họp lưng trung khung thép mạ, đệm tựa bọc da, da CN hoặc PVC mặt tiếp xúc, tay nhôm đúc.",
+      "application": "Phòng họp cần ghế chân quỳ bề mặt da, da công nghiệp hoặc PVC theo đúng cấu hình từng Code.",
+      "verified_features": [
+        "Ghế họp lưng trung khung thép mạ, đệm tựa bọc da, da CN hoặc PVC mặt tiếp xúc, tay nhôm đúc."
+      ],
+      "dimensions": "W620 x D640 x H1025 mm",
+      "material": "Da, khung sắt",
+      "price_reference_vnd": 3586000,
+      "strength": "Ghế họp lưng trung khung thép mạ, đệm tựa bọc da, da CN hoặc PVC mặt tiếp xúc, tay nhôm đúc.",
+      "weakness_or_confirmation_needed": "Giá hiển thị là giá tham khảo ProductDB; cần xác nhận cấu hình, màu, tình trạng nguồn và thời điểm giao trước khi chốt.",
+      "related": [
+        "SL905",
+        "SL906",
+        "SL908"
+      ],
+      "source_url": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-cao-cap-sl9700m.html",
+      "image_status": "CLEAN_EXACT_LOW_RES_SOURCE",
+      "provenance": {
+        "membership": "PRODUCTDB_READ_ONLY",
+        "price": "PRODUCTDB_READ_ONLY",
+        "productName": "THE_ONE_CORPORATE_SOURCE",
+        "size": "THE_ONE_CORPORATE_SOURCE",
+        "material": "PRODUCTDB_READ_ONLY_CROSS_CHECKED_WITH_SOURCE",
+        "features": "THE_ONE_CORPORATE_SOURCE",
+        "application": "BA_FURNITURE_EDITORIAL_FROM_VERIFIED_SPEC",
+        "image": "INVENTORY_MAPPED_EXACT_CODE_ARCHIVE_VISUALLY_APPROVED"
+      }
+    }
+  ],
+  "sales_points": [
+    "22 Code có trang chi tiết và thông số nguồn theo từng mã.",
+    "So sánh theo kích thước, vật liệu bọc, kiểu tay và hoàn thiện khung chân.",
+    "Giá ProductDB được ghi rõ là giá tham khảo.",
+    "Ảnh public đúng mã, không watermark, QR hoặc logo nguồn; giữ nguyên độ phân giải nguồn."
+  ],
+  "source_provenance": {
+    "corporate_product_data": "../report/OFFICIAL_SOURCE_RESEARCH.json",
+    "image_audit": "../report/PRODUCT_IMAGE_AUDIT.json",
+    "not_inferred": [
+      "tải trọng",
+      "tồn kho",
+      "thời gian giao",
+      "màu khả dụng tại thời điểm báo giá"
+    ]
+  }
+}

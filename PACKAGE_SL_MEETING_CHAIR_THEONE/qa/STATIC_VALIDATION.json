@@ -1,0 +1,315 @@
+{
+  "status": "PASS",
+  "generated_at": "2026-08-24T04:05:20.784Z",
+  "base_commit": "b95dd4e9bc4f02d7c29a431cff9f499aa2be2916",
+  "products": 22,
+  "clean_exact_images": 22,
+  "low_resolution_exact": 22,
+  "gallery_total": 22,
+  "candidate_images": 270,
+  "rejected_images": 248,
+  "checks": [
+    {
+      "name": "product_count",
+      "pass": true,
+      "actual": 22,
+      "expected": 22
+    },
+    {
+      "name": "code_order",
+      "pass": true,
+      "actual": [
+        "SL216S",
+        "SL225S",
+        "SL601S",
+        "SL603M",
+        "SL606",
+        "SL607",
+        "SL710S",
+        "SL711S",
+        "SL712S",
+        "SL718M",
+        "SL719M",
+        "SL721M",
+        "SL811M",
+        "SL901",
+        "SL903",
+        "SL904",
+        "SL905",
+        "SL906",
+        "SL908",
+        "SL926",
+        "SL933",
+        "SL9700M"
+      ],
+      "expected": [
+        "SL216S",
+        "SL225S",
+        "SL601S",
+        "SL603M",
+        "SL606",
+        "SL607",
+        "SL710S",
+        "SL711S",
+        "SL712S",
+        "SL718M",
+        "SL719M",
+        "SL721M",
+        "SL811M",
+        "SL901",
+        "SL903",
+        "SL904",
+        "SL905",
+        "SL906",
+        "SL908",
+        "SL926",
+        "SL933",
+        "SL9700M"
+      ]
+    },
+    {
+      "name": "unique_codes",
+      "pass": true,
+      "actual": 22,
+      "expected": 22
+    },
+    {
+      "name": "approved_image_count",
+      "pass": true,
+      "actual": 22,
+      "expected": 22
+    },
+    {
+      "name": "clean_exact_count",
+      "pass": true,
+      "actual": 22,
+      "expected": 22
+    },
+    {
+      "name": "placeholder_count",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "gallery_total",
+      "pass": true,
+      "actual": 22,
+      "expected": 22
+    },
+    {
+      "name": "faq_count",
+      "pass": true,
+      "actual": 11,
+      "expected": "8-12"
+    },
+    {
+      "name": "schema_parse",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "collage_dimensions",
+      "pass": true,
+      "actual": "1200x1500",
+      "expected": "1200x1500"
+    },
+    {
+      "name": "collage_models",
+      "pass": true,
+      "actual": 8,
+      "expected": 8
+    },
+    {
+      "name": "collage_no_upscale",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "runtime_context_category",
+      "pass": true,
+      "actual": "ghe-hop-chan-quy",
+      "expected": "ghe-hop-chan-quy"
+    },
+    {
+      "name": "vercel_rewrites",
+      "pass": true,
+      "actual": [
+        {
+          "source": "/san-pham/ghe-hop-chan-quy/:code",
+          "destination": "/sl-meeting-product.html?code=:code"
+        },
+        {
+          "source": "/danh-muc/ghe-hop-chan-quy",
+          "destination": "/sl-meeting-chair.html"
+        }
+      ],
+      "expected": 2
+    },
+    {
+      "name": "rewrite_before_generic",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_landing",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL216S",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL225S",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL601S",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL603M",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL606",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL607",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL710S",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL711S",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL712S",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL718M",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL719M",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL721M",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL811M",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL901",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL903",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL904",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL905",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL906",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL908",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL926",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL933",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "sitemap_SL9700M",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "exact_byte_mirrors",
+      "pass": true,
+      "actual": 22,
+      "expected": 22
+    },
+    {
+      "name": "source_native_580",
+      "pass": true,
+      "actual": 22,
+      "expected": 22
+    },
+    {
+      "name": "forbidden_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    }
+  ],
+  "failed": []
+}
