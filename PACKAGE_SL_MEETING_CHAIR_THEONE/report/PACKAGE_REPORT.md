@@ -28,4 +28,16 @@
 
 ## Preview
 
-Preview URL, deployment SHA và remote route QA sẽ được ghi sau khi Vercel Preview Ready.
+- Runtime commit đã kiểm tra: `b810aab11c49ffbcc7c5725a30d580955fe85dcc`.
+- Vercel deployment: `6dBP6s6y9GaAv8yNEVUHbpNUad9U` — `Ready` sau 11 giây.
+- Immutable URL: `https://bafurni-website-pnkbwmn1f-phuvuongdistributor-boops-projects.vercel.app`.
+- Branch alias: `https://bafurni-website-git-f-10aa05-phuvuongdistributor-boops-projects.vercel.app`.
+- Landing: `/danh-muc/ghe-hop-chan-quy` — HTTP 200, 22 card.
+- Remote route QA: landing + 22 product route = 23/23 HTTP 200.
+- Runtime detail QA: 22/22 đúng H1, Code, canonical, schema SKU và asset `products/{Code}/main.jpg` 580×580.
+- Preview responsive: 1440×900, 1280×800, 768×1024, 390×844, 360×800; overflow 0.
+- Broken image: 0; console/runtime error: 0.
+- Quote Wizard: landing + `SL216S` + `SL9700M`, Step 1→2→3 PASS; submit 0.
+- M1A: bốn UTM field giữ đúng qua landing → product → product; direct tab rỗng.
+- M1C: landing chỉ có category; `SL216S` và `SL9700M` nhận đúng code/name/category, không giữ context cũ.
+- Business QA: PASS. Hero ngắn, CTA xem 22 mẫu nằm ở màn đầu; card đầu xuất hiện trong hai màn hình đầu mobile; collage có hierarchy 2 hero + 6 support, không phải contact sheet.

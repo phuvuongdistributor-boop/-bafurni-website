@@ -44,3 +44,15 @@ Không bấm Submit; lead test = 0.
 - Tab mới/direct → `SL216S`: UTM rỗng, product context vẫn đúng.
 
 Kết quả: M1A regression = 0; M1C regression = 0; Lead Engine source diff = 0.
+
+## Vercel Preview
+
+- Deployment `6dBP6s6y9GaAv8yNEVUHbpNUad9U`: Ready, build 11 giây.
+- Runtime commit: `b810aab11c49ffbcc7c5725a30d580955fe85dcc`.
+- Landing + 22 product routes: 23/23 HTTP 200.
+- 22/22 product detail đúng H1, Code, canonical, schema SKU và ảnh exact-code 580×580.
+- Landing và hai trang biên `SL216S` / `SL9700M`: overflow 0 tại 1440, 1280, 768, 390, 360.
+- 22 ảnh card đều tải đúng natural size 580×580; broken image 0.
+- Console/runtime warning và error: 0.
+- Quote landing / `SL216S` / `SL9700M`: Step 1→2→3 PASS; submit 0.
+- UTM persisted qua nhiều trang; direct tab không nhận attribution cũ.
