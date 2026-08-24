@@ -42,6 +42,7 @@
       source: clean(body.dataset.leadSource || `bafurni-${pageType.replaceAll("_", "-")}`),
       productCode: clean(body.dataset.productCode),
       productName: clean(body.dataset.productName),
+      productCategory: clean(body.dataset.productCategory),
       categoryName: clean(body.dataset.categoryName)
     };
   }
@@ -184,6 +185,7 @@
               <input type="hidden" name="source_page" value="${escapeHtml(context.pageType)}" />
               <input type="hidden" name="product_code" value="${escapeHtml(context.productCode)}" />
               <input type="hidden" name="product_name" value="${escapeHtml(context.productName)}" />
+              <input type="hidden" name="product_category" value="${escapeHtml(context.productCategory)}" />
               <input type="hidden" name="category_name" value="${escapeHtml(context.categoryName)}" />
               <input type="hidden" name="utm_source" />
               <input type="hidden" name="utm_medium" />
@@ -318,6 +320,7 @@
     if (next.source) body.dataset.leadSource = clean(next.source);
     if (next.productCode != null) body.dataset.productCode = clean(next.productCode);
     if (next.productName != null) body.dataset.productName = clean(next.productName);
+    if (next.productCategory != null) body.dataset.productCategory = clean(next.productCategory);
     if (next.categoryName != null) body.dataset.categoryName = clean(next.categoryName);
 
     const context = pageContext();
@@ -326,6 +329,7 @@
       source_page: context.pageType,
       product_code: context.productCode,
       product_name: context.productName,
+      product_category: context.productCategory,
       category_name: context.categoryName
     };
     const form = document.querySelector("#quote-form");

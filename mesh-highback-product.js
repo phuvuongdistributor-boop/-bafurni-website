@@ -99,7 +99,12 @@
 
   document.addEventListener("click", (event) => {
     if (!event.target.closest("[data-open-wizard]")) return;
-    const context = { productCode: product.code, productName: product.name, categoryName: "Ghế lưới lưng cao The One" };
+    const context = {
+      productCode: product.code,
+      productName: product.name,
+      productCategory: "ghe-luoi-lung-cao",
+      categoryName: "Ghế lưới lưng cao The One"
+    };
     if (window.BASiteShell?.setContext) window.BASiteShell.setContext(context);
   }, { capture: true });
 
