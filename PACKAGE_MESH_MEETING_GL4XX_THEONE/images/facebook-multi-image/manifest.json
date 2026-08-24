@@ -1,0 +1,46 @@
+{
+  "canvas": {
+    "cover": "1200x1500",
+    "individual": "1080x1080"
+  },
+  "order": [
+    "COVER",
+    "GL430",
+    "GL427",
+    "GL410",
+    "GL412",
+    "GL419",
+    "GL417",
+    "GL420",
+    "GL402TB"
+  ],
+  "files": [
+    "01-cover-collage-1200x1500.png",
+    "02-GL430-1080x1080.png",
+    "03-GL427-1080x1080.png",
+    "04-GL410-1080x1080.png",
+    "05-GL412-1080x1080.png",
+    "06-GL419-1080x1080.png",
+    "07-GL417-1080x1080.png",
+    "08-GL420-1080x1080.png",
+    "09-GL402TB-1080x1080.png"
+  ],
+  "selectedCodes": [
+    "GL430",
+    "GL427",
+    "GL410",
+    "GL412",
+    "GL419",
+    "GL417",
+    "GL420",
+    "GL402TB"
+  ],
+  "constraints": {
+    "aiRedraw": false,
+    "rasterUpscale": false,
+    "watermark": 0,
+    "qr": 0,
+    "supplierLogo": 0,
+    "wrongCode": 0
+  }
+}

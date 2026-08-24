@@ -1,0 +1,133 @@
+{
+  "version": "GL4XX-ZALO-WALL-01",
+  "channel": "zalo",
+  "format": "wall_post",
+  "status": "PREPARED_NOT_PUBLISHED",
+  "landingPath": "/danh-muc/ghe-luoi-phong-hop",
+  "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=zalo&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+  "utm": {
+    "utm_source": "zalo",
+    "utm_medium": "social",
+    "utm_campaign": "gl4xx_theone",
+    "utm_content": "group_post_01"
+  },
+  "caption": "ZALO_WALL_CAPTION.txt",
+  "selectedCodes": [
+    "GL430",
+    "GL427",
+    "GL410",
+    "GL412",
+    "GL419",
+    "GL417",
+    "GL420",
+    "GL402TB"
+  ],
+  "media": [
+    {
+      "order": 1,
+      "role": "cover",
+      "code": "",
+      "file": "media/01-zalo-cover-1200x1500.png",
+      "dimensions": "1200x1500",
+      "bytes": 294235,
+      "sha256": "0df36af49a7476c3f901ecf896b686b11663f224aa2f3882793ea161436833dc",
+      "copyOf": "../../images/facebook-multi-image/01-cover-collage-1200x1500.png"
+    },
+    {
+      "order": 2,
+      "role": "product",
+      "code": "GL430",
+      "file": "media/02-zalo-GL430-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 205116,
+      "sha256": "6775b7f8ad6b7bdfdbddabb67f6339f6d0a72885894a19ceaf58170e4644ff74",
+      "copyOf": "../../images/facebook-multi-image/02-GL430-1080x1080.png"
+    },
+    {
+      "order": 3,
+      "role": "product",
+      "code": "GL427",
+      "file": "media/03-zalo-GL427-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 226164,
+      "sha256": "46dd7f7a5d37f05099180144c174044a604c90e0e10697708258cc50148179fe",
+      "copyOf": "../../images/facebook-multi-image/03-GL427-1080x1080.png"
+    },
+    {
+      "order": 4,
+      "role": "product",
+      "code": "GL410",
+      "file": "media/04-zalo-GL410-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 238758,
+      "sha256": "1c3634bd77111e31a53856abf37eefce4e14a48ddae364b4937339b600a1b1e6",
+      "copyOf": "../../images/facebook-multi-image/04-GL410-1080x1080.png"
+    },
+    {
+      "order": 5,
+      "role": "product",
+      "code": "GL412",
+      "file": "media/05-zalo-GL412-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 245502,
+      "sha256": "6cd51cf5f5730a5ce8f5047553fce65b07e4cf503480fa5b645f90e753686cd0",
+      "copyOf": "../../images/facebook-multi-image/05-GL412-1080x1080.png"
+    },
+    {
+      "order": 6,
+      "role": "product",
+      "code": "GL419",
+      "file": "media/06-zalo-GL419-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 224212,
+      "sha256": "b03dce953bfd6b973d031e5b2128ae7aabef0612a57e0d492d1734a35a6098f5",
+      "copyOf": "../../images/facebook-multi-image/06-GL419-1080x1080.png"
+    },
+    {
+      "order": 7,
+      "role": "product",
+      "code": "GL417",
+      "file": "media/07-zalo-GL417-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 214897,
+      "sha256": "a3e54477fcdf61ce062efd19c695b4afba95b612d227b75f0e7a48cbc7b55764",
+      "copyOf": "../../images/facebook-multi-image/07-GL417-1080x1080.png"
+    },
+    {
+      "order": 8,
+      "role": "product",
+      "code": "GL420",
+      "file": "media/08-zalo-GL420-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 189795,
+      "sha256": "71c0923c09faeef2560d61abee7cc3625bd2e55e811f6b20145f59cdf66db120",
+      "copyOf": "../../images/facebook-multi-image/08-GL420-1080x1080.png"
+    },
+    {
+      "order": 9,
+      "role": "product",
+      "code": "GL402TB",
+      "file": "media/09-zalo-GL402TB-1080x1080.png",
+      "dimensions": "1080x1080",
+      "bytes": 281544,
+      "sha256": "7f653b2181844708a38938b9fc8c80ba65ad97d578886f2aefdb392eed3f8d4b",
+      "copyOf": "../../images/facebook-multi-image/09-GL402TB-1080x1080.png"
+    }
+  ],
+  "provenance": {
+    "productImageAudit": "../../report/PRODUCT_IMAGE_AUDIT.json",
+    "sourceImageAudit": "../../images/SOURCE_IMAGE_AUDIT.csv",
+    "selection": "ZALO_SELECTED_PRODUCTS.csv"
+  },
+  "constraints": {
+    "reuseApprovedCleanAssets": true,
+    "imageTransformationForZalo": "NONE_EXACT_COPY",
+    "aiRedraw": false,
+    "fakeUpscale": false,
+    "watermark": 0,
+    "qr": 0,
+    "supplierLogo": 0,
+    "wrongCode": 0,
+    "publish": false
+  }
+}

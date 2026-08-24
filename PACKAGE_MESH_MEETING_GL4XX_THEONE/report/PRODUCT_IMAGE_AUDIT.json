@@ -1,0 +1,1180 @@
+{
+  "summary": {
+    "inventory": 24,
+    "cleanExact": 21,
+    "lowResExact": 3,
+    "highResolution2000": 8,
+    "sourceCeiling1000": 13,
+    "sourceLimit580": 3,
+    "approvedGalleryImages": 46,
+    "watermark": 0,
+    "qr": 0,
+    "supplierLogo": 0,
+    "wrongCode": 0,
+    "placeholder": 0,
+    "fakeUpscale": 0
+  },
+  "products": [
+    {
+      "code": "GL401",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl401-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL401/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 147500,
+        "sha256": "9433a3ae06bd5599374baf8a5c9b06f5ef7ad9d1ed59a670403dc0ccaaad6587",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl401-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL401/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 147500,
+          "sha256": "9433a3ae06bd5599374baf8a5c9b06f5ef7ad9d1ed59a670403dc0ccaaad6587",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl401-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL401/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 66080,
+          "sha256": "f5bfe2fa4c6f1aae33f8b7a71ab75743654b39b5933be8094c6523b4b1252d18",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL402TB",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl402tb-1.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL402TB/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 133514,
+        "sha256": "baf7b2d45ad8cca377e40e6c4dd198b26e2921e00053d9ea4bf0b0b4dcf449ee",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl402tb-1.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL402TB/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 133514,
+          "sha256": "baf7b2d45ad8cca377e40e6c4dd198b26e2921e00053d9ea4bf0b0b4dcf449ee",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL402XB",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl402xb-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL402XB/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 115868,
+        "sha256": "4d4a1eedc735734575f4cc172ff11127c3339328b352b8c8cdff70b1a02150ae",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl402xb-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL402XB/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 115868,
+          "sha256": "4d4a1eedc735734575f4cc172ff11127c3339328b352b8c8cdff70b1a02150ae",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl402xb-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL402XB/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 75110,
+          "sha256": "5a4f7cbee2a34c0477834a3ab4a1ae7ec4b80db76e2dd5617d96a91f2fc836ab",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL403",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2024/03/gl403-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL403/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 100746,
+        "sha256": "8c67f67c534e7d6d6bb6289fe96a553b85cbe2e45cf39220ca623e157039c044",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/03/gl403-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL403/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 100746,
+          "sha256": "8c67f67c534e7d6d6bb6289fe96a553b85cbe2e45cf39220ca623e157039c044",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/03/gl403-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL403/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 59420,
+          "sha256": "67c30548bbbcb869c42c42c976c22b479012dce8f6b472f71ed5d7acdf76d3b0",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL404",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl404-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL404/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 110750,
+        "sha256": "49b911584f5e026641788f2abb5f91a0f0678190aa4e0ade1fe73c16e03402ad",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl404-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL404/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 110750,
+          "sha256": "49b911584f5e026641788f2abb5f91a0f0678190aa4e0ade1fe73c16e03402ad",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl404-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL404/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 49288,
+          "sha256": "26820890330b13ebbb50b70c0685d53a33de7eb472dedd2e9f883de141677b7e",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2021/12/gl404-0.jpg",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL404/gallery-03.jpg",
+          "width": 1000,
+          "height": 723,
+          "bytes": 50370,
+          "sha256": "ae8736c5f5415adc579050a4774fff22adacd4e0e379a85653fcedd6f7bf718d",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL404B",
+      "selectedMain": {
+        "url": "https://theone.vn/wp-content/uploads/2022/05/GL404B.jpg",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL404B/main.jpg",
+        "width": 580,
+        "height": 580,
+        "bytes": 42980,
+        "sha256": "9b17eaded94b866ed9f4648382f6dea816f20288f607909ec7a2da353a0707cd",
+        "classification": "LOW_RES_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://theone.vn/wp-content/uploads/2022/05/GL404B.jpg",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL404B/main.jpg",
+          "width": 580,
+          "height": 580,
+          "bytes": 42980,
+          "sha256": "9b17eaded94b866ed9f4648382f6dea816f20288f607909ec7a2da353a0707cd",
+          "classification": "LOW_RES_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "OFFICIAL_CATALOG_ARCHIVE; SECONDARY_OUT_OF_STOCK"
+    },
+    {
+      "code": "GL405",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2026/03/gl405-2.jpg",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL405/main.jpg",
+        "width": 1000,
+        "height": 723,
+        "bytes": 87827,
+        "sha256": "84e5c245c5e1d81e04597de582dd558780a1cf650ac2bdd9671c506f266adec0",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2026/03/gl405-2.jpg",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL405/main.jpg",
+          "width": 1000,
+          "height": 723,
+          "bytes": 87827,
+          "sha256": "84e5c245c5e1d81e04597de582dd558780a1cf650ac2bdd9671c506f266adec0",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2026/03/gl405-3.jpg",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL405/gallery-02.jpg",
+          "width": 1000,
+          "height": 723,
+          "bytes": 76241,
+          "sha256": "61882fb9fca5ac232fcea19bd7f577f4fb906e6952ec219ff8128cefa0a2ae11",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL406",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2024/03/gl406-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL406/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 78640,
+        "sha256": "19031a2d982d60a6bed31e8ac0818822e102bd7a954fd4998246f53f477d01c8",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/03/gl406-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL406/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 78640,
+          "sha256": "19031a2d982d60a6bed31e8ac0818822e102bd7a954fd4998246f53f477d01c8",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/03/gl406-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL406/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 62272,
+          "sha256": "cabd0458ef842120b863c14be238f0bd725a9bd00a430790677d0e24d4641950",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL410",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2024/06/gl410-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL410/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 460356,
+        "sha256": "5d3f7e046f657ea7dc561575db73f0b859e211ed102a2fb7299ceb7dcb73eacf",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/06/gl410-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL410/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 460356,
+          "sha256": "5d3f7e046f657ea7dc561575db73f0b859e211ed102a2fb7299ceb7dcb73eacf",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/06/gl410-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL410/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 349266,
+          "sha256": "9274d89a3144c0b40b48d4a769d084bfaf39c8ac507ccccc2b10dc88baec685a",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL411",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl411-1.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL411/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 125992,
+        "sha256": "4d86400b1950d24c9ffa7440edb0c975222f1eddf6496ba040e2f5d992da3843",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl411-1.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL411/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 125992,
+          "sha256": "4d86400b1950d24c9ffa7440edb0c975222f1eddf6496ba040e2f5d992da3843",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl411-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL411/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 71710,
+          "sha256": "dc8d2f959299e41223891e7696a99cdffd96dba0f4c5e74182a004431501de06",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL412",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl412-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL412/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 440284,
+        "sha256": "27a07187108efce080be3561d50dba0d7b52a599f4ae1e8a07f902b7ed8b7e86",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl412-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL412/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 440284,
+          "sha256": "27a07187108efce080be3561d50dba0d7b52a599f4ae1e8a07f902b7ed8b7e86",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl412-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL412/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 254558,
+          "sha256": "58be1ac362c6885e549b34d074b8a18f157228ee39efa2629d0b00f1159912b1",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL417",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl417-1-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL417/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 362318,
+        "sha256": "3f53c3485688d3a54faf1c51d5e4d65c7649cff2cc1e9e7fee098dc1631c2838",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl417-1-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL417/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 362318,
+          "sha256": "3f53c3485688d3a54faf1c51d5e4d65c7649cff2cc1e9e7fee098dc1631c2838",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl417-1-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL417/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 214986,
+          "sha256": "46c311424e89571f8b7a4373fcf83ecd7efe79aa4ee9b06a91845e042095fdb0",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL418",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2023/09/gl418-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL418/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 124424,
+        "sha256": "61c671330549becb7c87cc12e4833a2f07fc93ec46697a2f7e9a8e7a38996c63",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/09/gl418-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL418/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 124424,
+          "sha256": "61c671330549becb7c87cc12e4833a2f07fc93ec46697a2f7e9a8e7a38996c63",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/09/gl418-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL418/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 58088,
+          "sha256": "ad3d165dc03e7baa6bf078ac3cc3cafe26523a6a958be159920d99a92374c540",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL419",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl419-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL419/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 368338,
+        "sha256": "3fc0dd1da28943d1043e086f6999bce7dd7faa9ad1920fb02917b78513d55b2e",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl419-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL419/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 368338,
+          "sha256": "3fc0dd1da28943d1043e086f6999bce7dd7faa9ad1920fb02917b78513d55b2e",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl419-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL419/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 218024,
+          "sha256": "8093b19d7c609577009ad154afe70151dbf74d900ed38619e50cf85487256280",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL420",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl420-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL420/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 314468,
+        "sha256": "f194903fbeaa386ab14cbf00554d86abe45878ccf023c6bdd7d94839995a16c2",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl420-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL420/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 314468,
+          "sha256": "f194903fbeaa386ab14cbf00554d86abe45878ccf023c6bdd7d94839995a16c2",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl420-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL420/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 181676,
+          "sha256": "3a60219182cdffd6dc89530913dc69f3a423542735b4c905d40ddc5fa055e51d",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL421",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2023/09/gl421-2-1.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL421/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 113658,
+        "sha256": "af2a0030cb37f5297530802cada634b793599d8058d0ad7b7241085ca0e10d33",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/09/gl421-2-1.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL421/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 113658,
+          "sha256": "af2a0030cb37f5297530802cada634b793599d8058d0ad7b7241085ca0e10d33",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/09/gl421-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL421/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 59300,
+          "sha256": "51827f75669cbcf7159cc958c3df82a159362188ca5dcaf3343e6010355e0c00",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL423",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl423-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL423/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 443066,
+        "sha256": "05613318a2e03f8255e1ac9c0e2fc2f0819926c86e539cbe377c592a8bf4c1d9",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl423-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL423/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 443066,
+          "sha256": "05613318a2e03f8255e1ac9c0e2fc2f0819926c86e539cbe377c592a8bf4c1d9",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2023/06/gl423-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL423/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 370552,
+          "sha256": "36ef0c43bb8c33b0ebda953f1935c4f65ec836d815cd2ef15f8687214831f0e7",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL424",
+      "selectedMain": {
+        "url": "https://theone.vn/wp-content/uploads/2020/08/GL424.jpg",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL424/main.jpg",
+        "width": 580,
+        "height": 580,
+        "bytes": 60184,
+        "sha256": "1f96d39d5ba8a0d800e4dc92a642f8aa92e067bf4d96fc91be3060ba5e68b71a",
+        "classification": "LOW_RES_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://theone.vn/wp-content/uploads/2020/08/GL424.jpg",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL424/main.jpg",
+          "width": 580,
+          "height": 580,
+          "bytes": 60184,
+          "sha256": "1f96d39d5ba8a0d800e4dc92a642f8aa92e067bf4d96fc91be3060ba5e68b71a",
+          "classification": "LOW_RES_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL424B",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl-424b-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL424B/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 113368,
+        "sha256": "4134620508fafd234961fb1e9d205dedca65c39e01207e8e73c6827fe9407a27",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl-424b-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL424B/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 113368,
+          "sha256": "4134620508fafd234961fb1e9d205dedca65c39e01207e8e73c6827fe9407a27",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl-424b-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL424B/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 85280,
+          "sha256": "c29e796be584bc8e45eb0329187f617797e2f1c4391a482133553e654986fa07",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2021/12/gl-424b-1.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL424B/gallery-03.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 102110,
+          "sha256": "bb626417fb9b77e1e1957cd9d1e42a0b2960ace0bd7d024884178d45fdbd4823",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL425",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl425-1.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL425/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 120636,
+        "sha256": "02f43a320e230685cca9cc530c25fd27cd497d92034e1f05a4c80db7e8462a47",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl425-1.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL425/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 120636,
+          "sha256": "02f43a320e230685cca9cc530c25fd27cd497d92034e1f05a4c80db7e8462a47",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl425-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL425/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 83324,
+          "sha256": "e0d03af26d8aef7c839c7a61d06517d7ace159c06c4c11222b232290b988b830",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL426",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl426-1.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL426/main.webp",
+        "width": 1000,
+        "height": 723,
+        "bytes": 110348,
+        "sha256": "6bbe1ffbf97ca9817e8dca085be8cf2287a86b3162f770d05ce93105867cc67e",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl426-1.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL426/main.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 110348,
+          "sha256": "6bbe1ffbf97ca9817e8dca085be8cf2287a86b3162f770d05ce93105867cc67e",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2020/11/gl426-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL426/gallery-02.webp",
+          "width": 1000,
+          "height": 723,
+          "bytes": 68170,
+          "sha256": "9f52577eeda4e3d34a6733549ea9d21c90a6b0c758ae1d5f8ee46d4fa9934ed1",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL427",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2025/01/gl427-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL427/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 396530,
+        "sha256": "f353afa3ec5bbddf489d72fa9177027f14706beef34aae7f75f786eaeff02504",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2025/01/gl427-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL427/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 396530,
+          "sha256": "f353afa3ec5bbddf489d72fa9177027f14706beef34aae7f75f786eaeff02504",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2025/01/gl427-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL427/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 304752,
+          "sha256": "138ce336be8cbe2c32b999de64dc6455c09efd645fbfe0d63e73756a0b0fff64",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL429",
+      "selectedMain": {
+        "url": "https://theone.vn/wp-content/uploads/2020/08/GL429.jpg",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL429/main.jpg",
+        "width": 580,
+        "height": 580,
+        "bytes": 47544,
+        "sha256": "5132a83352d690468ad2199e36934a1b7587abbc39ecdaa62110d0ca054bf7d6",
+        "classification": "LOW_RES_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://theone.vn/wp-content/uploads/2020/08/GL429.jpg",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL429/main.jpg",
+          "width": 580,
+          "height": 580,
+          "bytes": 47544,
+          "sha256": "5132a83352d690468ad2199e36934a1b7587abbc39ecdaa62110d0ca054bf7d6",
+          "classification": "LOW_RES_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    },
+    {
+      "code": "GL430",
+      "selectedMain": {
+        "url": "https://storage.sudospaces.com/noithattheone/2024/07/gl430-2.jpg.webp",
+        "publicPath": "/assets/product-packages/gl4xx-theone/products/GL430/main.webp",
+        "width": 2000,
+        "height": 1446,
+        "bytes": 356038,
+        "sha256": "de82b7b3f780171dfa3dabde1b06e015b088aa5caad4a8b334139177a7401aea",
+        "classification": "CLEAN_EXACT",
+        "watermark": false,
+        "qr": false,
+        "supplierLogo": false,
+        "wrongCode": false,
+        "fakeUpscale": false
+      },
+      "approvedGallery": [
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/07/gl430-2.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL430/main.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 356038,
+          "sha256": "de82b7b3f780171dfa3dabde1b06e015b088aa5caad4a8b334139177a7401aea",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        },
+        {
+          "url": "https://storage.sudospaces.com/noithattheone/2024/07/gl430-3.jpg.webp",
+          "publicPath": "/assets/product-packages/gl4xx-theone/products/GL430/gallery-02.webp",
+          "width": 2000,
+          "height": 1446,
+          "bytes": 316926,
+          "sha256": "b33aafc0f01b550a9e092e59d79229b2527c6cacabaabd76569e7eca06ce8e0a",
+          "classification": "CLEAN_EXACT",
+          "watermark": false,
+          "qr": false,
+          "supplierLogo": false,
+          "wrongCode": false,
+          "fakeUpscale": false
+        }
+      ],
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED"
+    }
+  ],
+  "explicitRejects": [
+    {
+      "code": "GL410",
+      "url": "https://storage.sudospaces.com/noithattheone/2024/06/gl410-1.jpg.webp",
+      "classification": "SUPPLIER_LOGO"
+    },
+    {
+      "code": "GL424",
+      "url": "https://storage.sudospaces.com/noithattheone/2021/12/gl-424-0-1.jpg.webp",
+      "classification": "SUPPLIER_LOGO"
+    },
+    {
+      "code": "GL424",
+      "url": "https://storage.sudospaces.com/noithattheone/2021/12/gl-424-0.jpg",
+      "classification": "SUPPLIER_LOGO"
+    },
+    {
+      "code": "GL426",
+      "url": "https://storage.sudospaces.com/noithattheone/2021/12/gl426-2.jpg.webp",
+      "classification": "SUPPLIER_LOGO"
+    },
+    {
+      "code": "GL429",
+      "url": "https://storage.sudospaces.com/noithattheone/2022/12/gl429-full.jpg.webp",
+      "classification": "SUPPLIER_LOGO_REJECT_INFOGRAPHIC"
+    },
+    {
+      "code": "GL429",
+      "url": "https://storage.sudospaces.com/noithattheone/2022/12/gl429-0.jpg",
+      "classification": "SUPPLIER_LOGO"
+    },
+    {
+      "code": "GL430",
+      "url": "https://storage.sudospaces.com/noithattheone/2024/07/gl430-0.jpg",
+      "classification": "SUPPLIER_LOGO"
+    }
+  ]
+}

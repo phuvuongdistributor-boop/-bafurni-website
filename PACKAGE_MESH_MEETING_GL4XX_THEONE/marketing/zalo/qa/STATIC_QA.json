@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "scope": "STATIC_ONLY_NO_BROWSER",
+  "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=zalo&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+  "utm": {
+    "utm_source": "zalo",
+    "utm_medium": "social",
+    "utm_campaign": "gl4xx_theone",
+    "utm_content": "group_post_01"
+  },
+  "results": {
+    "captionPlainText": true,
+    "captionWords": 88,
+    "mediaCount": 9,
+    "selectedCodeCount": 8,
+    "csvRows": 8,
+    "mediaHashMatchesManifest": "9/9",
+    "mediaExactCopyOfApprovedRender": "9/9",
+    "csvUtmMatches": "8/8",
+    "staleWallPostContent": false,
+    "facebookUtmPresent": false,
+    "fakeUpscale": 0,
+    "watermark": 0,
+    "qr": 0,
+    "supplierLogo": 0,
+    "wrongCode": 0,
+    "brokenLocalMedia": 0
+  },
+  "errors": []
+}

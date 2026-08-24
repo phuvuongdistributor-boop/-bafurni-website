@@ -1,0 +1,92 @@
+{
+  "status": "PASS",
+  "parser": "@oai/artifact-tool Workbook.fromCSV",
+  "results": [
+    {
+      "id": "seo_keyword_map",
+      "file": "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/GL4XX_SEO_KEYWORD_MAP.csv",
+      "utf8Bom": true,
+      "rows": 30,
+      "expectedRows": 30,
+      "columns": 7,
+      "expectedColumns": 7,
+      "headers": [
+        "ClusterType",
+        "PrimaryKeyword",
+        "SupportingKeywords",
+        "SearchIntent",
+        "TargetURL",
+        "ContentRole",
+        "Notes"
+      ],
+      "key": "TargetURL",
+      "blankRows": 0,
+      "duplicateKeys": 3,
+      "inspectionAvailable": true,
+      "pass": true
+    },
+    {
+      "id": "seo_page_map",
+      "file": "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/GL4XX_SEO_PAGE_MAP.csv",
+      "utf8Bom": true,
+      "rows": 25,
+      "expectedRows": 25,
+      "columns": 11,
+      "expectedColumns": 11,
+      "headers": [
+        "URL",
+        "PageType",
+        "TargetIntent",
+        "PrimaryKeyword",
+        "Title",
+        "H1",
+        "MetaDescription",
+        "Canonical",
+        "Schema",
+        "InternalLinks",
+        "Indexability"
+      ],
+      "key": "URL",
+      "blankRows": 0,
+      "duplicateKeys": 0,
+      "inspectionAvailable": true,
+      "pass": true
+    },
+    {
+      "id": "zalo_selection",
+      "file": "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/ZALO_SELECTED_PRODUCTS.csv",
+      "utf8Bom": false,
+      "rows": 8,
+      "expectedRows": 8,
+      "columns": 20,
+      "expectedColumns": 20,
+      "headers": [
+        "Order",
+        "Code",
+        "ProductAsset",
+        "ProductNaturalResolution",
+        "ProductBytes",
+        "ProductSha256",
+        "ProductClassification",
+        "ApprovedRenderSource",
+        "ZaloMedia",
+        "MediaDimensions",
+        "MediaSha256",
+        "Transformation",
+        "FakeUpscale",
+        "Watermark",
+        "QR",
+        "SupplierLogo",
+        "WrongCode",
+        "SourceStatus",
+        "UtmSource",
+        "UtmContent"
+      ],
+      "key": "Code",
+      "blankRows": 0,
+      "duplicateKeys": 0,
+      "inspectionAvailable": true,
+      "pass": true
+    }
+  ]
+}

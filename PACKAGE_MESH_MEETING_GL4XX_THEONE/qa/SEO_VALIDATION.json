@@ -1,0 +1,3850 @@
+{
+  "status": "PASS",
+  "generatedAt": "2026-08-24T10:30:08.768Z",
+  "previewBase": "http://127.0.0.1:4184",
+  "rawServerDelivered": true,
+  "landing": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+  "productPages": 24,
+  "keywordRows": 30,
+  "pageMapRows": 25,
+  "totals": {
+    "checks": 414,
+    "passed": 414,
+    "failed": 0
+  },
+  "productResults": [
+    {
+      "code": "GL401",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl401",
+      "title": "Ghế Họp Tựa Lưới The One GL401 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL401. Khung chân quỳ thép mạ oval, tựa lưới và đệm rời bọc lưới.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL401"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL402TB",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl402tb",
+      "title": "Ghế Hội Thảo Có Bàn The One GL402TB | BA_Furniture",
+      "meta": "Ghế Hội Thảo Có Bàn The One GL402TB. Có bàn viết nhựa; kết cấu gấp gọn, xếp lồng và chân tĩnh sơn hoặc mạ.",
+      "h1": [
+        "Ghế Hội Thảo Có Bàn The One GL402TB"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL402XB",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl402xb",
+      "title": "Ghế Hội Thảo Có Bàn The One GL402XB | BA_Furniture",
+      "meta": "Ghế Hội Thảo Có Bàn The One GL402XB. Có bàn viết nhựa và bánh xe; phù hợp cấu hình hội thảo linh hoạt.",
+      "h1": [
+        "Ghế Hội Thảo Có Bàn The One GL402XB"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL403",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl403",
+      "title": "Ghế Họp Tựa Lưới The One GL403 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL403. Khung chân quỳ thép mạ với đệm tựa liền bọc lưới chịu lực.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL403"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL404",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl404",
+      "title": "Ghế Họp Tựa Lưới The One GL404 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL404. Dáng chân tĩnh gọn, tựa nhựa bọc lưới và chân thép sơn.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL404"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL404B",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl404b",
+      "title": "Ghế Họp Liền Bàn The One GL404B | BA_Furniture",
+      "meta": "Ghế Họp Liền Bàn The One GL404B. Ghế chân tĩnh có bàn viết nhựa gấp gọn; dữ liệu lấy từ catalog chính thức lưu trữ.",
+      "h1": [
+        "Ghế Họp Liền Bàn The One GL404B"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL405",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl405",
+      "title": "Ghế Họp Tựa Lưới The One GL405 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL405. Dáng không tay, khung thép mạ và bề mặt lưới.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL405"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL406",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl406",
+      "title": "Ghế Họp Chân Quỳ The One GL406 | BA_Furniture",
+      "meta": "Ghế Họp Chân Quỳ The One GL406. Khung chân quỳ thép mạ, đệm tựa liền bọc da công nghiệp.",
+      "h1": [
+        "Ghế Họp Chân Quỳ The One GL406"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL410",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl410",
+      "title": "Ghế Họp Tựa Lưới The One GL410 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL410. Dáng chân quỳ, khung thép mạ, tựa lưới chịu lực và đệm rời.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL410"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL411",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl411",
+      "title": "Ghế Họp Tựa Lưới The One GL411 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL411. Lưng cao, khung chân quỳ thép mạ và đệm tựa bọc lưới.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL411"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL412",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl412",
+      "title": "Ghế Họp Tựa Lưới The One GL412 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL412. Tựa nhựa thoáng, tay nhựa và khung chân quỳ thép sơn.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL412"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL417",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl417",
+      "title": "Ghế Họp Tựa Lưới The One GL417 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL417. Dáng không tay, khung thép sơn hoặc mạ và tựa nhựa bọc lưới.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL417"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL418",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl418",
+      "title": "Ghế Họp Tựa Lưới The One GL418 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL418. Khung lưng và tay nhựa liền khối trên chân quỳ thép sơn hoặc mạ.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL418"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL419",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl419",
+      "title": "Ghế Họp Tựa Lưới The One GL419 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL419. Dáng chân quỳ có tay ốp nhựa, tựa nhựa bọc lưới và khung thép mạ.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL419"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL420",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl420",
+      "title": "Ghế Họp Tựa Lưới The One GL420 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL420. Dáng chân tĩnh không tay với khung thép sơn hoặc mạ.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL420"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL421",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl421",
+      "title": "Ghế Họp Tựa Lưới The One GL421 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL421. Dáng chân quỳ tay liền, khung thép sơn hoặc mạ và tựa lưới.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL421"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL423",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl423",
+      "title": "Ghế Họp Tựa Lưới The One GL423 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL423. Tựa nhựa bọc lưới, đệm bọc vải hoặc PVC trên khung chân quỳ thép mạ.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL423"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL424",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl424",
+      "title": "Ghế Hội Thảo Gấp Gọn The One GL424 | BA_Furniture",
+      "meta": "Ghế Hội Thảo Gấp Gọn The One GL424. Kết cấu gấp gọn, xếp lồng; phiên bản không có bàn viết.",
+      "h1": [
+        "Ghế Hội Thảo Gấp Gọn The One GL424"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL424B",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl424b",
+      "title": "Ghế Hội Thảo Có Bàn The One GL424B | BA_Furniture",
+      "meta": "Ghế Hội Thảo Có Bàn The One GL424B. Kết cấu gấp gọn, xếp lồng và có bàn viết nhựa.",
+      "h1": [
+        "Ghế Hội Thảo Có Bàn The One GL424B"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL425",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl425",
+      "title": "Ghế Họp Tựa Lưới The One GL425 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL425. Dáng chân quỳ, tựa lưới và đệm PVC trên chân thép mạ.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL425"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL426",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl426",
+      "title": "Ghế Họp Tựa Lưới The One GL426 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL426. Tựa nhựa bọc lưới, tay vòng và chân quỳ thép sơn hoặc mạ.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL426"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL427",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl427",
+      "title": "Ghế Họp Tựa Lưới The One GL427 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL427. Dáng lưng cao, tựa lưới, đệm PVC và chân quỳ thép.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL427"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL429",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl429",
+      "title": "Ghế Họp Đệm Xoay The One GL429 | BA_Furniture",
+      "meta": "Ghế Họp Đệm Xoay The One GL429. Đệm ngồi xoay 90 độ sang hai phía và tự trở về vị trí ban đầu.",
+      "h1": [
+        "Ghế Họp Đệm Xoay The One GL429"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    },
+    {
+      "code": "GL430",
+      "route": "/san-pham/ghe-luoi-phong-hop/gl430",
+      "title": "Ghế Họp Tựa Lưới The One GL430 | BA_Furniture",
+      "meta": "Ghế Họp Tựa Lưới The One GL430. Dáng lưng cao, chân thép mạ ống Ø25.4 và tay ốp nhựa.",
+      "h1": [
+        "Ghế Họp Tựa Lưới The One GL430"
+      ],
+      "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430",
+      "robots": "index, follow, max-image-preview:large",
+      "productSchemaCount": 1,
+      "breadcrumbSchemaCount": 1,
+      "relatedLinks": 3
+    }
+  ],
+  "checks": [
+    {
+      "name": "landing_unique_title",
+      "pass": true,
+      "actual": "Ghế lưới phòng họp GL4xx The One: 24 mẫu | BA_Furniture",
+      "expected": "Ghế lưới phòng họp GL4xx The One: 24 mẫu | BA_Furniture"
+    },
+    {
+      "name": "landing_meta_description",
+      "pass": true,
+      "actual": 139,
+      "expected": "120..170 characters"
+    },
+    {
+      "name": "landing_single_h1",
+      "pass": true,
+      "actual": [
+        "Chọn ghế lưới phòng họp theo đúng không gian."
+      ],
+      "expected": [
+        "Chọn ghế lưới phòng họp theo đúng không gian."
+      ]
+    },
+    {
+      "name": "landing_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+      "expected": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop"
+    },
+    {
+      "name": "landing_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "landing_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "landing_collection_schema",
+      "pass": true,
+      "actual": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "expected": "one CollectionPage"
+    },
+    {
+      "name": "landing_breadcrumb_schema",
+      "pass": true,
+      "actual": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "expected": "one BreadcrumbList"
+    },
+    {
+      "name": "landing_faq_schema",
+      "pass": true,
+      "actual": [
+        "CollectionPage",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "expected": "one FAQPage"
+    },
+    {
+      "name": "landing_visible_faq",
+      "pass": true,
+      "actual": 11,
+      "expected": 11
+    },
+    {
+      "name": "landing_raw_product_links",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "landing_related_category_links",
+      "pass": true,
+      "actual": [
+        "/danh-muc/ghe-van-phong",
+        "/danh-muc/ghe-hop-chan-quy",
+        "/danh-muc/ghe-luoi-lung-cao"
+      ],
+      "expected": [
+        "/danh-muc/ghe-van-phong",
+        "/danh-muc/ghe-hop-chan-quy",
+        "/danh-muc/ghe-luoi-lung-cao"
+      ]
+    },
+    {
+      "name": "landing_meaningful_image_alt",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL401_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL401 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL401 | BA_Furniture"
+    },
+    {
+      "name": "GL401_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL401. Khung chân quỳ thép mạ oval, tựa lưới và đệm rời bọc lưới.",
+      "expected": "Ghế Họp Tựa Lưới The One GL401. Khung chân quỳ thép mạ oval, tựa lưới và đệm rời bọc lưới."
+    },
+    {
+      "name": "GL401_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL401"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL401"
+      ]
+    },
+    {
+      "name": "GL401_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401"
+    },
+    {
+      "name": "GL401_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL401_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL401_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL401_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL401_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL401",
+        "name": "Ghế Họp Tựa Lưới The One GL401",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401"
+      },
+      "expected": {
+        "sku": "GL401",
+        "name": "Ghế Họp Tựa Lưới The One GL401",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401"
+      }
+    },
+    {
+      "name": "GL401_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL401_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL401_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL401_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL401_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL401/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL401"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL401/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL401/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL401"
+        }
+      ]
+    },
+    {
+      "name": "GL401_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL401_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL401 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL401",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL401 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL401",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401"
+      }
+    },
+    {
+      "name": "GL402TB_raw_title",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Có Bàn The One GL402TB | BA_Furniture",
+      "expected": "Ghế Hội Thảo Có Bàn The One GL402TB | BA_Furniture"
+    },
+    {
+      "name": "GL402TB_raw_meta",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Có Bàn The One GL402TB. Có bàn viết nhựa; kết cấu gấp gọn, xếp lồng và chân tĩnh sơn hoặc mạ.",
+      "expected": "Ghế Hội Thảo Có Bàn The One GL402TB. Có bàn viết nhựa; kết cấu gấp gọn, xếp lồng và chân tĩnh sơn hoặc mạ."
+    },
+    {
+      "name": "GL402TB_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Hội Thảo Có Bàn The One GL402TB"
+      ],
+      "expected": [
+        "Ghế Hội Thảo Có Bàn The One GL402TB"
+      ]
+    },
+    {
+      "name": "GL402TB_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb"
+    },
+    {
+      "name": "GL402TB_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL402TB_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL402TB_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL402TB_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL402TB_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL402TB",
+        "name": "Ghế Hội Thảo Có Bàn The One GL402TB",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb"
+      },
+      "expected": {
+        "sku": "GL402TB",
+        "name": "Ghế Hội Thảo Có Bàn The One GL402TB",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb"
+      }
+    },
+    {
+      "name": "GL402TB_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL402TB_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL402TB_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL402TB_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL402TB_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL402TB/main.webp",
+          "alt": "Ghế Hội Thảo Có Bàn The One GL402TB"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL402TB/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL402TB/main.webp",
+          "alt": "Ghế Hội Thảo Có Bàn The One GL402TB"
+        }
+      ]
+    },
+    {
+      "name": "GL402TB_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL402TB_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Hội Thảo Có Bàn The One GL402TB | BA_Furniture",
+        "h1": "Ghế Hội Thảo Có Bàn The One GL402TB",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb"
+      },
+      "expected": {
+        "title": "Ghế Hội Thảo Có Bàn The One GL402TB | BA_Furniture",
+        "h1": "Ghế Hội Thảo Có Bàn The One GL402TB",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb"
+      }
+    },
+    {
+      "name": "GL402XB_raw_title",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Có Bàn The One GL402XB | BA_Furniture",
+      "expected": "Ghế Hội Thảo Có Bàn The One GL402XB | BA_Furniture"
+    },
+    {
+      "name": "GL402XB_raw_meta",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Có Bàn The One GL402XB. Có bàn viết nhựa và bánh xe; phù hợp cấu hình hội thảo linh hoạt.",
+      "expected": "Ghế Hội Thảo Có Bàn The One GL402XB. Có bàn viết nhựa và bánh xe; phù hợp cấu hình hội thảo linh hoạt."
+    },
+    {
+      "name": "GL402XB_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Hội Thảo Có Bàn The One GL402XB"
+      ],
+      "expected": [
+        "Ghế Hội Thảo Có Bàn The One GL402XB"
+      ]
+    },
+    {
+      "name": "GL402XB_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb"
+    },
+    {
+      "name": "GL402XB_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL402XB_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL402XB_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL402XB_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL402XB_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL402XB",
+        "name": "Ghế Hội Thảo Có Bàn The One GL402XB",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb"
+      },
+      "expected": {
+        "sku": "GL402XB",
+        "name": "Ghế Hội Thảo Có Bàn The One GL402XB",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb"
+      }
+    },
+    {
+      "name": "GL402XB_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL402XB_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL402XB_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL402XB_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL402XB_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL402XB/main.webp",
+          "alt": "Ghế Hội Thảo Có Bàn The One GL402XB"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL402XB/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL402XB/main.webp",
+          "alt": "Ghế Hội Thảo Có Bàn The One GL402XB"
+        }
+      ]
+    },
+    {
+      "name": "GL402XB_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL402XB_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Hội Thảo Có Bàn The One GL402XB | BA_Furniture",
+        "h1": "Ghế Hội Thảo Có Bàn The One GL402XB",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb"
+      },
+      "expected": {
+        "title": "Ghế Hội Thảo Có Bàn The One GL402XB | BA_Furniture",
+        "h1": "Ghế Hội Thảo Có Bàn The One GL402XB",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb"
+      }
+    },
+    {
+      "name": "GL403_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL403 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL403 | BA_Furniture"
+    },
+    {
+      "name": "GL403_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL403. Khung chân quỳ thép mạ với đệm tựa liền bọc lưới chịu lực.",
+      "expected": "Ghế Họp Tựa Lưới The One GL403. Khung chân quỳ thép mạ với đệm tựa liền bọc lưới chịu lực."
+    },
+    {
+      "name": "GL403_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL403"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL403"
+      ]
+    },
+    {
+      "name": "GL403_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403"
+    },
+    {
+      "name": "GL403_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL403_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL403_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL403_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL403_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL403",
+        "name": "Ghế Họp Tựa Lưới The One GL403",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403"
+      },
+      "expected": {
+        "sku": "GL403",
+        "name": "Ghế Họp Tựa Lưới The One GL403",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403"
+      }
+    },
+    {
+      "name": "GL403_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL403_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL403_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL403_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL403_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL403/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL403"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL403/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL403/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL403"
+        }
+      ]
+    },
+    {
+      "name": "GL403_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL403_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL403 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL403",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL403 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL403",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403"
+      }
+    },
+    {
+      "name": "GL404_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL404 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL404 | BA_Furniture"
+    },
+    {
+      "name": "GL404_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL404. Dáng chân tĩnh gọn, tựa nhựa bọc lưới và chân thép sơn.",
+      "expected": "Ghế Họp Tựa Lưới The One GL404. Dáng chân tĩnh gọn, tựa nhựa bọc lưới và chân thép sơn."
+    },
+    {
+      "name": "GL404_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL404"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL404"
+      ]
+    },
+    {
+      "name": "GL404_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404"
+    },
+    {
+      "name": "GL404_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL404_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL404_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL404_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL404_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL404",
+        "name": "Ghế Họp Tựa Lưới The One GL404",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404"
+      },
+      "expected": {
+        "sku": "GL404",
+        "name": "Ghế Họp Tựa Lưới The One GL404",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404"
+      }
+    },
+    {
+      "name": "GL404_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL404_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL404_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL404_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL404_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL404/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL404"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL404/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL404/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL404"
+        }
+      ]
+    },
+    {
+      "name": "GL404_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL404_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL404 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL404",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL404 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL404",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404"
+      }
+    },
+    {
+      "name": "GL404B_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Liền Bàn The One GL404B | BA_Furniture",
+      "expected": "Ghế Họp Liền Bàn The One GL404B | BA_Furniture"
+    },
+    {
+      "name": "GL404B_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Liền Bàn The One GL404B. Ghế chân tĩnh có bàn viết nhựa gấp gọn; dữ liệu lấy từ catalog chính thức lưu trữ.",
+      "expected": "Ghế Họp Liền Bàn The One GL404B. Ghế chân tĩnh có bàn viết nhựa gấp gọn; dữ liệu lấy từ catalog chính thức lưu trữ."
+    },
+    {
+      "name": "GL404B_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Liền Bàn The One GL404B"
+      ],
+      "expected": [
+        "Ghế Họp Liền Bàn The One GL404B"
+      ]
+    },
+    {
+      "name": "GL404B_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b"
+    },
+    {
+      "name": "GL404B_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL404B_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL404B_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL404B_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL404B_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL404B",
+        "name": "Ghế Họp Liền Bàn The One GL404B",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b"
+      },
+      "expected": {
+        "sku": "GL404B",
+        "name": "Ghế Họp Liền Bàn The One GL404B",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b"
+      }
+    },
+    {
+      "name": "GL404B_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL404B_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL404B_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL404B_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL404B_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL404B/main.jpg",
+          "alt": "Ghế Họp Liền Bàn The One GL404B"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL404B/main.jpg",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL404B/main.jpg",
+          "alt": "Ghế Họp Liền Bàn The One GL404B"
+        }
+      ]
+    },
+    {
+      "name": "GL404B_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL404B_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Liền Bàn The One GL404B | BA_Furniture",
+        "h1": "Ghế Họp Liền Bàn The One GL404B",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b"
+      },
+      "expected": {
+        "title": "Ghế Họp Liền Bàn The One GL404B | BA_Furniture",
+        "h1": "Ghế Họp Liền Bàn The One GL404B",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b"
+      }
+    },
+    {
+      "name": "GL405_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL405 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL405 | BA_Furniture"
+    },
+    {
+      "name": "GL405_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL405. Dáng không tay, khung thép mạ và bề mặt lưới.",
+      "expected": "Ghế Họp Tựa Lưới The One GL405. Dáng không tay, khung thép mạ và bề mặt lưới."
+    },
+    {
+      "name": "GL405_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL405"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL405"
+      ]
+    },
+    {
+      "name": "GL405_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405"
+    },
+    {
+      "name": "GL405_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL405_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL405_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL405_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL405_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL405",
+        "name": "Ghế Họp Tựa Lưới The One GL405",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405"
+      },
+      "expected": {
+        "sku": "GL405",
+        "name": "Ghế Họp Tựa Lưới The One GL405",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405"
+      }
+    },
+    {
+      "name": "GL405_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL405_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL405_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL405_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL405_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL405/main.jpg",
+          "alt": "Ghế Họp Tựa Lưới The One GL405"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL405/main.jpg",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL405/main.jpg",
+          "alt": "Ghế Họp Tựa Lưới The One GL405"
+        }
+      ]
+    },
+    {
+      "name": "GL405_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL405_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL405 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL405",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL405 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL405",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405"
+      }
+    },
+    {
+      "name": "GL406_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Chân Quỳ The One GL406 | BA_Furniture",
+      "expected": "Ghế Họp Chân Quỳ The One GL406 | BA_Furniture"
+    },
+    {
+      "name": "GL406_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Chân Quỳ The One GL406. Khung chân quỳ thép mạ, đệm tựa liền bọc da công nghiệp.",
+      "expected": "Ghế Họp Chân Quỳ The One GL406. Khung chân quỳ thép mạ, đệm tựa liền bọc da công nghiệp."
+    },
+    {
+      "name": "GL406_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Chân Quỳ The One GL406"
+      ],
+      "expected": [
+        "Ghế Họp Chân Quỳ The One GL406"
+      ]
+    },
+    {
+      "name": "GL406_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406"
+    },
+    {
+      "name": "GL406_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL406_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL406_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL406_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL406_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL406",
+        "name": "Ghế Họp Chân Quỳ The One GL406",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406"
+      },
+      "expected": {
+        "sku": "GL406",
+        "name": "Ghế Họp Chân Quỳ The One GL406",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406"
+      }
+    },
+    {
+      "name": "GL406_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL406_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL406_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL406_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL406_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL406/main.webp",
+          "alt": "Ghế Họp Chân Quỳ The One GL406"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL406/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL406/main.webp",
+          "alt": "Ghế Họp Chân Quỳ The One GL406"
+        }
+      ]
+    },
+    {
+      "name": "GL406_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL406_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Chân Quỳ The One GL406 | BA_Furniture",
+        "h1": "Ghế Họp Chân Quỳ The One GL406",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406"
+      },
+      "expected": {
+        "title": "Ghế Họp Chân Quỳ The One GL406 | BA_Furniture",
+        "h1": "Ghế Họp Chân Quỳ The One GL406",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406"
+      }
+    },
+    {
+      "name": "GL410_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL410 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL410 | BA_Furniture"
+    },
+    {
+      "name": "GL410_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL410. Dáng chân quỳ, khung thép mạ, tựa lưới chịu lực và đệm rời.",
+      "expected": "Ghế Họp Tựa Lưới The One GL410. Dáng chân quỳ, khung thép mạ, tựa lưới chịu lực và đệm rời."
+    },
+    {
+      "name": "GL410_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL410"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL410"
+      ]
+    },
+    {
+      "name": "GL410_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410"
+    },
+    {
+      "name": "GL410_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL410_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL410_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL410_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL410_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL410",
+        "name": "Ghế Họp Tựa Lưới The One GL410",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410"
+      },
+      "expected": {
+        "sku": "GL410",
+        "name": "Ghế Họp Tựa Lưới The One GL410",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410"
+      }
+    },
+    {
+      "name": "GL410_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL410_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL410_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL410_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL410_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL410/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL410"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL410/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL410/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL410"
+        }
+      ]
+    },
+    {
+      "name": "GL410_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL410_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL410 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL410",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL410 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL410",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410"
+      }
+    },
+    {
+      "name": "GL411_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL411 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL411 | BA_Furniture"
+    },
+    {
+      "name": "GL411_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL411. Lưng cao, khung chân quỳ thép mạ và đệm tựa bọc lưới.",
+      "expected": "Ghế Họp Tựa Lưới The One GL411. Lưng cao, khung chân quỳ thép mạ và đệm tựa bọc lưới."
+    },
+    {
+      "name": "GL411_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL411"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL411"
+      ]
+    },
+    {
+      "name": "GL411_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411"
+    },
+    {
+      "name": "GL411_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL411_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL411_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL411_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL411_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL411",
+        "name": "Ghế Họp Tựa Lưới The One GL411",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411"
+      },
+      "expected": {
+        "sku": "GL411",
+        "name": "Ghế Họp Tựa Lưới The One GL411",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411"
+      }
+    },
+    {
+      "name": "GL411_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL411_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL411_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL411_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL411_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL411/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL411"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL411/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL411/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL411"
+        }
+      ]
+    },
+    {
+      "name": "GL411_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL411_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL411 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL411",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL411 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL411",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411"
+      }
+    },
+    {
+      "name": "GL412_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL412 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL412 | BA_Furniture"
+    },
+    {
+      "name": "GL412_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL412. Tựa nhựa thoáng, tay nhựa và khung chân quỳ thép sơn.",
+      "expected": "Ghế Họp Tựa Lưới The One GL412. Tựa nhựa thoáng, tay nhựa và khung chân quỳ thép sơn."
+    },
+    {
+      "name": "GL412_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL412"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL412"
+      ]
+    },
+    {
+      "name": "GL412_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412"
+    },
+    {
+      "name": "GL412_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL412_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL412_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL412_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL412_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL412",
+        "name": "Ghế Họp Tựa Lưới The One GL412",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412"
+      },
+      "expected": {
+        "sku": "GL412",
+        "name": "Ghế Họp Tựa Lưới The One GL412",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412"
+      }
+    },
+    {
+      "name": "GL412_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL412_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL412_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL412_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL412_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL412/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL412"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL412/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL412/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL412"
+        }
+      ]
+    },
+    {
+      "name": "GL412_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL412_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL412 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL412",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL412 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL412",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412"
+      }
+    },
+    {
+      "name": "GL417_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL417 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL417 | BA_Furniture"
+    },
+    {
+      "name": "GL417_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL417. Dáng không tay, khung thép sơn hoặc mạ và tựa nhựa bọc lưới.",
+      "expected": "Ghế Họp Tựa Lưới The One GL417. Dáng không tay, khung thép sơn hoặc mạ và tựa nhựa bọc lưới."
+    },
+    {
+      "name": "GL417_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL417"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL417"
+      ]
+    },
+    {
+      "name": "GL417_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417"
+    },
+    {
+      "name": "GL417_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL417_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL417_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL417_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL417_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL417",
+        "name": "Ghế Họp Tựa Lưới The One GL417",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417"
+      },
+      "expected": {
+        "sku": "GL417",
+        "name": "Ghế Họp Tựa Lưới The One GL417",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417"
+      }
+    },
+    {
+      "name": "GL417_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL417_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL417_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL417_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL417_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL417/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL417"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL417/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL417/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL417"
+        }
+      ]
+    },
+    {
+      "name": "GL417_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL417_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL417 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL417",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL417 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL417",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417"
+      }
+    },
+    {
+      "name": "GL418_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL418 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL418 | BA_Furniture"
+    },
+    {
+      "name": "GL418_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL418. Khung lưng và tay nhựa liền khối trên chân quỳ thép sơn hoặc mạ.",
+      "expected": "Ghế Họp Tựa Lưới The One GL418. Khung lưng và tay nhựa liền khối trên chân quỳ thép sơn hoặc mạ."
+    },
+    {
+      "name": "GL418_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL418"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL418"
+      ]
+    },
+    {
+      "name": "GL418_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418"
+    },
+    {
+      "name": "GL418_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL418_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL418_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL418_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL418_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL418",
+        "name": "Ghế Họp Tựa Lưới The One GL418",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418"
+      },
+      "expected": {
+        "sku": "GL418",
+        "name": "Ghế Họp Tựa Lưới The One GL418",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418"
+      }
+    },
+    {
+      "name": "GL418_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL418_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL418_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL418_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL418_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL418/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL418"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL418/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL418/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL418"
+        }
+      ]
+    },
+    {
+      "name": "GL418_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL418_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL418 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL418",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL418 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL418",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418"
+      }
+    },
+    {
+      "name": "GL419_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL419 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL419 | BA_Furniture"
+    },
+    {
+      "name": "GL419_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL419. Dáng chân quỳ có tay ốp nhựa, tựa nhựa bọc lưới và khung thép mạ.",
+      "expected": "Ghế Họp Tựa Lưới The One GL419. Dáng chân quỳ có tay ốp nhựa, tựa nhựa bọc lưới và khung thép mạ."
+    },
+    {
+      "name": "GL419_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL419"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL419"
+      ]
+    },
+    {
+      "name": "GL419_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419"
+    },
+    {
+      "name": "GL419_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL419_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL419_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL419_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL419_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL419",
+        "name": "Ghế Họp Tựa Lưới The One GL419",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419"
+      },
+      "expected": {
+        "sku": "GL419",
+        "name": "Ghế Họp Tựa Lưới The One GL419",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419"
+      }
+    },
+    {
+      "name": "GL419_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL419_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL419_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL419_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL419_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL419/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL419"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL419/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL419/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL419"
+        }
+      ]
+    },
+    {
+      "name": "GL419_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL419_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL419 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL419",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL419 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL419",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419"
+      }
+    },
+    {
+      "name": "GL420_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL420 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL420 | BA_Furniture"
+    },
+    {
+      "name": "GL420_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL420. Dáng chân tĩnh không tay với khung thép sơn hoặc mạ.",
+      "expected": "Ghế Họp Tựa Lưới The One GL420. Dáng chân tĩnh không tay với khung thép sơn hoặc mạ."
+    },
+    {
+      "name": "GL420_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL420"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL420"
+      ]
+    },
+    {
+      "name": "GL420_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420"
+    },
+    {
+      "name": "GL420_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL420_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL420_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL420_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL420_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL420",
+        "name": "Ghế Họp Tựa Lưới The One GL420",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420"
+      },
+      "expected": {
+        "sku": "GL420",
+        "name": "Ghế Họp Tựa Lưới The One GL420",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420"
+      }
+    },
+    {
+      "name": "GL420_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL420_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL420_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL420_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL420_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL420/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL420"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL420/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL420/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL420"
+        }
+      ]
+    },
+    {
+      "name": "GL420_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL420_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL420 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL420",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL420 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL420",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420"
+      }
+    },
+    {
+      "name": "GL421_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL421 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL421 | BA_Furniture"
+    },
+    {
+      "name": "GL421_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL421. Dáng chân quỳ tay liền, khung thép sơn hoặc mạ và tựa lưới.",
+      "expected": "Ghế Họp Tựa Lưới The One GL421. Dáng chân quỳ tay liền, khung thép sơn hoặc mạ và tựa lưới."
+    },
+    {
+      "name": "GL421_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL421"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL421"
+      ]
+    },
+    {
+      "name": "GL421_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421"
+    },
+    {
+      "name": "GL421_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL421_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL421_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL421_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL421_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL421",
+        "name": "Ghế Họp Tựa Lưới The One GL421",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421"
+      },
+      "expected": {
+        "sku": "GL421",
+        "name": "Ghế Họp Tựa Lưới The One GL421",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421"
+      }
+    },
+    {
+      "name": "GL421_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL421_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL421_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL421_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL421_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL421/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL421"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL421/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL421/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL421"
+        }
+      ]
+    },
+    {
+      "name": "GL421_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL421_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL421 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL421",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL421 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL421",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421"
+      }
+    },
+    {
+      "name": "GL423_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL423 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL423 | BA_Furniture"
+    },
+    {
+      "name": "GL423_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL423. Tựa nhựa bọc lưới, đệm bọc vải hoặc PVC trên khung chân quỳ thép mạ.",
+      "expected": "Ghế Họp Tựa Lưới The One GL423. Tựa nhựa bọc lưới, đệm bọc vải hoặc PVC trên khung chân quỳ thép mạ."
+    },
+    {
+      "name": "GL423_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL423"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL423"
+      ]
+    },
+    {
+      "name": "GL423_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423"
+    },
+    {
+      "name": "GL423_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL423_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL423_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL423_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL423_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL423",
+        "name": "Ghế Họp Tựa Lưới The One GL423",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423"
+      },
+      "expected": {
+        "sku": "GL423",
+        "name": "Ghế Họp Tựa Lưới The One GL423",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423"
+      }
+    },
+    {
+      "name": "GL423_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL423_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL423_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL423_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL423_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL423/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL423"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL423/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL423/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL423"
+        }
+      ]
+    },
+    {
+      "name": "GL423_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL423_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL423 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL423",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL423 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL423",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423"
+      }
+    },
+    {
+      "name": "GL424_raw_title",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Gấp Gọn The One GL424 | BA_Furniture",
+      "expected": "Ghế Hội Thảo Gấp Gọn The One GL424 | BA_Furniture"
+    },
+    {
+      "name": "GL424_raw_meta",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Gấp Gọn The One GL424. Kết cấu gấp gọn, xếp lồng; phiên bản không có bàn viết.",
+      "expected": "Ghế Hội Thảo Gấp Gọn The One GL424. Kết cấu gấp gọn, xếp lồng; phiên bản không có bàn viết."
+    },
+    {
+      "name": "GL424_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Hội Thảo Gấp Gọn The One GL424"
+      ],
+      "expected": [
+        "Ghế Hội Thảo Gấp Gọn The One GL424"
+      ]
+    },
+    {
+      "name": "GL424_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424"
+    },
+    {
+      "name": "GL424_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL424_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL424_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL424_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL424_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL424",
+        "name": "Ghế Hội Thảo Gấp Gọn The One GL424",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424"
+      },
+      "expected": {
+        "sku": "GL424",
+        "name": "Ghế Hội Thảo Gấp Gọn The One GL424",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424"
+      }
+    },
+    {
+      "name": "GL424_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL424_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL424_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL424_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL424_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL424/main.jpg",
+          "alt": "Ghế Hội Thảo Gấp Gọn The One GL424"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL424/main.jpg",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL424/main.jpg",
+          "alt": "Ghế Hội Thảo Gấp Gọn The One GL424"
+        }
+      ]
+    },
+    {
+      "name": "GL424_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL424_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Hội Thảo Gấp Gọn The One GL424 | BA_Furniture",
+        "h1": "Ghế Hội Thảo Gấp Gọn The One GL424",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424"
+      },
+      "expected": {
+        "title": "Ghế Hội Thảo Gấp Gọn The One GL424 | BA_Furniture",
+        "h1": "Ghế Hội Thảo Gấp Gọn The One GL424",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424"
+      }
+    },
+    {
+      "name": "GL424B_raw_title",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Có Bàn The One GL424B | BA_Furniture",
+      "expected": "Ghế Hội Thảo Có Bàn The One GL424B | BA_Furniture"
+    },
+    {
+      "name": "GL424B_raw_meta",
+      "pass": true,
+      "actual": "Ghế Hội Thảo Có Bàn The One GL424B. Kết cấu gấp gọn, xếp lồng và có bàn viết nhựa.",
+      "expected": "Ghế Hội Thảo Có Bàn The One GL424B. Kết cấu gấp gọn, xếp lồng và có bàn viết nhựa."
+    },
+    {
+      "name": "GL424B_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Hội Thảo Có Bàn The One GL424B"
+      ],
+      "expected": [
+        "Ghế Hội Thảo Có Bàn The One GL424B"
+      ]
+    },
+    {
+      "name": "GL424B_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b"
+    },
+    {
+      "name": "GL424B_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL424B_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL424B_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL424B_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL424B_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL424B",
+        "name": "Ghế Hội Thảo Có Bàn The One GL424B",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b"
+      },
+      "expected": {
+        "sku": "GL424B",
+        "name": "Ghế Hội Thảo Có Bàn The One GL424B",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b"
+      }
+    },
+    {
+      "name": "GL424B_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL424B_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL424B_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL424B_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL424B_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL424B/main.webp",
+          "alt": "Ghế Hội Thảo Có Bàn The One GL424B"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL424B/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL424B/main.webp",
+          "alt": "Ghế Hội Thảo Có Bàn The One GL424B"
+        }
+      ]
+    },
+    {
+      "name": "GL424B_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL424B_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Hội Thảo Có Bàn The One GL424B | BA_Furniture",
+        "h1": "Ghế Hội Thảo Có Bàn The One GL424B",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b"
+      },
+      "expected": {
+        "title": "Ghế Hội Thảo Có Bàn The One GL424B | BA_Furniture",
+        "h1": "Ghế Hội Thảo Có Bàn The One GL424B",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b"
+      }
+    },
+    {
+      "name": "GL425_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL425 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL425 | BA_Furniture"
+    },
+    {
+      "name": "GL425_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL425. Dáng chân quỳ, tựa lưới và đệm PVC trên chân thép mạ.",
+      "expected": "Ghế Họp Tựa Lưới The One GL425. Dáng chân quỳ, tựa lưới và đệm PVC trên chân thép mạ."
+    },
+    {
+      "name": "GL425_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL425"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL425"
+      ]
+    },
+    {
+      "name": "GL425_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425"
+    },
+    {
+      "name": "GL425_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL425_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL425_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL425_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL425_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL425",
+        "name": "Ghế Họp Tựa Lưới The One GL425",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425"
+      },
+      "expected": {
+        "sku": "GL425",
+        "name": "Ghế Họp Tựa Lưới The One GL425",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425"
+      }
+    },
+    {
+      "name": "GL425_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL425_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL425_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL425_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL425_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL425/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL425"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL425/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL425/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL425"
+        }
+      ]
+    },
+    {
+      "name": "GL425_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL425_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL425 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL425",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL425 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL425",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425"
+      }
+    },
+    {
+      "name": "GL426_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL426 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL426 | BA_Furniture"
+    },
+    {
+      "name": "GL426_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL426. Tựa nhựa bọc lưới, tay vòng và chân quỳ thép sơn hoặc mạ.",
+      "expected": "Ghế Họp Tựa Lưới The One GL426. Tựa nhựa bọc lưới, tay vòng và chân quỳ thép sơn hoặc mạ."
+    },
+    {
+      "name": "GL426_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL426"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL426"
+      ]
+    },
+    {
+      "name": "GL426_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426"
+    },
+    {
+      "name": "GL426_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL426_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL426_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL426_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL426_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL426",
+        "name": "Ghế Họp Tựa Lưới The One GL426",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426"
+      },
+      "expected": {
+        "sku": "GL426",
+        "name": "Ghế Họp Tựa Lưới The One GL426",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426"
+      }
+    },
+    {
+      "name": "GL426_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL426_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL426_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL426_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL426_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL426/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL426"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL426/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL426/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL426"
+        }
+      ]
+    },
+    {
+      "name": "GL426_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL426_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL426 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL426",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL426 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL426",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426"
+      }
+    },
+    {
+      "name": "GL427_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL427 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL427 | BA_Furniture"
+    },
+    {
+      "name": "GL427_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL427. Dáng lưng cao, tựa lưới, đệm PVC và chân quỳ thép.",
+      "expected": "Ghế Họp Tựa Lưới The One GL427. Dáng lưng cao, tựa lưới, đệm PVC và chân quỳ thép."
+    },
+    {
+      "name": "GL427_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL427"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL427"
+      ]
+    },
+    {
+      "name": "GL427_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427"
+    },
+    {
+      "name": "GL427_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL427_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL427_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL427_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL427_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL427",
+        "name": "Ghế Họp Tựa Lưới The One GL427",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427"
+      },
+      "expected": {
+        "sku": "GL427",
+        "name": "Ghế Họp Tựa Lưới The One GL427",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427"
+      }
+    },
+    {
+      "name": "GL427_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL427_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL427_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL427_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL427_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL427/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL427"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL427/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL427/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL427"
+        }
+      ]
+    },
+    {
+      "name": "GL427_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL427_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL427 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL427",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL427 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL427",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427"
+      }
+    },
+    {
+      "name": "GL429_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Đệm Xoay The One GL429 | BA_Furniture",
+      "expected": "Ghế Họp Đệm Xoay The One GL429 | BA_Furniture"
+    },
+    {
+      "name": "GL429_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Đệm Xoay The One GL429. Đệm ngồi xoay 90 độ sang hai phía và tự trở về vị trí ban đầu.",
+      "expected": "Ghế Họp Đệm Xoay The One GL429. Đệm ngồi xoay 90 độ sang hai phía và tự trở về vị trí ban đầu."
+    },
+    {
+      "name": "GL429_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Đệm Xoay The One GL429"
+      ],
+      "expected": [
+        "Ghế Họp Đệm Xoay The One GL429"
+      ]
+    },
+    {
+      "name": "GL429_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429"
+    },
+    {
+      "name": "GL429_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL429_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL429_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL429_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL429_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL429",
+        "name": "Ghế Họp Đệm Xoay The One GL429",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429"
+      },
+      "expected": {
+        "sku": "GL429",
+        "name": "Ghế Họp Đệm Xoay The One GL429",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429"
+      }
+    },
+    {
+      "name": "GL429_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL429_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL429_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL429_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL429_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL429/main.jpg",
+          "alt": "Ghế Họp Đệm Xoay The One GL429"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL429/main.jpg",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL429/main.jpg",
+          "alt": "Ghế Họp Đệm Xoay The One GL429"
+        }
+      ]
+    },
+    {
+      "name": "GL429_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL429_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Đệm Xoay The One GL429 | BA_Furniture",
+        "h1": "Ghế Họp Đệm Xoay The One GL429",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429"
+      },
+      "expected": {
+        "title": "Ghế Họp Đệm Xoay The One GL429 | BA_Furniture",
+        "h1": "Ghế Họp Đệm Xoay The One GL429",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429"
+      }
+    },
+    {
+      "name": "GL430_raw_title",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL430 | BA_Furniture",
+      "expected": "Ghế Họp Tựa Lưới The One GL430 | BA_Furniture"
+    },
+    {
+      "name": "GL430_raw_meta",
+      "pass": true,
+      "actual": "Ghế Họp Tựa Lưới The One GL430. Dáng lưng cao, chân thép mạ ống Ø25.4 và tay ốp nhựa.",
+      "expected": "Ghế Họp Tựa Lưới The One GL430. Dáng lưng cao, chân thép mạ ống Ø25.4 và tay ốp nhựa."
+    },
+    {
+      "name": "GL430_single_h1",
+      "pass": true,
+      "actual": [
+        "Ghế Họp Tựa Lưới The One GL430"
+      ],
+      "expected": [
+        "Ghế Họp Tựa Lưới The One GL430"
+      ]
+    },
+    {
+      "name": "GL430_self_canonical",
+      "pass": true,
+      "actual": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430",
+      "expected": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+    },
+    {
+      "name": "GL430_indexable",
+      "pass": true,
+      "actual": "index, follow, max-image-preview:large",
+      "expected": "index, follow"
+    },
+    {
+      "name": "GL430_jsonld_parse",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL430_single_product_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL430_single_breadcrumb_schema",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "GL430_schema_identity",
+      "pass": true,
+      "actual": {
+        "sku": "GL430",
+        "name": "Ghế Họp Tựa Lưới The One GL430",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      },
+      "expected": {
+        "sku": "GL430",
+        "name": "Ghế Họp Tựa Lưới The One GL430",
+        "url": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      }
+    },
+    {
+      "name": "GL430_schema_brand",
+      "pass": true,
+      "actual": "The One",
+      "expected": "The One"
+    },
+    {
+      "name": "GL430_schema_no_unverified_commercial_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "GL430_landing_backlink",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "GL430_related_links",
+      "pass": true,
+      "actual": 3,
+      "expected": "> 0"
+    },
+    {
+      "name": "GL430_meaningful_main_alt",
+      "pass": true,
+      "actual": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL430/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL430"
+        },
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL430/main.webp",
+          "alt": ""
+        }
+      ],
+      "expected": [
+        {
+          "src": "/assets/product-packages/gl4xx-theone/products/GL430/main.webp",
+          "alt": "Ghế Họp Tựa Lưới The One GL430"
+        }
+      ]
+    },
+    {
+      "name": "GL430_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "GL430_preview_raw_identity",
+      "pass": true,
+      "actual": {
+        "title": "Ghế Họp Tựa Lưới The One GL430 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL430",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      },
+      "expected": {
+        "title": "Ghế Họp Tựa Lưới The One GL430 | BA_Furniture",
+        "h1": "Ghế Họp Tựa Lưới The One GL430",
+        "canonical": "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      }
+    },
+    {
+      "name": "product_title_unique_24",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "product_meta_unique_24",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "product_h1_unique_24",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "product_canonical_unique_24",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "landing_preview_http_200",
+      "pass": true,
+      "actual": 200,
+      "expected": 200
+    },
+    {
+      "name": "landing_preview_raw_product_links",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "robots_allows_crawl",
+      "pass": true,
+      "actual": "User-agent: *\r\nAllow: /\r\n\r\nSitemap: https://bafurni.com/sitemap.xml",
+      "expected": "Allow: /"
+    },
+    {
+      "name": "robots_sitemap",
+      "pass": true,
+      "actual": "User-agent: *\r\nAllow: /\r\n\r\nSitemap: https://bafurni.com/sitemap.xml",
+      "expected": "Sitemap: https://bafurni.com/sitemap.xml"
+    },
+    {
+      "name": "sitemap_gl4xx_exact_25",
+      "pass": true,
+      "actual": [
+        "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      ],
+      "expected": [
+        "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      ]
+    },
+    {
+      "name": "sitemap_no_duplicates",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "vercel_static_product_rewrite",
+      "pass": true,
+      "actual": {
+        "source": "/san-pham/ghe-luoi-phong-hop/:code",
+        "destination": "/gl4xx-product-pages/:code.html?code=:code"
+      },
+      "expected": {
+        "source": "/san-pham/ghe-luoi-phong-hop/:code",
+        "destination": "/gl4xx-product-pages/:code.html?code=:code"
+      }
+    },
+    {
+      "name": "static_product_page_count",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "static_product_page_names",
+      "pass": true,
+      "actual": [
+        "gl401.html",
+        "gl402tb.html",
+        "gl402xb.html",
+        "gl403.html",
+        "gl404.html",
+        "gl404b.html",
+        "gl405.html",
+        "gl406.html",
+        "gl410.html",
+        "gl411.html",
+        "gl412.html",
+        "gl417.html",
+        "gl418.html",
+        "gl419.html",
+        "gl420.html",
+        "gl421.html",
+        "gl423.html",
+        "gl424.html",
+        "gl424b.html",
+        "gl425.html",
+        "gl426.html",
+        "gl427.html",
+        "gl429.html",
+        "gl430.html"
+      ],
+      "expected": [
+        "gl401.html",
+        "gl402tb.html",
+        "gl402xb.html",
+        "gl403.html",
+        "gl404.html",
+        "gl404b.html",
+        "gl405.html",
+        "gl406.html",
+        "gl410.html",
+        "gl411.html",
+        "gl412.html",
+        "gl417.html",
+        "gl418.html",
+        "gl419.html",
+        "gl420.html",
+        "gl421.html",
+        "gl423.html",
+        "gl424.html",
+        "gl424b.html",
+        "gl425.html",
+        "gl426.html",
+        "gl427.html",
+        "gl429.html",
+        "gl430.html"
+      ]
+    },
+    {
+      "name": "keyword_map_clusters",
+      "pass": true,
+      "actual": [
+        "PRIMARY CATEGORY INTENT",
+        "SECONDARY INTENT",
+        "LONG-TAIL BUYING INTENT",
+        "PRODUCT-CODE INTENT"
+      ],
+      "expected": [
+        "PRIMARY CATEGORY INTENT",
+        "SECONDARY INTENT",
+        "PRODUCT-CODE INTENT",
+        "LONG-TAIL BUYING INTENT"
+      ]
+    },
+    {
+      "name": "keyword_map_product_codes",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "page_map_count",
+      "pass": true,
+      "actual": 25,
+      "expected": 25
+    },
+    {
+      "name": "page_map_urls",
+      "pass": true,
+      "actual": [
+        "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      ],
+      "expected": [
+        "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      ]
+    }
+  ],
+  "failed": []
+}

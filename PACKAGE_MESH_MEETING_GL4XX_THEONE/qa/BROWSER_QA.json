@@ -1,0 +1,1004 @@
+{
+  "status": "PASS",
+  "previewBase": "http://127.0.0.1:4184",
+  "checkedAt": "2026-08-24T10:31:27.366Z",
+  "products": 24,
+  "routesChecked": [
+    "/san-pham/ghe-luoi-phong-hop/gl401",
+    "/san-pham/ghe-luoi-phong-hop/gl402tb",
+    "/san-pham/ghe-luoi-phong-hop/gl402xb",
+    "/san-pham/ghe-luoi-phong-hop/gl403",
+    "/san-pham/ghe-luoi-phong-hop/gl404",
+    "/san-pham/ghe-luoi-phong-hop/gl404b",
+    "/san-pham/ghe-luoi-phong-hop/gl405",
+    "/san-pham/ghe-luoi-phong-hop/gl406",
+    "/san-pham/ghe-luoi-phong-hop/gl410",
+    "/san-pham/ghe-luoi-phong-hop/gl411",
+    "/san-pham/ghe-luoi-phong-hop/gl412",
+    "/san-pham/ghe-luoi-phong-hop/gl417",
+    "/san-pham/ghe-luoi-phong-hop/gl418",
+    "/san-pham/ghe-luoi-phong-hop/gl419",
+    "/san-pham/ghe-luoi-phong-hop/gl420",
+    "/san-pham/ghe-luoi-phong-hop/gl421",
+    "/san-pham/ghe-luoi-phong-hop/gl423",
+    "/san-pham/ghe-luoi-phong-hop/gl424",
+    "/san-pham/ghe-luoi-phong-hop/gl424b",
+    "/san-pham/ghe-luoi-phong-hop/gl425",
+    "/san-pham/ghe-luoi-phong-hop/gl426",
+    "/san-pham/ghe-luoi-phong-hop/gl427",
+    "/san-pham/ghe-luoi-phong-hop/gl429",
+    "/san-pham/ghe-luoi-phong-hop/gl430"
+  ],
+  "responsiveViewports": [
+    "1440x900",
+    "1280x800",
+    "768x1024",
+    "390x844",
+    "360x800"
+  ],
+  "checksPassed": 191,
+  "checksFailed": 0,
+  "failures": [],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "leadSubmitted": false,
+  "checks": [
+    {
+      "name": "Landing 1440x900: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "Landing 1440x900: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Landing 1440x900: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "Landing 1440x900: 24 cards",
+      "status": "PASS",
+      "details": "24"
+    },
+    {
+      "name": "Landing 1440x900: product section appears early",
+      "status": "PASS",
+      "details": "{\"cardCount\":24,\"sectionTop\":843,\"firstCardTop\":1062,\"firstScreenCards\":0,\"pageHeight\":8886,\"viewportHeight\":900}"
+    },
+    {
+      "name": "Landing 1440x900: wizard Step 3",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 1440x900: category-only M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 1440x900: M1A UTM",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 1280x800: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "Landing 1280x800: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Landing 1280x800: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "Landing 1280x800: 24 cards",
+      "status": "PASS",
+      "details": "24"
+    },
+    {
+      "name": "Landing 1280x800: product section appears early",
+      "status": "PASS",
+      "details": "{\"cardCount\":24,\"sectionTop\":843,\"firstCardTop\":1059,\"firstScreenCards\":0,\"pageHeight\":8871,\"viewportHeight\":800}"
+    },
+    {
+      "name": "Landing 1280x800: wizard Step 3",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 1280x800: category-only M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 1280x800: M1A UTM",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 768x1024: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "Landing 768x1024: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Landing 768x1024: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "Landing 768x1024: 24 cards",
+      "status": "PASS",
+      "details": "24"
+    },
+    {
+      "name": "Landing 768x1024: product section appears early",
+      "status": "PASS",
+      "details": "{\"cardCount\":24,\"sectionTop\":1101,\"firstCardTop\":1318,\"firstScreenCards\":0,\"pageHeight\":14463,\"viewportHeight\":1024}"
+    },
+    {
+      "name": "Landing 768x1024: wizard Step 3",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 768x1024: category-only M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 768x1024: M1A UTM",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 390x844: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "Landing 390x844: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Landing 390x844: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "Landing 390x844: 24 cards",
+      "status": "PASS",
+      "details": "24"
+    },
+    {
+      "name": "Landing 390x844: product section appears early",
+      "status": "PASS",
+      "details": "{\"cardCount\":24,\"sectionTop\":1157,\"firstCardTop\":1443,\"firstScreenCards\":0,\"pageHeight\":25202,\"viewportHeight\":844}"
+    },
+    {
+      "name": "Landing 390x844: wizard Step 3",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 390x844: category-only M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 390x844: M1A UTM",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 360x800: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "Landing 360x800: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Landing 360x800: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "Landing 360x800: 24 cards",
+      "status": "PASS",
+      "details": "24"
+    },
+    {
+      "name": "Landing 360x800: product section appears early",
+      "status": "PASS",
+      "details": "{\"cardCount\":24,\"sectionTop\":1147,\"firstCardTop\":1460,\"firstScreenCards\":0,\"pageHeight\":25097,\"viewportHeight\":800}"
+    },
+    {
+      "name": "Landing 360x800: wizard Step 3",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 360x800: category-only M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Landing 360x800: M1A UTM",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL401: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL401: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL401\",\"name\":\"Ghế Họp Tựa Lưới The One GL401\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401\",\"schemaSku\":\"GL401\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL401\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL401: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL401\",\"name\":\"Ghế Họp Tựa Lưới The One GL401\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401\",\"schemaSku\":\"GL401\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL401\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL401: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL401\",\"name\":\"Ghế Họp Tựa Lưới The One GL401\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401\",\"schemaSku\":\"GL401\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL401\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL401: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL401\",\"name\":\"Ghế Họp Tựa Lưới The One GL401\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401\",\"schemaSku\":\"GL401\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL401\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402TB: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL402TB: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402TB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb\",\"schemaSku\":\"GL402TB\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402TB: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402TB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb\",\"schemaSku\":\"GL402TB\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402TB: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402TB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb\",\"schemaSku\":\"GL402TB\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402TB: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402TB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb\",\"schemaSku\":\"GL402TB\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402TB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402XB: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL402XB: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402XB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb\",\"schemaSku\":\"GL402XB\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402XB: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402XB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb\",\"schemaSku\":\"GL402XB\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402XB: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402XB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb\",\"schemaSku\":\"GL402XB\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL402XB: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL402XB\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb\",\"schemaSku\":\"GL402XB\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL402XB\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL403: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL403: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL403\",\"name\":\"Ghế Họp Tựa Lưới The One GL403\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403\",\"schemaSku\":\"GL403\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL403\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL403: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL403\",\"name\":\"Ghế Họp Tựa Lưới The One GL403\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403\",\"schemaSku\":\"GL403\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL403\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL403: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL403\",\"name\":\"Ghế Họp Tựa Lưới The One GL403\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403\",\"schemaSku\":\"GL403\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL403\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL403: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL403\",\"name\":\"Ghế Họp Tựa Lưới The One GL403\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403\",\"schemaSku\":\"GL403\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL403\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL404: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404\",\"name\":\"Ghế Họp Tựa Lưới The One GL404\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404\",\"schemaSku\":\"GL404\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL404\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404\",\"name\":\"Ghế Họp Tựa Lưới The One GL404\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404\",\"schemaSku\":\"GL404\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL404\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404\",\"name\":\"Ghế Họp Tựa Lưới The One GL404\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404\",\"schemaSku\":\"GL404\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL404\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404\",\"name\":\"Ghế Họp Tựa Lưới The One GL404\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404\",\"schemaSku\":\"GL404\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL404\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404B: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL404B: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404B\",\"name\":\"Ghế Họp Liền Bàn The One GL404B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b\",\"schemaSku\":\"GL404B\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Liền Bàn The One GL404B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404B: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404B\",\"name\":\"Ghế Họp Liền Bàn The One GL404B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b\",\"schemaSku\":\"GL404B\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Liền Bàn The One GL404B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404B: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404B\",\"name\":\"Ghế Họp Liền Bàn The One GL404B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b\",\"schemaSku\":\"GL404B\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Liền Bàn The One GL404B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL404B: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL404B\",\"name\":\"Ghế Họp Liền Bàn The One GL404B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b\",\"schemaSku\":\"GL404B\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Liền Bàn The One GL404B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL405: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL405: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL405\",\"name\":\"Ghế Họp Tựa Lưới The One GL405\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405\",\"schemaSku\":\"GL405\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL405\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL405: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL405\",\"name\":\"Ghế Họp Tựa Lưới The One GL405\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405\",\"schemaSku\":\"GL405\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL405\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL405: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL405\",\"name\":\"Ghế Họp Tựa Lưới The One GL405\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405\",\"schemaSku\":\"GL405\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL405\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL405: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL405\",\"name\":\"Ghế Họp Tựa Lưới The One GL405\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405\",\"schemaSku\":\"GL405\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL405\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL406: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL406: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL406\",\"name\":\"Ghế Họp Chân Quỳ The One GL406\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406\",\"schemaSku\":\"GL406\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Chân Quỳ The One GL406\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL406: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL406\",\"name\":\"Ghế Họp Chân Quỳ The One GL406\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406\",\"schemaSku\":\"GL406\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Chân Quỳ The One GL406\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL406: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL406\",\"name\":\"Ghế Họp Chân Quỳ The One GL406\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406\",\"schemaSku\":\"GL406\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Chân Quỳ The One GL406\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL406: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL406\",\"name\":\"Ghế Họp Chân Quỳ The One GL406\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406\",\"schemaSku\":\"GL406\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Chân Quỳ The One GL406\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL410: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL410: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL410\",\"name\":\"Ghế Họp Tựa Lưới The One GL410\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410\",\"schemaSku\":\"GL410\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL410\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL410: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL410\",\"name\":\"Ghế Họp Tựa Lưới The One GL410\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410\",\"schemaSku\":\"GL410\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL410\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL410: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL410\",\"name\":\"Ghế Họp Tựa Lưới The One GL410\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410\",\"schemaSku\":\"GL410\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL410\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL410: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL410\",\"name\":\"Ghế Họp Tựa Lưới The One GL410\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410\",\"schemaSku\":\"GL410\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL410\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL411: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL411: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL411\",\"name\":\"Ghế Họp Tựa Lưới The One GL411\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411\",\"schemaSku\":\"GL411\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL411\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL411: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL411\",\"name\":\"Ghế Họp Tựa Lưới The One GL411\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411\",\"schemaSku\":\"GL411\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL411\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL411: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL411\",\"name\":\"Ghế Họp Tựa Lưới The One GL411\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411\",\"schemaSku\":\"GL411\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL411\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL411: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL411\",\"name\":\"Ghế Họp Tựa Lưới The One GL411\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411\",\"schemaSku\":\"GL411\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL411\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL412: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL412: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL412\",\"name\":\"Ghế Họp Tựa Lưới The One GL412\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412\",\"schemaSku\":\"GL412\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL412\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL412: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL412\",\"name\":\"Ghế Họp Tựa Lưới The One GL412\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412\",\"schemaSku\":\"GL412\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL412\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL412: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL412\",\"name\":\"Ghế Họp Tựa Lưới The One GL412\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412\",\"schemaSku\":\"GL412\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL412\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL412: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL412\",\"name\":\"Ghế Họp Tựa Lưới The One GL412\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412\",\"schemaSku\":\"GL412\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL412\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL417: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL417: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL417\",\"name\":\"Ghế Họp Tựa Lưới The One GL417\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417\",\"schemaSku\":\"GL417\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL417\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL417: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL417\",\"name\":\"Ghế Họp Tựa Lưới The One GL417\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417\",\"schemaSku\":\"GL417\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL417\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL417: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL417\",\"name\":\"Ghế Họp Tựa Lưới The One GL417\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417\",\"schemaSku\":\"GL417\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL417\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL417: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL417\",\"name\":\"Ghế Họp Tựa Lưới The One GL417\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417\",\"schemaSku\":\"GL417\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL417\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL418: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL418: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL418\",\"name\":\"Ghế Họp Tựa Lưới The One GL418\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418\",\"schemaSku\":\"GL418\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL418\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL418: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL418\",\"name\":\"Ghế Họp Tựa Lưới The One GL418\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418\",\"schemaSku\":\"GL418\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL418\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL418: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL418\",\"name\":\"Ghế Họp Tựa Lưới The One GL418\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418\",\"schemaSku\":\"GL418\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL418\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL418: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL418\",\"name\":\"Ghế Họp Tựa Lưới The One GL418\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418\",\"schemaSku\":\"GL418\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL418\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL419: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL419: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL419\",\"name\":\"Ghế Họp Tựa Lưới The One GL419\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419\",\"schemaSku\":\"GL419\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL419\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL419: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL419\",\"name\":\"Ghế Họp Tựa Lưới The One GL419\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419\",\"schemaSku\":\"GL419\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL419\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL419: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL419\",\"name\":\"Ghế Họp Tựa Lưới The One GL419\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419\",\"schemaSku\":\"GL419\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL419\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL419: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL419\",\"name\":\"Ghế Họp Tựa Lưới The One GL419\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419\",\"schemaSku\":\"GL419\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL419\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL420: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL420: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL420\",\"name\":\"Ghế Họp Tựa Lưới The One GL420\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420\",\"schemaSku\":\"GL420\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL420\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL420: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL420\",\"name\":\"Ghế Họp Tựa Lưới The One GL420\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420\",\"schemaSku\":\"GL420\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL420\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL420: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL420\",\"name\":\"Ghế Họp Tựa Lưới The One GL420\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420\",\"schemaSku\":\"GL420\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL420\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL420: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL420\",\"name\":\"Ghế Họp Tựa Lưới The One GL420\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420\",\"schemaSku\":\"GL420\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL420\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL421: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL421: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL421\",\"name\":\"Ghế Họp Tựa Lưới The One GL421\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421\",\"schemaSku\":\"GL421\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL421\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL421: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL421\",\"name\":\"Ghế Họp Tựa Lưới The One GL421\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421\",\"schemaSku\":\"GL421\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL421\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL421: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL421\",\"name\":\"Ghế Họp Tựa Lưới The One GL421\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421\",\"schemaSku\":\"GL421\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL421\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL421: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL421\",\"name\":\"Ghế Họp Tựa Lưới The One GL421\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421\",\"schemaSku\":\"GL421\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL421\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL423: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL423: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL423\",\"name\":\"Ghế Họp Tựa Lưới The One GL423\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423\",\"schemaSku\":\"GL423\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL423\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL423: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL423\",\"name\":\"Ghế Họp Tựa Lưới The One GL423\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423\",\"schemaSku\":\"GL423\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL423\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL423: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL423\",\"name\":\"Ghế Họp Tựa Lưới The One GL423\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423\",\"schemaSku\":\"GL423\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL423\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL423: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL423\",\"name\":\"Ghế Họp Tựa Lưới The One GL423\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423\",\"schemaSku\":\"GL423\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL423\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL424: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424\",\"name\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424\",\"schemaSku\":\"GL424\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424\",\"name\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424\",\"schemaSku\":\"GL424\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424\",\"name\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424\",\"schemaSku\":\"GL424\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424\",\"name\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424\",\"schemaSku\":\"GL424\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Gấp Gọn The One GL424\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424B: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL424B: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424B\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b\",\"schemaSku\":\"GL424B\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424B: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424B\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b\",\"schemaSku\":\"GL424B\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424B: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424B\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b\",\"schemaSku\":\"GL424B\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL424B: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL424B\",\"name\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b\",\"schemaSku\":\"GL424B\",\"galleryCount\":3,\"relatedCount\":3,\"h1\":\"Ghế Hội Thảo Có Bàn The One GL424B\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL425: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL425: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL425\",\"name\":\"Ghế Họp Tựa Lưới The One GL425\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425\",\"schemaSku\":\"GL425\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL425\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL425: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL425\",\"name\":\"Ghế Họp Tựa Lưới The One GL425\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425\",\"schemaSku\":\"GL425\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL425\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL425: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL425\",\"name\":\"Ghế Họp Tựa Lưới The One GL425\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425\",\"schemaSku\":\"GL425\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL425\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL425: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL425\",\"name\":\"Ghế Họp Tựa Lưới The One GL425\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425\",\"schemaSku\":\"GL425\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL425\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL426: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL426: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL426\",\"name\":\"Ghế Họp Tựa Lưới The One GL426\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426\",\"schemaSku\":\"GL426\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL426\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL426: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL426\",\"name\":\"Ghế Họp Tựa Lưới The One GL426\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426\",\"schemaSku\":\"GL426\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL426\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL426: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL426\",\"name\":\"Ghế Họp Tựa Lưới The One GL426\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426\",\"schemaSku\":\"GL426\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL426\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL426: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL426\",\"name\":\"Ghế Họp Tựa Lưới The One GL426\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426\",\"schemaSku\":\"GL426\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL426\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL427: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL427: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL427\",\"name\":\"Ghế Họp Tựa Lưới The One GL427\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427\",\"schemaSku\":\"GL427\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL427\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL427: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL427\",\"name\":\"Ghế Họp Tựa Lưới The One GL427\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427\",\"schemaSku\":\"GL427\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL427\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL427: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL427\",\"name\":\"Ghế Họp Tựa Lưới The One GL427\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427\",\"schemaSku\":\"GL427\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL427\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL427: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL427\",\"name\":\"Ghế Họp Tựa Lưới The One GL427\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427\",\"schemaSku\":\"GL427\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL427\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL429: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL429: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL429\",\"name\":\"Ghế Họp Đệm Xoay The One GL429\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429\",\"schemaSku\":\"GL429\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Đệm Xoay The One GL429\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL429: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL429\",\"name\":\"Ghế Họp Đệm Xoay The One GL429\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429\",\"schemaSku\":\"GL429\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Đệm Xoay The One GL429\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL429: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL429\",\"name\":\"Ghế Họp Đệm Xoay The One GL429\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429\",\"schemaSku\":\"GL429\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Đệm Xoay The One GL429\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL429: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL429\",\"name\":\"Ghế Họp Đệm Xoay The One GL429\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429\",\"schemaSku\":\"GL429\",\"galleryCount\":1,\"relatedCount\":3,\"h1\":\"Ghế Họp Đệm Xoay The One GL429\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL430: HTTP 200",
+      "status": "PASS",
+      "details": "200"
+    },
+    {
+      "name": "GL430: exact runtime identity",
+      "status": "PASS",
+      "details": "{\"code\":\"GL430\",\"name\":\"Ghế Họp Tựa Lưới The One GL430\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430\",\"schemaSku\":\"GL430\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL430\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL430: canonical/schema",
+      "status": "PASS",
+      "details": "{\"code\":\"GL430\",\"name\":\"Ghế Họp Tựa Lưới The One GL430\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430\",\"schemaSku\":\"GL430\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL430\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL430: gallery/related",
+      "status": "PASS",
+      "details": "{\"code\":\"GL430\",\"name\":\"Ghế Họp Tựa Lưới The One GL430\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430\",\"schemaSku\":\"GL430\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL430\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL430: image/overflow",
+      "status": "PASS",
+      "details": "{\"code\":\"GL430\",\"name\":\"Ghế Họp Tựa Lưới The One GL430\",\"canonical\":\"https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430\",\"schemaSku\":\"GL430\",\"galleryCount\":2,\"relatedCount\":3,\"h1\":\"Ghế Họp Tựa Lưới The One GL430\",\"broken\":0,\"overflow\":0}"
+    },
+    {
+      "name": "GL401 desktop-1440: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "GL401 desktop-1440: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "GL401 desktop-1440: product M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL401\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL401\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL401 desktop-1440: product M1A",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL401\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL401\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL401 mobile-390: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "GL401 mobile-390: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "GL401 mobile-390: product M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL401\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL401\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL401 mobile-390: product M1A",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL401\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL401\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL430 desktop-1440: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "GL430 desktop-1440: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "GL430 desktop-1440: product M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL430\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL430\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL430 desktop-1440: product M1A",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL430\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL430\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL430 mobile-390: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "GL430 mobile-390: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "GL430 mobile-390: product M1C",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL430\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL430\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "GL430 mobile-390: product M1A",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL430\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL430\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "First Code → last Code: context replaced",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL430\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL430\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "First Code → last Code: UTM persisted",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"GL430\",\"product_name\":\"Ghế Họp Tựa Lưới The One GL430\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"facebook\",\"utm_medium\":\"social\",\"utm_campaign\":\"gl4xx_theone\",\"utm_content\":\"group_post_01\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Direct visit: attribution isolated",
+      "status": "PASS",
+      "details": "{\"step\":3,\"product_code\":\"\",\"product_name\":\"\",\"product_category\":\"ghe-luoi-phong-hop\",\"utm_source\":\"\",\"utm_medium\":\"\",\"utm_campaign\":\"\",\"utm_content\":\"\",\"utm_term\":\"\"}"
+    },
+    {
+      "name": "Homepage regression: HTTP 200/runtime shell",
+      "status": "PASS",
+      "details": "200 / 1"
+    },
+    {
+      "name": "Homepage regression: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Homepage regression: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "Executive Chair regression: HTTP 200/runtime shell",
+      "status": "PASS",
+      "details": "200 / 1"
+    },
+    {
+      "name": "Executive Chair regression: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Executive Chair regression: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "GL3xx regression: HTTP 200/runtime shell",
+      "status": "PASS",
+      "details": "200 / 1"
+    },
+    {
+      "name": "GL3xx regression: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "GL3xx regression: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    },
+    {
+      "name": "SL regression: HTTP 200/runtime shell",
+      "status": "PASS",
+      "details": "200 / 1"
+    },
+    {
+      "name": "SL regression: broken image = 0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "SL regression: horizontal overflow = 0",
+      "status": "PASS",
+      "details": "0"
+    }
+  ]
+}

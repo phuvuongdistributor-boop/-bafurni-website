@@ -1,0 +1,1438 @@
+{
+  "status": "PASS",
+  "generated_at": "2026-08-24T10:45:47.898Z",
+  "validator_version": "1.0.0",
+  "base_commit": "eb26cc2d6eef88f2c02a204cd0a8695cfa3b6b22",
+  "package_id": "PACKAGE_MESH_MEETING_GL4XX_THEONE",
+  "inventory": {
+    "expected": 24,
+    "actual": 24,
+    "codes": [
+      "GL401",
+      "GL402TB",
+      "GL402XB",
+      "GL403",
+      "GL404",
+      "GL404B",
+      "GL405",
+      "GL406",
+      "GL410",
+      "GL411",
+      "GL412",
+      "GL417",
+      "GL418",
+      "GL419",
+      "GL420",
+      "GL421",
+      "GL423",
+      "GL424",
+      "GL424B",
+      "GL425",
+      "GL426",
+      "GL427",
+      "GL429",
+      "GL430"
+    ],
+    "expected_codes": [
+      "GL401",
+      "GL402TB",
+      "GL402XB",
+      "GL403",
+      "GL404",
+      "GL404B",
+      "GL405",
+      "GL406",
+      "GL410",
+      "GL411",
+      "GL412",
+      "GL417",
+      "GL418",
+      "GL419",
+      "GL420",
+      "GL421",
+      "GL423",
+      "GL424",
+      "GL424B",
+      "GL425",
+      "GL426",
+      "GL427",
+      "GL429",
+      "GL430"
+    ]
+  },
+  "images": {
+    "gallery_expected": 46,
+    "gallery_actual": 46,
+    "clean_exact_expected": 21,
+    "source_limit_expected": [
+      "GL404B",
+      "GL424",
+      "GL429"
+    ],
+    "facebook_media_expected": [
+      "01-cover-collage-1200x1500.png",
+      "02-GL430-1080x1080.png",
+      "03-GL427-1080x1080.png",
+      "04-GL410-1080x1080.png",
+      "05-GL412-1080x1080.png",
+      "06-GL419-1080x1080.png",
+      "07-GL417-1080x1080.png",
+      "08-GL420-1080x1080.png",
+      "09-GL402TB-1080x1080.png"
+    ]
+  },
+  "boundaries": {
+    "changed_files_vs_base": [
+      ".gitignore",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/faq/FAQ.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/faq/faq.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/guide/BUYING_GUIDE.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/SOURCE_IMAGE_AUDIT.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/_facebook-media-source.html",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/collage-facebook-group-post-01-1200x1500.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/01-cover-collage-1200x1500.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/02-GL430-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/03-GL427-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/04-GL410-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/05-GL412-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/06-GL419-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/07-GL417-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/08-GL420-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/09-GL402TB-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/manifest.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL401/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL401/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL402TB/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL402XB/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL402XB/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL403/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL403/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL404/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL404/gallery-03.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL404/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL404B/main.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL405/gallery-02.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL405/main.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL406/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL406/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL410/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL410/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL411/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL411/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL412/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL412/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL417/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL417/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL418/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL418/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL419/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL419/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL420/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL420/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL421/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL421/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL423/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL423/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL424/main.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL424B/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL424B/gallery-03.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL424B/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL425/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL425/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL426/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL426/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL427/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL427/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL429/main.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL430/gallery-02.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/images/products/GL430/main.webp",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/knowledge/knowledge.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/landing/LANDING_COPY.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/manifest.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/FACEBOOK_POST_FINAL.txt",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/GL4XX_M1_SELECTED_PRODUCTS.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/MARKETING_PACKAGE.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/ZALO_SELECTED_PRODUCTS.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/ZALO_WALL_CAPTION.txt",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/ZALO_WALL_PACKAGE.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/ZALO_WALL_READINESS.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/manifest.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/01-zalo-cover-1200x1500.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/02-zalo-GL430-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/03-zalo-GL427-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/04-zalo-GL410-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/05-zalo-GL412-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/06-zalo-GL419-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/07-zalo-GL417-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/08-zalo-GL420-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/media/09-zalo-GL402TB-1080x1080.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/qa/STATIC_QA.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/qa/zalo-cover-mobile-390.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/qa/zalo-wall-contact-sheet.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/ATTRIBUTION_M1A_M1C_QA.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/BROWSER_QA.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/BUSINESS_VISUAL_QA.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/CSV_ARTIFACT_VALIDATION.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/SEO_VALIDATION.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/STATIC_VALIDATION.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/TECHNICAL_QA.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/facebook-cover-mobile-390.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/facebook-multi-image-contact-sheet.jpg",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/first-product-desktop-1440.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/first-product-mobile-390.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/landing-desktop-1440-first-screen.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/landing-desktop-1440-full.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/landing-mobile-390-first-screen.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/landing-mobile-390-full.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/landing-mobile-390-products.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/last-product-desktop-1440.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/last-product-mobile-390.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/preview-vercel-desktop-1440.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/screenshots/preview-vercel-mobile-390.png",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/report/GL4XX_INVENTORY.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/report/GL4XX_MULTI_CHANNEL_DISTRIBUTION_REPORT.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/report/OFFICIAL_SOURCE_RESEARCH.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/report/PACKAGE_REPORT.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/report/PRODUCT_DATA_CONFLICTS.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/report/PRODUCT_FIELD_PROVENANCE_GL4XX.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/report/PRODUCT_IMAGE_AUDIT.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/GL4XX_SEO_KEYWORD_MAP.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/GL4XX_SEO_PAGE_MAP.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/GL4XX_SEO_QA.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/INTERNAL_LINKS.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/SCHEMA_PLAN.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/schema.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/seo.json",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/website/INTEGRATION.md",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/website/PRODUCT_MATRIX.csv",
+      "PACKAGE_MESH_MEETING_GL4XX_THEONE/website/product-data.json",
+      "assets/product-packages/gl4xx-theone/marketing/02-GL430-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/03-GL427-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/04-GL410-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/05-GL412-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/06-GL419-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/07-GL417-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/08-GL420-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/09-GL402TB-1080x1080.png",
+      "assets/product-packages/gl4xx-theone/marketing/collage-facebook-group-post-01-1200x1500.png",
+      "assets/product-packages/gl4xx-theone/products/GL401/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL401/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL402TB/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL402XB/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL402XB/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL403/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL403/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL404/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL404/gallery-03.jpg",
+      "assets/product-packages/gl4xx-theone/products/GL404/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL404B/main.jpg",
+      "assets/product-packages/gl4xx-theone/products/GL405/gallery-02.jpg",
+      "assets/product-packages/gl4xx-theone/products/GL405/main.jpg",
+      "assets/product-packages/gl4xx-theone/products/GL406/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL406/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL410/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL410/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL411/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL411/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL412/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL412/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL417/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL417/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL418/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL418/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL419/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL419/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL420/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL420/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL421/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL421/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL423/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL423/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL424/main.jpg",
+      "assets/product-packages/gl4xx-theone/products/GL424B/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL424B/gallery-03.webp",
+      "assets/product-packages/gl4xx-theone/products/GL424B/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL425/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL425/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL426/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL426/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL427/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL427/main.webp",
+      "assets/product-packages/gl4xx-theone/products/GL429/main.jpg",
+      "assets/product-packages/gl4xx-theone/products/GL430/gallery-02.webp",
+      "assets/product-packages/gl4xx-theone/products/GL430/main.webp",
+      "gl4xx-meeting-chair-data.js",
+      "gl4xx-meeting-chair.html",
+      "gl4xx-meeting-chair.js",
+      "gl4xx-meeting-product.html",
+      "gl4xx-meeting-product.js",
+      "gl4xx-product-pages/gl401.html",
+      "gl4xx-product-pages/gl402tb.html",
+      "gl4xx-product-pages/gl402xb.html",
+      "gl4xx-product-pages/gl403.html",
+      "gl4xx-product-pages/gl404.html",
+      "gl4xx-product-pages/gl404b.html",
+      "gl4xx-product-pages/gl405.html",
+      "gl4xx-product-pages/gl406.html",
+      "gl4xx-product-pages/gl410.html",
+      "gl4xx-product-pages/gl411.html",
+      "gl4xx-product-pages/gl412.html",
+      "gl4xx-product-pages/gl417.html",
+      "gl4xx-product-pages/gl418.html",
+      "gl4xx-product-pages/gl419.html",
+      "gl4xx-product-pages/gl420.html",
+      "gl4xx-product-pages/gl421.html",
+      "gl4xx-product-pages/gl423.html",
+      "gl4xx-product-pages/gl424.html",
+      "gl4xx-product-pages/gl424b.html",
+      "gl4xx-product-pages/gl425.html",
+      "gl4xx-product-pages/gl426.html",
+      "gl4xx-product-pages/gl427.html",
+      "gl4xx-product-pages/gl429.html",
+      "gl4xx-product-pages/gl430.html",
+      "qa/gl4xx-theone/browser_qa.mjs",
+      "qa/gl4xx-theone/build_package.py",
+      "qa/gl4xx-theone/build_seo_package.mjs",
+      "qa/gl4xx-theone/harvest_official.py",
+      "qa/gl4xx-theone/preview-server.mjs",
+      "qa/gl4xx-theone/render_candidate_audit.py",
+      "qa/gl4xx-theone/render_facebook_media.mjs",
+      "qa/gl4xx-theone/validate_package.mjs",
+      "qa/gl4xx-theone/validate_seo.mjs",
+      "qa/gl4xx-theone/verify_csv_artifacts.mjs",
+      "sitemap.xml",
+      "vercel.json"
+    ],
+    "protected_changes": [],
+    "productdb_historical_freeze_sha256": "748b0cfa81b29becea6d4e4cfe5d22c05cf8600afbb00b47d7eda5ed0be90f4c",
+    "portal_historical_freeze_sha256": "7f2cb9d844b9259076d90b95725b4eaf4b021fdc3fb05c218837160a544b2c3a",
+    "portal_validator_baseline_sha256": "50fbcb00b96c3dc810d87c96d7e64be4b0b58f08189323c62e54a2945d681da3"
+  },
+  "totals": {
+    "checks": 119,
+    "passed": 119,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "name": "runtime_exists_gl4xx-meeting-chair-data.js",
+      "pass": true,
+      "actual": "exists",
+      "expected": "exists"
+    },
+    {
+      "name": "runtime_exists_gl4xx-meeting-chair.js",
+      "pass": true,
+      "actual": "exists",
+      "expected": "exists"
+    },
+    {
+      "name": "runtime_exists_gl4xx-meeting-chair.html",
+      "pass": true,
+      "actual": "exists",
+      "expected": "exists"
+    },
+    {
+      "name": "runtime_exists_gl4xx-meeting-product.js",
+      "pass": true,
+      "actual": "exists",
+      "expected": "exists"
+    },
+    {
+      "name": "runtime_exists_gl4xx-meeting-product.html",
+      "pass": true,
+      "actual": "exists",
+      "expected": "exists"
+    },
+    {
+      "name": "required_package_files",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/faq/faq.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/images/facebook-multi-image/manifest.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/knowledge/knowledge.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/manifest.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/manifest.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/marketing/zalo/qa/STATIC_QA.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/BROWSER_QA.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/CSV_ARTIFACT_VALIDATION.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/qa/SEO_VALIDATION.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/report/OFFICIAL_SOURCE_RESEARCH.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/report/PRODUCT_IMAGE_AUDIT.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/schema.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/seo/seo.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_PACKAGE_MESH_MEETING_GL4XX_THEONE/website/product-data.json",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_product_data",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "product_count",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "product_code_order",
+      "pass": true,
+      "actual": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ],
+      "expected": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ]
+    },
+    {
+      "name": "product_codes_unique",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "excluded_inventory_codes",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "product_names_and_sources",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "product_price_label",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "runtime_data_array",
+      "pass": true,
+      "actual": 24,
+      "expected": "array"
+    },
+    {
+      "name": "runtime_data_parity",
+      "pass": true,
+      "actual": 24,
+      "expected": 24,
+      "details": "Runtime JS must be exact JSON parity with package product-data.json"
+    },
+    {
+      "name": "js_syntax_gl4xx-meeting-chair-data.js",
+      "pass": true,
+      "actual": "valid",
+      "expected": "valid JS"
+    },
+    {
+      "name": "js_syntax_gl4xx-meeting-chair.js",
+      "pass": true,
+      "actual": "valid",
+      "expected": "valid JS"
+    },
+    {
+      "name": "js_syntax_gl4xx-meeting-product.js",
+      "pass": true,
+      "actual": "valid",
+      "expected": "valid JS"
+    },
+    {
+      "name": "js_syntax_qa/gl4xx-theone/render_facebook_media.mjs",
+      "pass": true,
+      "actual": "valid",
+      "expected": "valid JS"
+    },
+    {
+      "name": "html_inline_scripts_gl4xx-meeting-chair.html",
+      "pass": true,
+      "actual": {
+        "executableCount": 1,
+        "jsonLdCount": 1
+      },
+      "expected": "all inline JS and JSON-LD parse"
+    },
+    {
+      "name": "html_inline_scripts_gl4xx-meeting-product.html",
+      "pass": true,
+      "actual": {
+        "executableCount": 1,
+        "jsonLdCount": 0
+      },
+      "expected": "all inline JS and JSON-LD parse"
+    },
+    {
+      "name": "json_faq",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_knowledge_faq_parity",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "json_seo_schema_faq_parity",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "faq_count",
+      "pass": true,
+      "actual": 11,
+      "expected": "8..12"
+    },
+    {
+      "name": "faq_visible_parity",
+      "pass": true,
+      "actual": 11,
+      "expected": 11
+    },
+    {
+      "name": "faq_schema_parity",
+      "pass": true,
+      "actual": 11,
+      "expected": 11
+    },
+    {
+      "name": "faq_visible_exact_qa",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "faq_inline_schema_exact_qa",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "faq_knowledge_exact_qa",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "faq_seo_schema_exact_qa",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "json_product_image_audit",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "gallery_total",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "gallery_paths_unique",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "public_gallery_file_count",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "package_gallery_file_count",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "gallery_exact_mirror_count",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "gallery_dimension_count",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "product_image_contract",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "image_status_clean_exact",
+      "pass": true,
+      "actual": 21,
+      "expected": 21
+    },
+    {
+      "name": "image_status_source_limit",
+      "pass": true,
+      "actual": [
+        "GL404B",
+        "GL424",
+        "GL429"
+      ],
+      "expected": [
+        "GL404B",
+        "GL424",
+        "GL429"
+      ]
+    },
+    {
+      "name": "image_audit_code_order",
+      "pass": true,
+      "actual": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ],
+      "expected": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ]
+    },
+    {
+      "name": "image_audit_gallery_total",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "image_audit_clean_exact",
+      "pass": true,
+      "actual": 21,
+      "expected": 21
+    },
+    {
+      "name": "image_audit_low_res_exact",
+      "pass": true,
+      "actual": 3,
+      "expected": 3
+    },
+    {
+      "name": "image_audit_high_resolution_2000",
+      "pass": true,
+      "actual": 8,
+      "expected": 8
+    },
+    {
+      "name": "image_audit_source_ceiling_1000",
+      "pass": true,
+      "actual": 13,
+      "expected": 13
+    },
+    {
+      "name": "image_audit_source_limit_580",
+      "pass": true,
+      "actual": 3,
+      "expected": 3
+    },
+    {
+      "name": "image_audit_watermark",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "image_audit_qr",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "image_audit_supplierLogo",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "image_audit_wrongCode",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "image_audit_placeholder",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "image_audit_fakeUpscale",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "product_image_audit_asset_contract",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "source_image_audit_rows",
+      "pass": true,
+      "actual": 24,
+      "expected": 24
+    },
+    {
+      "name": "source_image_audit_code_order",
+      "pass": true,
+      "actual": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ],
+      "expected": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ]
+    },
+    {
+      "name": "source_image_audit_gallery_total",
+      "pass": true,
+      "actual": 46,
+      "expected": 46
+    },
+    {
+      "name": "source_image_audit_flags",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "json_facebook_media_manifest",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "facebook_manifest_order",
+      "pass": true,
+      "actual": [
+        "COVER",
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ],
+      "expected": [
+        "COVER",
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ]
+    },
+    {
+      "name": "facebook_manifest_files",
+      "pass": true,
+      "actual": [
+        "01-cover-collage-1200x1500.png",
+        "02-GL430-1080x1080.png",
+        "03-GL427-1080x1080.png",
+        "04-GL410-1080x1080.png",
+        "05-GL412-1080x1080.png",
+        "06-GL419-1080x1080.png",
+        "07-GL417-1080x1080.png",
+        "08-GL420-1080x1080.png",
+        "09-GL402TB-1080x1080.png"
+      ],
+      "expected": [
+        "01-cover-collage-1200x1500.png",
+        "02-GL430-1080x1080.png",
+        "03-GL427-1080x1080.png",
+        "04-GL410-1080x1080.png",
+        "05-GL412-1080x1080.png",
+        "06-GL419-1080x1080.png",
+        "07-GL417-1080x1080.png",
+        "08-GL420-1080x1080.png",
+        "09-GL402TB-1080x1080.png"
+      ]
+    },
+    {
+      "name": "facebook_manifest_selected_codes",
+      "pass": true,
+      "actual": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ],
+      "expected": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ]
+    },
+    {
+      "name": "facebook_manifest_canvas_cover",
+      "pass": true,
+      "actual": "1200x1500",
+      "expected": "1200x1500"
+    },
+    {
+      "name": "facebook_manifest_canvas_individual",
+      "pass": true,
+      "actual": "1080x1080",
+      "expected": "1080x1080"
+    },
+    {
+      "name": "facebook_no_ai_redraw",
+      "pass": true,
+      "actual": false,
+      "expected": false
+    },
+    {
+      "name": "facebook_no_raster_upscale",
+      "pass": true,
+      "actual": false,
+      "expected": false
+    },
+    {
+      "name": "facebook_watermark",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "facebook_qr",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "facebook_supplierLogo",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "facebook_wrongCode",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "facebook_png_count",
+      "pass": true,
+      "actual": 9,
+      "expected": 9
+    },
+    {
+      "name": "facebook_png_names",
+      "pass": true,
+      "actual": [
+        "01-cover-collage-1200x1500.png",
+        "02-GL430-1080x1080.png",
+        "03-GL427-1080x1080.png",
+        "04-GL410-1080x1080.png",
+        "05-GL412-1080x1080.png",
+        "06-GL419-1080x1080.png",
+        "07-GL417-1080x1080.png",
+        "08-GL420-1080x1080.png",
+        "09-GL402TB-1080x1080.png"
+      ],
+      "expected": [
+        "01-cover-collage-1200x1500.png",
+        "02-GL430-1080x1080.png",
+        "03-GL427-1080x1080.png",
+        "04-GL410-1080x1080.png",
+        "05-GL412-1080x1080.png",
+        "06-GL419-1080x1080.png",
+        "07-GL417-1080x1080.png",
+        "08-GL420-1080x1080.png",
+        "09-GL402TB-1080x1080.png"
+      ]
+    },
+    {
+      "name": "facebook_selected_codes_exist",
+      "pass": true,
+      "actual": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ],
+      "expected": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ]
+    },
+    {
+      "name": "facebook_individual_source_not_upscaled",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "facebook_media_dimensions_and_mirrors",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "json_vercel_config",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "vercel_product_rewrite",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "vercel_landing_rewrite",
+      "pass": true,
+      "actual": 1,
+      "expected": 1
+    },
+    {
+      "name": "vercel_product_before_generic",
+      "pass": true,
+      "actual": {
+        "productIndex": 7,
+        "genericProduct": 10
+      },
+      "expected": "product rewrite before generic"
+    },
+    {
+      "name": "vercel_landing_before_generic",
+      "pass": true,
+      "actual": {
+        "landingIndex": 8,
+        "genericCategory": 9
+      },
+      "expected": "landing rewrite before generic"
+    },
+    {
+      "name": "sitemap_xml_well_formed",
+      "pass": true,
+      "actual": "valid",
+      "expected": "valid XML"
+    },
+    {
+      "name": "sitemap_no_duplicate_loc",
+      "pass": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "sitemap_gl4_exact_order",
+      "pass": true,
+      "actual": [
+        "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      ],
+      "expected": [
+        "https://bafurni.com/danh-muc/ghe-luoi-phong-hop",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl401",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402tb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl402xb",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl403",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl404b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl405",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl406",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl410",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl411",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl412",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl417",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl418",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl419",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl420",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl421",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl423",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl424b",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl425",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl426",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl427",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl429",
+        "https://bafurni.com/san-pham/ghe-luoi-phong-hop/gl430"
+      ]
+    },
+    {
+      "name": "sitemap_gl4_count",
+      "pass": true,
+      "actual": 25,
+      "expected": 25
+    },
+    {
+      "name": "sitemap_excluded_codes_absent",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "stale_runtime_tokens",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "json_package_manifest",
+      "pass": true,
+      "actual": "valid JSON",
+      "expected": "valid JSON"
+    },
+    {
+      "name": "package_manifest_id",
+      "pass": true,
+      "actual": "PACKAGE_MESH_MEETING_GL4XX_THEONE",
+      "expected": "PACKAGE_MESH_MEETING_GL4XX_THEONE"
+    },
+    {
+      "name": "package_manifest_base",
+      "pass": true,
+      "actual": "eb26cc2d6eef88f2c02a204cd0a8695cfa3b6b22",
+      "expected": "eb26cc2d6eef88f2c02a204cd0a8695cfa3b6b22"
+    },
+    {
+      "name": "package_manifest_codes",
+      "pass": true,
+      "actual": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ],
+      "expected": [
+        "GL401",
+        "GL402TB",
+        "GL402XB",
+        "GL403",
+        "GL404",
+        "GL404B",
+        "GL405",
+        "GL406",
+        "GL410",
+        "GL411",
+        "GL412",
+        "GL417",
+        "GL418",
+        "GL419",
+        "GL420",
+        "GL421",
+        "GL423",
+        "GL424",
+        "GL424B",
+        "GL425",
+        "GL426",
+        "GL427",
+        "GL429",
+        "GL430"
+      ]
+    },
+    {
+      "name": "package_manifest_landing_route",
+      "pass": true,
+      "actual": "/danh-muc/ghe-luoi-phong-hop",
+      "expected": "/danh-muc/ghe-luoi-phong-hop"
+    },
+    {
+      "name": "package_manifest_product_route",
+      "pass": true,
+      "actual": "/san-pham/ghe-luoi-phong-hop/{code-lowercase}",
+      "expected": "/san-pham/ghe-luoi-phong-hop/{code-lowercase}"
+    },
+    {
+      "name": "package_manifest_selected_codes",
+      "pass": true,
+      "actual": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ],
+      "expected": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ]
+    },
+    {
+      "name": "package_manifest_tracked_url",
+      "pass": true,
+      "actual": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+      "expected": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01"
+    },
+    {
+      "name": "package_manifest_preview_only",
+      "pass": true,
+      "actual": "PREVIEW_ONLY",
+      "expected": "PREVIEW ONLY"
+    },
+    {
+      "name": "package_manifest_no_release_actions",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "base_commit_available",
+      "pass": true,
+      "actual": "eb26cc2d6eef88f2c02a204cd0a8695cfa3b6b22",
+      "expected": "eb26cc2d6eef88f2c02a204cd0a8695cfa3b6b22"
+    },
+    {
+      "name": "protected_files_unchanged",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "portal_business_file_count",
+      "pass": true,
+      "actual": 28,
+      "expected": 28
+    },
+    {
+      "name": "portal_tree_unchanged",
+      "pass": true,
+      "actual": "50fbcb00b96c3dc810d87c96d7e64be4b0b58f08189323c62e54a2945d681da3",
+      "expected": "50fbcb00b96c3dc810d87c96d7e64be4b0b58f08189323c62e54a2945d681da3"
+    },
+    {
+      "name": "marketing_tracked_url",
+      "pass": true,
+      "actual": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+      "expected": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01"
+    },
+    {
+      "name": "marketing_selected_codes",
+      "pass": true,
+      "actual": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ],
+      "expected": [
+        "GL430",
+        "GL427",
+        "GL410",
+        "GL412",
+        "GL419",
+        "GL417",
+        "GL420",
+        "GL402TB"
+      ]
+    },
+    {
+      "name": "marketing_hotline",
+      "pass": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "marketing_forbidden_claims",
+      "pass": true,
+      "actual": [],
+      "expected": []
+    }
+  ],
+  "failed": []
+}

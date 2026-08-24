@@ -1,0 +1,145 @@
+{
+  "package": "PACKAGE_MESH_MEETING_GL4XX_THEONE",
+  "version": "GL4XX_THEONE_PRODUCT_MARKETING_PACKAGE_PREVIEW",
+  "baseProduction": "eb26cc2d6eef88f2c02a204cd0a8695cfa3b6b22",
+  "branch": "feature/gl4xx-theone-product-marketing-package",
+  "source": "THE ONE",
+  "category": "Office Chair",
+  "subcategory": "Ghế lưới phòng họp/hội thảo GL4xx",
+  "productCategory": "ghe-luoi-phong-hop",
+  "inventoryCount": 24,
+  "codes": [
+    "GL401",
+    "GL402TB",
+    "GL402XB",
+    "GL403",
+    "GL404",
+    "GL404B",
+    "GL405",
+    "GL406",
+    "GL410",
+    "GL411",
+    "GL412",
+    "GL417",
+    "GL418",
+    "GL419",
+    "GL420",
+    "GL421",
+    "GL423",
+    "GL424",
+    "GL424B",
+    "GL425",
+    "GL426",
+    "GL427",
+    "GL429",
+    "GL430"
+  ],
+  "routes": {
+    "landing": "/danh-muc/ghe-luoi-phong-hop",
+    "productPattern": "/san-pham/ghe-luoi-phong-hop/{code-lowercase}",
+    "productCount": 24
+  },
+  "seo": {
+    "keywordRows": 30,
+    "pageCount": 25,
+    "serverDeliveredProductPages": 24,
+    "sitemapUrls": 25,
+    "landingSchemas": ["CollectionPage", "BreadcrumbList", "FAQPage"],
+    "productSchemas": ["Product", "BreadcrumbList"],
+    "productRichResultEligibility": "DEFERRED_NO_VERIFIED_OFFER_REVIEW_RATING",
+    "searchConsoleSubmitted": false
+  },
+  "data": {
+    "manufacturerExactPages": 23,
+    "officialCatalogFallbackCodes": ["GL404B"],
+    "officialConflictsResolvedWithoutProductDBWrite": ["GL401", "GL404", "GL423", "GL430"],
+    "productDbMode": "read-only / unchanged",
+    "portalMode": "read-only / unchanged"
+  },
+  "images": {
+    "approvedMain": 24,
+    "approvedGallery": 46,
+    "cleanExact": 21,
+    "lowResExactSourceLimit": 3,
+    "highResolution2000x1446": 8,
+    "sourceCeiling1000x723": 13,
+    "sourceLimit580x580": 3,
+    "sourceLimitCodes": ["GL404B", "GL424", "GL429"],
+    "placeholder": 0,
+    "watermark": 0,
+    "qr": 0,
+    "supplierLogo": 0,
+    "wrongCode": 0,
+    "fakeUpscale": 0
+  },
+  "marketing": {
+    "standard": "1 cover collage + 8 individual product images",
+    "selectedCodes": ["GL430", "GL427", "GL410", "GL412", "GL419", "GL417", "GL420", "GL402TB"],
+    "mediaCount": 9,
+    "cover": "images/facebook-multi-image/01-cover-collage-1200x1500.png",
+    "individualCanvas": "1080x1080",
+    "caption": "marketing/FACEBOOK_POST_FINAL.txt",
+    "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+    "facebook": {
+      "caption": "marketing/FACEBOOK_POST_FINAL.txt",
+      "mediaDirectory": "images/facebook-multi-image",
+      "mediaCount": 9,
+      "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=facebook&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+      "composerPrepared": false,
+      "published": false
+    },
+    "zalo": {
+      "caption": "marketing/zalo/ZALO_WALL_CAPTION.txt",
+      "mediaDirectory": "marketing/zalo/media",
+      "mediaCount": 9,
+      "trackedUrl": "https://bafurni.com/danh-muc/ghe-luoi-phong-hop?utm_source=zalo&utm_medium=social&utm_campaign=gl4xx_theone&utm_content=group_post_01",
+      "composerPrepared": false,
+      "published": false
+    }
+  },
+  "tracking": {
+    "utm_source": "facebook",
+    "utm_medium": "social",
+    "utm_campaign": "gl4xx_theone",
+    "utm_content": "group_post_01",
+    "utm_term": "",
+    "persistenceKey": "ba_utm_attribution_v1",
+    "fields": ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"],
+    "facebook": {
+      "utm_source": "facebook",
+      "utm_medium": "social",
+      "utm_campaign": "gl4xx_theone",
+      "utm_content": "group_post_01"
+    },
+    "zalo": {
+      "utm_source": "zalo",
+      "utm_medium": "social",
+      "utm_campaign": "gl4xx_theone",
+      "utm_content": "group_post_01"
+    },
+    "productContextFields": ["product_code", "product_name", "product_category"]
+  },
+  "qa": {
+    "leadSubmission": false,
+    "productionDeployment": false,
+    "facebookPublished": false,
+    "zaloPublished": false,
+    "leadSubmitted": false,
+    "ads": false,
+    "boost": false,
+    "schedule": false
+  },
+  "directories": [
+    "website",
+    "landing",
+    "seo",
+    "faq",
+    "guide",
+    "knowledge",
+    "marketing",
+    "images",
+    "qa",
+    "report"
+  ],
+  "status": "PREVIEW_ONLY"
+}
