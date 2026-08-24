@@ -1,0 +1,278 @@
+{
+  "audit": {
+    "inventoryCount": 24,
+    "manufacturerExactPages": 23,
+    "officialCatalogFallback": [
+      "GL404B"
+    ],
+    "adjacentCodesExcluded": [
+      "GL402T",
+      "GL402X"
+    ],
+    "manufacturerStockPublished": false
+  },
+  "products": [
+    {
+      "code": "GL401",
+      "officialUrl": "https://noithattheone.vn/ghe-hop-gl-en/ghe-hop-tua-luoi-gl401-en.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W590 x D650 x H1010 mm",
+      "officialMaterial": "Khung thép mạ oval; tựa lưới; đệm mút bọc lưới",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl401-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl401-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL402TB",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl402tb.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W620 x D590-725 x H850 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm lưới; bàn nhựa; chân thép sơn hoặc mạ",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl402tb-1.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL402XB",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-402xb.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W620 x D590-725 x H850 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm lưới; bàn nhựa; chân thép sơn hoặc mạ",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl402xb-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl402xb-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL403",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl403.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W580 x D630 x H980 mm",
+      "officialMaterial": "Khung thép mạ; đệm tựa bọc lưới chịu lực",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2024/03/gl403-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2024/03/gl403-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL404",
+      "officialUrl": "https://noithattheone.vn/ghe-hop-gl-en/ghe-hop-tua-luoi-gl404-en.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W535 x D575 x H875 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm lưới; chân thép sơn",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl404-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl404-3.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2021/12/gl404-0.jpg"
+      ]
+    },
+    {
+      "code": "GL404B",
+      "officialUrl": "https://theone.vn/san-pham/ghe-gl404b",
+      "sourceStatus": "OFFICIAL_CATALOG_ARCHIVE; SECONDARY_OUT_OF_STOCK",
+      "officialSize": "W630 x D640-860 x H865 mm",
+      "officialMaterial": "Khung thép sơn; đệm tựa bọc lưới; bàn viết nhựa",
+      "approvedGallery": [
+        "https://theone.vn/wp-content/uploads/2022/05/GL404B.jpg"
+      ]
+    },
+    {
+      "code": "GL405",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl405.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W470 x D590 x H855 mm",
+      "officialMaterial": "Khung thép mạ; tựa lưới; đệm mút bọc lưới",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2026/03/gl405-2.jpg",
+        "https://storage.sudospaces.com/noithattheone/2026/03/gl405-3.jpg"
+      ]
+    },
+    {
+      "code": "GL406",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl406.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W580 x D630 x H980 mm",
+      "officialMaterial": "Khung thép mạ; đệm tựa bọc da công nghiệp",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2024/03/gl406-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2024/03/gl406-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL410",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl410.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W560 x D640 x H960 mm",
+      "officialMaterial": "Khung thép mạ; tựa lưới chịu lực; đệm mút bọc lưới",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2024/06/gl410-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2024/06/gl410-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL411",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl411.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W560 x D640 x H1040 mm",
+      "officialMaterial": "Khung thép mạ; tựa lưới; đệm mút bọc lưới",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl411-1.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl411-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL412",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl412.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W580 x D570 x H950 mm",
+      "officialMaterial": "Khung thép sơn; tựa nhựa bọc lưới; đệm lưới; tay nhựa",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl412-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl412-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL417",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl417.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W510 x D645 x H880 mm",
+      "officialMaterial": "Khung thép sơn hoặc mạ; tựa nhựa bọc lưới; đệm lưới",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl417-1-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl417-1-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL418",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl418.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W625 x D580 x H1000 mm",
+      "officialMaterial": "Khung và tay nhựa; đệm, tựa bọc vải; chân thép sơn hoặc mạ",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2023/09/gl418-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2023/09/gl418-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL419",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl419.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W550 x D630 x H875 mm",
+      "officialMaterial": "Khung thép mạ; tựa nhựa bọc lưới; đệm lưới; tay nhựa",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl419-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl419-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL420",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl420.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W510 x D625 x H875 mm",
+      "officialMaterial": "Khung thép sơn hoặc mạ; tựa nhựa bọc lưới; đệm lưới",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl420-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl420-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL421",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl421.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W580 x D615 x H910 mm",
+      "officialMaterial": "Khung thép sơn hoặc mạ; tựa lưới; đệm mút bọc lưới",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2023/09/gl421-2-1.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2023/09/gl421-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL423",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-423.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W565 x D580 x H970 mm",
+      "officialMaterial": "Khung thép mạ; tựa nhựa bọc lưới; đệm bọc vải hoặc PVC",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl423-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2023/06/gl423-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL424",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl424.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W600 x D555 x H820 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm lưới; chân thép sơn",
+      "approvedGallery": [
+        "https://theone.vn/wp-content/uploads/2020/08/GL424.jpg"
+      ]
+    },
+    {
+      "code": "GL424B",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-gl424b.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W640 x D555-830 x H820 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm lưới; bàn nhựa; chân thép sơn",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl-424b-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl-424b-3.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2021/12/gl-424b-1.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL425",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W520 x D600 x H930 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm bọc PVC; chân thép mạ",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl425-1.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl425-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL426",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-tua-luoi-GL426.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W570 x D520 x H935 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm lưới; chân thép sơn hoặc mạ",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl426-1.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2020/11/gl426-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL427",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-luoi-phong-hop.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W635 x D570 x H1010 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm bọc PVC; chân thép sơn hoặc mạ",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2025/01/gl427-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2025/01/gl427-3.jpg.webp"
+      ]
+    },
+    {
+      "code": "GL429",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-gl-GL429.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W615 x D620 x H930 mm",
+      "officialMaterial": "Khung thép sơn hoặc mạ; tựa lưới; đệm PVC; tay nhựa",
+      "approvedGallery": [
+        "https://theone.vn/wp-content/uploads/2020/08/GL429.jpg"
+      ]
+    },
+    {
+      "code": "GL430",
+      "officialUrl": "https://noithattheone.vn/ghe-phong-hop/ghe-hop-gl-GL430.html",
+      "sourceStatus": "CURRENT_MANUFACTURER_PAGE; STOCK_UNVERIFIED",
+      "officialSize": "W560 x D620 x H1075 mm",
+      "officialMaterial": "Khung tựa nhựa bọc lưới; đệm bọc vải; chân thép mạ; tay ốp nhựa",
+      "approvedGallery": [
+        "https://storage.sudospaces.com/noithattheone/2024/07/gl430-2.jpg.webp",
+        "https://storage.sudospaces.com/noithattheone/2024/07/gl430-3.jpg.webp"
+      ]
+    }
+  ]
+}

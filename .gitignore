@@ -1,4 +1,5 @@
 .artifact-sl-chair/
+.artifact-gl4xx/
 **/__pycache__/
 *.inspect.ndjson
 qa/sl-chair-theone/*

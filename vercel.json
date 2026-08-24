@@ -57,6 +57,14 @@
       "destination": "/sl-meeting-chair.html"
     },
     {
+      "source": "/san-pham/ghe-luoi-phong-hop/:code",
+      "destination": "/gl4xx-meeting-product.html?code=:code"
+    },
+    {
+      "source": "/danh-muc/ghe-luoi-phong-hop",
+      "destination": "/gl4xx-meeting-chair.html"
+    },
+    {
       "source": "/danh-muc/:slug",
       "destination": "/category.html?cat=:slug"
     },
