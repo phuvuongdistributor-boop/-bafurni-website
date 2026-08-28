@@ -13,7 +13,48 @@
   let currentStep = 1;
   let lastTrigger = null;
 
-  window.BA_LEAD_ATTRIBUTION?.sync?.(form);
+  const contextFieldNames = ["source", "source_page", "product_code", "product_name", "product_category", "category_name"];
+
+  function cleanContextValue(value) {
+    return String(value == null ? "" : value).trim();
+  }
+
+  function currentPageContext() {
+    const body = document.body;
+    const shellContext = window.BASiteShell?.context?.() || {};
+    const pageType = cleanContextValue(shellContext.pageType || body.dataset.pageType || "homepage");
+    return {
+      source: cleanContextValue(shellContext.source || body.dataset.leadSource || `bafurni-${pageType.replaceAll("_", "-")}`),
+      source_page: pageType,
+      product_code: cleanContextValue(shellContext.productCode || body.dataset.productCode),
+      product_name: cleanContextValue(shellContext.productName || body.dataset.productName),
+      product_category: cleanContextValue(shellContext.productCategory || body.dataset.productCategory),
+      category_name: cleanContextValue(shellContext.categoryName || body.dataset.categoryName)
+    };
+  }
+
+  function ensureContextField(name) {
+    const existing = form.elements.namedItem(name);
+    if (existing) return existing;
+    const field = document.createElement("input");
+    field.type = "hidden";
+    field.name = name;
+    form.append(field);
+    return field;
+  }
+
+  function syncWizardContext() {
+    const context = currentPageContext();
+    contextFieldNames.forEach((name) => {
+      const field = ensureContextField(name);
+      field.value = context[name];
+      field.defaultValue = context[name];
+    });
+    window.BA_LEAD_ATTRIBUTION?.sync?.(form);
+    return context;
+  }
+
+  syncWizardContext();
 
   function contextualFields() {
     return ["source", "source_page", "product_code", "product_name", "product_category", "category_name"].reduce((context, name) => {
@@ -74,6 +115,7 @@
 
   function resetWizard() {
     form.reset();
+    syncWizardContext();
     hiddenNeed.value = "";
     choiceButtons.forEach((button) => button.classList.remove("is-selected"));
     successPanel.hidden = true;
@@ -237,6 +279,7 @@
     }
 
     quickError.textContent = "";
+    syncWizardContext();
     const data = {
       name: "Khách cần gọi lại",
       phone: quickPhone,
@@ -280,6 +323,7 @@
       return;
     }
 
+    syncWizardContext();
     const data = Object.fromEntries(new FormData(form).entries());
     const phone = normalizePhone(data.phone);
     if (!/^(?:\+?84|0)\d{9,10}$/.test(phone)) {
