@@ -10,16 +10,29 @@
   object-fit: contain;
 }
 
+.v6-wordmark:has(.v8-brand-logo) {
+  align-items: center;
+  gap: 10px;
+}
+
 .v8-brand-logo--header {
-  width: 110px;
-  height: 68px;
-  object-fit: cover;
-  object-position: 50% 30%;
+  width: 68px;
+  height: 52px;
+  object-fit: contain;
+  object-position: center;
 }
 
 .v8-brand-logo--footer {
-  width: 148px;
-  height: 148px;
+  width: 96px;
+  height: 64px;
+}
+
+.v8-brand-name {
+  font-family: var(--v9-font-body, "Inter", Arial, sans-serif);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1;
 }
 
 .v8-brand-logo--catalog-header {
@@ -1072,13 +1085,17 @@
 
 @media (max-width: 680px) {
   .v8-brand-logo--header {
-    width: 76px;
-    height: 50px;
+    width: 54px;
+    height: 42px;
   }
 
   .v8-brand-logo--footer {
-    width: 124px;
-    height: 124px;
+    width: 84px;
+    height: 56px;
+  }
+
+  .v8-brand-name {
+    font-size: 14px;
   }
 
   .v8-catalog-grid {

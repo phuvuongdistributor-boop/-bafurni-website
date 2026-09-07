@@ -51,7 +51,7 @@
     return `
       <header class="pf-header" data-shared-component="SiteHeader">
         <a class="pf-brand" href="/" aria-label="BA_Furniture trang chủ">
-          <img src="/images/brand/ba-furniture-logo.jpg" alt="BA_Furniture" width="1254" height="1254" fetchpriority="high" />
+          <img src="/images/brand/ba-logo-mark.png" alt="" width="1070" height="705" fetchpriority="high" />
           <span>BA_Furniture</span>
         </a>
         <button class="pf-menu nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav" aria-label="Mở menu">
@@ -89,7 +89,7 @@
       <footer class="pf-footer" data-shared-component="SiteFooter">
         <div class="pf-footer-brand">
           <a class="pf-brand" href="/" aria-label="BA_Furniture trang chủ">
-            <img src="/images/brand/ba-furniture-logo.jpg" alt="BA_Furniture" width="1254" height="1254" loading="lazy" />
+            <img src="/images/brand/ba-logo-mark.png" alt="" width="1070" height="705" loading="lazy" />
             <span>BA_Furniture</span>
           </a>
           <p>Giải pháp nội thất cho văn phòng, trường học và dự án.<br />Khách hàng ở đâu, chúng tôi ở đó.</p>
@@ -372,7 +372,7 @@
     components: {
       SiteAnnouncement: "pf-announcement",
       SiteHeader: "pf-header",
-      BrandLogo: "/images/brand/ba-furniture-logo.jpg",
+      BrandLogo: "/images/brand/ba-logo-mark.png",
       DesktopNavigation: "pf-nav",
       MobileNavigation: "pf-menu",
       SiteFooter: "pf-footer",

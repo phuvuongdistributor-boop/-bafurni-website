@@ -189,8 +189,8 @@ function buildProductPage(template, product) {
   );
   html = replaceRequired(
     html,
-    '    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />',
-    '    <link rel="canonical" href="' + canonical(product) + '" />\n    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />',
+    '    <link rel="icon" href="/assets/brand/ba-logo-mark-512.png" type="image/png" sizes="512x512" />',
+    '    <link rel="canonical" href="' + canonical(product) + '" />\n    <link rel="icon" href="/assets/brand/ba-logo-mark-512.png" type="image/png" sizes="512x512" />',
     "canonical insertion"
   );
   html = html.replace(/<meta property="og:title"[^>]*\/>/, '<meta property="og:title" content="' + escapeHtml(productTitle(product)) + '" data-product-og-title />');

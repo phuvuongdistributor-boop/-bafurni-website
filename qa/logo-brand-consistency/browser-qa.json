@@ -1,0 +1,304 @@
+{
+  "base_url": "http://127.0.0.1:4173",
+  "expected_logo": "/images/brand/ba-logo-mark.png",
+  "expected_favicon": "/assets/brand/ba-logo-mark-512.png",
+  "pages": [
+    {
+      "path": "/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        56,
+        56
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "screenshot": "homepage-desktop-header.png",
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        44,
+        44
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "screenshot": "homepage-mobile-header.png",
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/",
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        44,
+        44
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/category.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        56,
+        56
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "screenshot": "category-desktop-header.png",
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/category.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        44,
+        44
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/product-detail.html?code=TQ05",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        56,
+        56
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "screenshot": "product-tq05-desktop-header.png",
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/product-detail.html?code=TQ05",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        44,
+        44
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/case-studies.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        68,
+        52
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "screenshot": "case-studies-desktop-header.png",
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    },
+    {
+      "path": "/case-studies.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http": 200,
+      "logo_src": "/images/brand/ba-logo-mark.png",
+      "logo_natural": [
+        1070,
+        705
+      ],
+      "logo_rendered": [
+        54,
+        42
+      ],
+      "brand_text": "BA_Furniture",
+      "favicon": "/assets/brand/ba-logo-mark-512.png",
+      "broken_images": [],
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": [],
+      "footer_logo_src": "/images/brand/ba-logo-mark.png",
+      "footer_logo_natural": [
+        1070,
+        705
+      ]
+    }
+  ],
+  "wizard": [
+    {
+      "path": "/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "http": 200,
+      "steps": [
+        "Bước 1 / 3",
+        "Bước 2 / 3",
+        "Bước 3 / 3"
+      ],
+      "dialog_logo_images": 0,
+      "submitted": false,
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": []
+    },
+    {
+      "path": "/product-detail.html?code=TQ05",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "http": 200,
+      "steps": [
+        "Bước 1 / 3",
+        "Bước 2 / 3",
+        "Bước 3 / 3"
+      ],
+      "dialog_logo_images": 0,
+      "submitted": false,
+      "overflow": false,
+      "console_errors": [],
+      "runtime_errors": []
+    }
+  ],
+  "favicon_http": 200,
+  "pass": true
+}

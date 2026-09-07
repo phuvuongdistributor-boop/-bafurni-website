@@ -80,7 +80,7 @@
       "@type": "LocalBusiness",
       "name": "BA_Furniture",
       "url": `${origin}/`,
-      "logo": `${origin}/assets/favicon.svg`,
+      "logo": `${origin}/assets/brand/ba-logo-mark-512.png`,
       "image": `${origin}/assets/og-ba-furniture.svg`,
       "telephone": "+84929878666",
       "priceRange": "Liên hệ báo giá",
