@@ -66,11 +66,11 @@
     setMeta('meta[property="og:url"]', { create: { property: "og:url" }, set: { content: canonical } });
     setMeta('meta[property="og:title"]', { create: { property: "og:title" }, set: { content: title } });
     setMeta('meta[property="og:description"]', { create: { property: "og:description" }, set: { content: description } });
-    setMeta('meta[property="og:image"]', { create: { property: "og:image" }, set: { content: `${origin}/assets/og-ba-furniture.svg` } });
+    setMeta('meta[property="og:image"]', { create: { property: "og:image" }, set: { content: `${origin}/assets/og-ba-furniture-v2.png` } });
     setMeta('meta[name="twitter:card"]', { create: { name: "twitter:card" }, set: { content: "summary_large_image" } });
     setMeta('meta[name="twitter:title"]', { create: { name: "twitter:title" }, set: { content: title } });
     setMeta('meta[name="twitter:description"]', { create: { name: "twitter:description" }, set: { content: description } });
-    setMeta('meta[name="twitter:image"]', { create: { name: "twitter:image" }, set: { content: `${origin}/assets/og-ba-furniture.svg` } });
+    setMeta('meta[name="twitter:image"]', { create: { name: "twitter:image" }, set: { content: `${origin}/assets/og-ba-furniture-v2.png` } });
     return canonical;
   }
 
@@ -80,8 +80,8 @@
       "@type": "LocalBusiness",
       "name": "BA_Furniture",
       "url": `${origin}/`,
-      "logo": `${origin}/assets/brand/ba-logo-mark-512.png`,
-      "image": `${origin}/assets/og-ba-furniture.svg`,
+      "logo": `${origin}/assets/brand/ba-furniture-approved-v2-512.png`,
+      "image": `${origin}/assets/og-ba-furniture-v2.png`,
       "telephone": "+84929878666",
       "priceRange": "Liên hệ báo giá",
       "areaServed": ["Nam Định", "Hà Nam", "Ninh Bình", "Hưng Yên", "Thái Bình", "Việt Nam"],
@@ -170,7 +170,7 @@
     const canonicalPath = productRoute || window.location.pathname;
     const description = `${titleText} mã ${renderedCode || "đang cập nhật"} thuộc ${categoryText}. Xem hình ảnh, thông số, chất liệu, kích thước và nhận báo giá từ BA_Furniture.`;
     const canonical = setCommonSeo(`${titleText} | BA_Furniture`, description, canonicalPath, "product");
-    const image = document.querySelector(".ba-gallery__image")?.getAttribute("src") || `${origin}/assets/og-ba-furniture.svg`;
+    const image = document.querySelector(".ba-gallery__image")?.getAttribute("src") || `${origin}/assets/og-ba-furniture-v2.png`;
 
     setJsonLd("ba-product-breadcrumb-schema", breadcrumbSchema([
       { name: "Trang chủ", url: "/" },

@@ -12,8 +12,8 @@ BASE_URL = os.environ.get("BA_LOGO_BASE_URL", "http://127.0.0.1:4173").rstrip("/
 ROOT = Path(__file__).resolve().parents[2]
 OUTPUT = Path(os.environ.get("BA_LOGO_OUTPUT_DIR", Path(__file__).resolve().parent))
 CHROME = Path(r"C:\Program Files\Google\Chrome\Application\chrome.exe")
-EXPECTED_LOGO = "/images/brand/ba-logo-mark.png"
-EXPECTED_FAVICON = "/assets/brand/ba-logo-mark-512.png"
+EXPECTED_LOGO = "/images/brand/ba-furniture-approved-v2.png"
+EXPECTED_FAVICON = "/assets/brand/ba-furniture-approved-v2-512.png"
 
 
 def inspect_page(browser, path: str, viewport: dict[str, int], screenshot: str | None = None):
@@ -151,7 +151,7 @@ def main():
         and page["favicon"] == EXPECTED_FAVICON
         and page["brand_text"] == "BA_Furniture"
         and page["footer_logo_src"] == EXPECTED_LOGO
-        and page["footer_logo_natural"] == [1070, 705]
+        and page["footer_logo_natural"] == [1536, 1024]
         and not page["broken_images"]
         and not page["overflow"]
         and not page["console_errors"]
