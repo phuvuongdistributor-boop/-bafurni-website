@@ -131,7 +131,7 @@
       sku: product.code,
       category: [product.category, product.subCategory].filter(Boolean).join(" / "),
       description: detailDescription(product),
-      image: images.length ? images : ["https://bafurni.com/assets/og-ba-furniture.svg"],
+      image: images.length ? images : ["https://bafurni.com/assets/og-ba-furniture-v2.png"],
       brand: { "@type": "Brand", name: "BA_Furniture" },
       offers: {
         "@type": "Offer",

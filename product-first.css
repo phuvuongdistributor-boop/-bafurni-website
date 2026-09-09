@@ -97,8 +97,10 @@ body.pf-home {
   display: block;
   width: 48px;
   height: 48px;
-  object-fit: cover;
-  border: 1px solid var(--pf-line);
+  object-fit: contain;
+  object-position: center;
+  border: 0;
+  background: transparent;
 }
 
 .pf-nav {
@@ -1128,7 +1130,8 @@ body.pf-home {
   }
 
   .pf-brand span {
-    display: none;
+    display: inline;
+    font-size: 12px;
   }
 
   .pf-menu {

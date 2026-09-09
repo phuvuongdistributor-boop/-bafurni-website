@@ -1064,7 +1064,8 @@ body.pf-home {
 
 @media (max-width: 430px) {
   .pf-brand span {
-    display: none;
+    display: inline;
+    font-size: 12px;
   }
 
   .pf-product-card p,
