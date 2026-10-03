@@ -1,0 +1,5507 @@
+{
+  "schemaVersion": "1.0",
+  "status": "PRODUCTION",
+  "count": 1100,
+  "products": [
+    {
+      "Code": "1",
+      "routeSlug": "1-ghe-giam-oc-cc-001",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "1001",
+      "routeSlug": "1001-ghe-xoay-luoi-1001",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "1003-1NAN",
+      "routeSlug": "1003-1nan-ghe-xoay-luoi-1003-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "1003-4NAN",
+      "routeSlug": "1003-4nan-ghe-xoay-luoi-1003-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "1666A",
+      "routeSlug": "1666a-ghe-da-leader-nu-1666a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2001",
+      "routeSlug": "2001-ghe-chan-quy-luoi-lung-thap-2001",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2002",
+      "routeSlug": "2002-ghe-chan-quy-luoi-lung-cao-2002",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2003",
+      "routeSlug": "2003-ghe-chan-quy-da-lung-thap-2003",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2004",
+      "routeSlug": "2004-ghe-chan-quy-luoi-lung-cao-2004",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2005",
+      "routeSlug": "2005-ghe-xoay-luoi-lung-thap-2005",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2006",
+      "routeSlug": "2006-ghe-xoay-luoi-lung-cao-2006",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2007",
+      "routeSlug": "2007-ghe-xoay-da-lung-thap-2007",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "2008",
+      "routeSlug": "2008-ghe-xoay-da-lung-cao-2008",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "245",
+      "routeSlug": "245-ghe-giam-oc-cc-245",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "333A",
+      "routeSlug": "333a-ghe-xoay-da-cc-leader-333a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "366",
+      "routeSlug": "366-ghe-xoay-luoi-tua-nga-o-chan-366",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4001",
+      "routeSlug": "4001-ghe-luoi-chan-quy-chu-a-4001",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4005",
+      "routeSlug": "4005-ghe-xoay-luoi-4005",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4008-1-NAN",
+      "routeSlug": "4008-1-nan-ghe-chan-quy-da-4008-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4008-4-NAN",
+      "routeSlug": "4008-4-nan-ghe-chan-quy-da-4008-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4009B",
+      "routeSlug": "4009b-ghe-chan-quy-da-4009b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4009C",
+      "routeSlug": "4009c-ghe-luoi-chan-quy-lung-thap-4009c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4010B",
+      "routeSlug": "4010b-ghe-chan-quy-da-4010b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4010C",
+      "routeSlug": "4010c-ghe-chan-quy-luoi-lung-cao-4010c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4019",
+      "routeSlug": "4019-ghe-luoi-chan-quy-lung-thap-4019",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "4020",
+      "routeSlug": "4020-ghe-luoi-lung-cao-4020",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "5003",
+      "routeSlug": "5003-ghe-xoay-luoi-tua-au-cm-5003",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "5004",
+      "routeSlug": "5004-ghe-xoay-luoi-tua-au-cn-5004",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "5031",
+      "routeSlug": "5031-ghe-em-da-5031",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "5032",
+      "routeSlug": "5032-ghe-em-da-5032",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "5035",
+      "routeSlug": "5035-ghe-da-leader-nu-5035",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "5037",
+      "routeSlug": "5037-ghe-da-leader-nu-cc-5037",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "5039",
+      "routeSlug": "5039-ghe-giam-oc-da-o-chan-5039",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "588",
+      "routeSlug": "588-ghe-luoi-xoay-tua-au-558",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "6020-DA",
+      "routeSlug": "6020-da-ghe-chan-quy-da-6020",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "616",
+      "routeSlug": "616-ghe-xoay-tua-au-616",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "621",
+      "routeSlug": "621-ghe-xoay-luoi-tua-621",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "668",
+      "routeSlug": "668-ghe-xoay-luoi-668",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "7005",
+      "routeSlug": "7005-ghe-xoay-lung-luoi-7005",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "7006",
+      "routeSlug": "7006-ghe-xoay-lung-luoi-7006",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "7008",
+      "routeSlug": "7008-ghe-luoi-xoay-tua-au-7008",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "730",
+      "routeSlug": "730-ghe-xoay-luoi-730",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "7301",
+      "routeSlug": "7301-ghe-luoi-xoay-7301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "7302",
+      "routeSlug": "7302-ghe-luoi-xoay-7302",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8001",
+      "routeSlug": "8001-ghe-chan-quy-luoi-8001",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8002",
+      "routeSlug": "8002-ghe-chan-quy-luoi-8002",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8012",
+      "routeSlug": "8012-ghe-chan-quy-luoi-8012",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8013",
+      "routeSlug": "8013-chan-quy-luoi-8013",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8015",
+      "routeSlug": "8015-ghe-luoi-chan-quy-8015",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8016",
+      "routeSlug": "8016-ghe-luoi-chan-quy-8016",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8025",
+      "routeSlug": "8025-ghe-chan-quy-luoi-8025",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8026",
+      "routeSlug": "8026-ghe-chan-quy-luoi-8026",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "816-5",
+      "routeSlug": "816-5-ghe-xoay-tua-au-816-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "819",
+      "routeSlug": "819-ghe-xoay-tua-au-819",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8301",
+      "routeSlug": "8301-ghe-chan-quy-luoi-8301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "8302",
+      "routeSlug": "8302-ghe-chan-quy-luoi-8302",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "868",
+      "routeSlug": "868-ghe-xoay-luoi-tua-au-868",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "881",
+      "routeSlug": "881-ghe-luoi-xoay-tua-au-881",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "882",
+      "routeSlug": "882-ghe-xoay-tua-au-882",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "883",
+      "routeSlug": "883-ghe-luoi-xoay-tua-au-883",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "899",
+      "routeSlug": "899-ghe-xoay-tua-au-899",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "900",
+      "routeSlug": "900-ghe-xoay-tua-au-900",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "9001",
+      "routeSlug": "9001-ghe-xoay-luoi-9001",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "9002",
+      "routeSlug": "9002-ghe-xoay-luoi-9002",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "9012",
+      "routeSlug": "9012-ghe-xoay-luoi-tua-au-9012",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "9951",
+      "routeSlug": "9951-ghe-da-giam-oc-cao-cap-9951",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "A38",
+      "routeSlug": "a38-ghe-giam-oc-cc-a38",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "A39",
+      "routeSlug": "a39-ghe-giam-oc-cc-a39",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "A526-3",
+      "routeSlug": "a526-3-ghe-xoay-luoi-tua-nga-o-chan-cc-a526",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT100",
+      "routeSlug": "at100-ban-lam-viec-at100",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT100HL",
+      "routeSlug": "at100hl-ban-lam-viec-at100hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT100SHL3D",
+      "routeSlug": "at100shl3d-ban-lam-viec-at100shl3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120",
+      "routeSlug": "at120-ban-van-phong-at120",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120HL",
+      "routeSlug": "at120hl-ban-lam-viec-at120hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120HL3C",
+      "routeSlug": "at120hl3c-ban-lam-viec-at120hl3c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120K",
+      "routeSlug": "at120k-ban-lam-viec-at120k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120S",
+      "routeSlug": "at120s-ban-van-phong-at120s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120SHL",
+      "routeSlug": "at120shl-ban-lam-viec-at120shl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120SHL3C",
+      "routeSlug": "at120shl3c-ban-lam-viec-at120shl3c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120SHL3D",
+      "routeSlug": "at120shl3d-ban-lam-viec-at120shl3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120SHL3DF",
+      "routeSlug": "at120shl3df-ban-lam-viec-at120shl3df",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT120SK",
+      "routeSlug": "at120sk-ban-lam-viec-at120sk",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1250D",
+      "routeSlug": "at1250d-ban-hoi-truong-at1250d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1250L",
+      "routeSlug": "at1250l-ban-hoi-truong-at1250l",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1260",
+      "routeSlug": "at1260-tu-tai-lieu-at1260",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1260D",
+      "routeSlug": "at1260d-tu-tai-lieu-at1260d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1260SD",
+      "routeSlug": "at1260sd-tu-tai-lieu-at1260sd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140",
+      "routeSlug": "at140-ban-lam-viec-at140",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140HL",
+      "routeSlug": "at140hl-ban-lam-viec-at140hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140HL3C",
+      "routeSlug": "at140hl3c-ban-lam-viec-at140hl3c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140HL3D",
+      "routeSlug": "at140hl3d-ban-lam-viec-at140hl3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140K",
+      "routeSlug": "at140k-ban-lam-viec-at140k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140S",
+      "routeSlug": "at140s-ban-lam-viec-go-at140s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140SHL",
+      "routeSlug": "at140shl-ban-lam-viec-go-at140shl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT140SK",
+      "routeSlug": "at140sk-ban-lam-viec-go-at140sk",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1450D",
+      "routeSlug": "at1450d-ban-hoi-truong-at1450d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1450L",
+      "routeSlug": "at1450l-ban-hoi-truong-at1450l",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1550D",
+      "routeSlug": "at1550d-ban-hoi-truong-at1550d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1550L",
+      "routeSlug": "at1550l-ban-hoi-truong-at1550l",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT160",
+      "routeSlug": "at160-ban-lam-viec-at160",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT160HL",
+      "routeSlug": "at160hl-ban-lam-viec-at160hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT160HL1",
+      "routeSlug": "at160hl1-ban-lam-viec-at160hl1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT160HL2",
+      "routeSlug": "at160hl2-ban-lam-viec-at160hl2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT160K",
+      "routeSlug": "at160k-ban-lam-viec-at160k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1650D",
+      "routeSlug": "at1650d-ban-hoi-truong-at1650d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1650L",
+      "routeSlug": "at1650l-ban-hoi-truong-at1650l",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT180",
+      "routeSlug": "at180-ban-van-phong-at180",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT180HL",
+      "routeSlug": "at180hl-ban-lam-viec-1m8-at180hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1850D",
+      "routeSlug": "at1850d-ban-hoi-truong-at1850d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1850L",
+      "routeSlug": "at1850l-ban-hoi-truong-at1850l",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1960-3B",
+      "routeSlug": "at1960-3b-tu-tai-lieu-at1960-3b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1960-3BK",
+      "routeSlug": "at1960-3bk-tu-tai-lieu-at1960-3bk",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT1960KG",
+      "routeSlug": "at1960kg-tu-tai-lieu-at1960kg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT202S",
+      "routeSlug": "at202s-ban-may-tinh-at202s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT204",
+      "routeSlug": "at204-ban-may-tinh-go-at204",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT204HL",
+      "routeSlug": "at204hl-ban-may-tinh-go-at204hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT204S",
+      "routeSlug": "at204s-ban-may-tinh-at204s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT204SHL",
+      "routeSlug": "at204shl-ban-may-tinh-at204shl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT2050D",
+      "routeSlug": "at2050d-ban-hoi-truong-at2050d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT2050L",
+      "routeSlug": "at2050l-ban-hoi-truong-at2050l",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT880",
+      "routeSlug": "at880-tu-tai-lieu-at880",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT880D",
+      "routeSlug": "at880d-tu-tai-lieu-at880d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "AT880SD",
+      "routeSlug": "at880sd-tu-tai-lieu-at880sd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATB01",
+      "routeSlug": "atb01-ban-lien-gia-sach-atb01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATB02",
+      "routeSlug": "atb02-ban-lien-gia-sach-atb02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATBF01",
+      "routeSlug": "atbf01-ban-van-phong-atbf01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATC01",
+      "routeSlug": "atc01-ke-cpu-co-banh-xe-atc01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATH2412CN",
+      "routeSlug": "ath2412cn-ban-hop-ep-ath2412cn",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATH2412OV",
+      "routeSlug": "ath2412ov-ban-hop-oval-ath2412ov",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATH4016",
+      "routeSlug": "ath4016-ban-hop-lon-ath4016",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATH5115",
+      "routeSlug": "ath5115-ban-hop-lon-ath5115",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATL14",
+      "routeSlug": "atl14-ban-lam-viec-atl14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATL14K",
+      "routeSlug": "atl14k-ban-lam-viec-atl14k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATL16",
+      "routeSlug": "atl16-ban-lam-viec-chu-l-atl16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATL16K",
+      "routeSlug": "atl16k-ban-lam-viec-atl16k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATM120",
+      "routeSlug": "atm120-ban-vi-tinh-atm120",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATM120S",
+      "routeSlug": "atm120s-ban-may-tinh-go-atm120s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATM1D1F",
+      "routeSlug": "atm1d1f-hoc-di-ong-atm1d1f",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATM3D",
+      "routeSlug": "atm3d-hoc-tai-lieu-atm3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATM3D1",
+      "routeSlug": "atm3d1-hoc-di-ong-atm3d1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATNK120HL",
+      "routeSlug": "atnk120hl-ngan-keo-atnk120hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ATP1890",
+      "routeSlug": "atp1890-ban-truong-phong-atp1890",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B32",
+      "routeSlug": "b32-ban-an-mat-kinh-tron-b32",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B38",
+      "routeSlug": "b38-ban-ghe-cafe-b38-g38",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B39",
+      "routeSlug": "b39-bo-ban-ghe-an-g39-b39",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B40",
+      "routeSlug": "b40-ban-cafe-b40",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B42",
+      "routeSlug": "b42-ban-cafe-b42",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B44",
+      "routeSlug": "b44-ban-cafe-b44",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B47",
+      "routeSlug": "b47-bo-ban-ghe-an-b47-g18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B48",
+      "routeSlug": "b48-ban-an-b48",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B50",
+      "routeSlug": "b50-bo-ban-ghe-an-b50-g50",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B51",
+      "routeSlug": "b51-bo-ban-ghe-an-b51-g51",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B52",
+      "routeSlug": "b52-ban-an-khung-thep-b52",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B53",
+      "routeSlug": "b53-ban-an-khung-thep-b53",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B55",
+      "routeSlug": "b55-bo-ban-ghe-an-b55-g56",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B56",
+      "routeSlug": "b56-bo-ban-ghe-an-b56-g56",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B58",
+      "routeSlug": "b58-ban-an-b58",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B59",
+      "routeSlug": "b59-bo-ban-ghe-an-b59-g59",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B61",
+      "routeSlug": "b61-bo-ban-an-b61-g61",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B63",
+      "routeSlug": "b63-bo-ban-an-b63-g63",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "B64",
+      "routeSlug": "b64-bo-ban-ghe-an-b64-g64",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA01-14",
+      "routeSlug": "ba01-14-ban-ghe-an-cong-nghiep-ba01-14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA01-15",
+      "routeSlug": "ba01-15-ban-ghe-an-cong-nghiep-ba01-15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA01-16",
+      "routeSlug": "ba01-16-ban-ghe-an-cong-nghiep-ba01-16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA02",
+      "routeSlug": "ba02-ban-ghe-an-cong-nghiep-ba02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA03",
+      "routeSlug": "ba03-ban-ghe-an-cong-nghiep-ba03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA04I14",
+      "routeSlug": "ba04i14-ban-an-cong-nghiep-ba04i14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA04I15",
+      "routeSlug": "ba04i15-ban-an-cong-nghiep-ba04i15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA04I16",
+      "routeSlug": "ba04i16-ban-an-cong-nghiep-ba04i16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA05",
+      "routeSlug": "ba05-ban-ghe-an-cong-nghiep-ba05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA101",
+      "routeSlug": "ba101-bo-ban-ghe-ba101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA102VD01",
+      "routeSlug": "ba102vd01-bo-ban-ghe-ba102vd01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA114",
+      "routeSlug": "ba114-bo-ban-ghe-ba114",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA124",
+      "routeSlug": "ba124-bo-ban-an-cao-cap-ba124-ga124",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA139",
+      "routeSlug": "ba139-ban-ba139",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA141",
+      "routeSlug": "ba141-ban-ba141",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA142",
+      "routeSlug": "ba142-ban-ba142",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA143",
+      "routeSlug": "ba143-ban-ba143",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA201",
+      "routeSlug": "ba201-bo-ban-ghe-ba201",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA501",
+      "routeSlug": "ba501-bo-ban-an-ba501",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA502",
+      "routeSlug": "ba502-bo-ban-an-ba502",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA503A",
+      "routeSlug": "ba503a-bo-ban-an-ba503a-ga503",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA503B",
+      "routeSlug": "ba503b-noi-that-gia-inh-ba503b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA504A",
+      "routeSlug": "ba504a-ban-ba504a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA504B",
+      "routeSlug": "ba504b-noi-that-gia-inh-ba504b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA505A",
+      "routeSlug": "ba505a-ban-ba505a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA505AK8",
+      "routeSlug": "ba505ak8-noi-that-gia-inh-ba505ak8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA505B",
+      "routeSlug": "ba505b-noi-that-gia-inh-ba505b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA505BK8",
+      "routeSlug": "ba505bk8-noi-that-gia-inh-ba505bk8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA507",
+      "routeSlug": "ba507-bo-ban-an-ba507-ga507",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA508",
+      "routeSlug": "ba508-bo-ban-an-ba508-ga508",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA509A",
+      "routeSlug": "ba509a-bo-ban-ghe-ba509a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA509AK8",
+      "routeSlug": "ba509ak8-noi-that-gia-inh-ba509ak8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA509B",
+      "routeSlug": "ba509b-noi-that-gia-inh-ba509b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BA509BK8",
+      "routeSlug": "ba509bk8-noi-that-gia-inh-ba509bk8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT101A",
+      "routeSlug": "bbt101a-ban-bbt101a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT101AG",
+      "routeSlug": "bbt101ag-ban-ban-tru-bbt101ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT101B",
+      "routeSlug": "bbt101b-noi-that-truong-hoc-bbt101b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT101BG",
+      "routeSlug": "bbt101bg-noi-that-truong-hoc-bbt101bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT101C",
+      "routeSlug": "bbt101c-ban-bbt101c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT101CG",
+      "routeSlug": "bbt101cg-noi-that-truong-hoc-bbt101cg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT102A",
+      "routeSlug": "bbt102a-ban-bbt102a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT102AG",
+      "routeSlug": "bbt102ag-ban-ban-tru-bbt102ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT102B",
+      "routeSlug": "bbt102b-noi-that-truong-hoc-bbt102b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT102BG",
+      "routeSlug": "bbt102bg-noi-that-truong-hoc-bbt102bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT102C",
+      "routeSlug": "bbt102c-ban-bbt102c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT102CG",
+      "routeSlug": "bbt102cg-noi-that-truong-hoc-bbt102cg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-3",
+      "routeSlug": "bbt103-3-ban-bbt103-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-3G",
+      "routeSlug": "bbt103-3g-ban-ghe-ban-tru-bbt103-3g-gbt103-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-4",
+      "routeSlug": "bbt103-4-noi-that-truong-hoc-bbt103-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-4G",
+      "routeSlug": "bbt103-4g-noi-that-truong-hoc-bbt103-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-5",
+      "routeSlug": "bbt103-5-noi-that-truong-hoc-bbt103-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-5G",
+      "routeSlug": "bbt103-5g-noi-that-truong-hoc-bbt103-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-6",
+      "routeSlug": "bbt103-6-noi-that-truong-hoc-bbt103-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103-6G",
+      "routeSlug": "bbt103-6g-noi-that-truong-hoc-bbt103-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP3",
+      "routeSlug": "bbt103hp3-ban-ghe-ban-tru-bbt103hp3-gbt103hp3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP3G",
+      "routeSlug": "bbt103hp3g-ban-ghe-ban-tru-bbt103hp3g-gbt103hp3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP4",
+      "routeSlug": "bbt103hp4-noi-that-truong-hoc-bbt103hp4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP4G",
+      "routeSlug": "bbt103hp4g-noi-that-truong-hoc-bbt103hp4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP5",
+      "routeSlug": "bbt103hp5-noi-that-truong-hoc-bbt103hp5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP5G",
+      "routeSlug": "bbt103hp5g-noi-that-truong-hoc-bbt103hp5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP6",
+      "routeSlug": "bbt103hp6-noi-that-truong-hoc-bbt103hp6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT103HP6G",
+      "routeSlug": "bbt103hp6g-noi-that-truong-hoc-bbt103hp6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT104AG",
+      "routeSlug": "bbt104ag-bo-ban-ghe-bbt104ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT104BG",
+      "routeSlug": "bbt104bg-noi-that-truong-hoc-bbt104bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT104CG",
+      "routeSlug": "bbt104cg-noi-that-truong-hoc-bbt104cg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT105AG",
+      "routeSlug": "bbt105ag-bo-ban-ghe-bbt105ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT105BG",
+      "routeSlug": "bbt105bg-noi-that-truong-hoc-bbt105bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BBT105CG",
+      "routeSlug": "bbt105cg-noi-that-truong-hoc-bbt105cg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCF102T",
+      "routeSlug": "bcf102t-ban-cafe-bcf102t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCF105",
+      "routeSlug": "bcf105-ban-cafe-bcf105",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCF106T",
+      "routeSlug": "bcf106t-ban-cafe-bcf106t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCF107T",
+      "routeSlug": "bcf107t-ban-cafe-bcf107t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCF109",
+      "routeSlug": "bcf109-ban-cafe-bcf109",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCF201",
+      "routeSlug": "bcf201-ban-ghe-cafe-bcf201-gcf201",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN712",
+      "routeSlug": "bcn712-ban-an-cong-nghiep-bcn712",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN712A",
+      "routeSlug": "bcn712a-ban-inox-chu-nhat-bcn712a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN712AG",
+      "routeSlug": "bcn712ag-ban-gap-inox-chu-nhat-bcn712ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN712B",
+      "routeSlug": "bcn712b-ban-an-cong-nghiep-bcn712b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN712BC",
+      "routeSlug": "bcn712bc-ban-an-inox-bcn712bc",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN712BG",
+      "routeSlug": "bcn712bg-ban-gap-inox-bcn712bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN813B",
+      "routeSlug": "bcn813b-ban-gap-inox-chu-nhat-bcn813b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BCN813BG",
+      "routeSlug": "bcn813bg-ban-gap-inox-bcn813bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BF51",
+      "routeSlug": "bf51-khay-ban-phim-bf51",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG01",
+      "routeSlug": "bg01-ban-gap-bg01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG05",
+      "routeSlug": "bg05-ban-gap-bg05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG05-512",
+      "routeSlug": "bg05-512-ban-gap-khung-thep-bg05-512",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG05-514",
+      "routeSlug": "bg05-514-ban-an-cong-nghiep-bg05-514",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG05-516",
+      "routeSlug": "bg05-516-ban-an-cong-nghiep-bg05-516",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG05-518",
+      "routeSlug": "bg05-518-ban-an-cong-nghiep-bg05-518",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG05-712",
+      "routeSlug": "bg05-712-ban-an-cong-nghiep-bg05-712",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG06",
+      "routeSlug": "bg06-ban-gap-bg06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG06-512",
+      "routeSlug": "bg06-512-ban-gap-khung-thep-bg06-512",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG06-514",
+      "routeSlug": "bg06-514-ban-gap-chan-sat-bg06-514",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG06-516",
+      "routeSlug": "bg06-516-ban-gap-chan-sat-bg06-516",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG06-518",
+      "routeSlug": "bg06-518-ban-gap-chan-sat-bg06-518",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG06-712",
+      "routeSlug": "bg06-712-ban-an-cong-nghiep-bg06-712",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG06K16",
+      "routeSlug": "bg06k16-ban-gap-bg06k16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG07",
+      "routeSlug": "bg07-ban-gap-bg07",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BG203",
+      "routeSlug": "bg203-ban-bg203",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BGV101",
+      "routeSlug": "bgv101-ban-ghe-giao-vien-bgv101-ggv101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BGV101G",
+      "routeSlug": "bgv101g-ban-ghe-giao-vien-bgv101g-ggv101g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BGV103",
+      "routeSlug": "bgv103-ban-ghe-giao-vien-bgv103-ggv103",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BGV103G",
+      "routeSlug": "bgv103g-ban-ghe-giao-vien-bgv103g-ggv103g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BH101",
+      "routeSlug": "bh101-ban-phong-hoc-tieng-anh-bh101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHE01",
+      "routeSlug": "bhe01-noi-that-gia-inh-bhe01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHE02",
+      "routeSlug": "bhe02-noi-that-gia-inh-bhe02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHE301",
+      "routeSlug": "bhe301-noi-that-gia-inh-bhe301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS03-1",
+      "routeSlug": "bhs03-1-ban-ghe-hoc-sinh-bhs03-1-ghs03-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS09-1",
+      "routeSlug": "bhs09-1-ban-bhs09-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS101A",
+      "routeSlug": "bhs101a-ban-ghe-hoc-sinh-bhs101a-ghs101a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS101AG",
+      "routeSlug": "bhs101ag-ban-ghe-hoc-sinh-bhs101ag-ghs101ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS101B",
+      "routeSlug": "bhs101b-bo-ban-ghe-bhs101b-ghs101b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS102A",
+      "routeSlug": "bhs102a-ban-ghe-hoc-sinh-bhs102a-ghs102a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS102AG",
+      "routeSlug": "bhs102ag-ban-ghe-hoc-sinh-bhs102ag-ghs102ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS102B",
+      "routeSlug": "bhs102b-bo-ban-ghe-bhs102b-ghs102b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS103A",
+      "routeSlug": "bhs103a-ban-bhs103a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS103B",
+      "routeSlug": "bhs103b-noi-that-truong-hoc-bhs103b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS103C",
+      "routeSlug": "bhs103c-ban-hoc-sinh-bhs103c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS104A",
+      "routeSlug": "bhs104a-ban-bhs104a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS104B",
+      "routeSlug": "bhs104b-noi-that-truong-hoc-bhs104b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS104C",
+      "routeSlug": "bhs104c-ban-bhs104c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106-3",
+      "routeSlug": "bhs106-3-ban-bhs106-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106-4",
+      "routeSlug": "bhs106-4-noi-that-truong-hoc-bhs106-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106-5",
+      "routeSlug": "bhs106-5-noi-that-truong-hoc-bhs106-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106-6",
+      "routeSlug": "bhs106-6-noi-that-truong-hoc-bhs106-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106HP3",
+      "routeSlug": "bhs106hp3-ban-ghe-hoc-sinh-bhs106hp3-ghs106hp3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106HP4",
+      "routeSlug": "bhs106hp4-noi-that-truong-hoc-bhs106hp4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106HP5",
+      "routeSlug": "bhs106hp5-noi-that-truong-hoc-bhs106hp5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106HP6",
+      "routeSlug": "bhs106hp6-noi-that-truong-hoc-bhs106hp6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS106HP7",
+      "routeSlug": "bhs106hp7-noi-that-truong-hoc-bhs106hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-3",
+      "routeSlug": "bhs107-3-ban-bhs107-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-3G",
+      "routeSlug": "bhs107-3g-ban-ghe-hoc-sinh-bhs107-3g-ghs107-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-4",
+      "routeSlug": "bhs107-4-noi-that-truong-hoc-bhs107-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-4G",
+      "routeSlug": "bhs107-4g-noi-that-truong-hoc-bhs107-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-5",
+      "routeSlug": "bhs107-5-noi-that-truong-hoc-bhs107-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-5G",
+      "routeSlug": "bhs107-5g-noi-that-truong-hoc-bhs107-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-6",
+      "routeSlug": "bhs107-6-noi-that-truong-hoc-bhs107-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107-6G",
+      "routeSlug": "bhs107-6g-noi-that-truong-hoc-bhs107-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP3",
+      "routeSlug": "bhs107hp3-ban-ghe-hoc-sinh-bhs107hp3-ghs107-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP3G",
+      "routeSlug": "bhs107hp3g-ban-ghe-hoc-sinh-bhs107hp3g-ghs107-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP4",
+      "routeSlug": "bhs107hp4-noi-that-truong-hoc-bhs107hp4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP4G",
+      "routeSlug": "bhs107hp4g-noi-that-truong-hoc-bhs107hp4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP5",
+      "routeSlug": "bhs107hp5-noi-that-truong-hoc-bhs107hp5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP5G",
+      "routeSlug": "bhs107hp5g-noi-that-truong-hoc-bhs107hp5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP6",
+      "routeSlug": "bhs107hp6-noi-that-truong-hoc-bhs107hp6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP6G",
+      "routeSlug": "bhs107hp6g-noi-that-truong-hoc-bhs107hp6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP7",
+      "routeSlug": "bhs107hp7-noi-that-truong-hoc-bhs107hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS107HP7G",
+      "routeSlug": "bhs107hp7g-noi-that-truong-hoc-bhs107hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-3",
+      "routeSlug": "bhs108-3-ban-bhs108-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-3G",
+      "routeSlug": "bhs108-3g-ban-ghe-hoc-sinh-bhs108-3g-ghs108-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-4",
+      "routeSlug": "bhs108-4-noi-that-truong-hoc-bhs108-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-4G",
+      "routeSlug": "bhs108-4g-noi-that-truong-hoc-bhs108-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-5",
+      "routeSlug": "bhs108-5-noi-that-truong-hoc-bhs108-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-5G",
+      "routeSlug": "bhs108-5g-noi-that-truong-hoc-bhs108-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-6",
+      "routeSlug": "bhs108-6-noi-that-truong-hoc-bhs108-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108-6G",
+      "routeSlug": "bhs108-6g-noi-that-truong-hoc-bhs108-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP3",
+      "routeSlug": "bhs108hp3-ban-ghe-hoc-sinh-bhs108hp3-ghs108-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP3G",
+      "routeSlug": "bhs108hp3g-ban-ghe-hoc-sinh-bhs108hp3g-ghs108hp3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP4",
+      "routeSlug": "bhs108hp4-noi-that-truong-hoc-bhs108hp4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP4G",
+      "routeSlug": "bhs108hp4g-noi-that-truong-hoc-bhs108hp4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP5",
+      "routeSlug": "bhs108hp5-noi-that-truong-hoc-bhs108hp5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP5G",
+      "routeSlug": "bhs108hp5g-noi-that-truong-hoc-bhs108hp5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP6",
+      "routeSlug": "bhs108hp6-noi-that-truong-hoc-bhs108hp6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP6G",
+      "routeSlug": "bhs108hp6g-noi-that-truong-hoc-bhs108hp6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP7",
+      "routeSlug": "bhs108hp7-noi-that-truong-hoc-bhs108hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS108HP7G",
+      "routeSlug": "bhs108hp7g-noi-that-truong-hoc-bhs108hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-3",
+      "routeSlug": "bhs109-3-ban-bhs109-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-3G",
+      "routeSlug": "bhs109-3g-ban-ghe-hoc-sinh-bhs109-3g-ghs109-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-4",
+      "routeSlug": "bhs109-4-noi-that-truong-hoc-bhs109-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-4G",
+      "routeSlug": "bhs109-4g-bo-ban-ghe-bhs109-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-5",
+      "routeSlug": "bhs109-5-noi-that-truong-hoc-bhs109-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-5G",
+      "routeSlug": "bhs109-5g-noi-that-truong-hoc-bhs109-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-6",
+      "routeSlug": "bhs109-6-noi-that-truong-hoc-bhs109-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109-6G",
+      "routeSlug": "bhs109-6g-noi-that-truong-hoc-bhs109-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP3",
+      "routeSlug": "bhs109hp3-ban-ghe-hoc-sinh-bhs109hp3-ghs109-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP3G",
+      "routeSlug": "bhs109hp3g-ban-ghe-hoc-sinh-bhs109hp3g-ghs109hp3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP4",
+      "routeSlug": "bhs109hp4-noi-that-truong-hoc-bhs109hp4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP4G",
+      "routeSlug": "bhs109hp4g-noi-that-truong-hoc-bhs109hp4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP5",
+      "routeSlug": "bhs109hp5-noi-that-truong-hoc-bhs109hp5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP5G",
+      "routeSlug": "bhs109hp5g-noi-that-truong-hoc-bhs109hp5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP6",
+      "routeSlug": "bhs109hp6-noi-that-truong-hoc-bhs109hp6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP6G",
+      "routeSlug": "bhs109hp6g-noi-that-truong-hoc-bhs109hp6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP7",
+      "routeSlug": "bhs109hp7-noi-that-truong-hoc-bhs109hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS109HP7G",
+      "routeSlug": "bhs109hp7g-noi-that-truong-hoc-bhs109hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-3",
+      "routeSlug": "bhs110-3-ban-bhs110-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-3G",
+      "routeSlug": "bhs110-3g-ban-ghe-hoc-sinh-bhs110-3g-ghs110-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-4",
+      "routeSlug": "bhs110-4-noi-that-truong-hoc-bhs110-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-4G",
+      "routeSlug": "bhs110-4g-noi-that-truong-hoc-bhs110-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-5",
+      "routeSlug": "bhs110-5-noi-that-truong-hoc-bhs110-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-5G",
+      "routeSlug": "bhs110-5g-noi-that-truong-hoc-bhs110-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-6",
+      "routeSlug": "bhs110-6-noi-that-truong-hoc-bhs110-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110-6G",
+      "routeSlug": "bhs110-6g-noi-that-truong-hoc-bhs110-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP3",
+      "routeSlug": "bhs110hp3-ban-ghe-hoc-sinh-bhs110hp3-ghs110hp3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP3G",
+      "routeSlug": "bhs110hp3g-ban-ghe-hoc-sinh-bhs110hp3g-ghs110hp3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP4",
+      "routeSlug": "bhs110hp4-noi-that-truong-hoc-bhs110hp4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP4G",
+      "routeSlug": "bhs110hp4g-noi-that-truong-hoc-bhs110hp4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP5",
+      "routeSlug": "bhs110hp5-noi-that-truong-hoc-bhs110hp5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP5G",
+      "routeSlug": "bhs110hp5g-noi-that-truong-hoc-bhs110hp5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP6",
+      "routeSlug": "bhs110hp6-noi-that-truong-hoc-bhs110hp6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP6G",
+      "routeSlug": "bhs110hp6g-bo-ban-ghe-bhs110hp6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP7",
+      "routeSlug": "bhs110hp7-noi-that-truong-hoc-bhs110hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS110HP7G",
+      "routeSlug": "bhs110hp7g-noi-that-truong-hoc-bhs110hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS111-4G",
+      "routeSlug": "bhs111-4g-ban-hoc-sinh-bhs111-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS111-5G",
+      "routeSlug": "bhs111-5g-noi-that-truong-hoc-bhs111-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS111-6G",
+      "routeSlug": "bhs111-6g-noi-that-truong-hoc-bhs111-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS111-7G",
+      "routeSlug": "bhs111-7g-noi-that-truong-hoc-bhs111-7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS112-4G",
+      "routeSlug": "bhs112-4g-ban-hoc-sinh-bhs112-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS112-5G",
+      "routeSlug": "bhs112-5g-noi-that-truong-hoc-bhs112-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS112-6G",
+      "routeSlug": "bhs112-6g-noi-that-truong-hoc-bhs112-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS112-7G",
+      "routeSlug": "bhs112-7g-noi-that-truong-hoc-bhs112-7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS115-4G",
+      "routeSlug": "bhs115-4g-bo-ban-ghe-bhs115-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS115-5G",
+      "routeSlug": "bhs115-5g-noi-that-truong-hoc-bhs115-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS115-6G",
+      "routeSlug": "bhs115-6g-noi-that-truong-hoc-bhs115-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS115-7G",
+      "routeSlug": "bhs115-7g-noi-that-truong-hoc-bhs115-7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS116-4G",
+      "routeSlug": "bhs116-4g-bo-ban-ghe-bhs116-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS116-5G",
+      "routeSlug": "bhs116-5g-noi-that-truong-hoc-bhs116-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS116-6G",
+      "routeSlug": "bhs116-6g-noi-that-truong-hoc-bhs116-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS116-7G",
+      "routeSlug": "bhs116-7g-noi-that-truong-hoc-bhs116-7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS117",
+      "routeSlug": "bhs117-ban-hoc-sinh-bhs117",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS118",
+      "routeSlug": "bhs118-ban-hoc-sinh-bhs118",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS119",
+      "routeSlug": "bhs119-ban-hoc-sinh-cap-1-2-bhs119",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS119G",
+      "routeSlug": "bhs119g-ban-hoc-sinh-cap-1-2-bhs119g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS20-1",
+      "routeSlug": "bhs20-1-ban-ghe-hoc-sinh-bhs20-1-ghs20-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS20-2",
+      "routeSlug": "bhs20-2-ban-hoc-cho-be-bhs20-2-ghs20-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS20-3",
+      "routeSlug": "bhs20-3-ban-hoc-cho-be-bhs20-3-ghs20-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS20-4",
+      "routeSlug": "bhs20-4-ban-hoc-cho-be-bhs20-4-ghs20-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS20C-3",
+      "routeSlug": "bhs20c-3-ban-ghe-hoc-sinh-bhs20c-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS25",
+      "routeSlug": "bhs25-bo-ban-ghe-hoc-sinh-bhs25-ghs25",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS25G",
+      "routeSlug": "bhs25g-bo-ban-ghe-hoc-sinh-bhs25g-ghs25g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS26",
+      "routeSlug": "bhs26-ban-hoc-sinh-bhs26",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS28-1",
+      "routeSlug": "bhs28-1-ban-hoc-cho-be-bhs28-1-ghs28-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS28-2",
+      "routeSlug": "bhs28-2-ban-hoc-cho-be-bhs28-2-ghs28-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS28-3",
+      "routeSlug": "bhs28-3-ban-hoc-cho-be-bhs28-3-ghs28",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS28B-3",
+      "routeSlug": "bhs28b-3-ban-hoc-cho-be-bhs28b-3-ghs28b-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS28C-3",
+      "routeSlug": "bhs28c-3-ban-hoc-cho-be-bhs28c-3-ghs28c-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29A-1",
+      "routeSlug": "bhs29a-1-bo-ban-ghe-bhs29a-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29A-2",
+      "routeSlug": "bhs29a-2-bo-ban-ghe-bhs29a-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29A-3",
+      "routeSlug": "bhs29a-3-bo-ban-ghe-bhs29a-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29B-1",
+      "routeSlug": "bhs29b-1-bo-ban-ghe-bhs29b-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29B-2",
+      "routeSlug": "bhs29b-2-bo-ban-ghe-bhs29b-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29B-3",
+      "routeSlug": "bhs29b-3-bo-ban-ghe-bhs29b-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29B-4",
+      "routeSlug": "bhs29b-4-ban-ghe-hoc-sinh-bhs29b-4-ghs29",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS29C-3",
+      "routeSlug": "bhs29c-3-bo-ban-ghe-bhs29c-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS30",
+      "routeSlug": "bhs30-ban-hoc-sinh-bhs30",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS302",
+      "routeSlug": "bhs302-ban-hoc-sinh-bhs302",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS40",
+      "routeSlug": "bhs40-ban-ghe-hoc-sinh-bhs40",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS401",
+      "routeSlug": "bhs401-ban-hoc-sinh-bhs401",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS402",
+      "routeSlug": "bhs402-ban-hoc-sinh-bhs402",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS403",
+      "routeSlug": "bhs403-ban-hoc-sinh-bhs403",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS404",
+      "routeSlug": "bhs404-ban-hoc-sinh-lien-gia-sach-bhs404",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS405",
+      "routeSlug": "bhs405-ban-hoc-sinh-lien-gia-sach-bhs405",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS40G",
+      "routeSlug": "bhs40g-ban-ghe-hoc-sinh-bhs40g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS41A",
+      "routeSlug": "bhs41a-ban-ghe-hoc-sinh-bhs41a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS41AG",
+      "routeSlug": "bhs41ag-ban-ghe-hoc-sinh-bhs41ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS41B",
+      "routeSlug": "bhs41b-ban-ghe-hoc-sinh-bhs41b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS41BG",
+      "routeSlug": "bhs41bg-ban-ghe-hoc-sinh-bhs41bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-4",
+      "routeSlug": "bhs43-4-ban-hoc-sinh-bhs43-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-4G",
+      "routeSlug": "bhs43-4g-ban-hoc-sinh-bhs43-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-5",
+      "routeSlug": "bhs43-5-noi-that-truong-hoc-bhs43-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-5G",
+      "routeSlug": "bhs43-5g-noi-that-truong-hoc-bhs43-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-6",
+      "routeSlug": "bhs43-6-noi-that-truong-hoc-bhs43-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-6G",
+      "routeSlug": "bhs43-6g-noi-that-truong-hoc-bhs43-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-7",
+      "routeSlug": "bhs43-7-noi-that-truong-hoc-bhs43-7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS43-7G",
+      "routeSlug": "bhs43-7g-noi-that-truong-hoc-bhs43-7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-4",
+      "routeSlug": "bhs44-4-ban-hoc-sinh-bhs44-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-4G",
+      "routeSlug": "bhs44-4g-ban-hoc-sinh-bhs44-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-5",
+      "routeSlug": "bhs44-5-noi-that-truong-hoc-bhs44-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-5G",
+      "routeSlug": "bhs44-5g-noi-that-truong-hoc-bhs44-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-6",
+      "routeSlug": "bhs44-6-noi-that-truong-hoc-bhs44-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-6G",
+      "routeSlug": "bhs44-6g-noi-that-truong-hoc-bhs44-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-7",
+      "routeSlug": "bhs44-7-noi-that-truong-hoc-bhs44-7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS44-7G",
+      "routeSlug": "bhs44-7g-noi-that-truong-hoc-bhs44-7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS501-3",
+      "routeSlug": "bhs501-3-bo-ban-ghe-bhs501-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS501-4",
+      "routeSlug": "bhs501-4-noi-that-truong-hoc-bhs501-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHS501-5",
+      "routeSlug": "bhs501-5-noi-that-truong-hoc-bhs501-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT01",
+      "routeSlug": "bht01-ban-gap-gon-bht01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT02-12",
+      "routeSlug": "bht02-12-ban-gap-khung-thep-bht02-12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT02-14",
+      "routeSlug": "bht02-14-san-pham-cong-trinh-bht02-14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT04",
+      "routeSlug": "bht04-ban-hoi-truong-bht04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DH1",
+      "routeSlug": "bht12dh1-ban-hoi-truong-bht12dh1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DH2",
+      "routeSlug": "bht12dh2-ban-hoi-truong-bht12dh2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DH2V",
+      "routeSlug": "bht12dh2v-ban-hoi-truong-bht12dh2v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DH3",
+      "routeSlug": "bht12dh3-ban-hoi-truong-bht12dh3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DH4",
+      "routeSlug": "bht12dh4-ban-hoi-truong-bht12dh4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DH4V",
+      "routeSlug": "bht12dh4v-ban-hoi-truong-bht12dh4v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DV1",
+      "routeSlug": "bht12dv1-ban-hoi-truong-bht12dv1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12DV2",
+      "routeSlug": "bht12dv2-ban-hoi-truong-bht12dv2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12LH2",
+      "routeSlug": "bht12lh2-ban-hoi-truong-bht12lh2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT12LH2V",
+      "routeSlug": "bht12lh2v-ban-hoi-truong-bht12lh2v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT15DH2",
+      "routeSlug": "bht15dh2-ban-hoi-truong-bht15dh2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT15DH2V",
+      "routeSlug": "bht15dh2v-ban-hoi-truong-bht15dh2v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT15DH4",
+      "routeSlug": "bht15dh4-ban-hoi-truong-bht15dh4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT15DH4V",
+      "routeSlug": "bht15dh4v-ban-hoi-truong-bht15dh4v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT15LH2",
+      "routeSlug": "bht15lh2-ban-hoi-truong-bht15lh2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT15LH2V",
+      "routeSlug": "bht15lh2v-ban-hoi-truong-bht15lh2v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BHT512",
+      "routeSlug": "bht512-ban-gap-gon-bht512",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BK610",
+      "routeSlug": "bk610-ban-an-inox-bk610",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BK712",
+      "routeSlug": "bk712-ban-an-inox-bk712",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKB01",
+      "routeSlug": "bkb01-ban-kham-benh-bkb01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKB02",
+      "routeSlug": "bkb02-ban-kham-benh-bkb02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKB03I",
+      "routeSlug": "bkb03i-ban-kham-benh-bkb03i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKS01",
+      "routeSlug": "bks01-ban-ghe-khach-san-bks01-gks01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKS02",
+      "routeSlug": "bks02-ban-ghe-khach-san-bks02-gks02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKS04",
+      "routeSlug": "bks04-ban-ghe-khach-san-bks04-gks04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKS05",
+      "routeSlug": "bks05-ban-ghe-khach-san-bks05-gks05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKS06",
+      "routeSlug": "bks06-ban-ghe-khach-san-bks06-gks06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKS07",
+      "routeSlug": "bks07-ban-ghe-khach-san-bks07-gks07",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BKSID16",
+      "routeSlug": "bksid16-ban-kham-san-bksid16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BM101",
+      "routeSlug": "bm101-ban-may-tinh-bm101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG101A-1",
+      "routeSlug": "bmg101a-1-ban-gap-bmg101a-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG101A-2",
+      "routeSlug": "bmg101a-2-noi-that-truong-hoc-bmg101a-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG101AN",
+      "routeSlug": "bmg101an-ban-mau-giao-bmg101an",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG101B-1",
+      "routeSlug": "bmg101b-1-noi-that-truong-hoc-bmg101b-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG101B-2",
+      "routeSlug": "bmg101b-2-noi-that-truong-hoc-bmg101b-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG101BN",
+      "routeSlug": "bmg101bn-noi-that-truong-hoc-bmg101bn",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG102A-1",
+      "routeSlug": "bmg102a-1-ban-bmg102a-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG102A-2",
+      "routeSlug": "bmg102a-2-noi-that-truong-hoc-bmg102a-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG102B-1",
+      "routeSlug": "bmg102b-1-noi-that-truong-hoc-bmg102b-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG102B-2",
+      "routeSlug": "bmg102b-2-noi-that-truong-hoc-bmg102b-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG104A-1",
+      "routeSlug": "bmg104a-1-ban-gap-bmg104a-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG104A-2",
+      "routeSlug": "bmg104a-2-noi-that-truong-hoc-bmg104a-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG104A-4",
+      "routeSlug": "bmg104a-4-ban-ghe-mau-giao-bmg104a-4-gmg104a-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG104B-1",
+      "routeSlug": "bmg104b-1-ban-gap-bmg104b-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG104B-2",
+      "routeSlug": "bmg104b-2-noi-that-truong-hoc-bmg104b-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMG104B-4",
+      "routeSlug": "bmg104b-4-ban-ghe-mau-giao-bmg104b-4-gmg104b-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT01",
+      "routeSlug": "bmt01-ban-may-tinh-bmt01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT03",
+      "routeSlug": "bmt03-ban-lam-viec-gia-inh-bmt03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT04",
+      "routeSlug": "bmt04-ban-bmt04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT05",
+      "routeSlug": "bmt05-ban-may-tinh-bmt05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT11",
+      "routeSlug": "bmt11-ban-may-tinh-bmt11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT136",
+      "routeSlug": "bmt136-ban-may-tinh-bmt136",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT30",
+      "routeSlug": "bmt30-ban-may-tinh-bmt30",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT31",
+      "routeSlug": "bmt31-ban-lam-viec-gia-inh-bmt31",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT46",
+      "routeSlug": "bmt46-ban-vi-tinh-bmt46",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT97A",
+      "routeSlug": "bmt97a-ban-vi-tinh-bmt97a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BMT97B",
+      "routeSlug": "bmt97b-ban-vi-tinh-bmt97b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP301",
+      "routeSlug": "bp301-noi-that-gia-inh-bp301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP302",
+      "routeSlug": "bp302-noi-that-gia-inh-bp302",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP303",
+      "routeSlug": "bp303-noi-that-gia-inh-bp303",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP304",
+      "routeSlug": "bp304-noi-that-gia-inh-bp304",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP305",
+      "routeSlug": "bp305-noi-that-gia-inh-bp305",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP307",
+      "routeSlug": "bp307-noi-that-gia-inh-bp307",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP308",
+      "routeSlug": "bp308-noi-that-gia-inh-bp308",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP401",
+      "routeSlug": "bp401-noi-that-gia-inh-bp401",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BP402",
+      "routeSlug": "bp402-noi-that-gia-inh-bp402",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ101-18",
+      "routeSlug": "bq101-18-ban-bq101-18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ101-20",
+      "routeSlug": "bq101-20-san-pham-cong-trinh-bq101-20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ101-22",
+      "routeSlug": "bq101-22-san-pham-cong-trinh-bq101-22",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ102-22",
+      "routeSlug": "bq102-22-ban-bq102-22",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ103-18",
+      "routeSlug": "bq103-18-ban-quay-le-tan-bq103-18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ104-18",
+      "routeSlug": "bq104-18-ban-bq104-18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ104-20",
+      "routeSlug": "bq104-20-san-pham-cong-trinh-bq104-20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BQ104-22",
+      "routeSlug": "bq104-22-san-pham-cong-trinh-bq104-22",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1000-2T2",
+      "routeSlug": "bri1000-2t2-tu-tai-lieu-thap-bri1000-2t2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1000-3T2",
+      "routeSlug": "bri1000-3t2-tu-ho-so-thap-bri1000-3t2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI120C15",
+      "routeSlug": "bri120c15-ban-lam-viec-bri120c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI120HLC15",
+      "routeSlug": "bri120hlc15-ban-lam-viec-bri120hlc15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI120SC15",
+      "routeSlug": "bri120sc15-ban-lam-viec-1m2-bri120sc15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI120SHLC15",
+      "routeSlug": "bri120shlc15-ban-lam-viec-1m2-bri120shlc15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1260-2B",
+      "routeSlug": "bri1260-2b-tu-tai-lieu-thap-bri1260-2b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1260-3B",
+      "routeSlug": "bri1260-3b-tu-tai-lieu-thap-bri1260-3b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1280",
+      "routeSlug": "bri1280-tu-tai-lieu-thap-bri1280",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI140C15",
+      "routeSlug": "bri140c15-ban-chan-sat-bri140c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI140HLC15",
+      "routeSlug": "bri140hlc15-ban-chan-sat-1m4-bri140hlc15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI140SC15",
+      "routeSlug": "bri140sc15-ban-lam-viec-1m4-bri140sc15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI140SHLC15",
+      "routeSlug": "bri140shlc15-ban-lam-viec-1m4-bri140shlc15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI160C15",
+      "routeSlug": "bri160c15-ban-chan-sat-1m6-bri160c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1960-3B",
+      "routeSlug": "bri1960-3b-tu-tai-lieu-bri1960-3b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1960-3BK",
+      "routeSlug": "bri1960-3bk-tu-tai-lieu-3-buong-bri1960-3bk",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI1960KG",
+      "routeSlug": "bri1960kg-tu-tai-lieu-bri1960kg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI880D",
+      "routeSlug": "bri880d-tu-tai-lieu-thap-bri880d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRI880SD",
+      "routeSlug": "bri880sd-tu-tai-lieu-thap-bri880sd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIBF01",
+      "routeSlug": "bribf01-ban-van-phong-bribf01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIC01",
+      "routeSlug": "bric01-ban-van-phong-bric01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIC02",
+      "routeSlug": "bric02-ban-van-phong-bric02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIH1810C15",
+      "routeSlug": "brih1810c15-ban-hop-chan-sat-brih1810c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIH2010C15",
+      "routeSlug": "brih2010c15-ban-hop-chan-sat-brih2010c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIH2412C15",
+      "routeSlug": "brih2412c15-ban-hop-chan-sat-brih2412c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIM3D",
+      "routeSlug": "brim3d-hoc-di-ong-brim3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIMD01-4C15",
+      "routeSlug": "brimd01-4c15-module-ban-lam-viec-brimd01-4c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIMD02-4C15",
+      "routeSlug": "brimd02-4c15-module-ban-lam-viec-4-cho-brimd02-4c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIMD03C15",
+      "routeSlug": "brimd03c15-module-ban-lam-viec-2-cho-brimd03c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIMD03C15KY",
+      "routeSlug": "brimd03c15ky-ban-van-phong-brimd03c15ky",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIP180C15",
+      "routeSlug": "brip180c15-ban-truong-phong-brip180c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BRIP1880C15",
+      "routeSlug": "brip1880c15-ban-lanh-ao-1m8-brip1880c15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSA01",
+      "routeSlug": "bsa01-ban-sieu-am-bsa01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF10",
+      "routeSlug": "bsf10-ban-sofa-cao-cap-bsf10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF11",
+      "routeSlug": "bsf11-ban-sofa-cao-cap-bsf11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF14",
+      "routeSlug": "bsf14-ban-sofa-cao-cap-bsf14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF15",
+      "routeSlug": "bsf15-ban-sofa-cao-cap-bsf15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF16",
+      "routeSlug": "bsf16-ban-sofa-cao-cap-bsf16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF16K8",
+      "routeSlug": "bsf16k8-ban-sofa-cao-cap-bsf16k8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF17",
+      "routeSlug": "bsf17-ban-sofa-cao-cap-bsf17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF18",
+      "routeSlug": "bsf18-ban-sofa-cao-cap-bsf18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF19",
+      "routeSlug": "bsf19-ban-sofa-cao-cap-bsf19",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF20",
+      "routeSlug": "bsf20-ban-sofa-cao-cap-bsf20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF21",
+      "routeSlug": "bsf21-ban-sofa-bsf21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF24N4",
+      "routeSlug": "bsf24n4-ban-sofa-bsf24n4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF301",
+      "routeSlug": "bsf301-ban-sofa-cao-cap-bsf301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF401-40",
+      "routeSlug": "bsf401-40-ban-sofa-bsf401-40",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF401-60",
+      "routeSlug": "bsf401-60-noi-that-gia-inh-bsf401-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF402-60",
+      "routeSlug": "bsf402-60-ban-sofa-bsf402-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF402-80",
+      "routeSlug": "bsf402-80-noi-that-gia-inh-bsf402-80",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF403",
+      "routeSlug": "bsf403-ban-sofa-khung-thep-bsf403",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF404",
+      "routeSlug": "bsf404-ban-sofa-cao-cap-bsf404",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF405MG46",
+      "routeSlug": "bsf405mg46-ban-sofa-cao-cap-bsf405mg46",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF405MK8",
+      "routeSlug": "bsf405mk8-ban-sofa-bsf405mk8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF406-40",
+      "routeSlug": "bsf406-40-ban-sofa-bsf406-40",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF406-60",
+      "routeSlug": "bsf406-60-ban-sofa-bsf406-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF407-60",
+      "routeSlug": "bsf407-60-ban-sofa-bsf407-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF407-80",
+      "routeSlug": "bsf407-80-ban-sofa-bsf407-80",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF408",
+      "routeSlug": "bsf408-ban-sofa-gia-inh-khung-thep-bsf408",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF409-60",
+      "routeSlug": "bsf409-60-ban-sofa-bsf409-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF409-80",
+      "routeSlug": "bsf409-80-noi-that-gia-inh-bsf409-80",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF410-60",
+      "routeSlug": "bsf410-60-ban-sofa-bsf410-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF410-80",
+      "routeSlug": "bsf410-80-noi-that-gia-inh-bsf410-80",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF411-40",
+      "routeSlug": "bsf411-40-ban-sofa-bsf411-40",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF411-60",
+      "routeSlug": "bsf411-60-ban-sofa-bsf411-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF412",
+      "routeSlug": "bsf412-ban-sofa-bsf412",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF47K10",
+      "routeSlug": "bsf47k10-ban-sofa-go-bsf47k10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF501N7",
+      "routeSlug": "bsf501n7-ban-sofa-cao-cap-bsf501n7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF502",
+      "routeSlug": "bsf502-ban-sofa-bsf502",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF503",
+      "routeSlug": "bsf503-ban-sofa-bsf503",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF505",
+      "routeSlug": "bsf505-ban-sofa-bsf505",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF508-60",
+      "routeSlug": "bsf508-60-ban-sofa-gia-inh-cao-cap-bsf508-60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF511",
+      "routeSlug": "bsf511-ban-sofa-bsf511",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF601",
+      "routeSlug": "bsf601-ban-sofa-khung-inox-bsf601",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF603I",
+      "routeSlug": "bsf603i-ban-sofa-khung-inox-bsf603i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF604I",
+      "routeSlug": "bsf604i-ban-sofa-khung-inox-bsf604i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF61V",
+      "routeSlug": "bsf61v-ban-sofa-bsf61v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF62V",
+      "routeSlug": "bsf62v-ban-sofa-bsf62v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF64V",
+      "routeSlug": "bsf64v-ban-sofa-bsf64v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF65",
+      "routeSlug": "bsf65-ban-sofa-bsf65",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF66",
+      "routeSlug": "bsf66-ban-sofa-bsf66",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF67V",
+      "routeSlug": "bsf67v-ban-sofa-bsf67v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF67VM",
+      "routeSlug": "bsf67vm-ban-sofa-bsf67vm",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF68",
+      "routeSlug": "bsf68-ban-sofa-hoa-phat-bsf68",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF78A",
+      "routeSlug": "bsf78a-ban-sofa-cao-cap-bsf78a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF78B",
+      "routeSlug": "bsf78b-ban-sofa-cao-cap-bsf78b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF79A",
+      "routeSlug": "bsf79a-ban-sofa-cao-cap-bsf79a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF79B",
+      "routeSlug": "bsf79b-ban-sofa-cao-cap-bsf79b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF80",
+      "routeSlug": "bsf80-ban-sofa-bsf80",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF81",
+      "routeSlug": "bsf81-ban-sofa-bsf81",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF85",
+      "routeSlug": "bsf85-ban-sofa-bsf85",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF86",
+      "routeSlug": "bsf86-ban-sofa-bsf86",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF87",
+      "routeSlug": "bsf87-ban-sofa-bsf87",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF90",
+      "routeSlug": "bsf90-ban-sofa-cao-cap-bsf90",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF91",
+      "routeSlug": "bsf91-ban-sofa-cao-cap-bsf91",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF92",
+      "routeSlug": "bsf92-ban-sofa-hoa-phat-bsf92",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF92B",
+      "routeSlug": "bsf92b-noi-that-gia-inh-bsf92b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF93",
+      "routeSlug": "bsf93-ban-sofa-cao-cap-bsf93",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF93B",
+      "routeSlug": "bsf93b-noi-that-gia-inh-bsf93b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF94",
+      "routeSlug": "bsf94-ban-sofa-cao-cap-bsf94",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF94B",
+      "routeSlug": "bsf94b-noi-that-gia-inh-bsf94b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSF98",
+      "routeSlug": "bsf98-ban-sofa-cao-cap-bsf98",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSH101BG",
+      "routeSlug": "bsh101bg-noi-that-truong-hoc-bsh101bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSH102BG",
+      "routeSlug": "bsh102bg-noi-that-truong-hoc-bsh102bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV101",
+      "routeSlug": "bsv101-ban-sinh-vien-bsv101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV102",
+      "routeSlug": "bsv102-ban-ghe-sinh-vien-bsv102",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV102G",
+      "routeSlug": "bsv102g-ban-sinh-vien-bsv102g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV102T",
+      "routeSlug": "bsv102t-ban-ghe-sinh-vien-bsv102t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV102TG",
+      "routeSlug": "bsv102tg-ban-sinh-vien-bsv102tg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV103",
+      "routeSlug": "bsv103-ban-ghe-sinh-vien-bsv103",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV103T",
+      "routeSlug": "bsv103t-ban-ghe-sinh-vien-bsv103t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV104",
+      "routeSlug": "bsv104-ban-sinh-vien-bsv104",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV105",
+      "routeSlug": "bsv105-ban-sinh-vien-bsv105",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV105G",
+      "routeSlug": "bsv105g-ban-sinh-vien-bsv105g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV105T",
+      "routeSlug": "bsv105t-ban-ghe-sinh-vien-bsv105t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV105TG",
+      "routeSlug": "bsv105tg-ban-ghe-sinh-vien-bsv105tg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV107",
+      "routeSlug": "bsv107-ban-ghe-sinh-vien-bsv107",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV107G",
+      "routeSlug": "bsv107g-ban-sinh-vien-bsv107g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV107T",
+      "routeSlug": "bsv107t-ban-ghe-sinh-vien-bsv107t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV107TG",
+      "routeSlug": "bsv107tg-ban-ghe-sinh-vien-bsv107tg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV108",
+      "routeSlug": "bsv108-ban-ghe-sinh-vien-bsv108",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV108G",
+      "routeSlug": "bsv108g-ban-sinh-vien-bsv108g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV108T",
+      "routeSlug": "bsv108t-ban-ghe-sinh-vien-bsv108t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV108TG",
+      "routeSlug": "bsv108tg-ban-ghe-sinh-vien-bsv108tg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BSV240",
+      "routeSlug": "bsv240-ban-ghe-sinh-vien-bsv240",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT100",
+      "routeSlug": "bt100-ban-gap-inox-bt100",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT1150",
+      "routeSlug": "bt1150-ban-gap-inox-tron-bt1150",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT1150B",
+      "routeSlug": "bt1150b-ban-gap-inox-bt1150b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT120",
+      "routeSlug": "bt120-ban-gap-inox-bt120",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT120B",
+      "routeSlug": "bt120b-ban-gap-inox-bt120b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT202A",
+      "routeSlug": "bt202a-ban-sofa-bt202a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT203",
+      "routeSlug": "bt203-ban-sofa-bt203",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BT950",
+      "routeSlug": "bt950-ban-inox-tron-bt950",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BTN101",
+      "routeSlug": "btn101-ban-ghe-thi-nghiem-btn101-gtn101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BTN102",
+      "routeSlug": "btn102-ban-ghe-thi-nghiem-btn102-gtn102",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BTNHS01",
+      "routeSlug": "btnhs01-ban-thi-nghiem-hoa-sinh-btnhs01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BTNHS02",
+      "routeSlug": "btnhs02-ban-thi-nghiem-hoa-sinh-btnhs02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BTV101",
+      "routeSlug": "btv101-ban-oc-thu-vien-btv101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "BTYT01I",
+      "routeSlug": "btyt01i-ban-dung-cu-btyt01i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "C-88",
+      "routeSlug": "c-88-ghe-da-giam-oc-c-88",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "C01",
+      "routeSlug": "c01-ke-e-cpu-c01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CBN01",
+      "routeSlug": "cbn01-noi-that-y-te-cbn01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CL01",
+      "routeSlug": "cl01-cau-la-quan-ao-cl01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CL02",
+      "routeSlug": "cl02-cau-la-quan-ao-cl02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CONG_CU",
+      "routeSlug": "cong-cu-tu-cong-cu",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CPE01",
+      "routeSlug": "cpe01-noi-that-gia-inh-cpe01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT01",
+      "routeSlug": "ct01-coc-truyen-y-te-ct01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2010H2",
+      "routeSlug": "ct2010h2-ban-hop-cao-cap-ct2010h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2010H5",
+      "routeSlug": "ct2010h5-ban-hop-cao-cap-ct2010h5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2010H5CN",
+      "routeSlug": "ct2010h5cn-ban-hop-cao-cap-ct2010h5cn",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2010H6",
+      "routeSlug": "ct2010h6-ban-hop-cao-cap-ct2010h6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2010H7",
+      "routeSlug": "ct2010h7-ban-hop-cao-cap-ct2010h7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2412H2",
+      "routeSlug": "ct2412h2-ban-hop-cao-cap-ct2412h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2412H5CN",
+      "routeSlug": "ct2412h5cn-ban-hop-cao-cap-ct2412h5cn",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2412H6",
+      "routeSlug": "ct2412h6-ban-hop-ct2412h6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2412H7",
+      "routeSlug": "ct2412h7-ban-hop-cao-cap-ct2412h7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2412V1",
+      "routeSlug": "ct2412v1-ban-hop-go-cao-cap-ct2412v1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2412VM1",
+      "routeSlug": "ct2412vm1-ban-hop-cao-cap-ct2412vm1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT2600",
+      "routeSlug": "ct2600-ban-hop-tron-ct2600",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT3012H1",
+      "routeSlug": "ct3012h1-ban-hop-cao-cap-ct3012h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT3012H2",
+      "routeSlug": "ct3012h2-ban-hop-cao-cap-ct3012h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT4016H2",
+      "routeSlug": "ct4016h2-ban-hop-lon-ct4016h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT4016V19",
+      "routeSlug": "ct4016v19-ban-hop-cao-cap-ct4016v19",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT5016H1",
+      "routeSlug": "ct5016h1-ban-hop-lon-ct5016h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT5022H1R10",
+      "routeSlug": "ct5022h1r10-ban-hop-lon-ct5022h1r10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT5022H1R8",
+      "routeSlug": "ct5022h1r8-ban-hop-lon-ct5022h1r8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT5022H2R10",
+      "routeSlug": "ct5022h2r10-ban-hop-lon-ct5022h2r10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT5022H2R8",
+      "routeSlug": "ct5022h2r8-ban-hop-lon-ct5022h2r8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "CT5522H1",
+      "routeSlug": "ct5522h1-ban-hop-lon-ct5522h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "D003",
+      "routeSlug": "d003-ghe-da-giam-oc-thu-gian-d003",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1240H1",
+      "routeSlug": "dc1240h1-tu-giam-oc-dc1240h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1240V9",
+      "routeSlug": "dc1240v9-tu-giam-oc-dc1240v9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1240VM9",
+      "routeSlug": "dc1240vm9-tu-tai-lieu-dc1240vm9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1340H1",
+      "routeSlug": "dc1340h1-tu-giam-oc-dc1340h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1350H1",
+      "routeSlug": "dc1350h1-tu-giam-oc-dc1350h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1350H10",
+      "routeSlug": "dc1350h10-tu-giam-oc-dc1350h10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1350H11",
+      "routeSlug": "dc1350h11-tu-giam-oc-dc1350h11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1350V4",
+      "routeSlug": "dc1350v4-tu-giam-oc-dc1350v4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1350V9",
+      "routeSlug": "dc1350v9-tu-giam-oc-dc1350v9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1350VM4",
+      "routeSlug": "dc1350vm4-tu-tai-lieu-dc1350vm4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1350VM9",
+      "routeSlug": "dc1350vm9-tu-tai-lieu-dc1350vm9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1800H6",
+      "routeSlug": "dc1800h6-tu-giam-oc-dc1800h6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1840H1",
+      "routeSlug": "dc1840h1-tu-giam-oc-dc1840h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1840V5",
+      "routeSlug": "dc1840v5-tu-giam-oc-dc1840v5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1840VM5",
+      "routeSlug": "dc1840vm5-tu-tai-lieu-dc1840vm5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC1850H9",
+      "routeSlug": "dc1850h9-tu-giam-oc-dc1850h9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC2000H9",
+      "routeSlug": "dc2000h9-tu-giam-oc-dc2000h9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC2000V2",
+      "routeSlug": "dc2000v2-tu-giam-oc-dc2000v2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC2000VM2",
+      "routeSlug": "dc2000vm2-tu-tai-lieu-dc2000vm2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC2200H2",
+      "routeSlug": "dc2200h2-tu-giam-oc-dc2200h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC2448V6",
+      "routeSlug": "dc2448v6-tu-giam-oc-dc2448v6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC2448VM6",
+      "routeSlug": "dc2448vm6-tu-giam-oc-dc2448vm6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC3040VM20",
+      "routeSlug": "dc3040vm20-tu-giam-oc-dc3040vm20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC3242V8",
+      "routeSlug": "dc3242v8-tu-giam-oc-dc3242v8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC3242VM8",
+      "routeSlug": "dc3242vm8-tu-giam-oc-dc3242vm8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC3246V7",
+      "routeSlug": "dc3246v7-tu-giam-oc-dc3246v7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC3246VM7",
+      "routeSlug": "dc3246vm7-tu-giam-oc-dc3246vm7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC8040H1",
+      "routeSlug": "dc8040h1-tu-giam-oc-dc8040h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC8040H2",
+      "routeSlug": "dc8040h2-tu-giam-oc-dc8040h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC940H1",
+      "routeSlug": "dc940h1-tu-giam-oc-dc940h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC940H2",
+      "routeSlug": "dc940h2-tu-giam-oc-dc940h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC940H3",
+      "routeSlug": "dc940h3-tu-giam-oc-dc940h3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC940H5",
+      "routeSlug": "dc940h5-tu-giam-oc-dc940h5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC940V9",
+      "routeSlug": "dc940v9-tu-giam-oc-dc940v9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DC940VM9",
+      "routeSlug": "dc940vm9-tu-tai-lieu-dc940vm9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DGYT03",
+      "routeSlug": "dgyt03-giuong-dgyt03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DGYT04",
+      "routeSlug": "dgyt04-giuong-dgyt04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DGYT06",
+      "routeSlug": "dgyt06-giuong-dgyt06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DIEN_THOAI_50_NGAN",
+      "routeSlug": "dien-thoai-50-ngan-tu-ien-thoai-50-ngan",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DOTGTT15",
+      "routeSlug": "dotgtt15-gia-ke-sat-dotgtt15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DOTGTT20",
+      "routeSlug": "dotgtt20-gia-ke-sat-dotgtt20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT",
+      "routeSlug": "dt-ghe-chan-quy-dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H1",
+      "routeSlug": "dt1890h1-ban-giam-oc-dt1890h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H12",
+      "routeSlug": "dt1890h12-ban-giam-oc-dt1890h12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H14",
+      "routeSlug": "dt1890h14-ban-giam-oc-dt1890h14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H15",
+      "routeSlug": "dt1890h15-ban-giam-oc-dt1890h15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H16",
+      "routeSlug": "dt1890h16-ban-giam-oc-dt1890h16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H17",
+      "routeSlug": "dt1890h17-ban-giam-oc-dt1890h17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H2",
+      "routeSlug": "dt1890h2-ban-giam-oc-dt1890h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H24",
+      "routeSlug": "dt1890h24-ban-giam-oc-dt1890h24",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H25",
+      "routeSlug": "dt1890h25-ban-giam-oc-dt1890h25",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H26",
+      "routeSlug": "dt1890h26-ban-giam-oc-dt1890h26",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H27",
+      "routeSlug": "dt1890h27-ban-giam-oc-dt1890h27",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H3",
+      "routeSlug": "dt1890h3-ban-giam-oc-dt1890h3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H35",
+      "routeSlug": "dt1890h35-ban-giam-oc-dt1890h35",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H36",
+      "routeSlug": "dt1890h36-ban-giam-oc-dt1890h36",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H37",
+      "routeSlug": "dt1890h37-ban-giam-oc-dt1890h37",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H4",
+      "routeSlug": "dt1890h4-ban-giam-oc-dt1890h4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H43",
+      "routeSlug": "dt1890h43-ban-van-phong-dt1890h43",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890H5",
+      "routeSlug": "dt1890h5-ban-giam-oc-dt1890h5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890V12",
+      "routeSlug": "dt1890v12-ban-giam-oc-go-dt1890v12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890V14",
+      "routeSlug": "dt1890v14-ban-giam-oc-veneer-dt1890v14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890V15",
+      "routeSlug": "dt1890v15-ban-giam-oc-go-dt1890v15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890V16",
+      "routeSlug": "dt1890v16-ban-giam-oc-dt1890v16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890V2",
+      "routeSlug": "dt1890v2-ban-giam-oc-veneer-dt1890v2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890V4",
+      "routeSlug": "dt1890v4-ban-giam-oc-veneer-dt1890v4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890VM12",
+      "routeSlug": "dt1890vm12-ban-giam-oc-dt1890vm12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890VM14",
+      "routeSlug": "dt1890vm14-ban-giam-oc-dt1890vm14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890VM15",
+      "routeSlug": "dt1890vm15-ban-giam-oc-dt1890vm15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890VM16",
+      "routeSlug": "dt1890vm16-ban-giam-oc-dt1890vm16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890VM2",
+      "routeSlug": "dt1890vm2-ban-giam-oc-dt1890vm2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT1890VM4",
+      "routeSlug": "dt1890vm4-ban-giam-oc-veneer-dt1890vm4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H12",
+      "routeSlug": "dt2010h12-ban-van-phong-dt2010h12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H24",
+      "routeSlug": "dt2010h24-ban-giam-oc-dt2010h24",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H25",
+      "routeSlug": "dt2010h25-ban-giam-oc-dt2010h25",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H26",
+      "routeSlug": "dt2010h26-ban-giam-oc-dt2010h26",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H3",
+      "routeSlug": "dt2010h3-ban-giam-oc-dt2010h3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H35",
+      "routeSlug": "dt2010h35-ban-van-phong-dt2010h35",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H37",
+      "routeSlug": "dt2010h37-ban-van-phong-dt2010h37",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010H4",
+      "routeSlug": "dt2010h4-ban-giam-oc-dt2010h4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V12",
+      "routeSlug": "dt2010v12-ban-giam-oc-veneer-dt2010v12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V14",
+      "routeSlug": "dt2010v14-ban-giam-oc-dt2010v14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V15",
+      "routeSlug": "dt2010v15-ban-giam-oc-dt2010v15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V16",
+      "routeSlug": "dt2010v16-ban-giam-oc-dt2010v16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V17",
+      "routeSlug": "dt2010v17-ban-giam-oc-dt2010v17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V19",
+      "routeSlug": "dt2010v19-ban-giam-oc-dt2010v19",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V2",
+      "routeSlug": "dt2010v2-ban-giam-oc-dt2010v2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V21",
+      "routeSlug": "dt2010v21-ban-giam-oc-dt2010v21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V4",
+      "routeSlug": "dt2010v4-ban-van-phong-dt2010v4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010V5",
+      "routeSlug": "dt2010v5-ban-giam-oc-veneer-dt2010v5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM12",
+      "routeSlug": "dt2010vm12-ban-giam-oc-dt2010vm12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM14",
+      "routeSlug": "dt2010vm14-ban-giam-oc-dt2010vm14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM15",
+      "routeSlug": "dt2010vm15-ban-giam-oc-dt2010vm15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM16",
+      "routeSlug": "dt2010vm16-ban-giam-oc-dt2010vm16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM17",
+      "routeSlug": "dt2010vm17-ban-giam-oc-dt2010vm17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM19",
+      "routeSlug": "dt2010vm19-ban-giam-oc-dt2010vm19",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM2",
+      "routeSlug": "dt2010vm2-ban-giam-oc-dt2010vm2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM21",
+      "routeSlug": "dt2010vm21-ban-giam-oc-dt2010vm21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM4",
+      "routeSlug": "dt2010vm4-ban-giam-oc-veneer-dt2010vm4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2010VM5",
+      "routeSlug": "dt2010vm5-ban-giam-oc-veneer-dt2010vm5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V12",
+      "routeSlug": "dt2411v12-ban-giam-oc-go-dt2411v12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V15",
+      "routeSlug": "dt2411v15-ban-giam-oc-dt2411v15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V16",
+      "routeSlug": "dt2411v16-ban-giam-oc-dt2411v16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V17",
+      "routeSlug": "dt2411v17-ban-giam-oc-dt2411v17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V19",
+      "routeSlug": "dt2411v19-ban-giam-oc-dt2411v19",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V21",
+      "routeSlug": "dt2411v21-ban-van-phong-dt2411v21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V5",
+      "routeSlug": "dt2411v5-ban-van-phong-dt2411v5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411V6",
+      "routeSlug": "dt2411v6-ban-giam-oc-veneer-dt2411v6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM12",
+      "routeSlug": "dt2411vm12-ban-van-phong-dt2411vm12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM15",
+      "routeSlug": "dt2411vm15-ban-giam-oc-dt2411vm15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM16",
+      "routeSlug": "dt2411vm16-ban-giam-oc-dt2411vm16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM17",
+      "routeSlug": "dt2411vm17-ban-van-phong-dt2411vm17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM19",
+      "routeSlug": "dt2411vm19-ban-giam-oc-dt2411vm19",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM21",
+      "routeSlug": "dt2411vm21-ban-van-phong-dt2411vm21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM5",
+      "routeSlug": "dt2411vm5-ban-giam-oc-veneer-dt2411vm5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT2411VM6",
+      "routeSlug": "dt2411vm6-ban-giam-oc-veneer-dt2411vm6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT3012V8",
+      "routeSlug": "dt3012v8-ban-giam-oc-veneer-dt3012v8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT3012VM8",
+      "routeSlug": "dt3012vm8-ban-giam-oc-veneer-dt3012vm8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT3020VM20",
+      "routeSlug": "dt3020vm20-ban-giam-oc-dt3020vm20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT3212V18",
+      "routeSlug": "dt3212v18-ban-giam-oc-dt3212v18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT3212V7",
+      "routeSlug": "dt3212v7-ban-giam-oc-veneer-dt3212v7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT3212VM18",
+      "routeSlug": "dt3212vm18-ban-giam-oc-dt3212vm18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "DT3212VM7",
+      "routeSlug": "dt3212vm7-ban-giam-oc-dt3212vm7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "EBX412",
+      "routeSlug": "ebx412-ban-hoi-truong-ebx412",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "EBX414",
+      "routeSlug": "ebx414-ban-hoi-truong-ebx414",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "EBX415",
+      "routeSlug": "ebx415-ban-hoi-truong-ebx415",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "EBX416",
+      "routeSlug": "ebx416-ban-hoi-truong-ebx416",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "EBX418",
+      "routeSlug": "ebx418-ban-hoi-truong-ebx418",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1400A",
+      "routeSlug": "et1400a-ban-truong-phong-et1400a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1400B",
+      "routeSlug": "et1400b-ban-truong-phong-et1400b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1400C",
+      "routeSlug": "et1400c-ban-truong-phong-et1400c",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1400G",
+      "routeSlug": "et1400g-ban-truong-phong-et1400g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1400I",
+      "routeSlug": "et1400i-ban-truong-phong-et1400i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600E",
+      "routeSlug": "et1600e-ban-truong-phong-et1600e",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600F",
+      "routeSlug": "et1600f-ban-lam-viec-hoa-phat-et1600f",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600H",
+      "routeSlug": "et1600h-ban-lanh-ao-et1600h",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600I",
+      "routeSlug": "et1600i-ban-truong-phong-et1600i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600K",
+      "routeSlug": "et1600k-ban-truong-phong-et1600k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600M",
+      "routeSlug": "et1600m-ban-lanh-ao-et1600m",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600N",
+      "routeSlug": "et1600n-ban-lanh-ao-et1600n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600V1",
+      "routeSlug": "et1600v1-ban-truong-phong-go-et1600v1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "ET1600VM1",
+      "routeSlug": "et1600vm1-ban-van-phong-et1600vm1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "FY61-1",
+      "routeSlug": "fy61-1-ghe-da-leader-nu-fy61-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G01",
+      "routeSlug": "g01-ghe-gap-khung-thep-g01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G01B",
+      "routeSlug": "g01b-ghe-gap-khung-thep-g01b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G02",
+      "routeSlug": "g02-ghe-gap-khung-thep-g02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G03",
+      "routeSlug": "g03-ghe-gap-khung-thep-g03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G0398",
+      "routeSlug": "g0398-ghe-gap-khung-thep-g0398",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G04",
+      "routeSlug": "g04-ghe-gap-khung-inox-g04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G0498",
+      "routeSlug": "g0498-ghe-gap-khung-thep-g0498",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G04B",
+      "routeSlug": "g04b-ghe-gap-khung-thep-g04b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G05",
+      "routeSlug": "g05-ghe-gap-khung-thep-g05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G06",
+      "routeSlug": "g06-ghe-gap-g06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G0698",
+      "routeSlug": "g0698-ghe-gap-khung-thep-g0698",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G07",
+      "routeSlug": "g07-ghe-tinh-khung-thep-g07",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G08",
+      "routeSlug": "g08-ghe-gap-khung-thep-g08",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G0898",
+      "routeSlug": "g0898-ghe-gap-khung-thep-g0898",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G09",
+      "routeSlug": "g09-ghe-gap-khung-thep-g09",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G10",
+      "routeSlug": "g10-ghe-gap-g10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G11",
+      "routeSlug": "g11-ghe-gap-khung-thep-g11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G12",
+      "routeSlug": "g12-ghe-gap-khung-inox-g12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G135",
+      "routeSlug": "g135-ghe-gap-khung-thep-g135",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G136",
+      "routeSlug": "g136-ghe-gap-g136",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G137",
+      "routeSlug": "g137-ghe-gap-khung-thep-g137",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G14",
+      "routeSlug": "g14-ghe-gap-khung-thep-g14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G1499",
+      "routeSlug": "g1499-ghe-gap-khung-thep-g1499",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G15",
+      "routeSlug": "g15-ghe-gap-g15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G16",
+      "routeSlug": "g16-ghe-gap-khung-thep-g16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G1699",
+      "routeSlug": "g1699-ghe-gap-khung-thep-g1699",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G18",
+      "routeSlug": "g18-bo-ban-ghe-an-b47-g18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G20",
+      "routeSlug": "g20-ghe-tinh-khung-thep-g20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G30",
+      "routeSlug": "g30-ghe-gap-g30",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G34",
+      "routeSlug": "g34-ghe-tinh-khung-thep-g34",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G36",
+      "routeSlug": "g36-ghe-tinh-khung-thep-g36",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G38",
+      "routeSlug": "g38-ban-ghe-cafe-b38-g38",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G39",
+      "routeSlug": "g39-bo-ban-ghe-an-g39-b39",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G42",
+      "routeSlug": "g42-ghe-tinh-khung-thep-g42",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G44",
+      "routeSlug": "g44-ghe-tinh-khung-go-g44",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G45I",
+      "routeSlug": "g45i-ghe-gap-khung-inox-g45i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G50",
+      "routeSlug": "g50-bo-ban-ghe-an-b50-g50",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G51",
+      "routeSlug": "g51-bo-ban-ghe-an-b51-g51",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G56",
+      "routeSlug": "g56-bo-ban-ghe-an-b55-g56",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G59",
+      "routeSlug": "g59-bo-ban-ghe-an-b59-g59",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G61",
+      "routeSlug": "g61-bo-ban-an-b61-g61",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G63",
+      "routeSlug": "g63-bo-ban-an-b63-g63",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G64",
+      "routeSlug": "g64-bo-ban-ghe-an-b64-g64",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G68",
+      "routeSlug": "g68-bo-ban-ghe-an-b68-g68-trang",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G892",
+      "routeSlug": "g892-ghe-hoi-truong-hoa-phat-g892",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G893",
+      "routeSlug": "g893-ghe-hoi-truong-g893",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G894",
+      "routeSlug": "g894-ghe-hoi-truong-g894",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "G895",
+      "routeSlug": "g895-ghe-hoi-truong-g895",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA101",
+      "routeSlug": "ga101-noi-that-gia-inh-ga101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA102",
+      "routeSlug": "ga102-noi-that-gia-inh-ga102",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA114",
+      "routeSlug": "ga114-noi-that-gia-inh-ga114",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA124",
+      "routeSlug": "ga124-ghe-an-cao-cap-ga124",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA125",
+      "routeSlug": "ga125-ban-ghe-an-cao-cap-ba125-ga125",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA141",
+      "routeSlug": "ga141-ghe-ga141",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA142",
+      "routeSlug": "ga142-ghe-ga142",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA143",
+      "routeSlug": "ga143-ghe-ga143",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA148",
+      "routeSlug": "ga148-ghe-ga148",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA201",
+      "routeSlug": "ga201-noi-that-gia-inh-ga201",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA501",
+      "routeSlug": "ga501-noi-that-gia-inh-ga501",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA503",
+      "routeSlug": "ga503-bo-ban-an-ba503a-ga503",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA504",
+      "routeSlug": "ga504-bo-ban-an-ba504-ga504",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA505",
+      "routeSlug": "ga505-bo-ban-an-ba505-ga505",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA507",
+      "routeSlug": "ga507-bo-ban-an-ba507-ga507",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA508",
+      "routeSlug": "ga508-bo-ban-an-ba508-ga508",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GA509",
+      "routeSlug": "ga509-noi-that-gia-inh-ga509",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GB303",
+      "routeSlug": "gb303-noi-that-gia-inh-gb303",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-3",
+      "routeSlug": "gbt103-3-noi-that-truong-hoc-gbt103-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-3G",
+      "routeSlug": "gbt103-3g-ban-ghe-ban-tru-bbt103-3g-gbt103-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-4",
+      "routeSlug": "gbt103-4-noi-that-truong-hoc-gbt103-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-4G",
+      "routeSlug": "gbt103-4g-noi-that-truong-hoc-gbt103-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-5",
+      "routeSlug": "gbt103-5-noi-that-truong-hoc-gbt103-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-5G",
+      "routeSlug": "gbt103-5g-noi-that-truong-hoc-gbt103-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-6",
+      "routeSlug": "gbt103-6-noi-that-truong-hoc-gbt103-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103-6G",
+      "routeSlug": "gbt103-6g-noi-that-truong-hoc-gbt103-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP3",
+      "routeSlug": "gbt103hp3-ban-ghe-ban-tru-bbt103hp3-gbt103hp3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP3G",
+      "routeSlug": "gbt103hp3g-ban-ghe-ban-tru-bbt103hp3g-gbt103hp3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP4",
+      "routeSlug": "gbt103hp4-noi-that-truong-hoc-gbt103hp4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP4G",
+      "routeSlug": "gbt103hp4g-noi-that-truong-hoc-gbt103hp4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP5",
+      "routeSlug": "gbt103hp5-noi-that-truong-hoc-gbt103hp5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP5G",
+      "routeSlug": "gbt103hp5g-noi-that-truong-hoc-gbt103hp5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP6",
+      "routeSlug": "gbt103hp6-noi-that-truong-hoc-gbt103hp6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT103HP6G",
+      "routeSlug": "gbt103hp6g-noi-that-truong-hoc-gbt103hp6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT105AG",
+      "routeSlug": "gbt105ag-noi-that-truong-hoc-gbt105ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT105BG",
+      "routeSlug": "gbt105bg-noi-that-truong-hoc-gbt105bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GBT105CG",
+      "routeSlug": "gbt105cg-noi-that-truong-hoc-gbt105cg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GC6",
+      "routeSlug": "gc6-giuong-noi-tru-gc6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GC7",
+      "routeSlug": "gc7-giuong-noi-tru-gc7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GC7I",
+      "routeSlug": "gc7i-giuong-noi-tru-gc7i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GCF201",
+      "routeSlug": "gcf201-ban-ghe-cafe-bcf201-gcf201",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GCN101",
+      "routeSlug": "gcn101-ghe-phong-chuc-nang-gcn101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GCN102",
+      "routeSlug": "gcn102-ghe-phong-chuc-nang-gcn102",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GCN102T",
+      "routeSlug": "gcn102t-ghe-phong-chuc-nang-gcn102t",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD01",
+      "routeSlug": "gd01-ghe-on-gd01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD01AI",
+      "routeSlug": "gd01ai-ghe-on-gd01ai",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD01I",
+      "routeSlug": "gd01i-ghe-on-gd01i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD02",
+      "routeSlug": "gd02-ghe-on-gd02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD03",
+      "routeSlug": "gd03-ghe-on-gd03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD04",
+      "routeSlug": "gd04-ghe-on-gd04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD05A",
+      "routeSlug": "gd05a-ghe-on-gd05a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD05B",
+      "routeSlug": "gd05b-ghe-on-gd05b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD06",
+      "routeSlug": "gd06-ghe-on-gd06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GD21I",
+      "routeSlug": "gd21i-ghe-on-hoa-phat-gd21i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GDQ01",
+      "routeSlug": "gdq01-ghe-au-quay-gdq01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GDQ02",
+      "routeSlug": "gdq02-ghe-au-quay-gdq02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GG01I",
+      "routeSlug": "gg01i-ghe-benh-vien-gg01i",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GGV101",
+      "routeSlug": "ggv101-ban-ghe-giao-vien-bgv101-ggv101",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GGV101G",
+      "routeSlug": "ggv101g-ban-ghe-giao-vien-bgv101g-ggv101g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GGV103",
+      "routeSlug": "ggv103-ban-ghe-giao-vien-bgv103-ggv103",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GGV103G",
+      "routeSlug": "ggv103g-ban-ghe-giao-vien-bgv103g-ggv103g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH01",
+      "routeSlug": "gh01-ghe-hop-chan-go-gh01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH02",
+      "routeSlug": "gh02-ghe-hop-chan-go-gh02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH05",
+      "routeSlug": "gh05-ghe-hop-chan-go-gh05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH06",
+      "routeSlug": "gh06-ghe-hop-chan-go-gh06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH09",
+      "routeSlug": "gh09-ghe-hop-chan-go-gh09",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH10",
+      "routeSlug": "gh10-ghe-hop-chan-go-gh10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH12",
+      "routeSlug": "gh12-ghe-hop-chan-go-gh12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH13",
+      "routeSlug": "gh13-ghe-hop-chan-go-gh13",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH15",
+      "routeSlug": "gh15-ghe-hop-chan-go-gh15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GH20",
+      "routeSlug": "gh20-ghe-hop-chan-go-gh20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS03-1",
+      "routeSlug": "ghs03-1-ban-ghe-hoc-sinh-bhs03-1-ghs03-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS101A",
+      "routeSlug": "ghs101a-ban-ghe-hoc-sinh-bhs101a-ghs101a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS101AG",
+      "routeSlug": "ghs101ag-ban-ghe-hoc-sinh-bhs101ag-ghs101ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS101B",
+      "routeSlug": "ghs101b-bo-ban-ghe-bhs101b-ghs101b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS101BG",
+      "routeSlug": "ghs101bg-noi-that-truong-hoc-ghs101bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS102A",
+      "routeSlug": "ghs102a-ban-ghe-hoc-sinh-bhs102a-ghs102a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS102AG",
+      "routeSlug": "ghs102ag-ban-ghe-hoc-sinh-bhs102ag-ghs102ag",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS102B",
+      "routeSlug": "ghs102b-bo-ban-ghe-bhs102b-ghs102b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS102BG",
+      "routeSlug": "ghs102bg-noi-that-truong-hoc-ghs102bg",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS106-3",
+      "routeSlug": "ghs106-3-noi-that-truong-hoc-ghs106-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS106-4",
+      "routeSlug": "ghs106-4-noi-that-truong-hoc-ghs106-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS106-5",
+      "routeSlug": "ghs106-5-noi-that-truong-hoc-ghs106-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS106-6",
+      "routeSlug": "ghs106-6-noi-that-truong-hoc-ghs106-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS106HP7",
+      "routeSlug": "ghs106hp7-noi-that-truong-hoc-ghs106hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-3",
+      "routeSlug": "ghs107-3-ban-ghe-hoc-sinh-bhs107hp3-ghs107-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-3G",
+      "routeSlug": "ghs107-3g-ban-ghe-hoc-sinh-bhs107-3g-ghs107-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-4",
+      "routeSlug": "ghs107-4-noi-that-truong-hoc-ghs107-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-4G",
+      "routeSlug": "ghs107-4g-noi-that-truong-hoc-ghs107-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-5",
+      "routeSlug": "ghs107-5-noi-that-truong-hoc-ghs107-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-5G",
+      "routeSlug": "ghs107-5g-noi-that-truong-hoc-ghs107-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-6",
+      "routeSlug": "ghs107-6-noi-that-truong-hoc-ghs107-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107-6G",
+      "routeSlug": "ghs107-6g-noi-that-truong-hoc-ghs107-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107HP7",
+      "routeSlug": "ghs107hp7-noi-that-truong-hoc-ghs107hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS107HP7G",
+      "routeSlug": "ghs107hp7g-noi-that-truong-hoc-ghs107hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-3",
+      "routeSlug": "ghs108-3-ban-ghe-hoc-sinh-bhs108hp3-ghs108-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-3G",
+      "routeSlug": "ghs108-3g-ban-ghe-hoc-sinh-bhs108-3g-ghs108-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-4",
+      "routeSlug": "ghs108-4-noi-that-truong-hoc-ghs108-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-4G",
+      "routeSlug": "ghs108-4g-noi-that-truong-hoc-ghs108-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-5",
+      "routeSlug": "ghs108-5-noi-that-truong-hoc-ghs108-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-5G",
+      "routeSlug": "ghs108-5g-noi-that-truong-hoc-ghs108-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-6",
+      "routeSlug": "ghs108-6-noi-that-truong-hoc-ghs108-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108-6G",
+      "routeSlug": "ghs108-6g-noi-that-truong-hoc-ghs108-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108HP7",
+      "routeSlug": "ghs108hp7-noi-that-truong-hoc-ghs108hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS108HP7G",
+      "routeSlug": "ghs108hp7g-noi-that-truong-hoc-ghs108hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-3",
+      "routeSlug": "ghs109-3-ban-ghe-hoc-sinh-bhs109hp3-ghs109-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-3G",
+      "routeSlug": "ghs109-3g-ban-ghe-hoc-sinh-bhs109-3g-ghs109-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-4",
+      "routeSlug": "ghs109-4-noi-that-truong-hoc-ghs109-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-4G",
+      "routeSlug": "ghs109-4g-noi-that-truong-hoc-ghs109-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-5",
+      "routeSlug": "ghs109-5-noi-that-truong-hoc-ghs109-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-5G",
+      "routeSlug": "ghs109-5g-noi-that-truong-hoc-ghs109-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-6",
+      "routeSlug": "ghs109-6-noi-that-truong-hoc-ghs109-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109-6G",
+      "routeSlug": "ghs109-6g-noi-that-truong-hoc-ghs109-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109HP7",
+      "routeSlug": "ghs109hp7-noi-that-truong-hoc-ghs109hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS109HP7G",
+      "routeSlug": "ghs109hp7g-noi-that-truong-hoc-ghs109hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-3",
+      "routeSlug": "ghs110-3-noi-that-truong-hoc-ghs110-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-3G",
+      "routeSlug": "ghs110-3g-ban-ghe-hoc-sinh-bhs110-3g-ghs110-3g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-4",
+      "routeSlug": "ghs110-4-noi-that-truong-hoc-ghs110-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-4G",
+      "routeSlug": "ghs110-4g-noi-that-truong-hoc-ghs110-4g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-5",
+      "routeSlug": "ghs110-5-noi-that-truong-hoc-ghs110-5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-5G",
+      "routeSlug": "ghs110-5g-bo-ban-ghe-ghs110-5g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-6",
+      "routeSlug": "ghs110-6-noi-that-truong-hoc-ghs110-6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110-6G",
+      "routeSlug": "ghs110-6g-noi-that-truong-hoc-ghs110-6g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110HP7",
+      "routeSlug": "ghs110hp7-noi-that-truong-hoc-ghs110hp7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GHS110HP7G",
+      "routeSlug": "ghs110hp7g-noi-that-truong-hoc-ghs110hp7g",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS1A",
+      "routeSlug": "gs1a-gia-sach-thu-vien-gs1a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS1B",
+      "routeSlug": "gs1b-gia-sach-thu-vien-gs1b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS2K1",
+      "routeSlug": "gs2k1-gia-sach-thu-vien-gs2k1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS2K2",
+      "routeSlug": "gs2k2-gia-sach-thu-vien-gs2k2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS3",
+      "routeSlug": "gs3-gia-sach-thu-vien-gs3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS5K1",
+      "routeSlug": "gs5k1-gia-sach-thu-vien-gs5k1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS5K1B",
+      "routeSlug": "gs5k1b-gia-sach-thu-vien-gs5k1b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS5K2",
+      "routeSlug": "gs5k2-gia-sach-thu-vien-gs5k2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS5K2B",
+      "routeSlug": "gs5k2b-gia-sach-thu-vien-gs5k2b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GS5K3",
+      "routeSlug": "gs5k3-gia-sach-thu-vien-gs5k3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRH1D1F",
+      "routeSlug": "hrh1d1f-hoc-tai-lieu-hrh1d1f",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRH3D",
+      "routeSlug": "hrh3d-hoc-co-inh-hrh3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRM1D1F",
+      "routeSlug": "hrm1d1f-hoc-di-ong-hrm1d1f",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRM3D",
+      "routeSlug": "hrm3d-hoc-tai-lieu-hrm3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LK-20Đ",
+      "routeSlug": "lk-20-tu-sat-locker-20-ngan-mau-en-trang",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LK48-KD",
+      "routeSlug": "lk48-kd-tu-locker-48-ngan-co-khoang-duoi",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LUXM3D",
+      "routeSlug": "luxm3d-hoc-di-ong-luxm3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "M1D1F",
+      "routeSlug": "m1d1f-hoc-tai-lieu-m1d1f",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "M1D1O",
+      "routeSlug": "m1d1o-hoc-tai-lieu-m1d1o",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "M3D",
+      "routeSlug": "m3d-hoc-tu-phu-go-m3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "M3DVM1",
+      "routeSlug": "m3dvm1-hoc-di-ong-m3dvm1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "M3DVM2",
+      "routeSlug": "m3dvm2-hoc-tu-phu-go-m3dvm2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF05-1",
+      "routeSlug": "sf05-1-ghe-sofa-on-sf05-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF05-3",
+      "routeSlug": "sf05-3-ghe-sofa-bang-sf05-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF11",
+      "routeSlug": "sf11-sofa-van-phong-sf11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF11-1",
+      "routeSlug": "sf11-1-ghe-sofa-on-sf11-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF11-3",
+      "routeSlug": "sf11-3-ghe-sofa-bang-sf11-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF12",
+      "routeSlug": "sf12-sofa-van-phong-sf12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF12-1",
+      "routeSlug": "sf12-1-ghe-sofa-on-sf12-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF12-3",
+      "routeSlug": "sf12-3-ghe-sofa-bang-sf12-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF21",
+      "routeSlug": "sf21-sofa-van-phong-sf21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF21-1",
+      "routeSlug": "sf21-1-ghe-sofa-on-sf21-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF21-3",
+      "routeSlug": "sf21-3-ghe-sofa-bang-sf21-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF23",
+      "routeSlug": "sf23-sofa-van-phong-sf23",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF23-1",
+      "routeSlug": "sf23-1-ghe-sofa-on-sf23-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF23-3",
+      "routeSlug": "sf23-3-ghe-sofa-bang-sf23-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF31",
+      "routeSlug": "sf31-sofa-van-phong-sf31",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF31-1",
+      "routeSlug": "sf31-1-ghe-sofa-on-sf31-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF31-3",
+      "routeSlug": "sf31-3-ghe-sofa-bang-sf31-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF32",
+      "routeSlug": "sf32-sofa-van-phong-sf32",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF32-1",
+      "routeSlug": "sf32-1-ghe-sofa-on-sf32-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF32-3",
+      "routeSlug": "sf32-3-ghe-sofa-bang-sf32-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TS-08",
+      "routeSlug": "ts-08-tu-sat-8-canh-mau-trang-vang",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TS-K3QA",
+      "routeSlug": "ts-k3qa-tu-sat-k3-quan-ao",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TS-LKTK",
+      "routeSlug": "ts-lktk-tu-sat-locker-them-khay",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TS-PCCC",
+      "routeSlug": "ts-pccc-tu-sat-phong-chay-chua-chay",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSMN-02CM",
+      "routeSlug": "tsmn-02cm-tu-sat-mam-non-chan-man-2-canh-mau-xanh-cam",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSMN-08CM",
+      "routeSlug": "tsmn-08cm-tu-mam-non-chan-man-8-canh",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSMN-6CCC",
+      "routeSlug": "tsmn-6ccc-tu-sat-mam-non-6-canh-chan-chieu",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSQA-01C",
+      "routeSlug": "tsqa-01c-tu-sat-quan-ao-1-canh",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSQA-02C",
+      "routeSlug": "tsqa-02c-tu-sat-quan-ao-2-canh",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSQA-03B",
+      "routeSlug": "tsqa-03b-tu-sat-quan-ao-3-buong",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSQA-03C",
+      "routeSlug": "tsqa-03c-tu-sat-quan-ao-3-canh",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSQA-2B",
+      "routeSlug": "tsqa-2b-tu-sat-quan-ao-2-buong",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSQA-3B1K",
+      "routeSlug": "tsqa-3b1k-tu-sat-quan-ao-3-buong-1-ngan-keo",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSVP-2CL",
+      "routeSlug": "tsvp-2cl-tu-sat-van-phong-2-canh-lua",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSVP-K2V",
+      "routeSlug": "tsvp-k2v-tu-sat-van-phong-k2-canh-kinh-mau-vang",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TSVP-K3",
+      "routeSlug": "tsvp-k3-tu-sat-van-phong-k3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU06",
+      "routeSlug": "tu06-tu-ho-so-thap-tu06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU07",
+      "routeSlug": "tu07-tu-sat-ho-so-tu07",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU08",
+      "routeSlug": "tu08-tu-sat-ho-so-tu08",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU08H",
+      "routeSlug": "tu08h-tu-sat-ho-so-tu08h",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09",
+      "routeSlug": "tu09-tu-tai-lieu-tu09",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09CK",
+      "routeSlug": "tu09ck-tu-ho-so-sat-tu09ck",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09K2",
+      "routeSlug": "tu09k2-tu-sat-ho-so-tu09k2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09K2N",
+      "routeSlug": "tu09k2n-tu-sat-ho-so-tu09k2n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09K3BCK",
+      "routeSlug": "tu09k3bck-tu-ho-so-sat-tu09k3bck",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09K3CK",
+      "routeSlug": "tu09k3ck-tu-ho-so-sat-tu09k3ck",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09K3E",
+      "routeSlug": "tu09k3e-tu-sat-an-toan-tu09k3e",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09K3GCK",
+      "routeSlug": "tu09k3gck-tu-sat-ho-so-tu09k3gck",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU09K3LCK",
+      "routeSlug": "tu09k3lck-tu-sat-ho-so-tu09k3lck",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU118GD",
+      "routeSlug": "tu118gd-tu-tai-lieu-ghep-tu118gd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU118SD",
+      "routeSlug": "tu118sd-tu-ghep-tai-lieu-tu118sd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU12AD",
+      "routeSlug": "tu12ad-tu-ho-so-tu12ad",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU12D",
+      "routeSlug": "tu12d-tu-ho-so-tu12d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU12NKD",
+      "routeSlug": "tu12nkd-tu-ho-so-tu12nkd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU15B3C4",
+      "routeSlug": "tu15b3c4-tu-sat-quan-ao-tu15b3c4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU18B3C4",
+      "routeSlug": "tu18b3c4-tu-sat-quan-ao-tu18b3c4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU19B2C2",
+      "routeSlug": "tu19b2c2-tu-sat-quan-ao-tu19b2c2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU19B3C3",
+      "routeSlug": "tu19b3c3-tu-sat-quan-ao-tu19b3c3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU20B3C4",
+      "routeSlug": "tu20b3c4-tu-sat-gia-inh-tu20b3c4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU88GD",
+      "routeSlug": "tu88gd-tu-tai-lieu-ghep-tu88gd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU88SD",
+      "routeSlug": "tu88sd-tu-tai-lieu-ghep-tu88sd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU983-3KP",
+      "routeSlug": "tu983-3kp-tu-locker-sat-tu983-3kp",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU984-2L",
+      "routeSlug": "tu984-2l-tu-locker-8-ngan-tu984-2l",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU984-3K",
+      "routeSlug": "tu984-3k-tu-locker-12-ngan-tu984-3k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU984-3KP",
+      "routeSlug": "tu984-3kp-tu-locker-12-ngan-tu984-3kp",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU985-3K",
+      "routeSlug": "tu985-3k-tu-locker-15-ngan-tu985-3k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU985-4K",
+      "routeSlug": "tu985-4k-tu-locker-20-ngan-tu985-4k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU985-4KP",
+      "routeSlug": "tu985-4kp-tu-locker-20-ngan-tu985-4kp",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU986",
+      "routeSlug": "tu986-tu-locker-24-ngan-tu986-4kp",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU986-3K",
+      "routeSlug": "tu986-3k-tu-locker-18-ngan-tu986-3k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU986-3KP",
+      "routeSlug": "tu986-3kp-tu-locker-18-ngan-tu986-3kp",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU986-4K",
+      "routeSlug": "tu986-4k-tu-locker-24-ngan-tu986-4k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU986-4KP",
+      "routeSlug": "tu986-4kp-tu-locker-24-ngan-tu986-4kp",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU986-5K",
+      "routeSlug": "tu986-5k-tu-locker-30-ngan-tu986-5k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU986P",
+      "routeSlug": "tu986p-tu-locker-6-ngan-tu986p",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TUTP01D",
+      "routeSlug": "tutp01d-tu-phu-sat-tutp01d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TVS-01C",
+      "routeSlug": "tvs-01c-tu-sat-ung-dung-cu-ve-sinh-1-canh",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TĐBN",
+      "routeSlug": "tbn-tu-ung-binh-nuoc",
+      "websiteStatus": "PRODUCTION"
+    }
+  ]
+}
