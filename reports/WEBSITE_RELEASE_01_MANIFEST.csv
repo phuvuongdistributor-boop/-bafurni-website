@@ -1,0 +1,1102 @@
+Code,ProductName,CommercialGroup,Supplier,PreparedBatch,Route,LandingRoute,Image,WasAllowlisted,WasConfirmedLive,ReleaseAction,ExpectedStatusAfterDeploy
+1,Ghế Giám đốc CC 001,B04-04,GHE_NHAP,B04-04,/san-pham/1-ghe-giam-oc-cc-001,/category.html,YES,YES,NO,KEEP,PRODUCTION
+1001,Ghế xoay lưới 1001,B06-03,GHE_NHAP,B06-03,/san-pham/1001-ghe-xoay-luoi-1001,/category.html,YES,YES,NO,KEEP,PRODUCTION
+1003-1NAN,Ghế xoay lưới 1003-1,G05,GHE_NHAP,G05,/san-pham/1003-1nan-ghe-xoay-luoi-1003-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+1003-4NAN,Ghế xoay lưới 1003-4,G05,GHE_NHAP,G05,/san-pham/1003-4nan-ghe-xoay-luoi-1003-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+1666A,Ghế da Leader Nữ 1666A,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/1666a-ghe-da-leader-nu-1666a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2001,Ghế chân quỳ lưới lưng thấp 2001,G06,GHE_NHAP,G06,/san-pham/2001-ghe-chan-quy-luoi-lung-thap-2001,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2002,Ghế chân quỳ lưới lưng cao 2002,G06,GHE_NHAP,G06,/san-pham/2002-ghe-chan-quy-luoi-lung-cao-2002,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2003,Ghế chân quỳ da lưng thấp 2003,G06,GHE_NHAP,G06,/san-pham/2003-ghe-chan-quy-da-lung-thap-2003,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2004,Ghế chân quỳ lưới lưng cao 2004,G06,GHE_NHAP,G06,/san-pham/2004-ghe-chan-quy-luoi-lung-cao-2004,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2005,Ghế xoay lưới lưng thấp 2005,B06-03,GHE_NHAP,B06-03,/san-pham/2005-ghe-xoay-luoi-lung-thap-2005,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2006,Ghế xoay lưới lưng cao 2006,B06-03,GHE_NHAP,B06-03,/san-pham/2006-ghe-xoay-luoi-lung-cao-2006,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2007,Ghế xoay da lưng thấp 2007,B06-03,GHE_NHAP,B06-03,/san-pham/2007-ghe-xoay-da-lung-thap-2007,/category.html,YES,YES,NO,KEEP,PRODUCTION
+2008,Ghế xoay da lưng cao 2008,B06-03,GHE_NHAP,B06-03,/san-pham/2008-ghe-xoay-da-lung-cao-2008,/category.html,YES,YES,NO,KEEP,PRODUCTION
+245,Ghế Giám đốc CC 245,B04-04,GHE_NHAP,B04-04,/san-pham/245-ghe-giam-oc-cc-245,/category.html,YES,YES,NO,KEEP,PRODUCTION
+333A,Ghế xoay da CC Leader 333A,B06-03,GHE_NHAP,B06-03,/san-pham/333a-ghe-xoay-da-cc-leader-333a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+366,"Ghế xoay lưới tựa,ngả,đỡ chân 366",G06,GHE_NHAP,G06,/san-pham/366-ghe-xoay-luoi-tua-nga-o-chan-366,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4001,Ghế lưới chân quỳ chữ A 4001,G05,GHE_NHAP,G05,/san-pham/4001-ghe-luoi-chan-quy-chu-a-4001,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4005,Ghế xoay lưới 4005,G05,GHE_NHAP,G05,/san-pham/4005-ghe-xoay-luoi-4005,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4008-1-NAN,Ghế chân quỳ da 4008-1,B05-03,GHE_NHAP,B05-03,/san-pham/4008-1-nan-ghe-chan-quy-da-4008-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4008-4-NAN,Ghế chân quỳ da 4008-4,B05-03,GHE_NHAP,B05-03,/san-pham/4008-4-nan-ghe-chan-quy-da-4008-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4009B,Ghế chân quỳ da 4009B,B05-03,GHE_NHAP,B05-03,/san-pham/4009b-ghe-chan-quy-da-4009b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4009C,Ghế lưới chân quỳ lưng thấp 4009C,G05,GHE_NHAP,G05,/san-pham/4009c-ghe-luoi-chan-quy-lung-thap-4009c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4010B,Ghế chân quỳ da 4010B,B05-03,GHE_NHAP,B05-03,/san-pham/4010b-ghe-chan-quy-da-4010b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4010C,Ghế chân quỳ lưới lưng cao 4010C,G05,GHE_NHAP,G05,/san-pham/4010c-ghe-chan-quy-luoi-lung-cao-4010c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4019,Ghế lưới chân quỳ lưng thấp 4019,G05,GHE_NHAP,G05,/san-pham/4019-ghe-luoi-chan-quy-lung-thap-4019,/category.html,YES,YES,NO,KEEP,PRODUCTION
+4020,Ghế lưới lưng cao 4020,G05,GHE_NHAP,G05,/san-pham/4020-ghe-luoi-lung-cao-4020,/category.html,YES,YES,NO,KEEP,PRODUCTION
+5003,Ghế xoay lưới tựa đầu (CM) 5003,G05,GHE_NHAP,G05,/san-pham/5003-ghe-xoay-luoi-tua-au-cm-5003,/category.html,YES,YES,NO,KEEP,PRODUCTION
+5004,Ghế xoay lưới tựa đầu (CN) 5004,G05,GHE_NHAP,G05,/san-pham/5004-ghe-xoay-luoi-tua-au-cn-5004,/category.html,YES,YES,NO,KEEP,PRODUCTION
+5031,Ghế đệm da 5031,B04-05,GHE_NHAP,B04-05,/san-pham/5031-ghe-em-da-5031,/category.html,YES,YES,NO,KEEP,PRODUCTION
+5032,Ghế đệm da 5032,B04-05,GHE_NHAP,B04-05,/san-pham/5032-ghe-em-da-5032,/category.html,YES,YES,NO,KEEP,PRODUCTION
+5035,Ghế da Leader Nữ 5035,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/5035-ghe-da-leader-nu-5035,/category.html,YES,YES,NO,KEEP,PRODUCTION
+5037,Ghế da Leader Nữ CC 5037,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/5037-ghe-da-leader-nu-cc-5037,/category.html,YES,YES,NO,KEEP,PRODUCTION
+5039,Ghế giám đốc da đỡ chân 5039,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/5039-ghe-giam-oc-da-o-chan-5039,/category.html,YES,YES,NO,KEEP,PRODUCTION
+588,Ghế lưới xoay tựa đầu 558,B04-05,GHE_NHAP,B04-05,/san-pham/588-ghe-luoi-xoay-tua-au-558,/category.html,YES,YES,NO,KEEP,PRODUCTION
+6020-DA,Ghế chân quỳ da 6020,B05-03,GHE_NHAP,B05-03,/san-pham/6020-da-ghe-chan-quy-da-6020,/category.html,YES,YES,NO,KEEP,PRODUCTION
+616,Ghế xoay tựa đầu 616,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/616-ghe-xoay-tua-au-616,/category.html,YES,YES,NO,KEEP,PRODUCTION
+621,Ghế Xoay lưới tựa 621,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/621-ghe-xoay-luoi-tua-621,/category.html,YES,YES,NO,KEEP,PRODUCTION
+668,Ghế xoay lưới 668,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/668-ghe-xoay-luoi-668,/category.html,YES,YES,NO,KEEP,PRODUCTION
+7005,Ghế xoay lưng lưới 7005,B04-05,GHE_NHAP,B04-05,/san-pham/7005-ghe-xoay-lung-luoi-7005,/category.html,YES,YES,NO,KEEP,PRODUCTION
+7006,Ghế xoay lưng lưới 7006,B04-05,GHE_NHAP,B04-05,/san-pham/7006-ghe-xoay-lung-luoi-7006,/category.html,YES,YES,NO,KEEP,PRODUCTION
+7008,Ghế lưới xoay tựa đầu 7008,B04-05,GHE_NHAP,B04-05,/san-pham/7008-ghe-luoi-xoay-tua-au-7008,/category.html,YES,YES,NO,KEEP,PRODUCTION
+730,Ghế xoay lưới 730,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/730-ghe-xoay-luoi-730,/category.html,YES,YES,NO,KEEP,PRODUCTION
+7301,Ghế lưới xoay 7301,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/7301-ghe-luoi-xoay-7301,/category.html,YES,YES,NO,KEEP,PRODUCTION
+7302,Ghế lưới xoay 7302,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/7302-ghe-luoi-xoay-7302,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8001,Ghế chân quỳ lưới 8001,B05-03,GHE_NHAP,B05-03,/san-pham/8001-ghe-chan-quy-luoi-8001,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8002,Ghế chân quỳ lưới 8002,B05-03,GHE_NHAP,B05-03,/san-pham/8002-ghe-chan-quy-luoi-8002,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8012,Ghế chân quỳ lưới 8012,B05-03,GHE_NHAP,B05-03,/san-pham/8012-ghe-chan-quy-luoi-8012,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8013,Chân quỳ lưới 8013,B06-03,GHE_NHAP,B06-03,/san-pham/8013-chan-quy-luoi-8013,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8015,Ghế lưới chân quỳ 8015,B04-05,GHE_NHAP,B04-05,/san-pham/8015-ghe-luoi-chan-quy-8015,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8016,Ghế lưới chân quỳ 8016,B04-05,GHE_NHAP,B04-05,/san-pham/8016-ghe-luoi-chan-quy-8016,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8025,Ghế chân quỳ lưới 8025,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/8025-ghe-chan-quy-luoi-8025,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8026,Ghế chân quỳ lưới 8026,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/8026-ghe-chan-quy-luoi-8026,/category.html,YES,YES,NO,KEEP,PRODUCTION
+816-5,Ghế xoay tựa đầu 816-5,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/816-5-ghe-xoay-tua-au-816-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+819,Ghế xoay tựa đầu 819,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/819-ghe-xoay-tua-au-819,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8301,Ghế chân quỳ lưới 8301,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/8301-ghe-chan-quy-luoi-8301,/category.html,YES,YES,NO,KEEP,PRODUCTION
+8302,Ghế chân quỳ lưới 8302,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/8302-ghe-chan-quy-luoi-8302,/category.html,YES,YES,NO,KEEP,PRODUCTION
+868,Ghế xoay lưới tựa đầu 868,G06,GHE_NHAP,G06,/san-pham/868-ghe-xoay-luoi-tua-au-868,/category.html,YES,YES,NO,KEEP,PRODUCTION
+881,Ghế lưới xoay tựa đầu 881,B05-03,GHE_NHAP,B05-03,/san-pham/881-ghe-luoi-xoay-tua-au-881,/category.html,YES,YES,NO,KEEP,PRODUCTION
+882,Ghế xoay tựa đầu 882,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/882-ghe-xoay-tua-au-882,/category.html,YES,YES,NO,KEEP,PRODUCTION
+883,Ghế lưới xoay tựa đầu 883,B05-03,GHE_NHAP,B05-03,/san-pham/883-ghe-luoi-xoay-tua-au-883,/category.html,YES,YES,NO,KEEP,PRODUCTION
+899,Ghế xoay tựa đầu 899,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/899-ghe-xoay-tua-au-899,/category.html,YES,YES,NO,KEEP,PRODUCTION
+900,Ghế xoay tựa đầu 900,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/900-ghe-xoay-tua-au-900,/category.html,YES,YES,NO,KEEP,PRODUCTION
+9001,Ghế xoay lưới 9001,G06,GHE_NHAP,G06,/san-pham/9001-ghe-xoay-luoi-9001,/category.html,YES,YES,NO,KEEP,PRODUCTION
+9002,Ghế xoay lưới 9002,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/9002-ghe-xoay-luoi-9002,/category.html,YES,YES,NO,KEEP,PRODUCTION
+9012,Ghế xoay lưới tựa đầu 9012,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/9012-ghe-xoay-luoi-tua-au-9012,/category.html,YES,YES,NO,KEEP,PRODUCTION
+9951,Ghế da giám đốc cao cấp 9951,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/9951-ghe-da-giam-oc-cao-cap-9951,/category.html,YES,YES,NO,KEEP,PRODUCTION
+A38,Ghế Giám đốc CC A38,B04-04,GHE_NHAP,B04-04,/san-pham/a38-ghe-giam-oc-cc-a38,/category.html,YES,YES,NO,KEEP,PRODUCTION
+A39,Ghế Giám đốc CC A39,G06,GHE_NHAP,G06,/san-pham/a39-ghe-giam-oc-cc-a39,/category.html,YES,YES,NO,KEEP,PRODUCTION
+A526-3,"Ghế xoay lưới tựa,ngả,đỡ chân CC A526",G06,GHE_NHAP,G06,/san-pham/a526-3-ghe-xoay-luoi-tua-nga-o-chan-cc-a526,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT100,Bàn làm việc AT100,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at100-ban-lam-viec-at100,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT100HL,Bàn làm việc AT100HL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at100hl-ban-lam-viec-at100hl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT100SHL3D,Bàn làm việc AT100SHL3D,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at100shl3d-ban-lam-viec-at100shl3d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120,Bàn văn phòng AT120,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120-ban-van-phong-at120,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120HL,Bàn làm việc AT120HL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120hl-ban-lam-viec-at120hl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120HL3C,Bàn làm việc AT120HL3C,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120hl3c-ban-lam-viec-at120hl3c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120K,Bàn làm việc AT120K,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120k-ban-lam-viec-at120k,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120S,Bàn văn phòng AT120S,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120s-ban-van-phong-at120s,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120SHL,Bàn làm việc AT120SHL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120shl-ban-lam-viec-at120shl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120SHL3C,Bàn làm việc AT120SHL3C,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120shl3c-ban-lam-viec-at120shl3c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120SHL3D,Bàn làm việc AT120SHL3D,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120shl3d-ban-lam-viec-at120shl3d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120SHL3DF,Bàn làm việc AT120SHL3DF,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120shl3df-ban-lam-viec-at120shl3df,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT120SK,Bàn làm việc AT120SK,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at120sk-ban-lam-viec-at120sk,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1250D,Bàn hội trường AT1250D,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1250d-ban-hoi-truong-at1250d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1250L,Bàn hội trường AT1250L,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1250l-ban-hoi-truong-at1250l,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1260,Tủ tài liệu AT1260,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at1260-tu-tai-lieu-at1260,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1260D,Tủ tài liệu AT1260D,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at1260d-tu-tai-lieu-at1260d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1260SD,Tủ tài liệu AT1260SD,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at1260sd-tu-tai-lieu-at1260sd,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140,Bàn làm việc AT140,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140-ban-lam-viec-at140,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140HL,Bàn làm việc AT140HL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140hl-ban-lam-viec-at140hl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140HL3C,Bàn làm việc AT140HL3C,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140hl3c-ban-lam-viec-at140hl3c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140HL3D,Bàn làm việc AT140HL3D,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140hl3d-ban-lam-viec-at140hl3d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140K,Bàn làm việc AT140K,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140k-ban-lam-viec-at140k,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140S,Bàn làm việc gỗ AT140S,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140s-ban-lam-viec-go-at140s,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140SHL,Bàn làm việc gỗ AT140SHL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140shl-ban-lam-viec-go-at140shl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT140SK,Bàn làm việc gỗ AT140SK,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at140sk-ban-lam-viec-go-at140sk,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1450D,Bàn hội trường AT1450D,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1450d-ban-hoi-truong-at1450d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1450L,Bàn hội trường AT1450L,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1450l-ban-hoi-truong-at1450l,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1550D,Bàn hội trường AT1550D,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1550d-ban-hoi-truong-at1550d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1550L,Bàn hội trường AT1550L,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1550l-ban-hoi-truong-at1550l,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT160,Bàn làm việc AT160,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at160-ban-lam-viec-at160,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT160HL,Bàn làm việc AT160HL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at160hl-ban-lam-viec-at160hl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT160HL1,Bàn làm việc AT160HL1,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at160hl1-ban-lam-viec-at160hl1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT160HL2,Bàn làm việc AT160HL2,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at160hl2-ban-lam-viec-at160hl2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT160K,Bàn làm việc AT160K,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at160k-ban-lam-viec-at160k,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1650D,Bàn hội trường AT1650D,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1650d-ban-hoi-truong-at1650d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1650L,Bàn hội trường AT1650L,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1650l-ban-hoi-truong-at1650l,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT180,Bàn văn phòng AT180,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at180-ban-van-phong-at180,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT180HL,Bàn làm việc 1m8 AT180HL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/at180hl-ban-lam-viec-1m8-at180hl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1850D,Bàn hội trường AT1850D,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1850d-ban-hoi-truong-at1850d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1850L,Bàn hội trường AT1850L,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at1850l-ban-hoi-truong-at1850l,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1960-3B,Tủ tài liệu AT1960-3B,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at1960-3b-tu-tai-lieu-at1960-3b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1960-3BK,Tủ tài liệu AT1960-3BK,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at1960-3bk-tu-tai-lieu-at1960-3bk,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT1960KG,Tủ tài liệu AT1960KG,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at1960kg-tu-tai-lieu-at1960kg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT202S,Bàn máy tính AT202S,B02,BAN_MAY_TINH,B02,/san-pham/at202s-ban-may-tinh-at202s,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT204,Bàn máy tính gỗ AT204,B02,BAN_MAY_TINH,B02,/san-pham/at204-ban-may-tinh-go-at204,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT204HL,Bàn máy tính gỗ AT204HL,B02,BAN_MAY_TINH,B02,/san-pham/at204hl-ban-may-tinh-go-at204hl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT204S,Bàn máy tính AT204S,B02,BAN_MAY_TINH,B02,/san-pham/at204s-ban-may-tinh-at204s,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT204SHL,Bàn máy tính AT204SHL,B02,BAN_MAY_TINH,B02,/san-pham/at204shl-ban-may-tinh-at204shl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT2050D,Bàn hội trường AT2050D,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at2050d-ban-hoi-truong-at2050d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT2050L,Bàn hội trường AT2050L,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/at2050l-ban-hoi-truong-at2050l,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT880,Tủ tài liệu AT880,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at880-tu-tai-lieu-at880,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT880D,Tủ tài liệu AT880D,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at880d-tu-tai-lieu-at880d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+AT880SD,Tủ tài liệu AT880SD,TU_VAN_PHONG,TU_VAN_PHONG,EXISTING,/san-pham/at880sd-tu-tai-lieu-at880sd,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATB01,Bàn liền giá sách ATB01,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/atb01-ban-lien-gia-sach-atb01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATB02,Bàn liền giá sách ATB02,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/atb02-ban-lien-gia-sach-atb02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATBF01,Bàn văn phòng ATBF01,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atbf01-ban-van-phong-atbf01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATC01,Kệ CPU có bánh xe ATC01,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atc01-ke-cpu-co-banh-xe-atc01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATH2412CN,Bàn họp đẹp ATH2412CN,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ath2412cn-ban-hop-ep-ath2412cn,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATH2412OV,Bàn họp oval ATH2412OV,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ath2412ov-ban-hop-oval-ath2412ov,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATH4016,Bàn họp lớn ATH4016,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ath4016-ban-hop-lon-ath4016,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATH5115,Bàn họp lớn ATH5115,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ath5115-ban-hop-lon-ath5115,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATL14,Bàn làm việc ATL14,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atl14-ban-lam-viec-atl14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATL14K,Bàn làm việc ATL14K,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atl14k-ban-lam-viec-atl14k,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATL16,Bàn làm việc chữ L ATL16,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atl16-ban-lam-viec-chu-l-atl16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATL16K,Bàn làm việc ATL16K,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atl16k-ban-lam-viec-atl16k,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATM120,Bàn vi tính ATM120,B02,BAN_MAY_TINH,B02,/san-pham/atm120-ban-vi-tinh-atm120,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATM120S,Bàn máy tính gỗ ATM120S,B02,BAN_MAY_TINH,B02,/san-pham/atm120s-ban-may-tinh-go-atm120s,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATM1D1F,Hộc di động ATM1D1F,HOC_TU_PHU_GO,HOC_TU_PHU_GO,EXISTING,/san-pham/atm1d1f-hoc-di-ong-atm1d1f,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATM3D,Hộc tài liệu ATM3D,HOC_TU_PHU_GO,HOC_TU_PHU_GO,EXISTING,/san-pham/atm3d-hoc-tai-lieu-atm3d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATM3D1,Hộc di động ATM3D1,HOC_TU_PHU_GO,HOC_TU_PHU_GO,EXISTING,/san-pham/atm3d1-hoc-di-ong-atm3d1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATNK120HL,Ngăn kéo ATNK120HL,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atnk120hl-ngan-keo-atnk120hl,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ATP1890,Bàn trưởng phòng ATP1890,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/atp1890-ban-truong-phong-atp1890,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B32,Bàn ăn mặt kính tròn B32,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/b32-ban-an-mat-kinh-tron-b32,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B38,Bàn ghế cafe B38-G38,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/b38-ban-ghe-cafe-b38-g38,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B39,Bộ bàn ghế ăn G39-B39,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b39-bo-ban-ghe-an-g39-b39,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B40,Bàn Cafe B40,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/b40-ban-cafe-b40,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B42,Bàn Cafe B42,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/b42-ban-cafe-b42,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B44,Bàn Cafe B44,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/b44-ban-cafe-b44,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B47,"Bộ bàn ghế ăn B47, G18",NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/b47-bo-ban-ghe-an-b47-g18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B48,Bàn ăn B48,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/b48-ban-an-b48,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B50,Bộ bàn ghế ăn B50-G50,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b50-bo-ban-ghe-an-b50-g50,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B51,"Bộ bàn ghế ăn B51, G51",NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b51-bo-ban-ghe-an-b51-g51,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B52,Bàn ăn khung thép B52,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b52-ban-an-khung-thep-b52,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B53,Bàn ăn khung thép B53,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b53-ban-an-khung-thep-b53,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B55,Bộ bàn ghế ăn B55-G56,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b55-bo-ban-ghe-an-b55-g56,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B56,Bộ bàn ghế ăn B56-G56,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b56-bo-ban-ghe-an-b56-g56,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B58,Bàn ăn B58,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b58-ban-an-b58,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B59,Bộ bàn ghế ăn B59-G59,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b59-bo-ban-ghe-an-b59-g59,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B61,Bộ bàn ăn B61-G61,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b61-bo-ban-an-b61-g61,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B63,"Bộ bàn ăn B63,G63",NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b63-bo-ban-an-b63-g63,/category.html,YES,YES,NO,KEEP,PRODUCTION
+B64,Bộ bàn ghế ăn B64-G64,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/b64-bo-ban-ghe-an-b64-g64,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA01-14,Bàn ghế ăn công nghiệp BA01-14,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba01-14-ban-ghe-an-cong-nghiep-ba01-14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA01-15,Bàn ghế ăn công nghiệp BA01-15,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba01-15-ban-ghe-an-cong-nghiep-ba01-15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA01-16,Bàn ghế ăn công nghiệp BA01-16,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba01-16-ban-ghe-an-cong-nghiep-ba01-16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA02,Bàn ghế ăn công nghiệp BA02,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba02-ban-ghe-an-cong-nghiep-ba02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA03,Bàn ghế ăn công nghiệp BA03,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba03-ban-ghe-an-cong-nghiep-ba03,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA04I14,Bàn ăn công nghiệp BA04I14,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba04i14-ban-an-cong-nghiep-ba04i14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA04I15,Bàn ăn công nghiệp BA04I15,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba04i15-ban-an-cong-nghiep-ba04i15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA04I16,Bàn ăn công nghiệp BA04I16,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba04i16-ban-an-cong-nghiep-ba04i16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA05,Bàn ghế ăn công nghiệp BA05,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ba05-ban-ghe-an-cong-nghiep-ba05,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA101,Bộ bàn ghế BA101,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba101-bo-ban-ghe-ba101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA102VD01,Bộ bàn ghế BA102VD01,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba102vd01-bo-ban-ghe-ba102vd01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA114,Bộ bàn ghế BA114,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba114-bo-ban-ghe-ba114,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA124,Bộ bàn ăn cao cấp BA124-GA124,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba124-bo-ban-an-cao-cap-ba124-ga124,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA139,Bàn BA139,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba139-ban-ba139,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA141,Bàn BA141,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba141-ban-ba141,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA142,Bàn BA142,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba142-ban-ba142,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA143,Bàn BA143,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba143-ban-ba143,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA201,Bộ bàn ghế BA201,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba201-bo-ban-ghe-ba201,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA501,Bộ bàn ăn BA501,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba501-bo-ban-an-ba501,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA502,Bộ bàn ăn BA502,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba502-bo-ban-an-ba502,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA503A,Bộ bàn ăn BA503A-GA503,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba503a-bo-ban-an-ba503a-ga503,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA503B,Nội thất gia đình BA503B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba503b-noi-that-gia-inh-ba503b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA504A,Bàn BA504A,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba504a-ban-ba504a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA504B,Nội thất gia đình BA504B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba504b-noi-that-gia-inh-ba504b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA505A,Bàn BA505A,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba505a-ban-ba505a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA505AK8,Nội thất gia đình BA505AK8,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba505ak8-noi-that-gia-inh-ba505ak8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA505B,Nội thất gia đình BA505B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba505b-noi-that-gia-inh-ba505b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA505BK8,Nội thất gia đình BA505BK8,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba505bk8-noi-that-gia-inh-ba505bk8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA507,Bộ bàn ăn BA507-GA507,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba507-bo-ban-an-ba507-ga507,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA508,Bộ bàn ăn BA508-GA508,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba508-bo-ban-an-ba508-ga508,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA509A,Bộ bàn ghế BA509A,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba509a-bo-ban-ghe-ba509a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA509AK8,Nội thất gia đình BA509AK8,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba509ak8-noi-that-gia-inh-ba509ak8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA509B,Nội thất gia đình BA509B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba509b-noi-that-gia-inh-ba509b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BA509BK8,Nội thất gia đình BA509BK8,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ba509bk8-noi-that-gia-inh-ba509bk8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT101A,Bàn BBT101A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt101a-ban-bbt101a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT101AG,Bàn bán trú BBT101AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt101ag-ban-ban-tru-bbt101ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT101B,Nội thất trường học BBT101B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt101b-noi-that-truong-hoc-bbt101b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT101BG,Nội thất trường học BBT101BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt101bg-noi-that-truong-hoc-bbt101bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT101C,Bàn BBT101C,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt101c-ban-bbt101c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT101CG,Nội thất trường học BBT101CG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt101cg-noi-that-truong-hoc-bbt101cg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT102A,Bàn BBT102A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt102a-ban-bbt102a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT102AG,Bàn bán trú BBT102AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt102ag-ban-ban-tru-bbt102ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT102B,Nội thất trường học BBT102B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt102b-noi-that-truong-hoc-bbt102b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT102BG,Nội thất trường học BBT102BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt102bg-noi-that-truong-hoc-bbt102bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT102C,Bàn BBT102C,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt102c-ban-bbt102c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT102CG,Nội thất trường học BBT102CG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt102cg-noi-that-truong-hoc-bbt102cg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-3,Bàn BBT103-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-3-ban-bbt103-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-3G,Bàn ghế bán trú BBT103-3G - GBT103-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-3g-ban-ghe-ban-tru-bbt103-3g-gbt103-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-4,Nội thất trường học BBT103-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-4-noi-that-truong-hoc-bbt103-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-4G,Nội thất trường học BBT103-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-4g-noi-that-truong-hoc-bbt103-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-5,Nội thất trường học BBT103-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-5-noi-that-truong-hoc-bbt103-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-5G,Nội thất trường học BBT103-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-5g-noi-that-truong-hoc-bbt103-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-6,Nội thất trường học BBT103-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-6-noi-that-truong-hoc-bbt103-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103-6G,Nội thất trường học BBT103-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103-6g-noi-that-truong-hoc-bbt103-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP3,Bàn ghế bán trú BBT103HP3 - GBT103HP3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp3-ban-ghe-ban-tru-bbt103hp3-gbt103hp3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP3G,Bàn ghế bán trú BBT103HP3G - GBT103HP3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp3g-ban-ghe-ban-tru-bbt103hp3g-gbt103hp3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP4,Nội thất trường học BBT103HP4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp4-noi-that-truong-hoc-bbt103hp4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP4G,Nội thất trường học BBT103HP4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp4g-noi-that-truong-hoc-bbt103hp4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP5,Nội thất trường học BBT103HP5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp5-noi-that-truong-hoc-bbt103hp5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP5G,Nội thất trường học BBT103HP5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp5g-noi-that-truong-hoc-bbt103hp5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP6,Nội thất trường học BBT103HP6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp6-noi-that-truong-hoc-bbt103hp6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT103HP6G,Nội thất trường học BBT103HP6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt103hp6g-noi-that-truong-hoc-bbt103hp6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT104AG,Bộ bàn ghế BBT104AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt104ag-bo-ban-ghe-bbt104ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT104BG,Nội thất trường học BBT104BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt104bg-noi-that-truong-hoc-bbt104bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT104CG,Nội thất trường học BBT104CG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt104cg-noi-that-truong-hoc-bbt104cg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT105AG,Bộ bàn ghế BBT105AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt105ag-bo-ban-ghe-bbt105ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT105BG,Nội thất trường học BBT105BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt105bg-noi-that-truong-hoc-bbt105bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BBT105CG,Nội thất trường học BBT105CG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bbt105cg-noi-that-truong-hoc-bbt105cg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCF102T,Bàn Cafe BCF102T,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bcf102t-ban-cafe-bcf102t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCF105,Bàn Cafe BCF105,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bcf105-ban-cafe-bcf105,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCF106T,Bàn Cafe BCF106T,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bcf106t-ban-cafe-bcf106t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCF107T,Bàn Cafe BCF107T,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bcf107t-ban-cafe-bcf107t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCF109,Bàn Cafe BCF109,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bcf109-ban-cafe-bcf109,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCF201,Bàn ghế cafe BCF201-GCF201,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bcf201-ban-ghe-cafe-bcf201-gcf201,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN712,Bàn Ăn Công Nghiệp BCN712,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn712-ban-an-cong-nghiep-bcn712,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN712A,Bàn inox chữ nhật BCN712A,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn712a-ban-inox-chu-nhat-bcn712a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN712AG,Bàn gấp inox chữ nhật BCN712AG,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn712ag-ban-gap-inox-chu-nhat-bcn712ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN712B,Bàn Ăn Công Nghiệp BCN712B,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn712b-ban-an-cong-nghiep-bcn712b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN712BC,Bàn ăn inox BCN712BC,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn712bc-ban-an-inox-bcn712bc,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN712BG,Bàn gấp inox BCN712BG,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn712bg-ban-gap-inox-bcn712bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN813B,Bàn gấp inox chữ nhật BCN813B,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn813b-ban-gap-inox-chu-nhat-bcn813b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BCN813BG,Bàn gấp inox BCN813BG,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bcn813bg-ban-gap-inox-bcn813bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BF51,Khay bàn phím BF51,HOC_SAT,HOC_SAT,EXISTING,/san-pham/bf51-khay-ban-phim-bf51,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG01,Bàn gấp BG01,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg01-ban-gap-bg01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG05,Bàn gấp BG05,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg05-ban-gap-bg05,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG05-512,Bàn gấp khung thép BG05-512,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg05-512-ban-gap-khung-thep-bg05-512,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG05-514,Bàn ăn công nghiệp BG05-514,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg05-514-ban-an-cong-nghiep-bg05-514,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG05-516,Bàn ăn công nghiệp BG05-516,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg05-516-ban-an-cong-nghiep-bg05-516,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG05-518,Bàn ăn công nghiệp BG05-518,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg05-518-ban-an-cong-nghiep-bg05-518,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG05-712,Bàn ăn công nghiệp BG05-712,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg05-712-ban-an-cong-nghiep-bg05-712,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG06,Bàn gấp BG06,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg06-ban-gap-bg06,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG06-512,Bàn gấp khung thép BG06-512,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg06-512-ban-gap-khung-thep-bg06-512,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG06-514,Bàn gấp chân sắt BG06-514,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg06-514-ban-gap-chan-sat-bg06-514,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG06-516,Bàn gấp chân sắt BG06-516,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg06-516-ban-gap-chan-sat-bg06-516,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG06-518,Bàn gấp chân sắt BG06-518,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg06-518-ban-gap-chan-sat-bg06-518,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG06-712,Bàn ăn công nghiệp BG06-712,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg06-712-ban-an-cong-nghiep-bg06-712,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG06K16,Bàn gấp BG06K16,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg06k16-ban-gap-bg06k16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG07,Bàn gấp BG07,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bg07-ban-gap-bg07,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BG203,Bàn BG203,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bg203-ban-bg203,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BGV101,Bàn ghế giáo viên BGV101 - GGV101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bgv101-ban-ghe-giao-vien-bgv101-ggv101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BGV101G,Bàn ghế giáo viên BGV101G - GGV101G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bgv101g-ban-ghe-giao-vien-bgv101g-ggv101g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BGV103,Bàn ghế giáo viên BGV103 - GGV103,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bgv103-ban-ghe-giao-vien-bgv103-ggv103,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BGV103G,Bàn ghế giáo viên BGV103G - GGV103G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bgv103g-ban-ghe-giao-vien-bgv103g-ggv103g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BH101,Bàn phòng học tiếng Anh BH101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bh101-ban-phong-hoc-tieng-anh-bh101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHE01,Nội thất gia đình BHE01,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bhe01-noi-that-gia-inh-bhe01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHE02,Nội thất gia đình BHE02,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bhe02-noi-that-gia-inh-bhe02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHE301,Nội thất gia đình BHE301,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bhe301-noi-that-gia-inh-bhe301,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS03-1,Bàn ghế học sinh BHS03-1 - GHS03-1,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs03-1-ban-ghe-hoc-sinh-bhs03-1-ghs03-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS09-1,Bàn BHS09-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs09-1-ban-bhs09-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS101A,Bàn ghế học sinh BHS101A - GHS101A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs101a-ban-ghe-hoc-sinh-bhs101a-ghs101a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS101AG,Bàn ghế học sinh BHS101AG - GHS101AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs101ag-ban-ghe-hoc-sinh-bhs101ag-ghs101ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS101B,Bộ bàn ghế BHS101B - GHS101B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs101b-bo-ban-ghe-bhs101b-ghs101b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS102A,Bàn ghế học sinh BHS102A - GHS102A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs102a-ban-ghe-hoc-sinh-bhs102a-ghs102a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS102AG,Bàn ghế học sinh BHS102AG - GHS102AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs102ag-ban-ghe-hoc-sinh-bhs102ag-ghs102ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS102B,Bộ bàn ghế BHS102B - GHS102B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs102b-bo-ban-ghe-bhs102b-ghs102b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS103A,Bàn BHS103A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs103a-ban-bhs103a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS103B,Nội thất trường học BHS103B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs103b-noi-that-truong-hoc-bhs103b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS103C,Bàn học sinh BHS103C,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs103c-ban-hoc-sinh-bhs103c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS104A,Bàn BHS104A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs104a-ban-bhs104a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS104B,Nội thất trường học BHS104B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs104b-noi-that-truong-hoc-bhs104b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS104C,Bàn BHS104C,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs104c-ban-bhs104c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106-3,Bàn BHS106-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106-3-ban-bhs106-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106-4,Nội thất trường học BHS106-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106-4-noi-that-truong-hoc-bhs106-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106-5,Nội thất trường học BHS106-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106-5-noi-that-truong-hoc-bhs106-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106-6,Nội thất trường học BHS106-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106-6-noi-that-truong-hoc-bhs106-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106HP3,Bàn ghế học sinh BHS106HP3 - GHS106HP3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106hp3-ban-ghe-hoc-sinh-bhs106hp3-ghs106hp3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106HP4,Nội thất trường học BHS106HP4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106hp4-noi-that-truong-hoc-bhs106hp4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106HP5,Nội thất trường học BHS106HP5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106hp5-noi-that-truong-hoc-bhs106hp5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106HP6,Nội thất trường học BHS106HP6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106hp6-noi-that-truong-hoc-bhs106hp6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS106HP7,Nội thất trường học BHS106HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs106hp7-noi-that-truong-hoc-bhs106hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-3,Bàn BHS107-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-3-ban-bhs107-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-3G,Bàn ghế học sinh BHS107-3G - GHS107-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-3g-ban-ghe-hoc-sinh-bhs107-3g-ghs107-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-4,Nội thất trường học BHS107-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-4-noi-that-truong-hoc-bhs107-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-4G,Nội thất trường học BHS107-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-4g-noi-that-truong-hoc-bhs107-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-5,Nội thất trường học BHS107-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-5-noi-that-truong-hoc-bhs107-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-5G,Nội thất trường học BHS107-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-5g-noi-that-truong-hoc-bhs107-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-6,Nội thất trường học BHS107-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-6-noi-that-truong-hoc-bhs107-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107-6G,Nội thất trường học BHS107-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107-6g-noi-that-truong-hoc-bhs107-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP3,Bàn ghế học sinh BHS107HP3 - GHS107-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp3-ban-ghe-hoc-sinh-bhs107hp3-ghs107-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP3G,Bàn ghế học sinh BHS107HP3G - GHS107-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp3g-ban-ghe-hoc-sinh-bhs107hp3g-ghs107-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP4,Nội thất trường học BHS107HP4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp4-noi-that-truong-hoc-bhs107hp4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP4G,Nội thất trường học BHS107HP4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp4g-noi-that-truong-hoc-bhs107hp4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP5,Nội thất trường học BHS107HP5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp5-noi-that-truong-hoc-bhs107hp5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP5G,Nội thất trường học BHS107HP5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp5g-noi-that-truong-hoc-bhs107hp5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP6,Nội thất trường học BHS107HP6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp6-noi-that-truong-hoc-bhs107hp6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP6G,Nội thất trường học BHS107HP6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp6g-noi-that-truong-hoc-bhs107hp6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP7,Nội thất trường học BHS107HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp7-noi-that-truong-hoc-bhs107hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS107HP7G,Nội thất trường học BHS107HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs107hp7g-noi-that-truong-hoc-bhs107hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-3,Bàn BHS108-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-3-ban-bhs108-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-3G,Bàn ghế học sinh BHS108-3G - GHS108-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-3g-ban-ghe-hoc-sinh-bhs108-3g-ghs108-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-4,Nội thất trường học BHS108-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-4-noi-that-truong-hoc-bhs108-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-4G,Nội thất trường học BHS108-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-4g-noi-that-truong-hoc-bhs108-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-5,Nội thất trường học BHS108-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-5-noi-that-truong-hoc-bhs108-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-5G,Nội thất trường học BHS108-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-5g-noi-that-truong-hoc-bhs108-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-6,Nội thất trường học BHS108-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-6-noi-that-truong-hoc-bhs108-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108-6G,Nội thất trường học BHS108-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108-6g-noi-that-truong-hoc-bhs108-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP3,Bàn ghế học sinh BHS108HP3 - GHS108-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp3-ban-ghe-hoc-sinh-bhs108hp3-ghs108-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP3G,Bàn ghế học sinh BHS108HP3G - GHS108HP3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp3g-ban-ghe-hoc-sinh-bhs108hp3g-ghs108hp3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP4,Nội thất trường học BHS108HP4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp4-noi-that-truong-hoc-bhs108hp4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP4G,Nội thất trường học BHS108HP4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp4g-noi-that-truong-hoc-bhs108hp4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP5,Nội thất trường học BHS108HP5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp5-noi-that-truong-hoc-bhs108hp5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP5G,Nội thất trường học BHS108HP5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp5g-noi-that-truong-hoc-bhs108hp5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP6,Nội thất trường học BHS108HP6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp6-noi-that-truong-hoc-bhs108hp6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP6G,Nội thất trường học BHS108HP6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp6g-noi-that-truong-hoc-bhs108hp6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP7,Nội thất trường học BHS108HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp7-noi-that-truong-hoc-bhs108hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS108HP7G,Nội thất trường học BHS108HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs108hp7g-noi-that-truong-hoc-bhs108hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-3,Bàn BHS109-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-3-ban-bhs109-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-3G,Bàn ghế học sinh BHS109-3G - GHS109-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-3g-ban-ghe-hoc-sinh-bhs109-3g-ghs109-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-4,Nội thất trường học BHS109-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-4-noi-that-truong-hoc-bhs109-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-4G,Bộ bàn ghế BHS109-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-4g-bo-ban-ghe-bhs109-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-5,Nội thất trường học BHS109-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-5-noi-that-truong-hoc-bhs109-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-5G,Nội thất trường học BHS109-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-5g-noi-that-truong-hoc-bhs109-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-6,Nội thất trường học BHS109-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-6-noi-that-truong-hoc-bhs109-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109-6G,Nội thất trường học BHS109-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109-6g-noi-that-truong-hoc-bhs109-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP3,Bàn ghế học sinh BHS109HP3 - GHS109-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp3-ban-ghe-hoc-sinh-bhs109hp3-ghs109-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP3G,Bàn ghế học sinh BHS109HP3G - GHS109HP3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp3g-ban-ghe-hoc-sinh-bhs109hp3g-ghs109hp3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP4,Nội thất trường học BHS109HP4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp4-noi-that-truong-hoc-bhs109hp4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP4G,Nội thất trường học BHS109HP4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp4g-noi-that-truong-hoc-bhs109hp4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP5,Nội thất trường học BHS109HP5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp5-noi-that-truong-hoc-bhs109hp5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP5G,Nội thất trường học BHS109HP5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp5g-noi-that-truong-hoc-bhs109hp5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP6,Nội thất trường học BHS109HP6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp6-noi-that-truong-hoc-bhs109hp6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP6G,Nội thất trường học BHS109HP6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp6g-noi-that-truong-hoc-bhs109hp6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP7,Nội thất trường học BHS109HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp7-noi-that-truong-hoc-bhs109hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS109HP7G,Nội thất trường học BHS109HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs109hp7g-noi-that-truong-hoc-bhs109hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-3,Bàn BHS110-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-3-ban-bhs110-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-3G,Bàn ghế học sinh BHS110-3G- GHS110-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-3g-ban-ghe-hoc-sinh-bhs110-3g-ghs110-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-4,Nội thất trường học BHS110-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-4-noi-that-truong-hoc-bhs110-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-4G,Nội thất trường học BHS110-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-4g-noi-that-truong-hoc-bhs110-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-5,Nội thất trường học BHS110-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-5-noi-that-truong-hoc-bhs110-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-5G,Nội thất trường học BHS110-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-5g-noi-that-truong-hoc-bhs110-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-6,Nội thất trường học BHS110-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-6-noi-that-truong-hoc-bhs110-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110-6G,Nội thất trường học BHS110-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110-6g-noi-that-truong-hoc-bhs110-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP3,Bàn ghế học sinh BHS110HP3 - GHS110HP3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp3-ban-ghe-hoc-sinh-bhs110hp3-ghs110hp3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP3G,Bàn ghế học sinh BHS110HP3G - GHS110HP3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp3g-ban-ghe-hoc-sinh-bhs110hp3g-ghs110hp3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP4,Nội thất trường học BHS110HP4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp4-noi-that-truong-hoc-bhs110hp4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP4G,Nội thất trường học BHS110HP4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp4g-noi-that-truong-hoc-bhs110hp4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP5,Nội thất trường học BHS110HP5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp5-noi-that-truong-hoc-bhs110hp5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP5G,Nội thất trường học BHS110HP5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp5g-noi-that-truong-hoc-bhs110hp5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP6,Nội thất trường học BHS110HP6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp6-noi-that-truong-hoc-bhs110hp6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP6G,Bộ bàn ghế BHS110HP6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp6g-bo-ban-ghe-bhs110hp6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP7,Nội thất trường học BHS110HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp7-noi-that-truong-hoc-bhs110hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS110HP7G,Nội thất trường học BHS110HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs110hp7g-noi-that-truong-hoc-bhs110hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS111-4G,Bàn học sinh BHS111-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs111-4g-ban-hoc-sinh-bhs111-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS111-5G,Nội thất trường học BHS111-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs111-5g-noi-that-truong-hoc-bhs111-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS111-6G,Nội thất trường học BHS111-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs111-6g-noi-that-truong-hoc-bhs111-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS111-7G,Nội thất trường học BHS111-7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs111-7g-noi-that-truong-hoc-bhs111-7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS112-4G,Bàn học sinh BHS112-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs112-4g-ban-hoc-sinh-bhs112-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS112-5G,Nội thất trường học BHS112-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs112-5g-noi-that-truong-hoc-bhs112-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS112-6G,Nội thất trường học BHS112-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs112-6g-noi-that-truong-hoc-bhs112-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS112-7G,Nội thất trường học BHS112-7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs112-7g-noi-that-truong-hoc-bhs112-7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS115-4G,Bộ bàn ghế BHS115-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs115-4g-bo-ban-ghe-bhs115-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS115-5G,Nội thất trường học BHS115-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs115-5g-noi-that-truong-hoc-bhs115-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS115-6G,Nội thất trường học BHS115-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs115-6g-noi-that-truong-hoc-bhs115-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS115-7G,Nội thất trường học BHS115-7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs115-7g-noi-that-truong-hoc-bhs115-7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS116-4G,Bộ bàn ghế BHS116-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs116-4g-bo-ban-ghe-bhs116-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS116-5G,Nội thất trường học BHS116-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs116-5g-noi-that-truong-hoc-bhs116-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS116-6G,Nội thất trường học BHS116-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs116-6g-noi-that-truong-hoc-bhs116-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS116-7G,Nội thất trường học BHS116-7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs116-7g-noi-that-truong-hoc-bhs116-7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS117,Bàn học sinh BHS117,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs117-ban-hoc-sinh-bhs117,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS118,Bàn học sinh BHS118,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs118-ban-hoc-sinh-bhs118,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS119,"Bàn học sinh cấp 1,2 BHS119",G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs119-ban-hoc-sinh-cap-1-2-bhs119,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS119G,"Bàn học sinh cấp 1,2 BHS119G",G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs119g-ban-hoc-sinh-cap-1-2-bhs119g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS20-1,Bàn ghế học sinh BHS20-1 - GHS20-1,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs20-1-ban-ghe-hoc-sinh-bhs20-1-ghs20-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS20-2,Bàn học cho bé BHS20-2 - GHS20-2,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs20-2-ban-hoc-cho-be-bhs20-2-ghs20-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS20-3,Bàn học cho bé BHS20-3-GHS20-3,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs20-3-ban-hoc-cho-be-bhs20-3-ghs20-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS20-4,Bàn học cho bé BHS20-4 - GHS20-4,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs20-4-ban-hoc-cho-be-bhs20-4-ghs20-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS20C-3,Bàn ghế học sinh BHS20C-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs20c-3-ban-ghe-hoc-sinh-bhs20c-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS25,Bộ bàn ghế học sinh BHS25-GHS25,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs25-bo-ban-ghe-hoc-sinh-bhs25-ghs25,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS25G,Bộ bàn ghế học sinh BHS25G-GHS25G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs25g-bo-ban-ghe-hoc-sinh-bhs25g-ghs25g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS26,Bàn Học Sinh BHS26,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs26-ban-hoc-sinh-bhs26,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS28-1,Bàn học cho bé BHS28-1 - GHS28-1,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs28-1-ban-hoc-cho-be-bhs28-1-ghs28-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS28-2,Bàn học cho bé BHS28-2 - GHS28-2,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs28-2-ban-hoc-cho-be-bhs28-2-ghs28-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS28-3,Bàn học cho bé BHS28-3 - GHS28,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs28-3-ban-hoc-cho-be-bhs28-3-ghs28,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS28B-3,Bàn học cho bé BHS28B-3 - GHS28B-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs28b-3-ban-hoc-cho-be-bhs28b-3-ghs28b-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS28C-3,Bàn học cho bé BHS28C-3 - GHS28C-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs28c-3-ban-hoc-cho-be-bhs28c-3-ghs28c-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29A-1,Bộ bàn ghế BHS29A-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29a-1-bo-ban-ghe-bhs29a-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29A-2,Bộ bàn ghế BHS29A-2,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29a-2-bo-ban-ghe-bhs29a-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29A-3,Bộ bàn ghế BHS29A-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29a-3-bo-ban-ghe-bhs29a-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29B-1,Bộ bàn ghế BHS29B-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29b-1-bo-ban-ghe-bhs29b-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29B-2,Bộ bàn ghế BHS29B-2,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29b-2-bo-ban-ghe-bhs29b-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29B-3,Bộ bàn ghế BHS29B-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29b-3-bo-ban-ghe-bhs29b-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29B-4,Bàn ghế học sinh BHS29B-4 - GHS29,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29b-4-ban-ghe-hoc-sinh-bhs29b-4-ghs29,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS29C-3,Bộ bàn ghế BHS29C-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs29c-3-bo-ban-ghe-bhs29c-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS30,Bàn học sinh BHS30,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs30-ban-hoc-sinh-bhs30,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS302,Bàn học sinh BHS302,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bhs302-ban-hoc-sinh-bhs302,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS40,Bàn ghế học sinh BHS40,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs40-ban-ghe-hoc-sinh-bhs40,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS401,Bàn học sinh BHS401,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bhs401-ban-hoc-sinh-bhs401,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS402,Bàn học sinh BHS402,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bhs402-ban-hoc-sinh-bhs402,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS403,Bàn học sinh BHS403,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bhs403-ban-hoc-sinh-bhs403,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS404,Bàn học sinh liền giá sách BHS404,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bhs404-ban-hoc-sinh-lien-gia-sach-bhs404,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS405,Bàn học sinh liền giá sách BHS405,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bhs405-ban-hoc-sinh-lien-gia-sach-bhs405,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS40G,Bàn ghế học sinh BHS40G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs40g-ban-ghe-hoc-sinh-bhs40g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS41A,Bàn ghế học sinh BHS41A,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs41a-ban-ghe-hoc-sinh-bhs41a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS41AG,Bàn ghế học sinh BHS41AG,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs41ag-ban-ghe-hoc-sinh-bhs41ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS41B,Bàn ghế học sinh BHS41B,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs41b-ban-ghe-hoc-sinh-bhs41b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS41BG,Bàn ghế học sinh BHS41BG,G03,NOI_THAT_TRUONG_HOC,G03,/san-pham/bhs41bg-ban-ghe-hoc-sinh-bhs41bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-4,Bàn học sinh BHS43-4,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs43-4-ban-hoc-sinh-bhs43-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-4G,Bàn học sinh BHS43-4G,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs43-4g-ban-hoc-sinh-bhs43-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-5,Nội thất trường học BHS43-5,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bhs43-5-noi-that-truong-hoc-bhs43-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-5G,Nội thất trường học BHS43-5G,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bhs43-5g-noi-that-truong-hoc-bhs43-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-6,Nội thất trường học BHS43-6,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bhs43-6-noi-that-truong-hoc-bhs43-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-6G,Nội thất trường học BHS43-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs43-6g-noi-that-truong-hoc-bhs43-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-7,Nội thất trường học BHS43-7,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bhs43-7-noi-that-truong-hoc-bhs43-7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS43-7G,Nội thất trường học BHS43-7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs43-7g-noi-that-truong-hoc-bhs43-7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-4,Bàn học sinh BHS44-4,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs44-4-ban-hoc-sinh-bhs44-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-4G,Bàn học sinh BHS44-4G,G04,NOI_THAT_TRUONG_HOC,G04,/san-pham/bhs44-4g-ban-hoc-sinh-bhs44-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-5,Nội thất trường học BHS44-5,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bhs44-5-noi-that-truong-hoc-bhs44-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-5G,Nội thất trường học BHS44-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs44-5g-noi-that-truong-hoc-bhs44-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-6,Nội thất trường học BHS44-6,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bhs44-6-noi-that-truong-hoc-bhs44-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-6G,Nội thất trường học BHS44-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs44-6g-noi-that-truong-hoc-bhs44-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-7,Nội thất trường học BHS44-7,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bhs44-7-noi-that-truong-hoc-bhs44-7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS44-7G,Nội thất trường học BHS44-7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs44-7g-noi-that-truong-hoc-bhs44-7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS501-3,Bộ bàn ghế BHS501-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs501-3-bo-ban-ghe-bhs501-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS501-4,Nội thất trường học BHS501-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs501-4-noi-that-truong-hoc-bhs501-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHS501-5,Nội thất trường học BHS501-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bhs501-5-noi-that-truong-hoc-bhs501-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT01,Bàn gấp gọn BHT01,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht01-ban-gap-gon-bht01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT02-12,Bàn gấp khung thép BHT02-12,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht02-12-ban-gap-khung-thep-bht02-12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT02-14,Sản phẩm công trình BHT02-14,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht02-14-san-pham-cong-trinh-bht02-14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT04,Bàn hội trường BHT04,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht04-ban-hoi-truong-bht04,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DH1,Bàn hội trường BHT12DH1,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dh1-ban-hoi-truong-bht12dh1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DH2,Bàn hội trường BHT12DH2,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dh2-ban-hoi-truong-bht12dh2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DH2V,Bàn hội trường BHT12DH2V,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dh2v-ban-hoi-truong-bht12dh2v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DH3,Bàn hội trường BHT12DH3,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dh3-ban-hoi-truong-bht12dh3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DH4,Bàn hội trường BHT12DH4,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dh4-ban-hoi-truong-bht12dh4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DH4V,Bàn hội trường BHT12DH4V,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dh4v-ban-hoi-truong-bht12dh4v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DV1,Bàn hội trường BHT12DV1,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dv1-ban-hoi-truong-bht12dv1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12DV2,Bàn hội trường BHT12DV2,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht12dv2-ban-hoi-truong-bht12dv2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12LH2,Bàn hội trường BHT12LH2,B06-10,NOI_THAT_CONG_TRINH,B06-10,/san-pham/bht12lh2-ban-hoi-truong-bht12lh2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT12LH2V,Bàn hội trường BHT12LH2V,B06-10,NOI_THAT_CONG_TRINH,B06-10,/san-pham/bht12lh2v-ban-hoi-truong-bht12lh2v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT15DH2,Bàn hội trường BHT15DH2,B06-10,NOI_THAT_CONG_TRINH,B06-10,/san-pham/bht15dh2-ban-hoi-truong-bht15dh2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT15DH2V,Bàn hội trường BHT15DH2V,B06-10,NOI_THAT_CONG_TRINH,B06-10,/san-pham/bht15dh2v-ban-hoi-truong-bht15dh2v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT15DH4,Bàn hội trường BHT15DH4,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht15dh4-ban-hoi-truong-bht15dh4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT15DH4V,Bàn hội trường BHT15DH4V,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht15dh4v-ban-hoi-truong-bht15dh4v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT15LH2,Bàn hội trường BHT15LH2,B06-10,NOI_THAT_CONG_TRINH,B06-10,/san-pham/bht15lh2-ban-hoi-truong-bht15lh2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT15LH2V,Bàn hội trường BHT15LH2V,B06-10,NOI_THAT_CONG_TRINH,B06-10,/san-pham/bht15lh2v-ban-hoi-truong-bht15lh2v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BHT512,Bàn gấp gọn BHT512,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bht512-ban-gap-gon-bht512,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BK610,Bàn ăn Inox BK610,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bk610-ban-an-inox-bk610,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BK712,Bàn ăn Inox BK712,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bk712-ban-an-inox-bk712,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKB01,Bàn khám bệnh BKB01,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/bkb01-ban-kham-benh-bkb01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKB02,Bàn khám bệnh BKB02,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/bkb02-ban-kham-benh-bkb02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKB03I,Bàn khám bệnh BKB03I,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/bkb03i-ban-kham-benh-bkb03i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKS01,Bàn ghế khách sạn BKS01-GKS01,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bks01-ban-ghe-khach-san-bks01-gks01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKS02,Bàn ghế khách sạn BKS02-GKS02,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bks02-ban-ghe-khach-san-bks02-gks02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKS04,Bàn ghế Khách sạn BKS04-GKS04,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bks04-ban-ghe-khach-san-bks04-gks04,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKS05,Bàn ghế khách sạn BKS05-GKS05,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bks05-ban-ghe-khach-san-bks05-gks05,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKS06,Bàn ghế khách sạn BKS06-GKS06,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bks06-ban-ghe-khach-san-bks06-gks06,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKS07,Bàn ghế khách sạn BKS07-GKS07,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bks07-ban-ghe-khach-san-bks07-gks07,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BKSID16,Bàn khám sản BKSID16,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/bksid16-ban-kham-san-bksid16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BM101,Bàn máy tính BM101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bm101-ban-may-tinh-bm101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG101A-1,Bàn gấp BMG101A-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bmg101a-1-ban-gap-bmg101a-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG101A-2,Nội thất trường học BMG101A-2,B04-03,NOI_THAT_TRUONG_HOC,B04-03,/san-pham/bmg101a-2-noi-that-truong-hoc-bmg101a-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG101AN,Bàn mẫu giáo BMG101AN,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bmg101an-ban-mau-giao-bmg101an,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG101B-1,Nội thất trường học BMG101B-1,B04-03,NOI_THAT_TRUONG_HOC,B04-03,/san-pham/bmg101b-1-noi-that-truong-hoc-bmg101b-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG101B-2,Nội thất trường học BMG101B-2,B04-03,NOI_THAT_TRUONG_HOC,B04-03,/san-pham/bmg101b-2-noi-that-truong-hoc-bmg101b-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG101BN,Nội thất trường học BMG101BN,B06-02,NOI_THAT_TRUONG_HOC,B06-02,/san-pham/bmg101bn-noi-that-truong-hoc-bmg101bn,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG102A-1,Bàn BMG102A-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bmg102a-1-ban-bmg102a-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG102A-2,Nội thất trường học BMG102A-2,B04-03,NOI_THAT_TRUONG_HOC,B04-03,/san-pham/bmg102a-2-noi-that-truong-hoc-bmg102a-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG102B-1,Nội thất trường học BMG102B-1,B05-02,NOI_THAT_TRUONG_HOC,B05-02,/san-pham/bmg102b-1-noi-that-truong-hoc-bmg102b-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG102B-2,Nội thất trường học BMG102B-2,B05-02,NOI_THAT_TRUONG_HOC,B05-02,/san-pham/bmg102b-2-noi-that-truong-hoc-bmg102b-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG104A-1,Bàn gấp BMG104A-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bmg104a-1-ban-gap-bmg104a-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG104A-2,Nội thất trường học BMG104A-2,B05-02,NOI_THAT_TRUONG_HOC,B05-02,/san-pham/bmg104a-2-noi-that-truong-hoc-bmg104a-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG104A-4,Bàn ghế mẫu giáo BMG104A-4 + GMG104A-4,B05-02,NOI_THAT_TRUONG_HOC,B05-02,/san-pham/bmg104a-4-ban-ghe-mau-giao-bmg104a-4-gmg104a-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG104B-1,Bàn gấp BMG104B-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bmg104b-1-ban-gap-bmg104b-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG104B-2,Nội thất trường học BMG104B-2,B05-02,NOI_THAT_TRUONG_HOC,B05-02,/san-pham/bmg104b-2-noi-that-truong-hoc-bmg104b-2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMG104B-4,Bàn ghế mẫu giáo BMG104B-4 + GMG104B-4,B05-02,NOI_THAT_TRUONG_HOC,B05-02,/san-pham/bmg104b-4-ban-ghe-mau-giao-bmg104b-4-gmg104b-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT01,Bàn máy tính BMT01,BAN_MAY_TINH,BAN_MAY_TINH,EXISTING,/san-pham/bmt01-ban-may-tinh-bmt01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT03,Bàn làm việc gia đình BMT03,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bmt03-ban-lam-viec-gia-inh-bmt03,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT04,Bàn BMT04,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bmt04-ban-bmt04,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT05,Bàn máy tính BMT05,BAN_MAY_TINH,BAN_MAY_TINH,EXISTING,/san-pham/bmt05-ban-may-tinh-bmt05,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT11,Bàn máy tính BMT11,BAN_MAY_TINH,BAN_MAY_TINH,EXISTING,/san-pham/bmt11-ban-may-tinh-bmt11,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT136,Bàn máy tính BMT136,BAN_MAY_TINH,BAN_MAY_TINH,EXISTING,/san-pham/bmt136-ban-may-tinh-bmt136,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT30,Bàn máy tính BMT30,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bmt30-ban-may-tinh-bmt30,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT31,Bàn làm việc gia đình BMT31,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bmt31-ban-lam-viec-gia-inh-bmt31,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT46,Bàn vi tính BMT46,BAN_MAY_TINH,BAN_MAY_TINH,EXISTING,/san-pham/bmt46-ban-vi-tinh-bmt46,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT97A,Bàn vi tính BMT97A,BAN_MAY_TINH,BAN_MAY_TINH,EXISTING,/san-pham/bmt97a-ban-vi-tinh-bmt97a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BMT97B,Bàn vi tính BMT97B,BAN_MAY_TINH,BAN_MAY_TINH,EXISTING,/san-pham/bmt97b-ban-vi-tinh-bmt97b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP301,Nội thất gia đình BP301,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp301-noi-that-gia-inh-bp301,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP302,Nội thất gia đình BP302,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp302-noi-that-gia-inh-bp302,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP303,Nội thất gia đình BP303,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp303-noi-that-gia-inh-bp303,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP304,Nội thất gia đình BP304,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp304-noi-that-gia-inh-bp304,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP305,Nội thất gia đình BP305,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp305-noi-that-gia-inh-bp305,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP307,Nội thất gia đình BP307,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp307-noi-that-gia-inh-bp307,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP308,Nội thất gia đình BP308,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp308-noi-that-gia-inh-bp308,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP401,Nội thất gia đình BP401,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp401-noi-that-gia-inh-bp401,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BP402,Nội thất gia đình BP402,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bp402-noi-that-gia-inh-bp402,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ101-18,Bàn BQ101-18,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq101-18-ban-bq101-18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ101-20,Sản phẩm công trình BQ101-20,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq101-20-san-pham-cong-trinh-bq101-20,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ101-22,Sản phẩm công trình BQ101-22,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq101-22-san-pham-cong-trinh-bq101-22,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ102-22,Bàn BQ102-22,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq102-22-ban-bq102-22,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ103-18,Bàn quầy lễ tân BQ103-18,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq103-18-ban-quay-le-tan-bq103-18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ104-18,Bàn BQ104-18,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq104-18-ban-bq104-18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ104-20,Sản phẩm công trình BQ104-20,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq104-20-san-pham-cong-trinh-bq104-20,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BQ104-22,Sản phẩm công trình BQ104-22,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/bq104-22-san-pham-cong-trinh-bq104-22,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1000-2T2,Tủ tài liệu thấp BRI1000-2T2,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1000-2t2-tu-tai-lieu-thap-bri1000-2t2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1000-3T2,Tủ hồ sơ thấp BRI1000-3T2,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1000-3t2-tu-ho-so-thap-bri1000-3t2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI120C15,Bàn làm việc BRI120C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri120c15-ban-lam-viec-bri120c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI120HLC15,Bàn làm việc BRI120HLC15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri120hlc15-ban-lam-viec-bri120hlc15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI120SC15,Bàn làm việc 1m2 BRI120SC15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri120sc15-ban-lam-viec-1m2-bri120sc15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI120SHLC15,Bàn làm việc 1m2 BRI120SHLC15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri120shlc15-ban-lam-viec-1m2-bri120shlc15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1260-2B,Tủ tài liệu thấp BRI1260-2B,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1260-2b-tu-tai-lieu-thap-bri1260-2b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1260-3B,Tủ tài liệu thấp BRI1260-3B,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1260-3b-tu-tai-lieu-thap-bri1260-3b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1280,Tủ tài liệu thấp BRI1280,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1280-tu-tai-lieu-thap-bri1280,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI140C15,Bàn chân sắt BRI140C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri140c15-ban-chan-sat-bri140c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI140HLC15,Bàn chân sắt 1m4 BRI140HLC15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri140hlc15-ban-chan-sat-1m4-bri140hlc15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI140SC15,Bàn làm việc 1m4 BRI140SC15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri140sc15-ban-lam-viec-1m4-bri140sc15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI140SHLC15,Bàn làm việc 1m4 BRI140SHLC15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri140shlc15-ban-lam-viec-1m4-bri140shlc15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI160C15,Bàn chân sắt 1m6 BRI160C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bri160c15-ban-chan-sat-1m6-bri160c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1960-3B,Tủ tài liệu BRI1960-3B,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1960-3b-tu-tai-lieu-bri1960-3b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1960-3BK,Tủ tài liệu 3 buồng BRI1960-3BK,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1960-3bk-tu-tai-lieu-3-buong-bri1960-3bk,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI1960KG,Tủ tài liệu BRI1960KG,B05-06,TU_VAN_PHONG,B05-06,/san-pham/bri1960kg-tu-tai-lieu-bri1960kg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI880D,Tủ tài liệu thấp BRI880D,B04-08,TU_VAN_PHONG,B04-08,/san-pham/bri880d-tu-tai-lieu-thap-bri880d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRI880SD,Tủ tài liệu thấp BRI880SD,B04-08,TU_VAN_PHONG,B04-08,/san-pham/bri880sd-tu-tai-lieu-thap-bri880sd,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIBF01,Bàn văn phòng BRIBF01,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bribf01-ban-van-phong-bribf01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIC01,Bàn văn phòng BRIC01,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bric01-ban-van-phong-bric01,/category.html,NO,YES,NO,KEEP,PRODUCTION
+BRIC02,Bàn văn phòng BRIC02,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/bric02-ban-van-phong-bric02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIH1810C15,Bàn họp chân sắt BRIH1810C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brih1810c15-ban-hop-chan-sat-brih1810c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIH2010C15,Bàn họp chân sắt BRIH2010C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brih2010c15-ban-hop-chan-sat-brih2010c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIH2412C15,Bàn họp chân sắt BRIH2412C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brih2412c15-ban-hop-chan-sat-brih2412c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIM3D,Hộc di động BRIM3D,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brim3d-hoc-di-ong-brim3d,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIMD01-4C15,Module bàn làm việc BRIMD01-4C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brimd01-4c15-module-ban-lam-viec-brimd01-4c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIMD02-4C15,Module bàn làm việc 4 chỗ BRIMD02-4C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brimd02-4c15-module-ban-lam-viec-4-cho-brimd02-4c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIMD03C15,Module bàn làm việc 2 chỗ BRIMD03C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brimd03c15-module-ban-lam-viec-2-cho-brimd03c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIMD03C15KY,Bàn văn phòng BRIMD03C15KY,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brimd03c15ky-ban-van-phong-brimd03c15ky,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIP180C15,Bàn trưởng phòng BRIP180C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brip180c15-ban-truong-phong-brip180c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BRIP1880C15,Bàn lãnh đạo 1m8 BRIP1880C15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/brip1880c15-ban-lanh-ao-1m8-brip1880c15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSA01,Bàn siêu âm BSA01,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/bsa01-ban-sieu-am-bsa01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF10,Bàn sofa cao cấp BSF10,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf10-ban-sofa-cao-cap-bsf10,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF11,Bàn sofa cao cấp BSF11,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf11-ban-sofa-cao-cap-bsf11,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF14,Bàn sofa cao cấp BSF14,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf14-ban-sofa-cao-cap-bsf14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF15,Bàn sofa cao cấp BSF15,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf15-ban-sofa-cao-cap-bsf15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF16,Bàn sofa cao cấp BSF16,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf16-ban-sofa-cao-cap-bsf16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF16K8,Bàn sofa cao cấp BSF16K8,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf16k8-ban-sofa-cao-cap-bsf16k8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF17,Bàn sofa cao cấp BSF17,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf17-ban-sofa-cao-cap-bsf17,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF18,Bàn sofa cao cấp BSF18,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf18-ban-sofa-cao-cap-bsf18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF19,Bàn sofa cao cấp BSF19,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf19-ban-sofa-cao-cap-bsf19,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF20,Bàn sofa cao cấp BSF20,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf20-ban-sofa-cao-cap-bsf20,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF21,Bàn sofa BSF21,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf21-ban-sofa-bsf21,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF24N4,Bàn sofa BSF24N4,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf24n4-ban-sofa-bsf24n4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF301,Bàn sofa cao cấp BSF301,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf301-ban-sofa-cao-cap-bsf301,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF401-40,Bàn sofa BSF401-40,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf401-40-ban-sofa-bsf401-40,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF401-60,Nội thất gia đình BSF401-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf401-60-noi-that-gia-inh-bsf401-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF402-60,Bàn sofa BSF402-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf402-60-ban-sofa-bsf402-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF402-80,Nội thất gia đình BSF402-80,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf402-80-noi-that-gia-inh-bsf402-80,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF403,Bàn sofa khung thép BSF403,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf403-ban-sofa-khung-thep-bsf403,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF404,Bàn sofa cao cấp BSF404,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf404-ban-sofa-cao-cap-bsf404,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF405MG46,Bàn sofa cao cấp BSF405MG46,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf405mg46-ban-sofa-cao-cap-bsf405mg46,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF405MK8,Bàn sofa BSF405MK8,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf405mk8-ban-sofa-bsf405mk8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF406-40,Bàn sofa BSF406-40,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf406-40-ban-sofa-bsf406-40,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF406-60,Bàn sofa BSF406-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf406-60-ban-sofa-bsf406-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF407-60,Bàn sofa BSF407-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf407-60-ban-sofa-bsf407-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF407-80,Bàn sofa BSF407-80,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf407-80-ban-sofa-bsf407-80,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF408,Bàn sofa gia đình khung thép BSF408,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf408-ban-sofa-gia-inh-khung-thep-bsf408,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF409-60,Bàn sofa BSF409-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf409-60-ban-sofa-bsf409-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF409-80,Nội thất gia đình BSF409-80,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf409-80-noi-that-gia-inh-bsf409-80,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF410-60,Bàn sofa BSF410-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf410-60-ban-sofa-bsf410-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF410-80,Nội thất gia đình BSF410-80,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf410-80-noi-that-gia-inh-bsf410-80,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF411-40,Bàn sofa BSF411-40,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf411-40-ban-sofa-bsf411-40,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF411-60,Bàn sofa BSF411-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf411-60-ban-sofa-bsf411-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF412,Bàn sofa BSF412,SOFA,SOFA,EXISTING,/san-pham/bsf412-ban-sofa-bsf412,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF47K10,Bàn sofa gỗ BSF47K10,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf47k10-ban-sofa-go-bsf47k10,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF501N7,Bàn sofa cao cấp BSF501N7,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf501n7-ban-sofa-cao-cap-bsf501n7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF502,Bàn sofa BSF502,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf502-ban-sofa-bsf502,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF503,Bàn sofa BSF503,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf503-ban-sofa-bsf503,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF505,Bàn sofa BSF505,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf505-ban-sofa-bsf505,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF508-60,Bàn sofa gia đình cao cấp BSF508-60,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf508-60-ban-sofa-gia-inh-cao-cap-bsf508-60,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF511,Bàn sofa BSF511,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf511-ban-sofa-bsf511,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF601,Bàn sofa khung inox BSF601,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf601-ban-sofa-khung-inox-bsf601,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF603I,Bàn sofa khung inox BSF603I,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf603i-ban-sofa-khung-inox-bsf603i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF604I,Bàn sofa khung inox BSF604I,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf604i-ban-sofa-khung-inox-bsf604i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF61V,Bàn sofa BSF61V,SOFA,SOFA,EXISTING,/san-pham/bsf61v-ban-sofa-bsf61v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF62V,Bàn sofa BSF62V,SOFA,SOFA,EXISTING,/san-pham/bsf62v-ban-sofa-bsf62v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF64V,Bàn sofa BSF64V,SOFA,SOFA,EXISTING,/san-pham/bsf64v-ban-sofa-bsf64v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF65,Bàn sofa BSF65,SOFA,SOFA,EXISTING,/san-pham/bsf65-ban-sofa-bsf65,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF66,Bàn sofa BSF66,SOFA,SOFA,EXISTING,/san-pham/bsf66-ban-sofa-bsf66,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF67V,Bàn sofa BSF67V,SOFA,SOFA,EXISTING,/san-pham/bsf67v-ban-sofa-bsf67v,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF67VM,Bàn sofa BSF67VM,SOFA,SOFA,EXISTING,/san-pham/bsf67vm-ban-sofa-bsf67vm,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF68,Bàn sofa Hòa Phát BSF68,SOFA,SOFA,EXISTING,/san-pham/bsf68-ban-sofa-hoa-phat-bsf68,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF78A,Bàn sofa cao cấp BSF78A,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf78a-ban-sofa-cao-cap-bsf78a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF78B,Bàn sofa cao cấp BSF78B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf78b-ban-sofa-cao-cap-bsf78b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF79A,Bàn sofa cao cấp BSF79A,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf79a-ban-sofa-cao-cap-bsf79a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF79B,Bàn sofa cao cấp BSF79B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf79b-ban-sofa-cao-cap-bsf79b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF80,Bàn sofa BSF80,SOFA,SOFA,EXISTING,/san-pham/bsf80-ban-sofa-bsf80,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF81,Bàn sofa BSF81,SOFA,SOFA,EXISTING,/san-pham/bsf81-ban-sofa-bsf81,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF85,Bàn sofa BSF85,SOFA,SOFA,EXISTING,/san-pham/bsf85-ban-sofa-bsf85,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF86,Bàn sofa BSF86,SOFA,SOFA,EXISTING,/san-pham/bsf86-ban-sofa-bsf86,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF87,Bàn sofa BSF87,SOFA,SOFA,EXISTING,/san-pham/bsf87-ban-sofa-bsf87,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF90,Bàn sofa cao cấp BSF90,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf90-ban-sofa-cao-cap-bsf90,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF91,Bàn sofa cao cấp BSF91,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf91-ban-sofa-cao-cap-bsf91,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF92,Bàn sofa Hòa Phát BSF92,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf92-ban-sofa-hoa-phat-bsf92,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF92B,Nội thất gia đình BSF92B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf92b-noi-that-gia-inh-bsf92b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF93,Bàn sofa cao cấp BSF93,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf93-ban-sofa-cao-cap-bsf93,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF93B,Nội thất gia đình BSF93B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf93b-noi-that-gia-inh-bsf93b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF94,Bàn sofa cao cấp BSF94,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf94-ban-sofa-cao-cap-bsf94,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF94B,Nội thất gia đình BSF94B,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf94b-noi-that-gia-inh-bsf94b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSF98,Bàn sofa cao cấp BSF98,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bsf98-ban-sofa-cao-cap-bsf98,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSH101BG,Nội thất trường học BSH101BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsh101bg-noi-that-truong-hoc-bsh101bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSH102BG,Nội thất trường học BSH102BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsh102bg-noi-that-truong-hoc-bsh102bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV101,Bàn sinh viên BSV101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv101-ban-sinh-vien-bsv101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV102,Bàn ghế sinh viên BSV102,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv102-ban-ghe-sinh-vien-bsv102,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV102G,Bàn sinh viên BSV102G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv102g-ban-sinh-vien-bsv102g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV102T,Bàn ghế sinh viên BSV102T,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv102t-ban-ghe-sinh-vien-bsv102t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV102TG,Bàn sinh viên BSV102TG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv102tg-ban-sinh-vien-bsv102tg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV103,Bàn ghế sinh viên BSV103,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv103-ban-ghe-sinh-vien-bsv103,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV103T,Bàn ghế sinh viên BSV103T,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv103t-ban-ghe-sinh-vien-bsv103t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV104,Bàn sinh viên BSV104,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv104-ban-sinh-vien-bsv104,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV105,Bàn sinh viên BSV105,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv105-ban-sinh-vien-bsv105,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV105G,Bàn sinh viên BSV105G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv105g-ban-sinh-vien-bsv105g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV105T,Bàn ghế sinh viên BSV105T,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv105t-ban-ghe-sinh-vien-bsv105t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV105TG,Bàn ghế sinh viên BSV105TG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv105tg-ban-ghe-sinh-vien-bsv105tg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV107,Bàn ghế sinh viên BSV107,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv107-ban-ghe-sinh-vien-bsv107,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV107G,Bàn sinh viên BSV107G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv107g-ban-sinh-vien-bsv107g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV107T,Bàn ghế sinh viên BSV107T,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv107t-ban-ghe-sinh-vien-bsv107t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV107TG,Bàn ghế sinh viên BSV107TG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv107tg-ban-ghe-sinh-vien-bsv107tg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV108,Bàn ghế sinh viên BSV108,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv108-ban-ghe-sinh-vien-bsv108,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV108G,Bàn sinh viên BSV108G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv108g-ban-sinh-vien-bsv108g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV108T,Bàn ghế sinh viên BSV108T,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv108t-ban-ghe-sinh-vien-bsv108t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV108TG,Bàn ghế sinh viên BSV108TG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv108tg-ban-ghe-sinh-vien-bsv108tg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BSV240,Bàn ghế sinh viên BSV240,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/bsv240-ban-ghe-sinh-vien-bsv240,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT100,Bàn gấp inox BT100,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bt100-ban-gap-inox-bt100,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT1150,Bàn gấp inox tròn BT1150,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bt1150-ban-gap-inox-tron-bt1150,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT1150B,Bàn gấp inox BT1150B,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bt1150b-ban-gap-inox-bt1150b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT120,Bàn gấp inox BT120,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bt120-ban-gap-inox-bt120,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT120B,Bàn gấp inox BT120B,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bt120b-ban-gap-inox-bt120b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT202A,Bàn sofa BT202A,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bt202a-ban-sofa-bt202a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT203,Bàn sofa BT203,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/bt203-ban-sofa-bt203,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BT950,Bàn inox tròn BT950,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/bt950-ban-inox-tron-bt950,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BTN101,Bàn ghế thí nghiệm BTN101 - GTN101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/btn101-ban-ghe-thi-nghiem-btn101-gtn101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BTN102,Bàn ghế thí nghiệm BTN102 - GTN102,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/btn102-ban-ghe-thi-nghiem-btn102-gtn102,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BTNHS01,Bàn thí nghiệm hóa sinh BTNHS01,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/btnhs01-ban-thi-nghiem-hoa-sinh-btnhs01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BTNHS02,Bàn thí nghiệm hóa sinh BTNHS02,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/btnhs02-ban-thi-nghiem-hoa-sinh-btnhs02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BTV101,Bàn đọc thư viện BTV101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/btv101-ban-oc-thu-vien-btv101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+BTYT01I,Bàn dụng cụ BTYT01I,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/btyt01i-ban-dung-cu-btyt01i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+C-88,Ghế da Giám đốc C-88,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/c-88-ghe-da-giam-oc-c-88,/category.html,YES,YES,NO,KEEP,PRODUCTION
+C01,Kệ để CPU C01,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/c01-ke-e-cpu-c01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CBN01,Nội thất y tế CBN01,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/cbn01-noi-that-y-te-cbn01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CL01,Cầu là quần áo CL01,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/cl01-cau-la-quan-ao-cl01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CL02,Cầu là quần áo CL02,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/cl02-cau-la-quan-ao-cl02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CONG_CU,Tủ công cụ,Tủ Gia Công 2,Tủ Gia Công 2,EXISTING,/san-pham/cong-cu-tu-cong-cu,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CPE01,Nội thất gia đình CPE01,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/cpe01-noi-that-gia-inh-cpe01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT01,Cọc truyền y tế CT01,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/ct01-coc-truyen-y-te-ct01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2010H2,Bàn họp cao cấp CT2010H2,B01,BAN_HOP,B01,/san-pham/ct2010h2-ban-hop-cao-cap-ct2010h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2010H5,Bàn họp cao cấp CT2010H5,B01,BAN_HOP,B01,/san-pham/ct2010h5-ban-hop-cao-cap-ct2010h5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2010H5CN,Bàn họp cao cấp CT2010H5CN,B01,BAN_HOP,B01,/san-pham/ct2010h5cn-ban-hop-cao-cap-ct2010h5cn,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2010H6,Bàn họp cao cấp CT2010H6,B01,BAN_HOP,B01,/san-pham/ct2010h6-ban-hop-cao-cap-ct2010h6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2010H7,Bàn họp cao cấp CT2010H7,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct2010h7-ban-hop-cao-cap-ct2010h7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2412H2,Bàn họp cao cấp CT2412H2,B01,BAN_HOP,B01,/san-pham/ct2412h2-ban-hop-cao-cap-ct2412h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2412H5CN,Bàn họp cao cấp CT2412H5CN,B01,BAN_HOP,B01,/san-pham/ct2412h5cn-ban-hop-cao-cap-ct2412h5cn,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2412H6,Bàn họp CT2412H6,B01,BAN_HOP,B01,/san-pham/ct2412h6-ban-hop-ct2412h6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2412H7,Bàn họp cao cấp CT2412H7,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct2412h7-ban-hop-cao-cap-ct2412h7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2412V1,Bàn họp gỗ cao cấp CT2412V1,B01,BAN_HOP,B01,/san-pham/ct2412v1-ban-hop-go-cao-cap-ct2412v1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2412VM1,Bàn họp cao cấp CT2412VM1,B01,BAN_HOP,B01,/san-pham/ct2412vm1-ban-hop-cao-cap-ct2412vm1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT2600,Bàn họp tròn CT2600,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct2600-ban-hop-tron-ct2600,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT3012H1,Bàn họp cao cấp CT3012H1,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct3012h1-ban-hop-cao-cap-ct3012h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT3012H2,Bàn họp cao cấp CT3012H2,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct3012h2-ban-hop-cao-cap-ct3012h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT4016H2,Bàn họp lớn CT4016H2,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct4016h2-ban-hop-lon-ct4016h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT4016V19,Bàn họp cao cấp CT4016V19,B01,BAN_HOP,B01,/san-pham/ct4016v19-ban-hop-cao-cap-ct4016v19,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT5016H1,Bàn họp lớn CT5016H1,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct5016h1-ban-hop-lon-ct5016h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT5022H1R10,Bàn họp lớn CT5022H1R10,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct5022h1r10-ban-hop-lon-ct5022h1r10,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT5022H1R8,Bàn họp lớn CT5022H1R8,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct5022h1r8-ban-hop-lon-ct5022h1r8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT5022H2R10,Bàn họp lớn CT5022H2R10,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct5022h2r10-ban-hop-lon-ct5022h2r10,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT5022H2R8,Bàn họp lớn CT5022H2R8,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct5022h2r8-ban-hop-lon-ct5022h2r8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+CT5522H1,Bàn họp lớn CT5522H1,BAN_HOP,BAN_HOP,EXISTING,/san-pham/ct5522h1-ban-hop-lon-ct5522h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+D003,Ghế da Giám đốc thư giãn D003,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/d003-ghe-da-giam-oc-thu-gian-d003,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1240H1,Tủ giám đốc DC1240H1,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc1240h1-tu-giam-oc-dc1240h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1240V9,Tủ giám đốc DC1240V9,B05,TU_VAN_PHONG,B05,/san-pham/dc1240v9-tu-giam-oc-dc1240v9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1240VM9,Tủ tài liệu DC1240VM9,B05,TU_VAN_PHONG,B05,/san-pham/dc1240vm9-tu-tai-lieu-dc1240vm9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1340H1,Tủ giám đốc DC1340H1,G09,TU_VAN_PHONG,G09,/san-pham/dc1340h1-tu-giam-oc-dc1340h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1350H1,Tủ giám đốc DC1350H1,G09,TU_VAN_PHONG,G09,/san-pham/dc1350h1-tu-giam-oc-dc1350h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1350H10,Tủ giám đốc DC1350H10,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc1350h10-tu-giam-oc-dc1350h10,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1350H11,Tủ giám đốc DC1350H11,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc1350h11-tu-giam-oc-dc1350h11,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1350V4,Tủ giám đốc DC1350V4,B05,TU_VAN_PHONG,B05,/san-pham/dc1350v4-tu-giam-oc-dc1350v4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1350V9,Tủ giám đốc DC1350V9,G09,TU_VAN_PHONG,G09,/san-pham/dc1350v9-tu-giam-oc-dc1350v9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1350VM4,Tủ tài liệu DC1350VM4,B05,TU_VAN_PHONG,B05,/san-pham/dc1350vm4-tu-tai-lieu-dc1350vm4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1350VM9,Tủ tài liệu DC1350VM9,G09,TU_VAN_PHONG,G09,/san-pham/dc1350vm9-tu-tai-lieu-dc1350vm9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1800H6,Tủ giám đốc DC1800H6,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc1800h6-tu-giam-oc-dc1800h6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1840H1,Tủ giám đốc DC1840H1,G09,TU_VAN_PHONG,G09,/san-pham/dc1840h1-tu-giam-oc-dc1840h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1840V5,Tủ giám đốc DC1840V5,B05,TU_VAN_PHONG,B05,/san-pham/dc1840v5-tu-giam-oc-dc1840v5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1840VM5,Tủ tài liệu DC1840VM5,B05,TU_VAN_PHONG,B05,/san-pham/dc1840vm5-tu-tai-lieu-dc1840vm5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC1850H9,Tủ giám đốc DC1850H9,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc1850h9-tu-giam-oc-dc1850h9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC2000H9,Tủ giám đốc DC2000H9,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc2000h9-tu-giam-oc-dc2000h9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC2000V2,Tủ giám đốc DC2000V2,B05,TU_VAN_PHONG,B05,/san-pham/dc2000v2-tu-giam-oc-dc2000v2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC2000VM2,Tủ tài liệu DC2000VM2,B05,TU_VAN_PHONG,B05,/san-pham/dc2000vm2-tu-tai-lieu-dc2000vm2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC2200H2,Tủ giám đốc DC2200H2,G09,TU_VAN_PHONG,G09,/san-pham/dc2200h2-tu-giam-oc-dc2200h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC2448V6,Tủ giám đốc DC2448V6,G02,BAN_VAN_PHONG,G02,/san-pham/dc2448v6-tu-giam-oc-dc2448v6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC2448VM6,Tủ giám đốc DC2448VM6,G02,BAN_VAN_PHONG,G02,/san-pham/dc2448vm6-tu-giam-oc-dc2448vm6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC3040VM20,Tủ giám đốc DC3040VM20,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dc3040vm20-tu-giam-oc-dc3040vm20,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC3242V8,Tủ giám đốc DC3242V8,B04-01,BAN_VAN_PHONG,B04-01,/san-pham/dc3242v8-tu-giam-oc-dc3242v8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC3242VM8,Tủ giám đốc DC3242VM8,B04-01,BAN_VAN_PHONG,B04-01,/san-pham/dc3242vm8-tu-giam-oc-dc3242vm8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC3246V7,Tủ giám đốc DC3246V7,G02,BAN_VAN_PHONG,G02,/san-pham/dc3246v7-tu-giam-oc-dc3246v7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC3246VM7,Tủ giám đốc DC3246VM7,B04-01,BAN_VAN_PHONG,B04-01,/san-pham/dc3246vm7-tu-giam-oc-dc3246vm7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC8040H1,Tủ giám đốc DC8040H1,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc8040h1-tu-giam-oc-dc8040h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC8040H2,Tủ giám đốc DC8040H2,B04-08,TU_VAN_PHONG,B04-08,/san-pham/dc8040h2-tu-giam-oc-dc8040h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC940H1,Tủ giám đốc DC940H1,G09,TU_VAN_PHONG,G09,/san-pham/dc940h1-tu-giam-oc-dc940h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC940H2,Tủ giám đốc DC940H2,G09,TU_VAN_PHONG,G09,/san-pham/dc940h2-tu-giam-oc-dc940h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC940H3,Tủ giám đốc DC940H3,G09,TU_VAN_PHONG,G09,/san-pham/dc940h3-tu-giam-oc-dc940h3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC940H5,Tủ giám đốc DC940H5,G09,TU_VAN_PHONG,G09,/san-pham/dc940h5-tu-giam-oc-dc940h5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC940V9,Tủ giám đốc DC940V9,B05,TU_VAN_PHONG,B05,/san-pham/dc940v9-tu-giam-oc-dc940v9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DC940VM9,Tủ tài liệu DC940VM9,B05,TU_VAN_PHONG,B05,/san-pham/dc940vm9-tu-tai-lieu-dc940vm9,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DGYT03,Giường DGYT03,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/dgyt03-giuong-dgyt03,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DGYT04,Giường DGYT04,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/dgyt04-giuong-dgyt04,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DGYT06,Giường DGYT06,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/dgyt06-giuong-dgyt06,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DIEN_THOAI_50_NGAN,Tủ điện thoại 50 ngăn,Tủ Gia Công 2,Tủ Gia Công 2,EXISTING,/san-pham/dien-thoai-50-ngan-tu-ien-thoai-50-ngan,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DOTGTT15,Giá kệ sắt DOTGTT15,GIA_KE_SAT,GIA_KE_SAT,EXISTING,/san-pham/dotgtt15-gia-ke-sat-dotgtt15,/category.html,NO,YES,NO,KEEP,PRODUCTION
+DOTGTT20,Giá kệ sắt DOTGTT20,GIA_KE_SAT,GIA_KE_SAT,EXISTING,/san-pham/dotgtt20-gia-ke-sat-dotgtt20,/category.html,NO,YES,NO,KEEP,PRODUCTION
+DT,Ghế chân quỳ DT,B04-04,GHE_NHAP,B04-04,/san-pham/dt-ghe-chan-quy-dt,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H1,Bàn giám đốc DT1890H1,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h1-ban-giam-oc-dt1890h1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H12,Bàn giám đốc DT1890H12,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h12-ban-giam-oc-dt1890h12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H14,Bàn giám đốc DT1890H14,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h14-ban-giam-oc-dt1890h14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H15,Bàn giám đốc DT1890H15,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h15-ban-giam-oc-dt1890h15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H16,Bàn giám đốc DT1890H16,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h16-ban-giam-oc-dt1890h16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H17,Bàn giám đốc DT1890H17,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h17-ban-giam-oc-dt1890h17,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H2,Bàn giám đốc DT1890H2,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h2-ban-giam-oc-dt1890h2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H24,Bàn giám đốc DT1890H24,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h24-ban-giam-oc-dt1890h24,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H25,Bàn giám đốc DT1890H25,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h25-ban-giam-oc-dt1890h25,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H26,Bàn giám đốc DT1890H26,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h26-ban-giam-oc-dt1890h26,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H27,Bàn giám đốc DT1890H27,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h27-ban-giam-oc-dt1890h27,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H3,Bàn giám đốc DT1890H3,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h3-ban-giam-oc-dt1890h3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H35,Bàn giám đốc DT1890H35,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h35-ban-giam-oc-dt1890h35,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H36,Bàn giám đốc DT1890H36,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h36-ban-giam-oc-dt1890h36,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H37,Bàn giám đốc DT1890H37,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h37-ban-giam-oc-dt1890h37,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H4,Bàn giám đốc DT1890H4,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h4-ban-giam-oc-dt1890h4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H43,Bàn văn phòng DT1890H43,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h43-ban-van-phong-dt1890h43,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890H5,Bàn giám đốc DT1890H5,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt1890h5-ban-giam-oc-dt1890h5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890V12,Bàn giám đốc gỗ DT1890V12,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt1890v12-ban-giam-oc-go-dt1890v12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890V14,Bàn giám đốc Veneer DT1890V14,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt1890v14-ban-giam-oc-veneer-dt1890v14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890V15,Bàn giám đốc gỗ DT1890V15,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt1890v15-ban-giam-oc-go-dt1890v15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890V16,Bàn giám đốc DT1890V16,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt1890v16-ban-giam-oc-dt1890v16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890V2,Bàn giám đốc Veneer DT1890V2,G01,BAN_VAN_PHONG,G01,/san-pham/dt1890v2-ban-giam-oc-veneer-dt1890v2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890V4,Bàn giám đốc Veneer DT1890V4,G01,BAN_VAN_PHONG,G01,/san-pham/dt1890v4-ban-giam-oc-veneer-dt1890v4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890VM12,Bàn giám đốc DT1890VM12,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt1890vm12-ban-giam-oc-dt1890vm12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890VM14,Bàn giám đốc DT1890VM14,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt1890vm14-ban-giam-oc-dt1890vm14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890VM15,Bàn giám đốc DT1890VM15,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt1890vm15-ban-giam-oc-dt1890vm15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890VM16,Bàn giám đốc DT1890VM16,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt1890vm16-ban-giam-oc-dt1890vm16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890VM2,Bàn giám đốc DT1890VM2,G01,BAN_VAN_PHONG,G01,/san-pham/dt1890vm2-ban-giam-oc-dt1890vm2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT1890VM4,Bàn giám đốc Veneer DT1890VM4,G01,BAN_VAN_PHONG,G01,/san-pham/dt1890vm4-ban-giam-oc-veneer-dt1890vm4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H12,Bàn văn phòng DT2010H12,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h12-ban-van-phong-dt2010h12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H24,Bàn giám đốc DT2010H24,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h24-ban-giam-oc-dt2010h24,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H25,Bàn giám đốc DT2010H25,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h25-ban-giam-oc-dt2010h25,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H26,Bàn giám đốc DT2010H26,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h26-ban-giam-oc-dt2010h26,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H3,Bàn giám đốc DT2010H3,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h3-ban-giam-oc-dt2010h3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H35,Bàn văn phòng DT2010H35,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h35-ban-van-phong-dt2010h35,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H37,Bàn văn phòng DT2010H37,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h37-ban-van-phong-dt2010h37,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010H4,Bàn giám đốc DT2010H4,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010h4-ban-giam-oc-dt2010h4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V12,Bàn giám đốc Veneer DT2010V12,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt2010v12-ban-giam-oc-veneer-dt2010v12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V14,Bàn giám đốc DT2010V14,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt2010v14-ban-giam-oc-dt2010v14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V15,Bàn giám đốc DT2010V15,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt2010v15-ban-giam-oc-dt2010v15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V16,Bàn giám đốc DT2010V16,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt2010v16-ban-giam-oc-dt2010v16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V17,Bàn giám đốc DT2010V17,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2010v17-ban-giam-oc-dt2010v17,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V19,Bàn giám đốc DT2010V19,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2010v19-ban-giam-oc-dt2010v19,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V2,Bàn giám đốc DT2010V2,G01,BAN_VAN_PHONG,G01,/san-pham/dt2010v2-ban-giam-oc-dt2010v2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V21,Bàn giám đốc DT2010V21,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010v21-ban-giam-oc-dt2010v21,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V4,Bàn văn phòng DT2010V4,G01,BAN_VAN_PHONG,G01,/san-pham/dt2010v4-ban-van-phong-dt2010v4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010V5,Bàn giám đốc Veneer DT2010V5,G01,BAN_VAN_PHONG,G01,/san-pham/dt2010v5-ban-giam-oc-veneer-dt2010v5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM12,Bàn giám đốc DT2010VM12,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt2010vm12-ban-giam-oc-dt2010vm12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM14,Bàn giám đốc DT2010VM14,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt2010vm14-ban-giam-oc-dt2010vm14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM15,Bàn giám đốc DT2010VM15,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt2010vm15-ban-giam-oc-dt2010vm15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM16,Bàn giám đốc DT2010VM16,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2010vm16-ban-giam-oc-dt2010vm16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM17,Bàn giám đốc DT2010VM17,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2010vm17-ban-giam-oc-dt2010vm17,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM19,Bàn giám đốc DT2010VM19,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010vm19-ban-giam-oc-dt2010vm19,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM2,Bàn giám đốc DT2010VM2,G01,BAN_VAN_PHONG,G01,/san-pham/dt2010vm2-ban-giam-oc-dt2010vm2,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM21,Bàn giám đốc DT2010VM21,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2010vm21-ban-giam-oc-dt2010vm21,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM4,Bàn giám đốc Veneer DT2010VM4,G01,BAN_VAN_PHONG,G01,/san-pham/dt2010vm4-ban-giam-oc-veneer-dt2010vm4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2010VM5,Bàn giám đốc Veneer DT2010VM5,G02,BAN_VAN_PHONG,G02,/san-pham/dt2010vm5-ban-giam-oc-veneer-dt2010vm5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V12,Bàn giám đốc gỗ DT2411V12,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt2411v12-ban-giam-oc-go-dt2411v12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V15,Bàn giám đốc DT2411V15,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt2411v15-ban-giam-oc-dt2411v15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V16,Bàn giám đốc DT2411V16,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt2411v16-ban-giam-oc-dt2411v16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V17,Bàn giám đốc DT2411V17,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2411v17-ban-giam-oc-dt2411v17,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V19,Bàn giám đốc DT2411V19,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2411v19-ban-giam-oc-dt2411v19,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V21,Bàn văn phòng DT2411V21,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2411v21-ban-van-phong-dt2411v21,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V5,Bàn văn phòng DT2411V5,G01,BAN_VAN_PHONG,G01,/san-pham/dt2411v5-ban-van-phong-dt2411v5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411V6,Bàn giám đốc Veneer DT2411V6,G02,BAN_VAN_PHONG,G02,/san-pham/dt2411v6-ban-giam-oc-veneer-dt2411v6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM12,Bàn văn phòng DT2411VM12,B04-02,BAN_VAN_PHONG,B04-02,/san-pham/dt2411vm12-ban-van-phong-dt2411vm12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM15,Bàn giám đốc DT2411VM15,B05-01,BAN_VAN_PHONG,B05-01,/san-pham/dt2411vm15-ban-giam-oc-dt2411vm15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM16,Bàn giám đốc DT2411VM16,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2411vm16-ban-giam-oc-dt2411vm16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM17,Bàn văn phòng DT2411VM17,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt2411vm17-ban-van-phong-dt2411vm17,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM19,Bàn giám đốc DT2411VM19,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2411vm19-ban-giam-oc-dt2411vm19,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM21,Bàn văn phòng DT2411VM21,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt2411vm21-ban-van-phong-dt2411vm21,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM5,Bàn giám đốc Veneer DT2411VM5,G02,BAN_VAN_PHONG,G02,/san-pham/dt2411vm5-ban-giam-oc-veneer-dt2411vm5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT2411VM6,Bàn giám đốc Veneer DT2411VM6,G02,BAN_VAN_PHONG,G02,/san-pham/dt2411vm6-ban-giam-oc-veneer-dt2411vm6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT3012V8,Bàn giám đốc Veneer DT3012V8,B04-01,BAN_VAN_PHONG,B04-01,/san-pham/dt3012v8-ban-giam-oc-veneer-dt3012v8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT3012VM8,Bàn giám đốc Veneer DT3012VM8,B04-01,BAN_VAN_PHONG,B04-01,/san-pham/dt3012vm8-ban-giam-oc-veneer-dt3012vm8,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT3020VM20,Bàn giám đốc DT3020VM20,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/dt3020vm20-ban-giam-oc-dt3020vm20,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT3212V18,Bàn giám đốc DT3212V18,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt3212v18-ban-giam-oc-dt3212v18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT3212V7,Bàn giám đốc Veneer DT3212V7,G02,BAN_VAN_PHONG,G02,/san-pham/dt3212v7-ban-giam-oc-veneer-dt3212v7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT3212VM18,Bàn giám đốc DT3212VM18,B06-01,BAN_VAN_PHONG,B06-01,/san-pham/dt3212vm18-ban-giam-oc-dt3212vm18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+DT3212VM7,Bàn giám đốc DT3212VM7,B04-01,BAN_VAN_PHONG,B04-01,/san-pham/dt3212vm7-ban-giam-oc-dt3212vm7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+EBX412,Bàn hội trường EBX412,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ebx412-ban-hoi-truong-ebx412,/category.html,YES,YES,NO,KEEP,PRODUCTION
+EBX414,Bàn hội trường EBX414,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ebx414-ban-hoi-truong-ebx414,/category.html,YES,YES,NO,KEEP,PRODUCTION
+EBX415,Bàn hội trường EBX415,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ebx415-ban-hoi-truong-ebx415,/category.html,YES,YES,NO,KEEP,PRODUCTION
+EBX416,Bàn hội trường EBX416,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ebx416-ban-hoi-truong-ebx416,/category.html,YES,YES,NO,KEEP,PRODUCTION
+EBX418,Bàn hội trường EBX418,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/ebx418-ban-hoi-truong-ebx418,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1400A,Bàn trưởng phòng ET1400A,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1400a-ban-truong-phong-et1400a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1400B,Bàn trưởng phòng ET1400B,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1400b-ban-truong-phong-et1400b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1400C,Bàn trưởng phòng ET1400C,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1400c-ban-truong-phong-et1400c,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1400G,Bàn trưởng phòng ET1400G,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1400g-ban-truong-phong-et1400g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1400I,Bàn trưởng phòng ET1400I,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1400i-ban-truong-phong-et1400i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600E,Bàn trưởng phòng ET1600E,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600e-ban-truong-phong-et1600e,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600F,Bàn làm việc Hòa Phát ET1600F,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600f-ban-lam-viec-hoa-phat-et1600f,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600H,Bàn lãnh đạo ET1600H,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600h-ban-lanh-ao-et1600h,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600I,Bàn trưởng phòng ET1600I,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600i-ban-truong-phong-et1600i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600K,Bàn trưởng phòng ET1600K,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600k-ban-truong-phong-et1600k,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600M,Bàn lãnh đạo ET1600M,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600m-ban-lanh-ao-et1600m,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600N,Bàn lãnh đạo ET1600N,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600n-ban-lanh-ao-et1600n,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600V1,Bàn trưởng phòng gỗ ET1600V1,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600v1-ban-truong-phong-go-et1600v1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+ET1600VM1,Bàn văn phòng ET1600VM1,BAN_VAN_PHONG,BAN_VAN_PHONG,EXISTING,/san-pham/et1600vm1-ban-van-phong-et1600vm1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+FY61-1,Ghế da Leader Nữ FY61-1,GHE_NHAP,GHE_NHAP,EXISTING,/san-pham/fy61-1-ghe-da-leader-nu-fy61-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G01,Ghế gấp khung thép G01,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g01-ghe-gap-khung-thep-g01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G01B,Ghế gấp khung thép G01B,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g01b-ghe-gap-khung-thep-g01b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G02,Ghế gấp khung thép G02,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g02-ghe-gap-khung-thep-g02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G03,Ghế gấp khung thép G03,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g03-ghe-gap-khung-thep-g03,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G0398,Ghế gấp khung thép G0398,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g0398-ghe-gap-khung-thep-g0398,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G04,Ghế gấp khung inox G04,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g04-ghe-gap-khung-inox-g04,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G0498,Ghế gấp khung thép G0498,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g0498-ghe-gap-khung-thep-g0498,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G04B,Ghế gấp khung thép G04B,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g04b-ghe-gap-khung-thep-g04b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G05,Ghế gấp khung thép G05,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g05-ghe-gap-khung-thep-g05,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G06,Ghế gấp G06,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g06-ghe-gap-g06,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G0698,Ghế gấp khung thép G0698,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g0698-ghe-gap-khung-thep-g0698,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G07,Ghế tĩnh khung thép G07,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g07-ghe-tinh-khung-thep-g07,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G08,Ghế gấp khung thép G08,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g08-ghe-gap-khung-thep-g08,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G0898,Ghế gấp khung thép G0898,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g0898-ghe-gap-khung-thep-g0898,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G09,Ghế gấp khung thép G09,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g09-ghe-gap-khung-thep-g09,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G10,Ghế gấp G10,B06-07,NOI_THAT_GIA_DUNG,B06-07,/san-pham/g10-ghe-gap-g10,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G11,Ghế gấp khung thép G11,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g11-ghe-gap-khung-thep-g11,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G12,Ghế gấp khung inox G12,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g12-ghe-gap-khung-inox-g12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G135,Ghế gấp khung thép G135,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g135-ghe-gap-khung-thep-g135,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G136,Ghế Gấp G136,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g136-ghe-gap-g136,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G137,Ghế gấp khung thép G137,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g137-ghe-gap-khung-thep-g137,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G14,Ghế gấp khung thép G14,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g14-ghe-gap-khung-thep-g14,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G1499,Ghế gấp khung thép G1499,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g1499-ghe-gap-khung-thep-g1499,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G15,Ghế gấp G15,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g15-ghe-gap-g15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G16,Ghế gấp khung thép G16,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g16-ghe-gap-khung-thep-g16,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G1699,Ghế gấp khung thép G1699,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g1699-ghe-gap-khung-thep-g1699,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G18,"Bộ bàn ghế ăn B47, G18",NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g18-bo-ban-ghe-an-b47-g18,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G20,Ghế tĩnh khung thép G20,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g20-ghe-tinh-khung-thep-g20,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G30,Ghế gấp G30,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g30-ghe-gap-g30,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G34,Ghế tĩnh khung thép G34,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g34-ghe-tinh-khung-thep-g34,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G36,Ghế tĩnh khung thép G36,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g36-ghe-tinh-khung-thep-g36,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G38,Bàn ghế cafe B38-G38,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g38-ban-ghe-cafe-b38-g38,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G39,Bộ bàn ghế ăn G39-B39,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g39-bo-ban-ghe-an-g39-b39,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G42,Ghế tĩnh khung thép G42,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g42-ghe-tinh-khung-thep-g42,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G44,Ghế tĩnh khung gỗ G44,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g44-ghe-tinh-khung-go-g44,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G45I,Ghế gấp khung inox G45I,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/g45i-ghe-gap-khung-inox-g45i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G50,Bộ bàn ghế ăn B50-G50,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g50-bo-ban-ghe-an-b50-g50,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G51,"Bộ bàn ghế ăn B51, G51",NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g51-bo-ban-ghe-an-b51-g51,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G56,Bộ bàn ghế ăn B55-G56,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g56-bo-ban-ghe-an-b55-g56,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G59,Bộ bàn ghế ăn B59-G59,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g59-bo-ban-ghe-an-b59-g59,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G61,Bộ bàn ăn B61-G61,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g61-bo-ban-an-b61-g61,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G63,"Bộ bàn ăn B63,G63",NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g63-bo-ban-an-b63-g63,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G64,Bộ bàn ghế ăn B64-G64,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g64-bo-ban-ghe-an-b64-g64,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G68,"Bộ bàn ghế ăn B68,G68 trắng",NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/g68-bo-ban-ghe-an-b68-g68-trang,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G892,Ghế hội trường Hòa Phát G892,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g892-ghe-hoi-truong-hoa-phat-g892,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G893,Ghế hội trường G893,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g893-ghe-hoi-truong-g893,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G894,Ghế hội trường G894,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g894-ghe-hoi-truong-g894,/category.html,YES,YES,NO,KEEP,PRODUCTION
+G895,Ghế hội trường G895,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/g895-ghe-hoi-truong-g895,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA101,Nội thất gia đình GA101,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga101-noi-that-gia-inh-ga101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA102,Nội thất gia đình GA102,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga102-noi-that-gia-inh-ga102,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA114,Nội thất gia đình GA114,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga114-noi-that-gia-inh-ga114,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA124,Ghế ăn cao cấp GA124,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga124-ghe-an-cao-cap-ga124,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA125,Bàn ghế ăn cao cấp BA125-GA125,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga125-ban-ghe-an-cao-cap-ba125-ga125,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA141,Ghế GA141,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga141-ghe-ga141,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA142,Ghế GA142,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga142-ghe-ga142,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA143,Ghế GA143,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga143-ghe-ga143,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA148,Ghế GA148,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga148-ghe-ga148,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA201,Nội thất gia đình GA201,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga201-noi-that-gia-inh-ga201,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA501,Nội thất gia đình GA501,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga501-noi-that-gia-inh-ga501,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA503,Bộ bàn ăn BA503A-GA503,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga503-bo-ban-an-ba503a-ga503,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA504,Bộ bàn ăn BA504-GA504,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga504-bo-ban-an-ba504-ga504,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA505,Bộ bàn ăn BA505-GA505,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga505-bo-ban-an-ba505-ga505,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA507,Bộ bàn ăn BA507-GA507,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga507-bo-ban-an-ba507-ga507,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA508,Bộ bàn ăn BA508-GA508,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga508-bo-ban-an-ba508-ga508,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GA509,Nội thất gia đình GA509,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/ga509-noi-that-gia-inh-ga509,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GB303,Nội thất gia đình GB303,NOI_THAT_GIA_DINH,NOI_THAT_GIA_DINH,EXISTING,/san-pham/gb303-noi-that-gia-inh-gb303,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-3,Nội thất trường học GBT103-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-3-noi-that-truong-hoc-gbt103-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-3G,Bàn ghế bán trú BBT103-3G - GBT103-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-3g-ban-ghe-ban-tru-bbt103-3g-gbt103-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-4,Nội thất trường học GBT103-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-4-noi-that-truong-hoc-gbt103-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-4G,Nội thất trường học GBT103-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-4g-noi-that-truong-hoc-gbt103-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-5,Nội thất trường học GBT103-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-5-noi-that-truong-hoc-gbt103-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-5G,Nội thất trường học GBT103-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-5g-noi-that-truong-hoc-gbt103-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-6,Nội thất trường học GBT103-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-6-noi-that-truong-hoc-gbt103-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103-6G,Nội thất trường học GBT103-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103-6g-noi-that-truong-hoc-gbt103-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP3,Bàn ghế bán trú BBT103HP3 - GBT103HP3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp3-ban-ghe-ban-tru-bbt103hp3-gbt103hp3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP3G,Bàn ghế bán trú BBT103HP3G - GBT103HP3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp3g-ban-ghe-ban-tru-bbt103hp3g-gbt103hp3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP4,Nội thất trường học GBT103HP4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp4-noi-that-truong-hoc-gbt103hp4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP4G,Nội thất trường học GBT103HP4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp4g-noi-that-truong-hoc-gbt103hp4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP5,Nội thất trường học GBT103HP5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp5-noi-that-truong-hoc-gbt103hp5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP5G,Nội thất trường học GBT103HP5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp5g-noi-that-truong-hoc-gbt103hp5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP6,Nội thất trường học GBT103HP6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp6-noi-that-truong-hoc-gbt103hp6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT103HP6G,Nội thất trường học GBT103HP6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt103hp6g-noi-that-truong-hoc-gbt103hp6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT105AG,Nội thất trường học GBT105AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt105ag-noi-that-truong-hoc-gbt105ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT105BG,Nội thất trường học GBT105BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt105bg-noi-that-truong-hoc-gbt105bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GBT105CG,Nội thất trường học GBT105CG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gbt105cg-noi-that-truong-hoc-gbt105cg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GC6,Giường nội trú GC6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gc6-giuong-noi-tru-gc6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GC7,Giường nội trú GC7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gc7-giuong-noi-tru-gc7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GC7I,Giường nội trú GC7I,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gc7i-giuong-noi-tru-gc7i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GCF201,Bàn ghế cafe BCF201-GCF201,NOI_THAT_CONG_TRINH,NOI_THAT_CONG_TRINH,EXISTING,/san-pham/gcf201-ban-ghe-cafe-bcf201-gcf201,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GCN101,Ghế phòng chức năng GCN101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gcn101-ghe-phong-chuc-nang-gcn101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GCN102,Ghế phòng chức năng GCN102,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gcn102-ghe-phong-chuc-nang-gcn102,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GCN102T,Ghế phòng chức năng GCN102T,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/gcn102t-ghe-phong-chuc-nang-gcn102t,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD01,Ghế đôn GD01,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd01-ghe-on-gd01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD01AI,Ghế đôn GD01AI,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd01ai-ghe-on-gd01ai,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD01I,Ghế đôn GD01I,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd01i-ghe-on-gd01i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD02,Ghế đôn GD02,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd02-ghe-on-gd02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD03,Ghế đôn GD03,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd03-ghe-on-gd03,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD04,Ghế đôn GD04,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd04-ghe-on-gd04,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD05A,Ghế đôn GD05A,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd05a-ghe-on-gd05a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD05B,Ghế đôn GD05B,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd05b-ghe-on-gd05b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD06,Ghế đôn GD06,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd06-ghe-on-gd06,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GD21I,Ghế đôn Hòa Phát GD21I,NOI_THAT_GIA_DUNG,NOI_THAT_GIA_DUNG,EXISTING,/san-pham/gd21i-ghe-on-hoa-phat-gd21i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GDQ01,Ghế đẩu quay GDQ01,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/gdq01-ghe-au-quay-gdq01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GDQ02,Ghế đẩu quay GDQ02,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/gdq02-ghe-au-quay-gdq02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GG01I,Ghế bệnh viện GG01I,NOI_THAT_Y_TE,NOI_THAT_Y_TE,EXISTING,/san-pham/gg01i-ghe-benh-vien-gg01i,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GGV101,Bàn ghế giáo viên BGV101 - GGV101,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ggv101-ban-ghe-giao-vien-bgv101-ggv101,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GGV101G,Bàn ghế giáo viên BGV101G - GGV101G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ggv101g-ban-ghe-giao-vien-bgv101g-ggv101g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GGV103,Bàn ghế giáo viên BGV103 - GGV103,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ggv103-ban-ghe-giao-vien-bgv103-ggv103,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GGV103G,Bàn ghế giáo viên BGV103G - GGV103G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ggv103g-ban-ghe-giao-vien-bgv103g-ggv103g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH01,Ghế họp chân gỗ GH01,GH,GHE_VAN_PHONG,GH,/san-pham/gh01-ghe-hop-chan-go-gh01,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH02,Ghế họp chân gỗ GH02,GH,GHE_VAN_PHONG,GH,/san-pham/gh02-ghe-hop-chan-go-gh02,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH05,Ghế họp chân gỗ GH05,GH,GHE_VAN_PHONG,GH,/san-pham/gh05-ghe-hop-chan-go-gh05,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH06,Ghế họp chân gỗ GH06,GH,GHE_VAN_PHONG,GH,/san-pham/gh06-ghe-hop-chan-go-gh06,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH09,Ghế họp chân gỗ GH09,GH,GHE_VAN_PHONG,GH,/san-pham/gh09-ghe-hop-chan-go-gh09,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH10,Ghế họp chân gỗ GH10,GH,GHE_VAN_PHONG,GH,/san-pham/gh10-ghe-hop-chan-go-gh10,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH12,Ghế họp chân gỗ GH12,GH,GHE_VAN_PHONG,GH,/san-pham/gh12-ghe-hop-chan-go-gh12,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH13,Ghế họp chân gỗ GH13,GH,GHE_VAN_PHONG,GH,/san-pham/gh13-ghe-hop-chan-go-gh13,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH15,Ghế họp chân gỗ GH15,GH,GHE_VAN_PHONG,GH,/san-pham/gh15-ghe-hop-chan-go-gh15,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GH20,Ghế họp chân gỗ GH20,GH,GHE_VAN_PHONG,GH,/san-pham/gh20-ghe-hop-chan-go-gh20,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS03-1,Bàn ghế học sinh BHS03-1 - GHS03-1,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs03-1-ban-ghe-hoc-sinh-bhs03-1-ghs03-1,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS101A,Bàn ghế học sinh BHS101A - GHS101A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs101a-ban-ghe-hoc-sinh-bhs101a-ghs101a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS101AG,Bàn ghế học sinh BHS101AG - GHS101AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs101ag-ban-ghe-hoc-sinh-bhs101ag-ghs101ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS101B,Bộ bàn ghế BHS101B - GHS101B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs101b-bo-ban-ghe-bhs101b-ghs101b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS101BG,Nội thất trường học GHS101BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs101bg-noi-that-truong-hoc-ghs101bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS102A,Bàn ghế học sinh BHS102A - GHS102A,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs102a-ban-ghe-hoc-sinh-bhs102a-ghs102a,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS102AG,Bàn ghế học sinh BHS102AG - GHS102AG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs102ag-ban-ghe-hoc-sinh-bhs102ag-ghs102ag,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS102B,Bộ bàn ghế BHS102B - GHS102B,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs102b-bo-ban-ghe-bhs102b-ghs102b,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS102BG,Nội thất trường học GHS102BG,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs102bg-noi-that-truong-hoc-ghs102bg,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS106-3,Nội thất trường học GHS106-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs106-3-noi-that-truong-hoc-ghs106-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS106-4,Nội thất trường học GHS106-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs106-4-noi-that-truong-hoc-ghs106-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS106-5,Nội thất trường học GHS106-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs106-5-noi-that-truong-hoc-ghs106-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS106-6,Nội thất trường học GHS106-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs106-6-noi-that-truong-hoc-ghs106-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS106HP7,Nội thất trường học GHS106HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs106hp7-noi-that-truong-hoc-ghs106hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-3,Bàn ghế học sinh BHS107HP3 - GHS107-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-3-ban-ghe-hoc-sinh-bhs107hp3-ghs107-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-3G,Bàn ghế học sinh BHS107-3G - GHS107-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-3g-ban-ghe-hoc-sinh-bhs107-3g-ghs107-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-4,Nội thất trường học GHS107-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-4-noi-that-truong-hoc-ghs107-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-4G,Nội thất trường học GHS107-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-4g-noi-that-truong-hoc-ghs107-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-5,Nội thất trường học GHS107-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-5-noi-that-truong-hoc-ghs107-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-5G,Nội thất trường học GHS107-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-5g-noi-that-truong-hoc-ghs107-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-6,Nội thất trường học GHS107-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-6-noi-that-truong-hoc-ghs107-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107-6G,Nội thất trường học GHS107-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107-6g-noi-that-truong-hoc-ghs107-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107HP7,Nội thất trường học GHS107HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107hp7-noi-that-truong-hoc-ghs107hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS107HP7G,Nội thất trường học GHS107HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs107hp7g-noi-that-truong-hoc-ghs107hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-3,Bàn ghế học sinh BHS108HP3 - GHS108-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-3-ban-ghe-hoc-sinh-bhs108hp3-ghs108-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-3G,Bàn ghế học sinh BHS108-3G - GHS108-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-3g-ban-ghe-hoc-sinh-bhs108-3g-ghs108-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-4,Nội thất trường học GHS108-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-4-noi-that-truong-hoc-ghs108-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-4G,Nội thất trường học GHS108-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-4g-noi-that-truong-hoc-ghs108-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-5,Nội thất trường học GHS108-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-5-noi-that-truong-hoc-ghs108-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-5G,Nội thất trường học GHS108-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-5g-noi-that-truong-hoc-ghs108-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-6,Nội thất trường học GHS108-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-6-noi-that-truong-hoc-ghs108-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108-6G,Nội thất trường học GHS108-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108-6g-noi-that-truong-hoc-ghs108-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108HP7,Nội thất trường học GHS108HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108hp7-noi-that-truong-hoc-ghs108hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS108HP7G,Nội thất trường học GHS108HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs108hp7g-noi-that-truong-hoc-ghs108hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-3,Bàn ghế học sinh BHS109HP3 - GHS109-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-3-ban-ghe-hoc-sinh-bhs109hp3-ghs109-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-3G,Bàn ghế học sinh BHS109-3G - GHS109-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-3g-ban-ghe-hoc-sinh-bhs109-3g-ghs109-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-4,Nội thất trường học GHS109-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-4-noi-that-truong-hoc-ghs109-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-4G,Nội thất trường học GHS109-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-4g-noi-that-truong-hoc-ghs109-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-5,Nội thất trường học GHS109-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-5-noi-that-truong-hoc-ghs109-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-5G,Nội thất trường học GHS109-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-5g-noi-that-truong-hoc-ghs109-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-6,Nội thất trường học GHS109-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-6-noi-that-truong-hoc-ghs109-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109-6G,Nội thất trường học GHS109-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109-6g-noi-that-truong-hoc-ghs109-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109HP7,Nội thất trường học GHS109HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109hp7-noi-that-truong-hoc-ghs109hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS109HP7G,Nội thất trường học GHS109HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs109hp7g-noi-that-truong-hoc-ghs109hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-3,Nội thất trường học GHS110-3,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-3-noi-that-truong-hoc-ghs110-3,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-3G,Bàn ghế học sinh BHS110-3G- GHS110-3G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-3g-ban-ghe-hoc-sinh-bhs110-3g-ghs110-3g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-4,Nội thất trường học GHS110-4,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-4-noi-that-truong-hoc-ghs110-4,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-4G,Nội thất trường học GHS110-4G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-4g-noi-that-truong-hoc-ghs110-4g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-5,Nội thất trường học GHS110-5,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-5-noi-that-truong-hoc-ghs110-5,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-5G,Bộ bàn ghế GHS110-5G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-5g-bo-ban-ghe-ghs110-5g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-6,Nội thất trường học GHS110-6,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-6-noi-that-truong-hoc-ghs110-6,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110-6G,Nội thất trường học GHS110-6G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110-6g-noi-that-truong-hoc-ghs110-6g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110HP7,Nội thất trường học GHS110HP7,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110hp7-noi-that-truong-hoc-ghs110hp7,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GHS110HP7G,Nội thất trường học GHS110HP7G,NOI_THAT_TRUONG_HOC,NOI_THAT_TRUONG_HOC,EXISTING,/san-pham/ghs110hp7g-noi-that-truong-hoc-ghs110hp7g,/category.html,YES,YES,NO,KEEP,PRODUCTION
+GS1A,Giá sách thư viện GS1A,B03,GIA_KE_SAT,B03,/san-pham/gs1a-gia-sach-thu-vien-gs1a,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS1B,Giá sách thư viện GS1B,B03,GIA_KE_SAT,B03,/san-pham/gs1b-gia-sach-thu-vien-gs1b,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS2K1,Giá sách thư viện GS2K1,B03,GIA_KE_SAT,B03,/san-pham/gs2k1-gia-sach-thu-vien-gs2k1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS2K2,Giá sách thư viện GS2K2,B03,GIA_KE_SAT,B03,/san-pham/gs2k2-gia-sach-thu-vien-gs2k2,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS3,Giá sách thư viện GS3,B03,GIA_KE_SAT,B03,/san-pham/gs3-gia-sach-thu-vien-gs3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS5K1,Giá sách thư viện GS5K1,B03,GIA_KE_SAT,B03,/san-pham/gs5k1-gia-sach-thu-vien-gs5k1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS5K1B,Giá sách thư viện GS5K1B,B03,GIA_KE_SAT,B03,/san-pham/gs5k1b-gia-sach-thu-vien-gs5k1b,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS5K2,Giá sách thư viện GS5K2,B03,GIA_KE_SAT,B03,/san-pham/gs5k2-gia-sach-thu-vien-gs5k2,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS5K2B,Giá sách thư viện GS5K2B,B03,GIA_KE_SAT,B03,/san-pham/gs5k2b-gia-sach-thu-vien-gs5k2b,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+GS5K3,Giá sách thư viện GS5K3,B03,GIA_KE_SAT,B03,/san-pham/gs5k3-gia-sach-thu-vien-gs5k3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+HRH1D1F,Hộc tài liệu HRH1D1F,B04,HOC_TU_PHU_GO,B04,/san-pham/hrh1d1f-hoc-tai-lieu-hrh1d1f,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+HRH3D,Hộc cố định HRH3D,B04,HOC_TU_PHU_GO,B04,/san-pham/hrh3d-hoc-co-inh-hrh3d,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+HRM1D1F,Hộc di động HRM1D1F,B04,HOC_TU_PHU_GO,B04,/san-pham/hrm1d1f-hoc-di-ong-hrm1d1f,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+HRM3D,Hộc tài liệu HRM3D,B04,HOC_TU_PHU_GO,B04,/san-pham/hrm3d-hoc-tai-lieu-hrm3d,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+LK-20Đ,Tủ sắt locker 20 ngăn màu đen trắng,B04-10,Tủ Gia Công,B04-10,/san-pham/lk-20-tu-sat-locker-20-ngan-mau-en-trang,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+LK48-KD,Tủ locker 48 ngăn có khoang dưới,B04-10,Tủ Gia Công,B04-10,/san-pham/lk48-kd-tu-locker-48-ngan-co-khoang-duoi,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+LUXM3D,Hộc di động LUXM3D,B04,HOC_TU_PHU_GO,B04,/san-pham/luxm3d-hoc-di-ong-luxm3d,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+M1D1F,Hộc tài liệu M1D1F,B04,HOC_TU_PHU_GO,B04,/san-pham/m1d1f-hoc-tai-lieu-m1d1f,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+M1D1O,Hộc tài liệu M1D1O,B04,HOC_TU_PHU_GO,B04,/san-pham/m1d1o-hoc-tai-lieu-m1d1o,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+M3D,Hộc tủ phụ gỗ M3D,B04,HOC_TU_PHU_GO,B04,/san-pham/m3d-hoc-tu-phu-go-m3d,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+M3DVM1,Hộc di động M3DVM1,B04,HOC_TU_PHU_GO,B04,/san-pham/m3dvm1-hoc-di-ong-m3dvm1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+M3DVM2,Hộc tủ phụ gỗ M3DVM2,B04,HOC_TU_PHU_GO,B04,/san-pham/m3dvm2-hoc-tu-phu-go-m3dvm2,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF05-1,Ghế sofa đơn SF05-1,B04-06,SOFA,B04-06,/san-pham/sf05-1-ghe-sofa-on-sf05-1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF05-3,Ghế sofa băng SF05-3,B04-06,SOFA,B04-06,/san-pham/sf05-3-ghe-sofa-bang-sf05-3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF11,Sofa văn phòng SF11,B04-06,SOFA,B04-06,/san-pham/sf11-sofa-van-phong-sf11,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF11-1,Ghế sofa đơn SF11-1,B04-06,SOFA,B04-06,/san-pham/sf11-1-ghe-sofa-on-sf11-1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF11-3,Ghế sofa băng SF11-3,B04-06,SOFA,B04-06,/san-pham/sf11-3-ghe-sofa-bang-sf11-3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF12,Sofa văn phòng SF12,B04-06,SOFA,B04-06,/san-pham/sf12-sofa-van-phong-sf12,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF12-1,Ghế sofa đơn SF12-1,B04-06,SOFA,B04-06,/san-pham/sf12-1-ghe-sofa-on-sf12-1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF12-3,Ghế sofa băng SF12-3,B04-06,SOFA,B04-06,/san-pham/sf12-3-ghe-sofa-bang-sf12-3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF21,Sofa văn phòng SF21,B04-06,SOFA,B04-06,/san-pham/sf21-sofa-van-phong-sf21,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF21-1,Ghế sofa đơn SF21-1,B04-06,SOFA,B04-06,/san-pham/sf21-1-ghe-sofa-on-sf21-1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF21-3,Ghế sofa băng SF21-3,B05-04,SOFA,B05-04,/san-pham/sf21-3-ghe-sofa-bang-sf21-3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF23,Sofa văn phòng SF23,B05-04,SOFA,B05-04,/san-pham/sf23-sofa-van-phong-sf23,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF23-1,Ghế sofa đơn SF23-1,B05-04,SOFA,B05-04,/san-pham/sf23-1-ghe-sofa-on-sf23-1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF23-3,Ghế sofa băng SF23-3,B05-04,SOFA,B05-04,/san-pham/sf23-3-ghe-sofa-bang-sf23-3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF31,Sofa văn phòng SF31,B05-04,SOFA,B05-04,/san-pham/sf31-sofa-van-phong-sf31,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF31-1,Ghế sofa đơn SF31-1,B05-04,SOFA,B05-04,/san-pham/sf31-1-ghe-sofa-on-sf31-1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF31-3,Ghế sofa băng SF31-3,B05-04,SOFA,B05-04,/san-pham/sf31-3-ghe-sofa-bang-sf31-3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF32,Sofa văn phòng SF32,B05-04,SOFA,B05-04,/san-pham/sf32-sofa-van-phong-sf32,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF32-1,Ghế sofa đơn SF32-1,B05-04,SOFA,B05-04,/san-pham/sf32-1-ghe-sofa-on-sf32-1,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+SF32-3,Ghế sofa băng SF32-3,B05-04,SOFA,B05-04,/san-pham/sf32-3-ghe-sofa-bang-sf32-3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TS-08,Tủ sắt 8 cánh màu trắng vàng,B05-08,Tủ Gia Công,B05-08,/san-pham/ts-08-tu-sat-8-canh-mau-trang-vang,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TS-K3QA,Tủ sắt K3 quần áo,B04-10,Tủ Gia Công,B04-10,/san-pham/ts-k3qa-tu-sat-k3-quan-ao,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TS-LKTK,Tủ sắt locker thêm khay,B04-10,Tủ Gia Công,B04-10,/san-pham/ts-lktk-tu-sat-locker-them-khay,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TS-PCCC,Tủ sắt phòng cháy chữa cháy,B04-10,Tủ Gia Công,B04-10,/san-pham/ts-pccc-tu-sat-phong-chay-chua-chay,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSMN-02CM,Tủ sắt mầm non chăn màn 2 cánh màu xanh cam,B04-10,Tủ Gia Công,B04-10,/san-pham/tsmn-02cm-tu-sat-mam-non-chan-man-2-canh-mau-xanh-cam,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSMN-08CM,Tủ mầm non chăn màn 8 cánh,B05-08,Tủ Gia Công,B05-08,/san-pham/tsmn-08cm-tu-mam-non-chan-man-8-canh,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSMN-6CCC,Tủ sắt mầm non 6 cánh chăn chiếu,B04-10,Tủ Gia Công,B04-10,/san-pham/tsmn-6ccc-tu-sat-mam-non-6-canh-chan-chieu,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSQA-01C,Tủ sắt quần áo 1 cánh,B05-08,Tủ Gia Công,B05-08,/san-pham/tsqa-01c-tu-sat-quan-ao-1-canh,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSQA-02C,Tủ sắt quần áo 2 cánh,B05-08,Tủ Gia Công,B05-08,/san-pham/tsqa-02c-tu-sat-quan-ao-2-canh,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSQA-03B,Tủ sắt quần áo 3 buồng,B05-08,Tủ Gia Công,B05-08,/san-pham/tsqa-03b-tu-sat-quan-ao-3-buong,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSQA-03C,Tủ sắt quần áo 3 cánh,B05-08,Tủ Gia Công,B05-08,/san-pham/tsqa-03c-tu-sat-quan-ao-3-canh,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSQA-2B,Tủ sắt quần áo 2 buồng,B05-08,Tủ Gia Công,B05-08,/san-pham/tsqa-2b-tu-sat-quan-ao-2-buong,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSQA-3B1K,Tủ sắt quần áo 3 buồng 1 ngăn kéo,B04-10,Tủ Gia Công,B04-10,/san-pham/tsqa-3b1k-tu-sat-quan-ao-3-buong-1-ngan-keo,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSVP-2CL,Tủ sắt văn phòng 2 cánh lùa,B05-08,Tủ Gia Công,B05-08,/san-pham/tsvp-2cl-tu-sat-van-phong-2-canh-lua,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSVP-K2V,Tủ sắt văn phòng K2 cánh kính màu vàng,B04-10,Tủ Gia Công,B04-10,/san-pham/tsvp-k2v-tu-sat-van-phong-k2-canh-kinh-mau-vang,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TSVP-K3,Tủ sắt văn phòng K3,B05-08,Tủ Gia Công,B05-08,/san-pham/tsvp-k3-tu-sat-van-phong-k3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU06,Tủ hồ sơ thấp TU06,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu06-tu-ho-so-thap-tu06,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU07,Tủ sắt hồ sơ TU07,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu07-tu-sat-ho-so-tu07,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU08,Tủ sắt hồ sơ TU08,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu08-tu-sat-ho-so-tu08,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU08H,Tủ sắt hồ sơ TU08H,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu08h-tu-sat-ho-so-tu08h,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09,Tủ tài liệu TU09,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09-tu-tai-lieu-tu09,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09CK,Tủ hồ sơ sắt TU09CK,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09ck-tu-ho-so-sat-tu09ck,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09K2,Tủ sắt hồ sơ TU09K2,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09k2-tu-sat-ho-so-tu09k2,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09K2N,Tủ sắt hồ sơ TU09K2N,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09k2n-tu-sat-ho-so-tu09k2n,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09K3BCK,Tủ hồ sơ sắt TU09K3BCK,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09k3bck-tu-ho-so-sat-tu09k3bck,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09K3CK,Tủ hồ sơ sắt TU09K3CK,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09k3ck-tu-ho-so-sat-tu09k3ck,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09K3E,Tủ sắt an toàn TU09K3E,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu09k3e-tu-sat-an-toan-tu09k3e,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09K3GCK,Tủ sắt hồ sơ TU09K3GCK,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09k3gck-tu-sat-ho-so-tu09k3gck,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU09K3LCK,Tủ sắt hồ sơ TU09K3LCK,B05-05,TU_VAN_PHONG,B05-05,/san-pham/tu09k3lck-tu-sat-ho-so-tu09k3lck,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU118GD,Tủ tài liệu ghép TU118GD,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu118gd-tu-tai-lieu-ghep-tu118gd,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU118SD,Tủ ghép tài liệu TU118SD,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu118sd-tu-ghep-tai-lieu-tu118sd,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU12AD,Tủ hồ sơ TU12AD,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu12ad-tu-ho-so-tu12ad,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU12D,Tủ hồ sơ TU12D,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu12d-tu-ho-so-tu12d,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU12NKD,Tủ hồ sơ TU12NKD,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu12nkd-tu-ho-so-tu12nkd,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU15B3C4,Tủ sắt quần áo TU15B3C4,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu15b3c4-tu-sat-quan-ao-tu15b3c4,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU18B3C4,Tủ sắt quần áo TU18B3C4,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu18b3c4-tu-sat-quan-ao-tu18b3c4,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU19B2C2,Tủ sắt quần áo TU19B2C2,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu19b2c2-tu-sat-quan-ao-tu19b2c2,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU19B3C3,Tủ sắt quần áo TU19B3C3,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu19b3c3-tu-sat-quan-ao-tu19b3c3,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU20B3C4,Tủ sắt gia đình TU20B3C4,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu20b3c4-tu-sat-gia-inh-tu20b3c4,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU88GD,Tủ tài liệu ghép TU88GD,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu88gd-tu-tai-lieu-ghep-tu88gd,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU88SD,Tủ tài liệu ghép TU88SD,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tu88sd-tu-tai-lieu-ghep-tu88sd,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU983-3KP,Tủ locker sắt TU983-3KP,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu983-3kp-tu-locker-sat-tu983-3kp,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU984-2L,Tủ Locker 8 ngăn TU984-2L,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu984-2l-tu-locker-8-ngan-tu984-2l,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU984-3K,Tủ Locker 12 ngăn TU984-3K,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu984-3k-tu-locker-12-ngan-tu984-3k,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU984-3KP,Tủ Locker 12 ngăn TU984-3KP,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu984-3kp-tu-locker-12-ngan-tu984-3kp,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU985-3K,Tủ locker 15 ngăn TU985-3K,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu985-3k-tu-locker-15-ngan-tu985-3k,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU985-4K,Tủ Locker 20 ngăn TU985-4K,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu985-4k-tu-locker-20-ngan-tu985-4k,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU985-4KP,Tủ locker 20 ngăn TU985-4KP,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu985-4kp-tu-locker-20-ngan-tu985-4kp,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU986,Tủ Locker 24 ngăn TU986-4KP,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu986-tu-locker-24-ngan-tu986-4kp,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU986-3K,Tủ Locker 18 ngăn TU986-3K,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu986-3k-tu-locker-18-ngan-tu986-3k,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU986-3KP,Tủ Locker 18 ngăn TU986-3KP,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu986-3kp-tu-locker-18-ngan-tu986-3kp,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU986-4K,Tủ Locker 24 ngăn TU986-4K,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu986-4k-tu-locker-24-ngan-tu986-4k,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU986-4KP,Tủ Locker 24 ngăn TU986-4KP,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu986-4kp-tu-locker-24-ngan-tu986-4kp,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU986-5K,Tủ Locker 30 ngăn TU986-5K,B04-09,TU_VAN_PHONG,B04-09,/san-pham/tu986-5k-tu-locker-30-ngan-tu986-5k,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TU986P,Tủ Locker 6 ngăn TU986P,B05-07,TU_VAN_PHONG,B05-07,/san-pham/tu986p-tu-locker-6-ngan-tu986p,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TUTP01D,Tủ phụ sắt TUTP01D,B04-07,TU_VAN_PHONG,B04-07,/san-pham/tutp01d-tu-phu-sat-tutp01d,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TVS-01C,Tủ sắt đựng dụng cụ vệ sinh 1 cánh,B04-10,Tủ Gia Công,B04-10,/san-pham/tvs-01c-tu-sat-ung-dung-cu-ve-sinh-1-canh,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+TĐBN,Tủ đựng bình nước,B05-08,Tủ Gia Công,B05-08,/san-pham/tbn-tu-ung-binh-nuoc,/category.html,YES,NO,NO,ACTIVATE,PRODUCTION
+
