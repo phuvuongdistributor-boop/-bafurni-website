@@ -233,6 +233,12 @@
       if (window.BA_PRODUCTDB_PHASE2_READY && typeof window.BA_PRODUCTDB_PHASE2_READY.then === "function") {
         await window.BA_PRODUCTDB_PHASE2_READY;
       }
+      await loadScript("productdb-generated-bridge.js");
+      if (window.BA_PRODUCTDB_GENERATED && Array.isArray(window.BA_PRODUCTDB_GENERATED.rows)) {
+        const allowed = new Set(window.BA_PRODUCTDB_GENERATED.allowlist || []);
+        const source = window.BA_PRODUCTDB_GENERATED.rows.filter((row) => allowed.has(String(row.Code || "").trim().toUpperCase()));
+        if (source.length) window.BA_PRODUCT_ROWS = source;
+      }
       const rows = uniqueRows();
       const expected = Number(window.BA_PRODUCTDB_META && window.BA_PRODUCTDB_META.bundledCount) || 1000;
       if (rows.length !== expected) throw new Error(`Product bundle incomplete: ${rows.length}/${expected}`);
@@ -262,3 +268,4 @@
     toCard
   };
 })();
+
