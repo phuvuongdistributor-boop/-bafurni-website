@@ -234,10 +234,17 @@
         await window.BA_PRODUCTDB_PHASE2_READY;
       }
       await loadScript("productdb-generated-bridge.js");
+      await loadScript("productdb-generated-bridge.part2.js");
+      if (Array.isArray(window.BA_PRODUCTDB_GENERATED_ROWS_PART1) && Array.isArray(window.BA_PRODUCTDB_GENERATED_ROWS_PART2)) {
+        window.BA_PRODUCTDB_GENERATED_ROWS = window.BA_PRODUCTDB_GENERATED_ROWS_PART1.concat(window.BA_PRODUCTDB_GENERATED_ROWS_PART2);
+      }
       if (window.BA_PRODUCTDB_GENERATED && Array.isArray(window.BA_PRODUCTDB_GENERATED.rows)) {
         const allowed = new Set(window.BA_PRODUCTDB_GENERATED.allowlist || []);
         const source = window.BA_PRODUCTDB_GENERATED.rows.filter((row) => allowed.has(String(row.Code || "").trim().toUpperCase()));
         if (source.length) window.BA_PRODUCT_ROWS = source;
+      }
+      if (Array.isArray(window.BA_PRODUCTDB_GENERATED_ROWS)) {
+        window.BA_PRODUCT_ROWS = window.BA_PRODUCTDB_GENERATED_ROWS;
       }
       const rows = uniqueRows();
       const expected = Number(window.BA_PRODUCTDB_META && window.BA_PRODUCTDB_META.bundledCount) || 1000;
