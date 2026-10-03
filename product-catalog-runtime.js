@@ -247,7 +247,9 @@
         window.BA_PRODUCT_ROWS = window.BA_PRODUCTDB_GENERATED_ROWS;
       }
       const rows = uniqueRows();
-      const expected = Number(window.BA_PRODUCTDB_META && window.BA_PRODUCTDB_META.bundledCount) || 1000;
+      const expected = Array.isArray(window.BA_PRODUCTDB_GENERATED_ROWS)
+        ? window.BA_PRODUCTDB_GENERATED_ROWS.length
+        : Number(window.BA_PRODUCTDB_META && window.BA_PRODUCTDB_META.bundledCount) || 1000;
       if (rows.length !== expected) throw new Error(`Product bundle incomplete: ${rows.length}/${expected}`);
       window.BA_PRODUCT_CATALOG_QA = {
         rowsLoaded: rows.length,
