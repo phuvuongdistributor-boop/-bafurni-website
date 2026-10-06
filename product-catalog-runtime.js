@@ -233,11 +233,10 @@
       if (window.BA_PRODUCTDB_PHASE2_READY && typeof window.BA_PRODUCTDB_PHASE2_READY.then === "function") {
         await window.BA_PRODUCTDB_PHASE2_READY;
       }
-      await loadScript("productdb-generated-bridge.js");
-      await loadScript("productdb-generated-bridge.part2.js");
-      if (Array.isArray(window.BA_PRODUCTDB_GENERATED_ROWS_PART1) && Array.isArray(window.BA_PRODUCTDB_GENERATED_ROWS_PART2)) {
-        window.BA_PRODUCTDB_GENERATED_ROWS = window.BA_PRODUCTDB_GENERATED_ROWS_PART1.concat(window.BA_PRODUCTDB_GENERATED_ROWS_PART2);
-      }
+      const generatedBridgeParts = ["productdb-generated-bridge.js", "productdb-generated-bridge.part2.js", "productdb-generated-bridge.part3.js", "productdb-generated-bridge.part4.js", "productdb-generated-bridge.part5.js", "productdb-generated-bridge.part6.js", "productdb-generated-bridge.part7.js", "productdb-generated-bridge.part8.js"];
+      for (const file of generatedBridgeParts) await loadScript(file);
+      const generatedParts = [1,2,3,4,5,6,7,8].map((n) => window[`BA_PRODUCTDB_GENERATED_ROWS_PART${n}`]).filter(Array.isArray);
+      if (generatedParts.length === 8) window.BA_PRODUCTDB_GENERATED_ROWS = generatedParts.flat();
       if (window.BA_PRODUCTDB_GENERATED && Array.isArray(window.BA_PRODUCTDB_GENERATED.rows)) {
         const allowed = new Set(window.BA_PRODUCTDB_GENERATED.allowlist || []);
         const source = window.BA_PRODUCTDB_GENERATED.rows.filter((row) => allowed.has(String(row.Code || "").trim().toUpperCase()));
