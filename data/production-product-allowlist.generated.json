@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "status": "PRODUCTION",
-  "count": 2070,
+  "count": 2130,
   "products": [
     {
       "Code": "1",
@@ -6469,6 +6469,11 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "HP2050D",
+      "routeSlug": "hp2050d-ban-hoi-truong-hp2050d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "HPBF01",
       "routeSlug": "hpbf01-ban-van-phong-hpbf01",
       "websiteStatus": "PRODUCTION"
@@ -6719,6 +6724,91 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "HR140HLC7Y1",
+      "routeSlug": "hr140hlc7y1-ban-van-phong-hr140hlc7y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HLC8",
+      "routeSlug": "hr140hlc8-ban-nhan-vien-hr140hlc8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HLC8Y1",
+      "routeSlug": "hr140hlc8y1-ban-nhan-vien-hr140hlc8y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HM",
+      "routeSlug": "hr140hm-ban-nhan-vien-hr140hm",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140S",
+      "routeSlug": "hr140s-ban-nhan-vien-hr140s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140SC5",
+      "routeSlug": "hr140sc5-ban-lam-viec-hr140sc5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140SC7",
+      "routeSlug": "hr140sc7-ban-lam-viec-hr140sc7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140SC7Y1",
+      "routeSlug": "hr140sc7y1-ban-nhan-vien-hr140sc7y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140SC9",
+      "routeSlug": "hr140sc9-ban-lam-viec-hr140sc9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140SHL",
+      "routeSlug": "hr140shl-ban-nhan-vien-hr140shl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR160",
+      "routeSlug": "hr160-ban-nhan-vien-hr160",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR160C1",
+      "routeSlug": "hr160c1-ban-lanh-ao-hr160c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR160C1Y1",
+      "routeSlug": "hr160c1y1-ban-van-phong-hr160c1y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR160C2",
+      "routeSlug": "hr160c2-ban-lanh-ao-hr160c2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR160C2Y1",
+      "routeSlug": "hr160c2y1-ban-lanh-ao-hr160c2y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR160C9",
+      "routeSlug": "hr160c9-ban-lam-viec-hr160c9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR160SC9",
+      "routeSlug": "hr160sc9-ban-lam-viec-hr160sc9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "HR1800-2B",
       "routeSlug": "hr1800-2b-tu-tai-lieu-hr1800-2b",
       "websiteStatus": "PRODUCTION"
@@ -6751,6 +6841,21 @@
     {
       "Code": "HR950-3B",
       "routeSlug": "hr950-3b-tu-thap-hr950-3b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRBF01",
+      "routeSlug": "hrbf01-ban-phim-treo-hrbf01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRC01",
+      "routeSlug": "hrc01-ke-e-cpu-hrc01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRC02",
+      "routeSlug": "hrc02-ke-e-cpu-hrc02",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -6829,6 +6934,16 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "HRL1450C1",
+      "routeSlug": "hrl1450c1-ban-nhan-vien-hrl1450c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRL1450C1Y1",
+      "routeSlug": "hrl1450c1y1-ban-nhan-vien-hrl1450c1y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "HRM1D1F",
       "routeSlug": "hrm1d1f-hoc-di-ong-hrm1d1f",
       "websiteStatus": "PRODUCTION"
@@ -6836,6 +6951,71 @@
     {
       "Code": "HRM3D",
       "routeSlug": "hrm3d-hoc-tai-lieu-hrm3d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD01C14",
+      "routeSlug": "hrmd01c14-module-ban-lam-viec-hrmd01c14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD02",
+      "routeSlug": "hrmd02-ban-lam-viec-module-hrmd02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD02C14",
+      "routeSlug": "hrmd02c14-module-ban-lam-viec-hrmd02c14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD03",
+      "routeSlug": "hrmd03-ban-lam-viec-module-hrmd03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD04",
+      "routeSlug": "hrmd04-ban-lam-viec-module-hrmd04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD05",
+      "routeSlug": "hrmd05-ban-lam-viec-module-hrmd05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD06",
+      "routeSlug": "hrmd06-ban-lam-viec-modul-hrmd06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD07H1",
+      "routeSlug": "hrmd07h1-module-ban-lam-viec-hrmd07h1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD07H2",
+      "routeSlug": "hrmd07h2-module-ban-lam-viec-hrmd07h2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD09",
+      "routeSlug": "hrmd09-ban-lam-viec-module-hrmd09",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD11",
+      "routeSlug": "hrmd11-ban-lam-viec-module-hrmd11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRMD12",
+      "routeSlug": "hrmd12-ban-lam-viec-module-hrmd12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HRP1600",
+      "routeSlug": "hrp1600-ban-truong-phong-hrp1600",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -8879,6 +9059,16 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "TE07",
+      "routeSlug": "te07-ghe-xoay-tre-em-te07",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TE08",
+      "routeSlug": "te08-ghe-xoay-tre-em-te08",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "TK100",
       "routeSlug": "tk100-tu-treo-chia-khoa-tk100",
       "websiteStatus": "PRODUCTION"
@@ -8956,6 +9146,126 @@
     {
       "Code": "TPVM3",
       "routeSlug": "tpvm3-hoc-tu-phu-go-tpvm3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ01",
+      "routeSlug": "tq01-ghe-giam-oc-tq01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ05",
+      "routeSlug": "tq05-ghe-giam-oc-tq05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ07",
+      "routeSlug": "tq07-ghe-giam-oc-tq07",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ08",
+      "routeSlug": "tq08-ghe-giam-oc-tq08",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ09",
+      "routeSlug": "tq09-ghe-giam-oc-tq09",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ11",
+      "routeSlug": "tq11-ghe-giam-oc-tq11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ12",
+      "routeSlug": "tq12-ghe-giam-oc-tq12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ15",
+      "routeSlug": "tq15-ghe-giam-oc-tq15",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ16",
+      "routeSlug": "tq16-ghe-giam-oc-tq16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ17",
+      "routeSlug": "tq17-ghe-giam-oc-tq17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ19",
+      "routeSlug": "tq19-ghe-giam-oc-tq19",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ20",
+      "routeSlug": "tq20-ghe-giam-oc-tq20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ21",
+      "routeSlug": "tq21-ghe-giam-oc-tq21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ22",
+      "routeSlug": "tq22-ghe-giam-oc-tq22",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ23",
+      "routeSlug": "tq23-ghe-giam-oc-tq23",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ24",
+      "routeSlug": "tq24-ghe-giam-oc-tq24",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ26",
+      "routeSlug": "tq26-ghe-giam-oc-tq26",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ27",
+      "routeSlug": "tq27-ghe-giam-oc-tq27",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ30",
+      "routeSlug": "tq30-ghe-giam-oc-tq30",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ33",
+      "routeSlug": "tq33-ghe-giam-oc-tq33",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ34",
+      "routeSlug": "tq34-ghe-giam-oc-tq34",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ36",
+      "routeSlug": "tq36-ghe-giam-oc-da-that-tq36",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ38",
+      "routeSlug": "tq38-ghe-giam-oc-tq38",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TQ39",
+      "routeSlug": "tq39-ghe-giam-oc-tq39",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -10021,6 +10331,61 @@
     {
       "Code": "VN05",
       "routeSlug": "vn05-vach-ngan-hoa-phat-vn05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT1",
+      "routeSlug": "vt1-ghe-hop-chan-tinh-vt1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT1K",
+      "routeSlug": "vt1k-ghe-hop-chan-quy-vt1k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT2",
+      "routeSlug": "vt2-ghe-hop-chan-quy-vt2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT3",
+      "routeSlug": "vt3-ghe-hop-chan-tinh-vt3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT3B",
+      "routeSlug": "vt3b-ghe-hop-chan-tinh-vt3b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT5",
+      "routeSlug": "vt5-ghe-hop-chan-tinh-vt5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT532",
+      "routeSlug": "vt532-ghe-hop-chan-tinh-vt532",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT532B",
+      "routeSlug": "vt532b-ghe-hop-chan-tinh-vt532b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT532BX",
+      "routeSlug": "vt532bx-ghe-hoi-thao-vt532bx",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT6",
+      "routeSlug": "vt6-ghe-chan-quy-vt6",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "VT6B",
+      "routeSlug": "vt6b-ghe-van-phong-vt6b",
       "websiteStatus": "PRODUCTION"
     },
     {
