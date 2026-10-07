@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "status": "PRODUCTION",
-  "count": 2015,
+  "count": 2070,
   "products": [
     {
       "Code": "1",
@@ -6654,6 +6654,71 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "HR140C2Y1",
+      "routeSlug": "hr140c2y1-ban-nhan-vien-hr140c2y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140C5",
+      "routeSlug": "hr140c5-ban-lam-viec-hr140c5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140C7",
+      "routeSlug": "hr140c7-ban-lam-viec-hr140c7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140C7Y1",
+      "routeSlug": "hr140c7y1-ban-nhan-vien-hr140c7y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140C8",
+      "routeSlug": "hr140c8-ban-lam-viec-hr140c8",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140C8Y1",
+      "routeSlug": "hr140c8y1-ban-nhan-vien-hr140c8y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140C9",
+      "routeSlug": "hr140c9-ban-lam-viec-hr140c9",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HL",
+      "routeSlug": "hr140hl-ban-nhan-vien-hr140hl",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HLC1",
+      "routeSlug": "hr140hlc1-ban-lam-viec-hr140hlc1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HLC1Y1",
+      "routeSlug": "hr140hlc1y1-ban-lam-viec-hr140hlc1y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HLC2",
+      "routeSlug": "hr140hlc2-ban-nhan-vien-hr140hlc2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HLC2Y1",
+      "routeSlug": "hr140hlc2y1-ban-nhan-vien-hr140hlc2y1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HR140HLC5",
+      "routeSlug": "hr140hlc5-ban-nhan-vien-hr140hlc5",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "HR1800-2B",
       "routeSlug": "hr1800-2b-tu-tai-lieu-hr1800-2b",
       "websiteStatus": "PRODUCTION"
@@ -8611,6 +8676,206 @@
     {
       "Code": "SG915",
       "routeSlug": "sg915-ghe-da-van-phong-sg915",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG921",
+      "routeSlug": "sg921-ghe-lanh-ao-sg921",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG922",
+      "routeSlug": "sg922-ghe-van-phong-sg922",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG924",
+      "routeSlug": "sg924-ghe-da-truong-phong-sg924",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG925",
+      "routeSlug": "sg925-ghe-giam-oc-sg925",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG926",
+      "routeSlug": "sg926-ghe-lanh-ao-sg926",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG927",
+      "routeSlug": "sg927-ghe-lanh-ao-sg927",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG928",
+      "routeSlug": "sg928-ghe-lanh-ao-sg928",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG929",
+      "routeSlug": "sg929-ghe-lanh-ao-sg929",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG930",
+      "routeSlug": "sg930-ghe-lanh-ao-sg930",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG931",
+      "routeSlug": "sg931-ghe-lanh-ao-sg931",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG932",
+      "routeSlug": "sg932-ghe-lanh-ao-sg932",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG933",
+      "routeSlug": "sg933-ghe-lanh-ao-sg933",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG938",
+      "routeSlug": "sg938-ghe-da-lanh-ao-sg938",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG939",
+      "routeSlug": "sg939-ghe-xoay-da-sg939",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SG9700",
+      "routeSlug": "sg9700-ghe-da-truong-phong-sg9700",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL216S",
+      "routeSlug": "sl216s-ghe-hop-chan-quy-sl216s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL225S",
+      "routeSlug": "sl225s-ghe-hop-chan-quy-sl225s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL601S",
+      "routeSlug": "sl601s-ghe-hop-chan-quy-sl601s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL603M",
+      "routeSlug": "sl603m-ghe-hop-chan-quy-sl603m",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL606",
+      "routeSlug": "sl606-ghe-hop-chan-quy-sl606",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL607",
+      "routeSlug": "sl607-ghe-hop-sl607",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL710S",
+      "routeSlug": "sl710s-ghe-hop-chan-quy-sl710s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL711S",
+      "routeSlug": "sl711s-ghe-hop-chan-quy-sl711s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL712S",
+      "routeSlug": "sl712s-ghe-hop-chan-quy-sl712s",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL718M",
+      "routeSlug": "sl718m-ghe-hop-chan-quy-sl718m",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL719M",
+      "routeSlug": "sl719m-ghe-hop-chan-quy-sl719m",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL721M",
+      "routeSlug": "sl721m-ghe-hop-chan-quy-sl721m",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL811M",
+      "routeSlug": "sl811m-ghe-hop-chan-quy-sl811m",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL901",
+      "routeSlug": "sl901-ghe-hop-chan-quy-sl901",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL903",
+      "routeSlug": "sl903-ghe-hop-chan-quy-sl903",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL904",
+      "routeSlug": "sl904-ghe-hop-sl904",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL905",
+      "routeSlug": "sl905-ghe-hop-sl905",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL906",
+      "routeSlug": "sl906-ghe-hop-chan-quy-sl906",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL908",
+      "routeSlug": "sl908-ghe-hop-sl908",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL926",
+      "routeSlug": "sl926-ghe-hop-sl926",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL933",
+      "routeSlug": "sl933-ghe-chan-quy-sl933",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SL9700M",
+      "routeSlug": "sl9700m-ghe-hop-chan-quy-sl9700m",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TE04",
+      "routeSlug": "te04-ghe-xoay-tre-em-te04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TE05",
+      "routeSlug": "te05-ghe-xoay-tre-em-te05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TE06",
+      "routeSlug": "te06-ghe-xoay-tre-em-te06",
       "websiteStatus": "PRODUCTION"
     },
     {
