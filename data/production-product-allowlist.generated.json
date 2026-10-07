@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "status": "PRODUCTION",
-  "count": 1800,
+  "count": 1900,
   "products": [
     {
       "Code": "1",
@@ -5544,6 +5544,56 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "GL425",
+      "routeSlug": "gl425-ghe-hop-tua-luoi-gl425",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GL426",
+      "routeSlug": "gl426-ghe-hop-tua-luoi-gl426",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GL427",
+      "routeSlug": "gl427-ghe-hop-tua-luoi-gl427",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GL429",
+      "routeSlug": "gl429-ghe-chan-quy-lung-luoi-gl429",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GL430",
+      "routeSlug": "gl430-ghe-quy-luoi-gl430",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GLE01",
+      "routeSlug": "gle01-ghe-cong-thai-hoc-gle01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GLE02",
+      "routeSlug": "gle02-ghe-cong-thai-hoc-gle02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GLE03",
+      "routeSlug": "gle03-ghe-cong-thai-hoc-gle03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GLE04-1",
+      "routeSlug": "gle04-1-ghe-cong-thai-hoc-gle04-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "GLE04-2",
+      "routeSlug": "gle04-2-ghe-cong-thai-hoc-gle04-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "GMG101A-1",
       "routeSlug": "gmg101a-1-ghe-gmg101a-1",
       "websiteStatus": "PRODUCTION"
@@ -6999,7 +7049,7 @@
       "websiteStatus": "PRODUCTION"
     },
     {
-      "Code": "LK-20D",
+      "Code": "LK-20Đ",
       "routeSlug": "lk-20-tu-sat-locker-20-ngan-mau-en-trang",
       "websiteStatus": "PRODUCTION"
     },
@@ -7054,7 +7104,7 @@
       "websiteStatus": "PRODUCTION"
     },
     {
-      "Code": "LK08D",
+      "Code": "LK08Đ",
       "routeSlug": "lk08-tu-sat-locker-8-ngan-them-khay-e-giay-dep",
       "websiteStatus": "PRODUCTION"
     },
@@ -7124,7 +7174,7 @@
       "websiteStatus": "PRODUCTION"
     },
     {
-      "Code": "LK40DBT",
+      "Code": "LK40ĐBT",
       "routeSlug": "lk40bt-tu-sat-locker-40-ngan-ung-bi-thu",
       "websiteStatus": "PRODUCTION"
     },
@@ -8794,8 +8844,53 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "TU15B1C2UV",
+      "routeSlug": "tu15b1c2uv-tu-sat-quan-ao-tu15b1c2uv",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU15B2C3",
+      "routeSlug": "tu15b2c3-tu-sat-quan-ao-tu15b2c3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU15B2C3UV",
+      "routeSlug": "tu15b2c3uv-tu-sat-quan-ao-tu15b2c3uv",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "TU15B3C4",
       "routeSlug": "tu15b3c4-tu-sat-quan-ao-tu15b3c4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU15B3C4NK3",
+      "routeSlug": "tu15b3c4nk3-tu-sat-quan-ao-tu15b3c4nk3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU15F",
+      "routeSlug": "tu15f-tu-file-tai-lieu-15-ngan-tu15f",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU16",
+      "routeSlug": "tu16-tu-van-phong-tu16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU17B1C2",
+      "routeSlug": "tu17b1c2-tu-sat-quan-ao-tu17b1c2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU17B2C3",
+      "routeSlug": "tu17b2c3-tu-sat-quan-ao-tu17b2c3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU18B2C3",
+      "routeSlug": "tu18b2c3-tu-sat-quan-ao-tu18b2c3",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -8806,6 +8901,11 @@
     {
       "Code": "TU19B2C2",
       "routeSlug": "tu19b2c2-tu-sat-quan-ao-tu19b2c2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TU19B2C2UV",
+      "routeSlug": "tu19b2c2uv-tu-sat-quan-ao-tu19b2c2uv",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -8979,7 +9079,7 @@
       "websiteStatus": "PRODUCTION"
     },
     {
-      "Code": "TDBN",
+      "Code": "TĐBN",
       "routeSlug": "tbn-tu-ung-binh-nuoc",
       "websiteStatus": "PRODUCTION"
     },
