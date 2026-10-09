@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "status": "PRODUCTION",
-  "count": 2349,
+  "count": 2606,
   "products": [
     {
       "Code": "1",
@@ -6294,6 +6294,146 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "HGB71AN4",
+      "routeSlug": "hgb71an4-bo-ban-an-hgb71an4-hgg71",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB71BN4",
+      "routeSlug": "hgb71bn4-bo-ban-an-hgb71bn4-hgg71",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB72",
+      "routeSlug": "hgb72-bo-ban-an-hgb72-hgg72",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB73",
+      "routeSlug": "hgb73-bo-ban-an-hoa-phat-hgb73",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB74A",
+      "routeSlug": "hgb74a-bo-ban-ghe-an-hgb74a-hgg74",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB74B",
+      "routeSlug": "hgb74b-bo-ban-ghe-an-hgb74b-hgg74",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB75A",
+      "routeSlug": "hgb75a-bo-ban-ghe-an-hgb75a-hgg75",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB75B",
+      "routeSlug": "hgb75b-bo-ban-ghe-an-hgb75b-hgg75",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB76A",
+      "routeSlug": "hgb76a-bo-ban-ghe-an-hgb76a-hgg76",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB76B",
+      "routeSlug": "hgb76b-noi-that-gia-dinh-hgb76b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGB79A",
+      "routeSlug": "hgb79a-bo-ban-an-hgb79a-hgg79",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG60",
+      "routeSlug": "hgg60-bo-ban-ghe-an-hgb60-hgg60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG61",
+      "routeSlug": "hgg61-ban-an-1m3-hgb61b-hgg61",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG62",
+      "routeSlug": "hgg62-bo-ban-ghe-an-hgb62a-hgg62",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG63",
+      "routeSlug": "hgg63-bo-ban-ghe-an-hgb63a-hgg63",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG64",
+      "routeSlug": "hgg64-bo-ban-ghe-an-hgb64a-hgg64",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG65",
+      "routeSlug": "hgg65-bo-ban-ghe-an-hgb65a-hgg65",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG66",
+      "routeSlug": "hgg66-bo-ban-ghe-an-hgb66a-hgg66",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG67",
+      "routeSlug": "hgg67-bo-ban-ghe-an-hgb67a-hgg67",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG68",
+      "routeSlug": "hgg68-bo-ban-ghe-an-hgb68a-hgg68",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG69",
+      "routeSlug": "hgg69-bo-ban-ghe-an-hgb69a-hgg69",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG70",
+      "routeSlug": "hgg70-noi-that-gia-dinh-hgg70",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG71",
+      "routeSlug": "hgg71-bo-ban-an-hgb71bn4-hgg71",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG72",
+      "routeSlug": "hgg72-bo-ban-an-hgb72-hgg72",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG74",
+      "routeSlug": "hgg74-bo-ban-ghe-an-hgb74a-hgg74",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG75",
+      "routeSlug": "hgg75-bo-ban-ghe-an-hgb75a-hgg75",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG76",
+      "routeSlug": "hgg76-bo-ban-ghe-an-hgb76a-hgg76",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "HGG79",
+      "routeSlug": "hgg79-bo-ban-an-hgb79a-hgg79",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "HP100",
       "routeSlug": "hp100-ban-lam-viec-hp100",
       "websiteStatus": "PRODUCTION"
@@ -7314,6 +7454,11 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "KBT02",
+      "routeSlug": "kbt02-ban-gap-kbt02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "KDH33",
       "routeSlug": "kdh33-ket-sat-nhap-khau-kdh33",
       "websiteStatus": "PRODUCTION"
@@ -7356,6 +7501,26 @@
     {
       "Code": "KE_GIA_SACH_3_KHOANG",
       "routeSlug": "ke-gia-sach-3-khoang-ke-gia-sach-3-khoang",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KG0898",
+      "routeSlug": "kg0898-san-pham-gia-dung-kg0898",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KG1499",
+      "routeSlug": "kg1499-san-pham-gia-dung-kg1499",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KG1699",
+      "routeSlug": "kg1699-san-pham-gia-dung-kg1699",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KG18",
+      "routeSlug": "kg18-san-pham-gia-dung-kg18",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -7426,6 +7591,271 @@
     {
       "Code": "KS110K2C1",
       "routeSlug": "ks110k2c1-ket-sat-chong-chay-ks110k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS135K1C1",
+      "routeSlug": "ks135k1c1-ket-sat-chong-chay-ks135k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS135K1DT",
+      "routeSlug": "ks135k1dt-ket-sat-chong-chay-ks135k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS135K2C1",
+      "routeSlug": "ks135k2c1-ket-sat-chong-chay-ks135k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS168K1C1",
+      "routeSlug": "ks168k1c1-ket-sat-chong-chay-ks168k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS168K1DT",
+      "routeSlug": "ks168k1dt-ket-sat-chong-chay-ks168k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS168K2C1",
+      "routeSlug": "ks168k2c1-ket-sat-chong-chay-ks168k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS190K1DT",
+      "routeSlug": "ks190k1dt-ket-sat-chong-chay-ks190k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS190K2C1",
+      "routeSlug": "ks190k2c1-ket-sat-chong-chay-ks190k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS250K1DT",
+      "routeSlug": "ks250k1dt-ket-sat-chong-chay-ks250k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS250K2C1",
+      "routeSlug": "ks250k2c1-ket-sat-chong-chay-ks250k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS320K2C1",
+      "routeSlug": "ks320k2c1-ket-sat-chong-chay-ks320k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS35D",
+      "routeSlug": "ks35d-ket-sat-chong-chay-ks35d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS35N",
+      "routeSlug": "ks35n-ket-sat-chong-chay-ks35n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS35NDT",
+      "routeSlug": "ks35ndt-ket-sat-chong-chay-ks35ndt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS400K2C1",
+      "routeSlug": "ks400k2c1-ket-sat-chong-chay-ks400k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS500K2C1",
+      "routeSlug": "ks500k2c1-ket-sat-chong-chay-ks500k2c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS50D",
+      "routeSlug": "ks50d-ket-sat-chong-chay-ks50d",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS50N",
+      "routeSlug": "ks50n-ket-sat-chong-chay-ks50n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS50NDT",
+      "routeSlug": "ks50ndt-ket-sat-chong-chay-ks50ndt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS50T2",
+      "routeSlug": "ks50t2-ket-sat-chong-chay-ks50t2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS50T4",
+      "routeSlug": "ks50t4-ket-sat-chong-chay-ks50t4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS90K1C1",
+      "routeSlug": "ks90k1c1-ket-sat-chong-chay-ks90k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS90K1C1P",
+      "routeSlug": "ks90k1c1p-ket-sat-chong-chay-ks90k1c1p",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KS90K1DT",
+      "routeSlug": "ks90k1dt-ket-sat-chong-chay-ks90k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KT36",
+      "routeSlug": "kt36-ket-sat-tai-loc-kt36",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KT66",
+      "routeSlug": "kt66-ket-sat-tai-loc-kt66",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KT88",
+      "routeSlug": "kt88-ket-sat-tai-loc-hoa-phat-kt88",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV10",
+      "routeSlug": "ktv10-ke-tivi-ktv10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV11",
+      "routeSlug": "ktv11-ke-tivi-ktv11",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV118",
+      "routeSlug": "ktv118-ke-ktv118",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV14",
+      "routeSlug": "ktv14-ke-ti-vi-ktv14",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV17",
+      "routeSlug": "ktv17-ke-tivi-ktv17",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV18",
+      "routeSlug": "ktv18-ke-tivi-ktv18",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV19-16",
+      "routeSlug": "ktv19-16-ke-tivi-ktv19-16",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV19-20",
+      "routeSlug": "ktv19-20-ke-tivi-ktv19-20",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV202-2",
+      "routeSlug": "ktv202-2-ke-ktv202-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV203",
+      "routeSlug": "ktv203-ke-ktv203",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV24N4",
+      "routeSlug": "ktv24n4-ke-tivi-ktv24n4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV301",
+      "routeSlug": "ktv301-ke-tivi-ktv301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV501N7",
+      "routeSlug": "ktv501n7-ke-tivi-ktv501n7",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV502",
+      "routeSlug": "ktv502-ke-tivi-ktv502",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV503",
+      "routeSlug": "ktv503-ke-tivi-ktv503",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV505",
+      "routeSlug": "ktv505-ke-tivi-ktv505",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV508",
+      "routeSlug": "ktv508-ke-tivi-ktv508",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV509",
+      "routeSlug": "ktv509-ke-tivi-ktv509",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV511",
+      "routeSlug": "ktv511-ke-tivi-ktv511",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV78A",
+      "routeSlug": "ktv78a-ke-ktv78a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV78B",
+      "routeSlug": "ktv78b-noi-that-gia-dinh-ktv78b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV79A",
+      "routeSlug": "ktv79a-ke-ktv79a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV79B",
+      "routeSlug": "ktv79b-noi-that-gia-dinh-ktv79b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV90-1",
+      "routeSlug": "ktv90-1-ke-tivi-ktv90-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV91",
+      "routeSlug": "ktv91-ke-tivi-ktv91",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "KTV98",
+      "routeSlug": "ktv98-ke-tivi-ktv98",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -7586,6 +8016,56 @@
     {
       "Code": "LEP240C12",
       "routeSlug": "lep240c12-ban-giam-doc-chan-sat-lep240c12",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG118K1C1",
+      "routeSlug": "lg118k1c1-ket-sat-cao-cap-legend-lg118k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG118K1DT",
+      "routeSlug": "lg118k1dt-ket-sat-legend-lap-khoa-dien-tu-tich-hop-van-tay-lg118k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG158K1C1",
+      "routeSlug": "lg158k1c1-ket-sat-cao-cap-legend-lg158k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG158K1DT",
+      "routeSlug": "lg158k1dt-ket-sat-legend-lap-khoa-dien-tu-tich-hop-van-tay-lg158k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG188K1C1",
+      "routeSlug": "lg188k1c1-ket-sat-cao-cap-legend-lg188k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG188K1DT",
+      "routeSlug": "lg188k1dt-ket-sat-legend-lap-khoa-dien-tu-tich-hop-van-tay-lg188k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG208K1C1",
+      "routeSlug": "lg208k1c1-ket-sat-cao-cap-legend-lg208k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG208K1DT",
+      "routeSlug": "lg208k1dt-ket-sat-legend-lap-khoa-dien-tu-tich-hop-van-tay-lg208k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG98K1C1",
+      "routeSlug": "lg98k1c1-ket-sat-cao-cap-lg98k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LG98K1DT",
+      "routeSlug": "lg98k1dt-ket-sat-cao-cap-lg98k1dt",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -7811,6 +8291,11 @@
     {
       "Code": "LOCKER_CO_LO_THOANG_KHI",
       "routeSlug": "locker-co-lo-thoang-khi-tu-locker-co-lo-thoang-khi",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "LS21",
+      "routeSlug": "ls21-tu-go-de-giay-ls21",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -8339,6 +8824,16 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "MA02",
+      "routeSlug": "ma02-mac-ao-ma02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "MA02TAYM",
+      "routeSlug": "ma02taym-san-pham-gia-dung-ma02taym",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "MAM_NON_15_NGAN",
       "routeSlug": "mam-non-15-ngan-tu-mam-non-15-ngan",
       "websiteStatus": "PRODUCTION"
@@ -8396,6 +8891,16 @@
     {
       "Code": "MCF3K3",
       "routeSlug": "mcf3k3-tu-ho-so-di-ong-mcf3k3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "MCN712",
+      "routeSlug": "mcn712-ban-mcn712",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "MCN814",
+      "routeSlug": "mcn814-ban-mcn814",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -8526,6 +9031,16 @@
     {
       "Code": "NT880SDN",
       "routeSlug": "nt880sdn-tu-tai-lieu-nt880sdn",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "NTB01",
+      "routeSlug": "ntb01-ban-lien-gia-sach-ntb01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "NTB02",
+      "routeSlug": "ntb02-ban-lien-gia-sach-ntb02",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -8994,6 +9509,46 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "PI116K1C1",
+      "routeSlug": "pi116k1c1-ket-sat-cao-cap-pioneer-pi116k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "PI116K1DT",
+      "routeSlug": "pi116k1dt-ket-sat-cao-cap-pioneer-pi116k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "PI116KDT88",
+      "routeSlug": "pi116kdt88-ket-sat-cao-cap-pioneer-pi116kdt88",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "PI56",
+      "routeSlug": "pi56-ket-sat-cao-cap-pioneer-pi56",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "PI56KDT77K",
+      "routeSlug": "pi56kdt77k-ket-sat-cao-cap-pioneer-pi56kdt77k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "PI86K1C1",
+      "routeSlug": "pi86k1c1-ket-sat-cao-cap-pioneer-pi86k1c1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "PI86K1DT",
+      "routeSlug": "pi86k1dt-ket-sat-cao-cap-pioneer-pi86k1dt",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "PI86KDT88",
+      "routeSlug": "pi86kdt88-ket-sat-cao-cap-pi86kdt88",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "PS01-2",
       "routeSlug": "ps01-2-ghe-phong-cho-ps01-2",
       "websiteStatus": "PRODUCTION"
@@ -9229,13 +9784,33 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF101A",
+      "routeSlug": "sf101a-sofa-gia-dinh-sf101a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF101A-4",
       "routeSlug": "sf101a-4-noi-that-gia-inh-sf101a-4",
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF102",
+      "routeSlug": "sf102-bo-sofa-goc-sf102",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF107A",
+      "routeSlug": "sf107a-sofa-gia-dinh-sf107a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF107A-4",
       "routeSlug": "sf107a-4-noi-that-gia-inh-sf107a-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF108A",
+      "routeSlug": "sf108a-sofa-gia-dinh-sf108a",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9254,6 +9829,21 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF110",
+      "routeSlug": "sf110-bo-sofa-goc-sf110",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF113A",
+      "routeSlug": "sf113a-sofa-gia-dinh-sf113a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF115A",
+      "routeSlug": "sf115a-sofa-cao-cap-sf115a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF12",
       "routeSlug": "sf12-sofa-van-phong-sf12",
       "websiteStatus": "PRODUCTION"
@@ -9266,6 +9856,76 @@
     {
       "Code": "SF12-3",
       "routeSlug": "sf12-3-ghe-sofa-bang-sf12-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF125A",
+      "routeSlug": "sf125a-sofa-hoa-phat-sf125a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF125A-4",
+      "routeSlug": "sf125a-4-noi-that-gia-dinh-sf125a-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF130A",
+      "routeSlug": "sf130a-ghe-sofa-giuong-sf130a",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF131A-3",
+      "routeSlug": "sf131a-3-bo-sofa-goc-sf131a-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF131A-4",
+      "routeSlug": "sf131a-4-noi-that-gia-dinh-sf131a-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF132A-3",
+      "routeSlug": "sf132a-3-bo-sofa-goc-sf132a-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF132A-4",
+      "routeSlug": "sf132a-4-bo-sofa-goc-sf132a-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF137",
+      "routeSlug": "sf137-giuong-sf137",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF138",
+      "routeSlug": "sf138-giuong-sf138",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF139",
+      "routeSlug": "sf139-sofa-boc-ni-sf139",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF202",
+      "routeSlug": "sf202-ghe-sf202",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF203-1",
+      "routeSlug": "sf203-1-ghe-sf203-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF203-2",
+      "routeSlug": "sf203-2-noi-that-gia-dinh-sf203-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF203-3",
+      "routeSlug": "sf203-3-noi-that-gia-dinh-sf203-3",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9299,6 +9959,11 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF306A-1",
+      "routeSlug": "sf306a-1-bo-ghe-sofa-sf306a-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF306A-2",
       "routeSlug": "sf306a-2-noi-that-gia-inh-sf306a-2",
       "websiteStatus": "PRODUCTION"
@@ -9324,6 +9989,16 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF311A-3",
+      "routeSlug": "sf311a-3-sofa-gia-dinh-cao-cap-sf311a-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF312-1",
+      "routeSlug": "sf312-1-bo-ghe-sofa-sf312-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF312-2",
       "routeSlug": "sf312-2-noi-that-gia-inh-sf312-2",
       "websiteStatus": "PRODUCTION"
@@ -9334,6 +10009,11 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF313-1",
+      "routeSlug": "sf313-1-bo-ghe-sofa-sf313-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF313-2",
       "routeSlug": "sf313-2-noi-that-gia-inh-sf313-2",
       "websiteStatus": "PRODUCTION"
@@ -9341,6 +10021,21 @@
     {
       "Code": "SF313-3",
       "routeSlug": "sf313-3-noi-that-gia-inh-sf313-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF317-3",
+      "routeSlug": "sf317-3-ghe-sofa-sf317-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF318-3",
+      "routeSlug": "sf318-3-ghe-sofa-boc-ni-sf318-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF319-3",
+      "routeSlug": "sf319-3-sofa-gia-dinh-sf319-3",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9356,6 +10051,21 @@
     {
       "Code": "SF32-3",
       "routeSlug": "sf32-3-ghe-sofa-bang-sf32-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF320-1",
+      "routeSlug": "sf320-1-bo-sofa-goc-sf320-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF320-3",
+      "routeSlug": "sf320-3-noi-that-gia-dinh-sf320-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF322-1",
+      "routeSlug": "sf322-1-sofa-gia-dinh-sf322-1",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9464,6 +10174,106 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF401-3",
+      "routeSlug": "sf401-3-sofa-vai-cao-cap-sf401-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF401-4",
+      "routeSlug": "sf401-4-bo-sofa-vai-cao-cap-sf401-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF402-3",
+      "routeSlug": "sf402-3-bo-sofa-goc-sf402-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF402-4",
+      "routeSlug": "sf402-4-noi-that-gia-dinh-sf402-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF403-3",
+      "routeSlug": "sf403-3-ghe-sofa-gia-dinh-sf403-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF404-3",
+      "routeSlug": "sf404-3-bo-sofa-goc-sf404-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF404-4",
+      "routeSlug": "sf404-4-noi-that-gia-dinh-sf404-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF405-3",
+      "routeSlug": "sf405-3-bo-sofa-goc-sf405-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF46",
+      "routeSlug": "sf46-sofa-gia-dinh-sf46",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF47-3",
+      "routeSlug": "sf47-3-bo-sofa-goc-sf47-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF47-4",
+      "routeSlug": "sf47-4-noi-that-gia-dinh-sf47-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF48-3",
+      "routeSlug": "sf48-3-ghe-sofa-sf48-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF48A-1",
+      "routeSlug": "sf48a-1-ghe-sf48a-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF49-3",
+      "routeSlug": "sf49-3-bo-sofa-goc-sf49-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF49-4",
+      "routeSlug": "sf49-4-noi-that-gia-dinh-sf49-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF501",
+      "routeSlug": "sf501-ghe-sofa-sf501",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF502",
+      "routeSlug": "sf502-ghe-sofa-sf502",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF504-3",
+      "routeSlug": "sf504-3-ghe-sofa-gia-dinh-sf504-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF505-3",
+      "routeSlug": "sf505-3-bo-ghe-sofa-sf505-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF505-4",
+      "routeSlug": "sf505-4-bo-ghe-sofa-sf505-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF507-1",
       "routeSlug": "sf507-1-noi-that-gia-inh-sf507-1",
       "websiteStatus": "PRODUCTION"
@@ -9471,6 +10281,11 @@
     {
       "Code": "SF507-3",
       "routeSlug": "sf507-3-noi-that-gia-inh-sf507-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF508-1",
+      "routeSlug": "sf508-1-bo-ghe-sofa-sf508-1",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9484,6 +10299,16 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF509",
+      "routeSlug": "sf509-sofa-go-tu-nhien-sf509",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF511-1",
+      "routeSlug": "sf511-1-bo-ghe-sofa-sf511-1",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF511-2",
       "routeSlug": "sf511-2-noi-that-gia-inh-sf511-2",
       "websiteStatus": "PRODUCTION"
@@ -9494,8 +10319,53 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF513-3",
+      "routeSlug": "sf513-3-bo-sofa-goc-sf513-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF513-4",
+      "routeSlug": "sf513-4-noi-that-gia-dinh-sf513-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF516-3",
+      "routeSlug": "sf516-3-bo-sofa-goc-sf516-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF601-3",
+      "routeSlug": "sf601-3-bo-sofa-goc-sf601-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF601-4",
+      "routeSlug": "sf601-4-noi-that-gia-dinh-sf601-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF602-3",
+      "routeSlug": "sf602-3-bo-sofa-goc-sf602-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF602-4",
+      "routeSlug": "sf602-4-noi-that-gia-dinh-sf602-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF61",
+      "routeSlug": "sf61-sofa-gia-dinh-sf61",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF61-4",
       "routeSlug": "sf61-4-noi-that-gia-inh-sf61-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF62",
+      "routeSlug": "sf62-sofa-gia-dinh-sf62",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9504,8 +10374,18 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF63",
+      "routeSlug": "sf63-sofa-gia-dinh-sf63",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF63-4",
       "routeSlug": "sf63-4-noi-that-gia-inh-sf63-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF66A-3",
+      "routeSlug": "sf66a-3-bo-sofa-goc-sf66a-3",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9514,13 +10394,28 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF67",
+      "routeSlug": "sf67-ghe-sofa-da-sf67",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF67-4",
       "routeSlug": "sf67-4-noi-that-gia-inh-sf67-4",
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF69-3",
+      "routeSlug": "sf69-3-bo-sofa-goc-sf69-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF69-4",
       "routeSlug": "sf69-4-noi-that-gia-inh-sf69-4",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SF70",
+      "routeSlug": "sf70-sofa-go-tu-nhien-sf70",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -9614,6 +10509,11 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "SF71",
+      "routeSlug": "sf71-sofa-go-tu-nhien-sf71",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "SF712-1",
       "routeSlug": "sf712-1-ghe-sofa-on-sf712-1",
       "websiteStatus": "PRODUCTION"
@@ -9656,6 +10556,26 @@
     {
       "Code": "SFD01",
       "routeSlug": "sfd01-ghe-on-sofa-sfd01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SFD02",
+      "routeSlug": "sfd02-ghe-don-sofa-sfd02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SFD03",
+      "routeSlug": "sfd03-ghe-don-sofa-sfd03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SFD46",
+      "routeSlug": "sfd46-ghe-sfd46",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "SFD507",
+      "routeSlug": "sfd507-bo-ghe-sofa-sfd507",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -10159,6 +11079,236 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "T3B",
+      "routeSlug": "t3b-thang-gap-3-bac-t3b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "T4B",
+      "routeSlug": "t4b-thang-gap-4-bac-t4b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "T5B",
+      "routeSlug": "t5b-thang-gap-5-bac-t5b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "T6B",
+      "routeSlug": "t6b-thang-gap-6-bac-t6b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA102",
+      "routeSlug": "ta102-tu-ta102",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA103",
+      "routeSlug": "ta103-tu-ta103",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA202",
+      "routeSlug": "ta202-tu-ta202",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA203",
+      "routeSlug": "ta203-tu-ta203",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA2B",
+      "routeSlug": "ta2b-tu-go-gia-dinh-ta2b",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA2B2N",
+      "routeSlug": "ta2b2n-tu-go-gia-dinh-ta2b2n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA301",
+      "routeSlug": "ta301-noi-that-gia-dinh-ta301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA302",
+      "routeSlug": "ta302-noi-that-gia-dinh-ta302",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA304",
+      "routeSlug": "ta304-noi-that-gia-dinh-ta304",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA305",
+      "routeSlug": "ta305-noi-that-gia-dinh-ta305",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA307",
+      "routeSlug": "ta307-noi-that-gia-dinh-ta307",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA308",
+      "routeSlug": "ta308-noi-that-gia-dinh-ta308",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA3B2N",
+      "routeSlug": "ta3b2n-tu-go-gia-dinh-ta3b2n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA3B3N",
+      "routeSlug": "ta3b3n-tu-go-gia-dinh-ta3b3n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA401",
+      "routeSlug": "ta401-noi-that-gia-dinh-ta401",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TA402",
+      "routeSlug": "ta402-noi-that-gia-dinh-ta402",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAE01",
+      "routeSlug": "tae01-noi-that-gia-dinh-tae01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAE02",
+      "routeSlug": "tae02-noi-that-gia-dinh-tae02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAE301",
+      "routeSlug": "tae301-noi-that-gia-dinh-tae301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP102",
+      "routeSlug": "tap102-giuong-tap102",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP103",
+      "routeSlug": "tap103-giuong-tap103",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP202",
+      "routeSlug": "tap202-giuong-tap202",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP203",
+      "routeSlug": "tap203-giuong-tap203",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP301",
+      "routeSlug": "tap301-noi-that-gia-dinh-tap301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP302",
+      "routeSlug": "tap302-noi-that-gia-dinh-tap302",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP303",
+      "routeSlug": "tap303-noi-that-gia-dinh-tap303",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP304",
+      "routeSlug": "tap304-noi-that-gia-dinh-tap304",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP305",
+      "routeSlug": "tap305-noi-that-gia-dinh-tap305",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP307",
+      "routeSlug": "tap307-noi-that-gia-dinh-tap307",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP308",
+      "routeSlug": "tap308-noi-that-gia-dinh-tap308",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP401",
+      "routeSlug": "tap401-noi-that-gia-dinh-tap401",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAP402",
+      "routeSlug": "tap402-noi-that-gia-dinh-tap402",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAPE01",
+      "routeSlug": "tape01-noi-that-gia-dinh-tape01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAPE02",
+      "routeSlug": "tape02-noi-that-gia-dinh-tape02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TAPE301",
+      "routeSlug": "tape301-noi-that-gia-dinh-tape301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TB03",
+      "routeSlug": "tb03-bo-ban-ghe-an-tb03-tga01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TB03V",
+      "routeSlug": "tb03v-bo-ban-ghe-an-tb03v-tga01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TB06",
+      "routeSlug": "tb06-ban-an-tb06",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TB06V",
+      "routeSlug": "tb06v-ban-an-gia-dinh-tb06v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TB09",
+      "routeSlug": "tb09-ban-an-gia-dinh-tb09",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TB10",
+      "routeSlug": "tb10-ban-an-tb10",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TB21V",
+      "routeSlug": "tb21v-bo-ban-ghe-an-tb21v-tga21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "TC01B",
       "routeSlug": "tc01b-ghe-hoi-truong-tc01b",
       "websiteStatus": "PRODUCTION"
@@ -10264,6 +11414,76 @@
       "websiteStatus": "PRODUCTION"
     },
     {
+      "Code": "TG01",
+      "routeSlug": "tg01-tu-de-giay-tg01",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG02",
+      "routeSlug": "tg02-tu-de-giay-tg02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG03",
+      "routeSlug": "tg03-tu-de-giay-tg03",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG04",
+      "routeSlug": "tg04-tu-de-giay-tg04",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG05",
+      "routeSlug": "tg05-tu-de-giay-tg05",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG06-2",
+      "routeSlug": "tg06-2-tu-de-giay-tg06-2",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG06-3",
+      "routeSlug": "tg06-3-tu-de-giay-tg06-3",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG07",
+      "routeSlug": "tg07-tu-de-giay-tg07",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG301",
+      "routeSlug": "tg301-tu-de-giay-tg301",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG302",
+      "routeSlug": "tg302-tu-de-giay-tg302",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG304",
+      "routeSlug": "tg304-tu-de-giay-tg304",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG305",
+      "routeSlug": "tg305-tu-de-giay-tg305",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG306",
+      "routeSlug": "tg306-tu-de-giay-tg306",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TG307",
+      "routeSlug": "tg307-tu-de-giay-tg307",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
       "Code": "TGA01",
       "routeSlug": "tga01-ghe-hoi-truong-tga01",
       "websiteStatus": "PRODUCTION"
@@ -10276,6 +11496,46 @@
     {
       "Code": "TGA01V",
       "routeSlug": "tga01v-ghe-hoi-truong-tga01v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGA02",
+      "routeSlug": "tga02-noi-that-gia-dinh-tga02",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGA02V",
+      "routeSlug": "tga02v-ghe-tga02v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGA21",
+      "routeSlug": "tga21-bo-ban-ghe-an-tb21v-tga21",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGA21V",
+      "routeSlug": "tga21v-ghe-tga21v",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGA24N",
+      "routeSlug": "tga24n-ghe-an-go-tu-nhien-tga24n",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGS103",
+      "routeSlug": "tgs103-gia-sach-go-tgs103",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGS104",
+      "routeSlug": "tgs104-gia-sach-go-tgs104",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TGS105",
+      "routeSlug": "tgs105-gia-sach-tgs105",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -10296,6 +11556,26 @@
     {
       "Code": "TK60",
       "routeSlug": "tk60-tu-treo-chia-khoa-tk60",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TMG984-3K",
+      "routeSlug": "tmg984-3k-tu-locker-de-do-6-ngan-tmg984-3k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TMG984-4K",
+      "routeSlug": "tmg984-4k-tu-locker-de-do-8-ngan-tmg984-4k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TMG984-5K",
+      "routeSlug": "tmg984-5k-tu-locker-de-do-10-ngan-tmg984-5k",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "TMG984-6K",
+      "routeSlug": "tmg984-6k-tu-locker-de-do-12-ngan-tmg984-6k",
       "websiteStatus": "PRODUCTION"
     },
     {
@@ -11716,6 +12996,11 @@
     {
       "Code": "XD",
       "routeSlug": "xd-ghe-chan-quy-xd",
+      "websiteStatus": "PRODUCTION"
+    },
+    {
+      "Code": "XD03",
+      "routeSlug": "xd03-ghe-nghi-xd03",
       "websiteStatus": "PRODUCTION"
     },
     {
