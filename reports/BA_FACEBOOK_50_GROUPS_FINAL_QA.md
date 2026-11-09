@@ -35,6 +35,15 @@ Findings:
 - These package previews prove content assets exist for two package-level previews; they do not prove 50 group assignments, historical deduplication, scheduling, idempotency, retry, or publishing readiness.
 - The existing worker scaffold is intentionally disabled and contains no queue transport.
 
+### Package-level preflight completed on actual repository files
+
+| Package | Caption | Image manifest/assets | Landing route | Facebook UTM | Publish/schedule state |
+|---|---|---|---|---|---|
+| GL4XX | PASS | PASS (9/9 manifest files present) | PASS | PASS | OFF (published=false, schedule=false) |
+| SL | PASS | PASS (collage asset present) | PASS | PASS | OFF (PREPARE_ONLY, production/Facebook published false) |
+
+These are two package previews, not queue rows. They do not increase any 50-group count.
+
 ## Per-group QA
 
 B01–B50 below are the expected slot labels from the requested 50-group scope, not recovered source IDs. Every row is blocked because its M26.8 source row is absent.
