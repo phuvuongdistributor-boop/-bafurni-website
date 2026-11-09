@@ -89,7 +89,7 @@ The remote `api/admin/facebook-worker.js` is present but intentionally returns d
 ## Git recovery branch and commit
 
 - Recovery branch: `codex/recover-m26-8-20261109`
-- Report commit: **to be filled after commit**
+- Report commit: `367b1be949f1436e243193884be5bb3ed324817a`
 - Only this recovery report is committed; no M26.8 source artefact was recovered.
 
 ## Missing data and next action
